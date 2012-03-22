@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2009" order="RS" >
+<city name="1" type="1" order="SV" >
+<video name="# 2009_1" >
+<url>2009/1/index.xml</url>
+</video>
+</city>
+<city name="2" type="1" order="SU" >
+<video name="# 2009_2" >
+<url>2009/2/index.xml</url>
+</video>
+</city>
+<city name="3" type="1" order="ST" >
+<video name="# 2009_3" >
+<url>2009/3/index.xml</url>
+</video>
+</city>
+<city name="4" type="1" order="SS" >
+<video name="# 2009_4" >
+<url>2009/4/index.xml</url>
+</video>
+</city>
+<city name="5" type="1" order="SR" >
+<video name="# 2009_5" >
+<url>2009/5/index.xml</url>
+</video>
+</city>
+<city name="6" type="1" order="SQ" >
+<video name="# 2009_6" >
+<url>2009/6/index.xml</url>
+</video>
+</city>
+<city name="7" type="1" order="SP" >
+<video name="# 2009_7" >
+<url>2009/7/index.xml</url>
+</video>
+</city>
+<city name="8" type="1" order="SO" >
+<video name="# 2009_8" >
+<url>2009/8/index.xml</url>
+</video>
+</city>
+<city name="9" type="1" order="SN" >
+<video name="# 2009_9" >
+<url>2009/9/index.xml</url>
+</video>
+</city>
+<city name="10" type="1" order="RW" >
+<video name="# 2009_10" >
+<url>2009/10/index.xml</url>
+</video>
+</city>
+<city name="11" type="1" order="RV" >
+<video name="# 2009_11" >
+<url>2009/11/index.xml</url>
+</video>
+</city>
+<city name="12" type="1" order="RU" >
+<video name="# 2009_12" >
+<url>2009/12/index.xml</url>
+</video>
+</city>
+<city name="13" type="1" order="RT" >
+<video name="# 2009_13" >
+<url>2009/13/index.xml</url>
+</video>
+</city>
+<city name="14" type="1" order="RS" >
+<video name="# 2009_14" >
+<url>2009/14/index.xml</url>
+</video>
+</city>
+<city name="15" type="1" order="RR" >
+<video name="# 2009_15" >
+<url>2009/15/index.xml</url>
+</video>
+</city>
+<city name="16" type="1" order="RQ" >
+<video name="# 2009_16" >
+<url>2009/16/index.xml</url>
+</video>
+</city>
+<city name="17" type="1" order="RP" >
+<video name="# 2009_17" >
+<url>2009/17/index.xml</url>
+</video>
+</city>
+<city name="18" type="1" order="RO" >
+<video name="# 2009_18" >
+<url>2009/18/index.xml</url>
+</video>
+</city>
+<city name="19" type="1" order="RN" >
+<video name="# 2009_19" >
+<url>2009/19/index.xml</url>
+</video>
+</city>
+<city name="20" type="1" order="QW" >
+<video name="# 2009_20" >
+<url>2009/20/index.xml</url>
+</video>
+</city>
+<city name="21" type="1" order="QV" >
+<video name="# 2009_21" >
+<url>2009/21/index.xml</url>
+</video>
+</city>
+</province>
+</provinces>

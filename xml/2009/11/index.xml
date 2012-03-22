@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2009" order="RS" >
+<city name="11" type="1" order=RV" >
+<video name="选择的智慧" >
+<url>xml/2009/11/1.data</url>
+</video>
+<video name="法拉奇:不可复制的传奇" >
+<url>xml/2009/11/2.data</url>
+</video>
+<video name="俞敏洪的捡砖头思维" >
+<url>xml/2009/11/3.data</url>
+</video>
+<video name="等待一辆开往春天的出租车" >
+<url>xml/2009/11/4.data</url>
+</video>
+<video name="马不停蹄的错过" >
+<url>xml/2009/11/5.data</url>
+</video>
+<video name="爱是一尾深海鱼" >
+<url>xml/2009/11/6.data</url>
+</video>
+<video name="父亲是个“大忽悠”" >
+<url>xml/2009/11/7.data</url>
+</video>
+<video name="我是土根家的小铃铛" >
+<url>xml/2009/11/8.data</url>
+</video>
+<video name="那个貌似真命天子的家伙" >
+<url>xml/2009/11/9.data</url>
+</video>
+<video name="时间使人忘记爱情" >
+<url>xml/2009/11/10.data</url>
+</video>
+<video name="征婚启事25年风俗录" >
+<url>xml/2009/11/11.data</url>
+</video>
+<video name="就叫我“黄四娘”吧" >
+<url>xml/2009/11/12.data</url>
+</video>
+<video name="星期一女孩和星期日男人" >
+<url>xml/2009/11/13.data</url>
+</video>
+<video name="无标题" >
+<url>xml/2009/11/14.data</url>
+</video>
+<video name="流泪的太阳" >
+<url>xml/2009/11/15.data</url>
+</video>
+<video name="中国外交的“三要”和“三不要”" >
+<url>xml/2009/11/16.data</url>
+</video>
+<video name="小呆日志等4则" >
+<url>xml/2009/11/17.data</url>
+</video>
+<video name="37度爱" >
+<url>xml/2009/11/18.data</url>
+</video>
+<video name="竹是草最高的梦" >
+<url>xml/2009/11/19.data</url>
+</video>
+<video name="没有冒险,真后悔" >
+<url>xml/2009/11/20.data</url>
+</video>
+<video name="不是得到 就是学到" >
+<url>xml/2009/11/21.data</url>
+</video>
+<video name="做好剩下的9000件事" >
+<url>xml/2009/11/22.data</url>
+</video>
+<video name="我们那些不体面的亲人" >
+<url>xml/2009/11/23.data</url>
+</video>
+<video name="白天纽约 黑夜巴黎" >
+<url>xml/2009/11/24.data</url>
+</video>
+<video name="意大利式思维等4则" >
+<url>xml/2009/11/25.data</url>
+</video>
+<video name="跑起来你就是一股风等3则" >
+<url>xml/2009/11/26.data</url>
+</video>
+<video name="眼睛里流出来的文明" >
+<url>xml/2009/11/27.data</url>
+</video>
+<video name="感受印度之谜" >
+<url>xml/2009/11/28.data</url>
+</video>
+</city>
+</province>
+</provinces>

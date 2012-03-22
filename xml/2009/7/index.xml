@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2009" order="RS" >
+<city name="7" type="1" order=SP" >
+<video name="和谐境界" >
+<url>xml/2009/7/1.data</url>
+</video>
+<video name="Logo的文化史" >
+<url>xml/2009/7/2.data</url>
+</video>
+<video name="你注定继承的疾病" >
+<url>xml/2009/7/3.data</url>
+</video>
+<video name="白马胜雪" >
+<url>xml/2009/7/4.data</url>
+</video>
+<video name="创意卖书" >
+<url>xml/2009/7/5.data</url>
+</video>
+<video name="受时尚支配的人" >
+<url>xml/2009/7/6.data</url>
+</video>
+<video name="弄假成真" >
+<url>xml/2009/7/7.data</url>
+</video>
+<video name="荠菜" >
+<url>xml/2009/7/8.data</url>
+</video>
+<video name="赤橙黄绿青蓝紫" >
+<url>xml/2009/7/9.data</url>
+</video>
+<video name="一堂特殊的课" >
+<url>xml/2009/7/10.data</url>
+</video>
+<video name="蓝色群山的那一边" >
+<url>xml/2009/7/11.data</url>
+</video>
+<video name="无标题" >
+<url>xml/2009/7/12.data</url>
+</video>
+<video name="生活短笛" >
+<url>xml/2009/7/13.data</url>
+</video>
+<video name="捧金饭碗的四种人" >
+<url>xml/2009/7/14.data</url>
+</video>
+<video name="牧羊人、马和房子" >
+<url>xml/2009/7/15.data</url>
+</video>
+<video name="点击" >
+<url>xml/2009/7/16.data</url>
+</video>
+<video name="幽默" >
+<url>xml/2009/7/17.data</url>
+</video>
+<video name="你的钱多久可以翻一番" >
+<url>xml/2009/7/18.data</url>
+</video>
+<video name="无标题" >
+<url>xml/2009/7/19.data</url>
+</video>
+<video name="一颗心能承载的重量" >
+<url>xml/2009/7/20.data</url>
+</video>
+<video name="讨厌的男生" >
+<url>xml/2009/7/21.data</url>
+</video>
+<video name="选择职场之路的五个建议" >
+<url>xml/2009/7/22.data</url>
+</video>
+<video name="无标题" >
+<url>xml/2009/7/23.data</url>
+</video>
+<video name="无标题" >
+<url>xml/2009/7/24.data</url>
+</video>
+<video name="让父母伤透心的人" >
+<url>xml/2009/7/25.data</url>
+</video>
+<video name="郭沫若的成绩单" >
+<url>xml/2009/7/26.data</url>
+</video>
+<video name="与叶宝珠的来来往往" >
+<url>xml/2009/7/27.data</url>
+</video>
+<video name="我来给你们擦鞋" >
+<url>xml/2009/7/28.data</url>
+</video>
+</city>
+</province>
+</provinces>
