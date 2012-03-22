@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2008" order="RT" >
+<city name="8" type="1" order=SO" >
+<video name="我要的，只是一个答案" >
+<url>xml/2008/8/1.data</url>
+</video>
+<video name="我在城外，想起你来" >
+<url>xml/2008/8/2.data</url>
+</video>
+<video name="我在遥远海边为你守侯" >
+<url>xml/2008/8/3.data</url>
+</video>
+<video name="无水的鱼遇上流浪的猫" >
+<url>xml/2008/8/4.data</url>
+</video>
+<video name="无言的结局" >
+<url>xml/2008/8/5.data</url>
+</video>
+<video name="梧桐树" >
+<url>xml/2008/8/6.data</url>
+</video>
+<video name="五月不是伤情天" >
+<url>xml/2008/8/7.data</url>
+</video>
+<video name="系花咱可惹不起" >
+<url>xml/2008/8/8.data</url>
+</video>
+<video name="夏天的味道里全是你" >
+<url>xml/2008/8/9.data</url>
+</video>
+<video name="想把我唱给你听" >
+<url>xml/2008/8/10.data</url>
+</video>
+<video name="想念的十个瞬间" >
+<url>xml/2008/8/11.data</url>
+</video>
+<video name="想起心痛的你" >
+<url>xml/2008/8/12.data</url>
+</video>
+<video name="消失在沉默的夏天" >
+<url>xml/2008/8/13.data</url>
+</video>
+<video name="邂逅在凤凰古城" >
+<url>xml/2008/8/14.data</url>
+</video>
+<video name="心灵之约" >
+<url>xml/2008/8/15.data</url>
+</video>
+<video name="血百合" >
+<url>xml/2008/8/16.data</url>
+</video>
+<video name="阳光很灿烂" >
+<url>xml/2008/8/17.data</url>
+</video>
+<video name="阳台的向往" >
+<url>xml/2008/8/18.data</url>
+</video>
+<video name="洋葱的心" >
+<url>xml/2008/8/19.data</url>
+</video>
+<video name="洋溢在脸上的微笑" >
+<url>xml/2008/8/20.data</url>
+</video>
+<video name="姚明坦言；我的爱恋我的爱" >
+<url>xml/2008/8/21.data</url>
+</video>
+<video name="也许是天使" >
+<url>xml/2008/8/22.data</url>
+</video>
+<video name="一百零一次次求婚" >
+<url>xml/2008/8/23.data</url>
+</video>
+<video name="一场走不进爱情的友情" >
+<url>xml/2008/8/24.data</url>
+</video>
+<video name="一个花季" >
+<url>xml/2008/8/25.data</url>
+</video>
+<video name="一个人的孤单" >
+<url>xml/2008/8/26.data</url>
+</video>
+<video name="一个人的午夜场" >
+<url>xml/2008/8/27.data</url>
+</video>
+<video name="一个人的远走高飞" >
+<url>xml/2008/8/28.data</url>
+</video>
+</city>
+</province>
+</provinces>
