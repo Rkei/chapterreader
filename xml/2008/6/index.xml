@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2008" order="RT" >
+<city name="6" type="1" order=SQ" >
+<video name="七年" >
+<url>xml/2008/6/1.data</url>
+</video>
+<video name="七月又十六" >
+<url>xml/2008/6/2.data</url>
+</video>
+<video name="千里千寻" >
+<url>xml/2008/6/3.data</url>
+</video>
+<video name="亲爱的，我想对你说" >
+<url>xml/2008/6/4.data</url>
+</video>
+<video name="亲爱的你，不再流泪" >
+<url>xml/2008/6/5.data</url>
+</video>
+<video name="青春的诠释" >
+<url>xml/2008/6/6.data</url>
+</video>
+<video name="青春寄语" >
+<url>xml/2008/6/7.data</url>
+</video>
+<video name="青春期的第一场雪" >
+<url>xml/2008/6/8.data</url>
+</video>
+<video name="青涩男人" >
+<url>xml/2008/6/9.data</url>
+</video>
+<video name="情断中秋" >
+<url>xml/2008/6/10.data</url>
+</video>
+<video name="情感尚未毕业" >
+<url>xml/2008/6/11.data</url>
+</video>
+<video name="情愿孤单" >
+<url>xml/2008/6/12.data</url>
+</video>
+<video name="去年烟花特别多" >
+<url>xml/2008/6/13.data</url>
+</video>
+<video name="如果累了　就相爱吧" >
+<url>xml/2008/6/14.data</url>
+</video>
+<video name="如果你爱过，看看吧!" >
+<url>xml/2008/6/15.data</url>
+</video>
+<video name="如果我的伴侣是你" >
+<url>xml/2008/6/16.data</url>
+</video>
+<video name="如果我忧伤，你一定要快乐" >
+<url>xml/2008/6/17.data</url>
+</video>
+<video name="三打蜘蛛精" >
+<url>xml/2008/6/18.data</url>
+</video>
+<video name="三十的风情" >
+<url>xml/2008/6/19.data</url>
+</video>
+<video name="伤了你的心的我伤心" >
+<url>xml/2008/6/20.data</url>
+</video>
+<video name="伤心" >
+<url>xml/2008/6/21.data</url>
+</video>
+<video name="舍已树" >
+<url>xml/2008/6/22.data</url>
+</video>
+<video name="深圳让我怀念梁子" >
+<url>xml/2008/6/23.data</url>
+</video>
+<video name="失恋的滋味" >
+<url>xml/2008/6/24.data</url>
+</video>
+<video name="失去的不只是戒指" >
+<url>xml/2008/6/25.data</url>
+</video>
+<video name="十年" >
+<url>xml/2008/6/26.data</url>
+</video>
+<video name="十七岁不哭" >
+<url>xml/2008/6/27.data</url>
+</video>
+<video name="时间爱情" >
+<url>xml/2008/6/28.data</url>
+</video>
+</city>
+</province>
+</provinces>
