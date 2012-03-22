@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2009" order="RS" >
+<city name="19" type="1" order="RN" >
+<video name="人骨拼图" >
+<url>xml/2009/19/1.data</url>
+</video>
+<video name="老爱情" >
+<url>xml/2009/19/2.data</url>
+</video>
+<video name="我们正在忘却的传统文化" >
+<url>xml/2009/19/3.data</url>
+</video>
+<video name="大学必学的四件事" >
+<url>xml/2009/19/4.data</url>
+</video>
+<video name="刷盘子,还是读书" >
+<url>xml/2009/19/5.data</url>
+</video>
+<video name="无标题" >
+<url>xml/2009/19/6.data</url>
+</video>
+<video name="力挽狂澜的话等4则" >
+<url>xml/2009/19/7.data</url>
+</video>
+<video name="小偷来信:我要做个像你一样的好人" >
+<url>xml/2009/19/8.data</url>
+</video>
+<video name="小小蜗牛爱情壳" >
+<url>xml/2009/19/9.data</url>
+</video>
+<video name="两个老师的战争" >
+<url>xml/2009/19/10.data</url>
+</video>
+<video name="给生活一张漂亮的脸" >
+<url>xml/2009/19/11.data</url>
+</video>
+<video name="请你把我当外人" >
+<url>xml/2009/19/12.data</url>
+</video>
+<video name="生活的一种" >
+<url>xml/2009/19/13.data</url>
+</video>
+<video name="争夺" >
+<url>xml/2009/19/14.data</url>
+</video>
+<video name="志愿者" >
+<url>xml/2009/19/15.data</url>
+</video>
+<video name="愚蠢的爸爸" >
+<url>xml/2009/19/16.data</url>
+</video>
+<video name="还我咖啡馆" >
+<url>xml/2009/19/17.data</url>
+</video>
+<video name="无标题" >
+<url>xml/2009/19/18.data</url>
+</video>
+<video name="诚 实" >
+<url>xml/2009/19/19.data</url>
+</video>
+<video name="以色列人的安全观" >
+<url>xml/2009/19/20.data</url>
+</video>
+<video name="免费,但不浪费" >
+<url>xml/2009/19/21.data</url>
+</video>
+<video name="植物改变世界" >
+<url>xml/2009/19/22.data</url>
+</video>
+<video name="人类最重要的20种工具" >
+<url>xml/2009/19/23.data</url>
+</video>
+<video name="故宫博物搬适始末" >
+<url>xml/2009/19/24.data</url>
+</video>
+<video name="蚕豆七兄弟" >
+<url>xml/2009/19/25.data</url>
+</video>
+<video name="无标题" >
+<url>xml/2009/19/26.data</url>
+</video>
+<video name="终于嫁给了王子" >
+<url>xml/2009/19/27.data</url>
+</video>
+<video name="不要相信" >
+<url>xml/2009/19/28.data</url>
+</video>
+</city>
+</province>
+</provinces>
