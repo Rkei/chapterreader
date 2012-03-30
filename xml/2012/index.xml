@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2012" order="RP" >
+<city name="1" type="1" order="SV" >
+<video name="# 2012_1" >
+<url>2012/1/index.xml</url>
+</video>
+</city>
+<city name="2" type="1" order="SU" >
+<video name="# 2012_2" >
+<url>2012/2/index.xml</url>
+</video>
+</city>
+<city name="3" type="1" order="ST" >
+<video name="# 2012_3" >
+<url>2012/3/index.xml</url>
+</video>
+</city>
+<city name="4" type="1" order="SS" >
+<video name="# 2012_4" >
+<url>2012/4/index.xml</url>
+</video>
+</city>
+<city name="5" type="1" order="SR" >
+<video name="# 2012_5" >
+<url>2012/5/index.xml</url>
+</video>
+</city>
+</province>
+</provinces>
