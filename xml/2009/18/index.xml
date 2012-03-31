@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="2009" order="RS" >
-<city name="18" type="1" order=RO" >
+<city name="18" type="1" order="RO" >
 <video name="警告的枪声" >
 <url>xml/2009/18/1.data</url>
 </video>
