@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="2008" order="RT" >
-<city name="5" type="1" order=SR" >
+<city name="5" type="1" order="SR" >
 <video name="恋情低热，性情高烧" >
 <url>xml/2008/5/1.data</url>
 </video>
