@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="2009" order="RS" >
-<city name="20" type="1" order=QW" >
+<city name="20" type="1" order="QW" >
 <video name="夜晚" >
 <url>xml/2009/20/1.data</url>
 </video>
