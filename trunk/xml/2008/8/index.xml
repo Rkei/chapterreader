@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="2008" order="RT" >
-<city name="8" type="1" order=SO" >
+<city name="8" type="1" order="SO" >
 <video name="我要的，只是一个答案" >
 <url>xml/2008/8/1.data</url>
 </video>
