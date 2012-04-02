@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2010" order="RQ" >
+<city name="1" type="1" order="SV" >
+<video name="# 2010_1" >
+<url>2010/1/index.xml</url>
+</video>
+</city>	
+<city name="2" type="1" order="SU" >
+<video name="# 2010_2" >
+<url>2010/2/index.xml</url>
+</video>
+</city>
+<city name="3" type="1" order="ST" >
+<video name="# 2010_3" >
+<url>2010/3/index.xml</url>
+</video>
+</city>
+<city name="4" type="1" order="SS" >
+<video name="# 2010_4" >
+<url>2010/4/index.xml</url>
+</video>
+</city>
+<city name="5" type="1" order="SR" >
+<video name="# 2010_5" >
+<url>2010/5/index.xml</url>
+</video>
+</city>
+<city name="6" type="1" order="SQ" >
+<video name="# 2010_6" >
+<url>2010/6/index.xml</url>
+</video>
+</city>
+<city name="8" type="1" order="SO" >
+<video name="# 2010_8" >
+<url>2010/8/index.xml</url>
+</video>
+</city>
+<city name="9" type="1" order="SN" >
+<video name="# 2010_9" >
+<url>2010/9/index.xml</url>
+</video>
+</city>
+<city name="10" type="1" order="RW" >
+<video name="# 2010_10" >
+<url>2010/10/index.xml</url>
+</video>
+</city>
+<city name="23" type="1" order="QT" >
+<video name="# 2010_23" >
+<url>2010/23/index.xml</url>
+</video>
+</city>
+<city name="24" type="1" order="QS" >
+<video name="# 2010_24" >
+<url>2010/24/index.xml</url>
+</video>
+</city>
+</province>
+</provinces>
