@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2011" order="RQ" >
+<city name="1" type="1" order="SV" >
+<video name="春之声" >
+<url>xml/2011/1/1.data</url>
+</video>
+<video name="青年一代  小纬：来自幕后的声音" >
+<url>xml/2011/1/2.data</url>
+</video>
+<video name="成长笔记  相互凝视的镜子" >
+<url>xml/2011/1/3.data</url>
+</video>
+<video name="前程谋略  做个眼神犀利的人" >
+<url>xml/2011/1/4.data</url>
+</video>
+<video name="精英是练出来的" >
+<url>xml/2011/1/5.data</url>
+</video>
+<video name="心理视窗  24到4" >
+<url>xml/2011/1/6.data</url>
+</video>
+<video name="名人轶事    梁从诫：为无告的大自然请命" >
+<url>xml/2011/1/7.data</url>
+</video>
+<video name="名人自述    一位作家的忠告" >
+<url>xml/2011/1/8.data</url>
+</video>
+<video name="名人访谈：蒋方舟：向往默默单干的状态" >
+<url>xml/2011/1/9.data</url>
+</video>
+<video name="真情世界  一个梦想着的孩子" >
+<url>xml/2011/1/10.data</url>
+</video>
+<video name="遥远的上海有点甜" >
+<url>xml/2011/1/11.data</url>
+</video>
+<video name="青春风铃   夏日的橙子" >
+<url>xml/2011/1/12.data</url>
+</video>
+<video name="一百元的爱情故事" >
+<url>xml/2011/1/13.data</url>
+</video>
+<video name="爱情讲义  给未知恋人的爱情短信" >
+<url>xml/2011/1/14.data</url>
+</video>
+<video name="远离自杀式爱情" >
+<url>xml/2011/1/15.data</url>
+</video>
+<video name="至爱亲情  那个不能让你虚荣的女儿" >
+<url>xml/2011/1/16.data</url>
+</video>
+<video name="爸爸，爸爸" >
+<url>xml/2011/1/17.data</url>
+</video>
+<video name="今日视点  一个研究生在工厂的“潜伏”" >
+<url>xml/2011/1/18.data</url>
+</video>
+<video name="尘世走笔  那些卑微的母亲" >
+<url>xml/2011/1/19.data</url>
+</video>
+<video name="你看到的只是第一排水果" >
+<url>xml/2011/1/20.data</url>
+</video>
+<video name="国际化的青春期片段" >
+<url>xml/2011/1/21.data</url>
+</video>
+<video name="人力资源的诅咒" >
+<url>xml/2011/1/22.data</url>
+</video>
+<video name="个人立场  三个傻子" >
+<url>xml/2011/1/23.data</url>
+</video>
+<video name="你得给她一个心动的理由" >
+<url>xml/2011/1/24.data</url>
+</video>
+<video name="时尚看点  Twitter，Email，但我们不再说话" >
+<url>xml/2011/1/25.data</url>
+</video>
+<video name="潮人潮事  阿桑奇：英雄还是魔鬼" >
+<url>xml/2011/1/26.data</url>
+</video>
+<video name="点击" >
+<url>xml/2011/1/27.data</url>
+</video>
+<video name="人世间  假如阿三在今天" >
+<url>xml/2011/1/28.data</url>
+</video>
+<video name="打猫的小男孩" >
+<url>xml/2011/1/29.data</url>
+</video>
+<video name="打光最后一颗子弹" >
+<url>xml/2011/1/30.data</url>
+</video>
+<video name="一眼望不到头" >
+<url>xml/2011/1/31.data</url>
+</video>
+<video name="他们总是很惊奇" >
+<url>xml/2011/1/32.data</url>
+</video>
+<video name="感悟人生 意林 故事四则" >
+<url>xml/2011/1/33.data</url>
+</video>
+<video name="你能应对的事情" >
+<url>xml/2011/1/34.data</url>
+</video>
+<video name="你是我的长篇小说" >
+<url>xml/2011/1/35.data</url>
+</video>
+<video name="自己的选择" >
+<url>xml/2011/1/36.data</url>
+</video>
+<video name="天使不值班" >
+<url>xml/2011/1/37.data</url>
+</video>
+<video name="滴水藏海 短篇故事四则" >
+<url>xml/2011/1/38.data</url>
+</video>
+<video name="环球采风  日本人的“丸子观”" >
+<url>xml/2011/1/39.data</url>
+</video>
+<video name="欧洲教堂为什么盖这么久" >
+<url>xml/2011/1/40.data</url>
+</video>
+<video name="“小大国”匈牙利" >
+<url>xml/2011/1/41.data</url>
+</video>
+<video name="知识在线  不可思议的科学真相" >
+<url>xml/2011/1/42.data</url>
+</video>
+<video name="雾里看花聊“指数”" >
+<url>xml/2011/1/43.data</url>
+</video>
+<video name="人与自然  聆听花朵绽放的声音" >
+<url>xml/2011/1/44.data</url>
+</video>
+<video name="文苑漫步  两个人的茶" >
+<url>xml/2011/1/45.data</url>
+</video>
+<video name="生命迁移" >
+<url>xml/2011/1/46.data</url>
+</video>
+<video name="无字书" >
+<url>xml/2011/1/47.data</url>
+</video>
+<video name="有你的这一刻" >
+<url>xml/2011/1/48.data</url>
+</video>
+<video name="骆驼的事" >
+<url>xml/2011/1/49.data</url>
+</video>
+<video name="畅销书坊  国际公务员眼中的别国风情" >
+<url>xml/2011/1/50.data</url>
+</video>
+<video name="珍珠滩  别人眼里的幸福" >
+<url>xml/2011/1/51.data</url>
+</video>
+<video name="一见钟情是种能力" >
+<url>xml/2011/1/52.data</url>
+</video>
+<video name="读书心得" >
+<url>xml/2011/1/53.data</url>
+</video>
+<video name="我想我得IT分裂症" >
+<url>xml/2011/1/54.data</url>
+</video>
+<video name="生活锦囊  做有钱的自己" >
+<url>xml/2011/1/55.data</url>
+</video>
+</city>
+</province>
+</provinces>
