@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="2001" order="SQ" >
+<city name="1" type="1" order="SV" >
+<video name="青春的彩百合" >
+<url>xml/2001/1/01.data</url>
+</video>
+<video name="我是最好的" >
+<url>xml/2001/1/02.data</url>
+</video>
+<video name="圆梦剑桥" >
+<url>xml/2001/1/03.data</url>
+</video>
+<video name="“股神”年方１９岁" >
+<url>xml/2001/1/04.data</url>
+</video>
+<video name="眼里有世界" >
+<url>xml/2001/1/05.data</url>
+</video>
+<video name="探寻自卑的源头" >
+<url>xml/2001/1/06.data</url>
+</video>
+<video name="获益终生的课程" >
+<url>xml/2001/1/07.data</url>
+</video>
+<video name="孩子，这里没有适合你的工作" >
+<url>xml/2001/1/08.data</url>
+</video>
+<video name="是母亲的善良救了我们" >
+<url>xml/2001/1/09.data</url>
+</video>
+<video name="嫁到好望角" >
+<url>xml/2001/1/10.data</url>
+</video>
+<video name="等待" >
+<url>xml/2001/1/11.data</url>
+</video>
+<video name="请不要嫁给我" >
+<url>xml/2001/1/12.data</url>
+</video>
+<video name="叫他一声哥" >
+<url>xml/2001/1/13.data</url>
+</video>
+<video name="竞争物语" >
+<url>xml/2001/1/14.data</url>
+</video>
+<video name="自信第一课" >
+<url>xml/2001/1/15.data</url>
+</video>
+<video name="在我最美丽的时候遇见了谁" >
+<url>xml/2001/1/16.data</url>
+</video>
+<video name="把阳光写在脸上等" >
+<url>xml/2001/1/17.data</url>
+</video>
+<video name="做了一回自由职业者" >
+<url>xml/2001/1/18.data</url>
+</video>
+<video name="在美国坐飞机" >
+<url>xml/2001/1/19.data</url>
+</video>
+<video name="富爸爸　穷爸爸" >
+<url>xml/2001/1/20.data</url>
+</video>
+<video name="我不知道" >
+<url>xml/2001/1/21.data</url>
+</video>
+<video name="有些美丽需要错过" >
+<url>xml/2001/1/22.data</url>
+</video>
+<video name="举起手来" >
+<url>xml/2001/1/23.data</url>
+</video>
+<video name="舒曼和舒伯特" >
+<url>xml/2001/1/24.data</url>
+</video>
+<video name="赠" >
+<url>xml/2001/1/25.data</url>
+</video>
+<video name="家" >
+<url>xml/2001/1/26.data</url>
+</video>
+<video name="最后机会等" >
+<url>xml/2001/1/27.data</url>
+</video>
+<video name="摩托罗拉等" >
+<url>xml/2001/1/28.data</url>
+</video>
+</city>
+</province>
+</provinces>
