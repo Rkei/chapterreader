@@ -5,7 +5,13 @@
 <load version="1.0" name="2010/index.xml" />
 <load version="1.0" name="2009/index.xml" />
 <load version="1.0" name="2008/index.xml" />
-<!--load version="1.0" name="2007/index.xml" /-->
+<load version="1.0" name="2007/index.xml" />
+<load version="1.0" name="2006/index.xml" />
+<load version="1.0" name="2005/index.xml" />
+<load version="1.0" name="2004/index.xml" />
+<load version="1.0" name="2003/index.xml" />
+<load version="1.0" name="2002/index.xml" />
+<load version="1.0" name="2001/index.xml" />
 <para name="appoffer" value="1" meney="20" />
 <para name="show1" value="元旦快乐！" />
 <para name="show2" value="" />
