@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点" order="0BA" >
+<city name="美国景点3" type="180" order="C" >	
+<video name="格林威治">
+<url>http://norwalk.axiscam.net:2222/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瓦佩顿">
+<url>http://134.129.32.143/mjpg/1/video.mjpg</url>
+</video>
+<video name="纳什维尔">
+<url>http://quad.peabody.vanderbilt.edu:26122/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="贝林翰">
+<url>http://140.160.101.129/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="查尔斯镇">
+<url>http://173.14.161.229:3385/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="拉霍亚">
+<url>http://137.110.165.19/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="切维蔡斯马里兰州">
+<url>http://surfcam.castleinthesand.com/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="洛克波特">
+<url>http://146.139.72.75/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="考德威尔">
+<url>http://presbygardens.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥马哈">
+<url>http://147.134.28.1/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿尔弗雷德">
+<url>http://webcam3.alfred.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="诺克斯维尔">
+<url>http://jjansheski.axiscam.net:8001/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="格林维尔">
+<url>http://marinacam1.cortn.org/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="诺克斯维尔系列2">
+<url>http://jjansheski.axiscam.net:8002/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="富勒顿">
+<url>http://itwebcampln30.fullerton.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="诺克斯维尔系列3">
+<url>http://jjansheski.axiscam.net:8004/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="诺克斯维尔系列4">
+<url>http://jjansheski.axiscam.net:8005/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="诺克斯维尔系列5">
+<url>http://jjansheski.axiscam.net:8007/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="新帕尔茨">
+<url>http://137.140.64.225/mjpg/1/video.mjpg</url>
+</video>
+<video name="贝林翰系列2">
+<url>http://140.160.141.188/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="希博伊根">
+<url>http://209.103.230.123/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="卡平特里亚">
+<url>http://webcam1.sbyc.org/mjpg/1/video.mjpg</url>
+</video>
+<video name="芝加哥系列5">
+<url>http://buscam.uchicago.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="东特洛伊">
+<url>http://207.118.195.3/mjpg/1/video.mjpg</url>
+</video>
+<video name="辛辛那提">
+<url>http://puppywood.mypets.ws/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="林肯">
+<url>http://129.93.157.210/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="檀香山">
+<url>http://128.171.104.33/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="费耶特维尔">
+<url>http://springdaleweather.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="布莱克斯堡">
+<url>http://128.173.44.105/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="佩托斯基">
+<url>http://bayview.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="檀香山系列2">
+<url>http://128.171.116.64/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

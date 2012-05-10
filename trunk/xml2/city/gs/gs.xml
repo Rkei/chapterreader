@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="甘肃" order="S" >
+		<city name="兰州" type="1" order="C" >
+			<video name="# 兰州(单击加载)">
+				<url>city/gs/gslz.xml</url>
+			</video>
+		</city>							
+	</province>
+</provinces> 

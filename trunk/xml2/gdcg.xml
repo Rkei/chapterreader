@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="广东" order="A" >
+		<city name="潮州" type="1" order="G" >
+			<video name="通道一">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/231861.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="大润发路口">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/53847.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="汇侨路口">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/53848.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="西车站路口">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/53849.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="牌坊街">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/53850.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="韩江大桥">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/53851.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="体育馆路口">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/53852.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="潮枫路(卜蜂莲花正门)">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/53853.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="西湖河头环岛">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/53854.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="开元路口">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3161/53855.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+		</city>
+
+		<city name="东莞" type="1" order="C" >
+			<video name="丽峰路北">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/17163.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="东城中路北">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=1
+				</url>
+			</video>
+
+			<video name="东城西路北">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=6
+				</url>
+			</video>
+
+			<video name="东城南路西">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/17162.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="东城红荔路西">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=7
+				</url>
+			</video>
+
+			<video name="数字家庭展区">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48208.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="长安汽车站东">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48215.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="厚街珊瑚路十字路口">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48217.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="寮步塘唇路口东南">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48218.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="常平火车东站路口南">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48221.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="石碣富丽酒店东">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48222.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="常平朗贝路西北">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48226.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="万江长泰路西">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48228.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="万江万高路北">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=12
+				</url>
+			</video>
+
+			<video name="寮步教育路北">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48229.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="石龙新桥路北">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48233.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="虎门豪庭苑西北">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48234.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="东城嘉湖山庄东">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48235.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="东城文化广场东">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48236.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="石龙汇联步行街西">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48237.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="南城鸿福路东南">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48238.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="莞城文化广场西">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48239.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="莞城玉庭家居南">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=9
+				</url>
+			</video>
+			<video name="厚街广场东">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48240.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="寮步天桥北">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48241.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="石龙金龙会酒店西北">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3121/48242.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="厚街康乐南路东北">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=20
+				</url>
+			</video>
+
+			<video name="虎门镇远大桥西">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=23
+				</url>
+			</video>
+
+			<video name="虎门珠江花园东">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=24
+				</url>
+			</video>
+
+			<video name="虎门大道西">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=25
+				</url>
+			</video>
+
+			<video name="塘厦塘龙广场西">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=28
+				</url>
+			</video>
+
+			<video name="黄江书城东北">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=30
+				</url>
+			</video>
+
+			<video name="茶山大道西">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=32
+				</url>
+			</video>
+
+			<video name="大岭山广场西南">
+				<url>
+					http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=29
+				</url>
+			</video>
+		</city>
+		<city name="佛山" type="1" order="D" >
+
+			<video name="佛山移动机房01">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/341/53683.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+
+			<video name="科技园南区01">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/341/53901.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="禅城区-魁奇路—丽日玫瑰">
+				<url>http://211.139.201.226/wap/page/lrmg.aspx
+				</url>
+			</video>
+			<video name="季华五路—佛山大道交界">
+				<url>http://211.139.201.226/wap/page/fsdd.aspx
+				</url>
+			</video>
+			<video name="海八路—谢叠大桥">
+				<url>http://211.139.201.226/wap/page/xddq.aspx
+				</url>
+			</video>
+			<video name="季华五路—东建世纪广场">
+				<url>http://211.139.201.226/wap/page/djsjgc.aspx
+				</url>
+			</video>
+			<video name="佛山大道—人民西下沉隧道">
+				<url>http://211.139.201.226/wap/page/rmxsd.aspx
+				</url>
+			</video>
+			<video name="季华五路—汾江中路交界">
+				<url>http://211.139.201.226/wap/page/fjzl.aspx
+				</url>
+			</video>
+			<video name="岭南大道—岭南明珠体育馆">
+				<url>http://211.139.201.226/wap/page/lnmz.aspx
+				</url>
+			</video>
+			<video name="佛山大道—江湾立交">
+				<url>http://211.139.201.226/wap/page/jwlj.aspx
+				</url>
+			</video>
+			<video name="魁奇路—佛陈大桥">
+				<url>http://211.139.201.226/wap/page/fcdq.aspx
+				</url>
+			</video>
+			<video name="普澜二路-通济桥">
+				<url>http://211.139.201.226/wap/page/tjq.aspx
+				</url>
+			</video>
+			<video name="佛山大道-绿景路交界">
+				<url>http://211.139.201.226/wap/page/fsdd_ljl.aspx
+				</url>
+			</video>
+			<video name="兆祥路-文华北路交界">
+				<url>http://211.139.201.226/wap/page/zxl_whl.aspx
+				</url>
+			</video>
+			<video name="松风路">
+				<url>http://211.139.201.226/wap/page/sfl.aspx
+				</url>
+			</video>
+			<video name="升平路">
+				<url>http://211.139.201.226/wap/page/spl.aspx
+				</url>
+			</video>
+
+			<video name="南海大道—南海购书中心">
+				<url>http://211.139.201.226/wap/page/nhgszx.aspx
+				</url>
+			</video>
+			<video name="南海大道—魁奇路交界">
+				<url>http://211.139.201.226/wap/page/kqljj.aspx
+				</url>
+			</video>
+			<video name="南海大道—佛平路交界">
+				<url>http://211.139.201.226/wap/page/fpljj.aspx
+				</url>
+			</video>
+
+			<video name="南国中路">
+				<url>http://211.139.201.226/wap/page/ngzl.aspx
+				</url>
+			</video>
+			<video name="宝林路-顺德党校">
+				<url>http://211.139.201.226/wap/page/bll_sddx.aspx
+				</url>
+			</video>
+		</city>
+		<city name="华为" type="1" order="K" >
+			<video name="华为全球通1楼电梯口">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3303/48266.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为全球通3楼餐厅">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3303/48267.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为全球通4楼餐厅">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3303/48268.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为全球通5楼餐厅">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3303/48269.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为全球通东大堂">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3303/48270.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为全球通体验厅">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3303/48271.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为全球通西大堂">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3303/48272.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为全球通西南广场">
+				<url>
+					http://wap.gd.10086.cn/mqly/ggsp/3303/48273.3_1.jsp?redirected=true
+				</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

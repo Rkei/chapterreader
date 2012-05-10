@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点四" order="0BD" >
+<city name="美国景点12" type="180" order="L" >	
+<video name="霍普金斯系列2">
+<url>http://64.122.208.241:8001/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列23">
+<url>http://12.154.129.234/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Lake Arrowhead">
+<url>http://arrowbear.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="拉霍亚系列2">
+<url>http://137.110.165.37/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="鲍灵格林俄亥俄州">
+<url>http://webcam1.corvettemuseum.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿默斯特">
+<url>http://148.85.35.65/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="亚基马系列4">
+<url>http://68.116.20.194:303/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="马修斯">
+<url>http://roofcam.decisionsupport.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="拉霍亚系列3">
+<url>http://137.110.165.29/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="Columbia系列2">
+<url>http://lowerlot.axiscam.net:9550/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列18">
+<url>http://71.35.77.53:46005/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="林肯系列4">
+<url>http://129.93.139.144/mjpg/1/video.mjpg</url>
+</video>
+<video name="Mountain View">
+<url>http://71.116.127.18:19328/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

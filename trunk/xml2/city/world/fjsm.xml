@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点4" order="0" >
+		<city name="福建三明" type="1" order="I" >	
+			<video name="三明市泰宁县上清溪下码头-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1248789087::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=2609749a032608a9</url>
+			</video>
+			<video name="三明市泰宁县上清溪下码头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1248789087::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=2609749a032608a9</url>
+			</video>
+      
+      <video name="三明市泰宁县地质博物馆-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--125284848::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=74b87ad20a4f254c</url>
+			</video>
+			<video name="三明市泰宁县地质博物馆-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--125284848::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=74b87ad20a4f254c</url>
+			</video>
+
+      <video name="三明永安龟山公园-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-2094542146::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=7804d2243a83da2</url>
+			</video>
+			<video name="三明永安龟山公园-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-2094542146::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=7804d2243a83da2</url>
+			</video>
+   
+      <video name="三明大田公园内-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1765167553::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=50a8aa5f0132f6cc</url>
+			</video>
+			<video name="三明大田公园内-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1765167553::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=50a8aa5f0132f6cc</url>
+			</video>
+
+      <video name="三明市泰宁县大金湖景区甘露寺码头-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--338322111::1;PuProperty=1::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=15bc89440ba15abd</url>
+			</video>
+			<video name="三明市泰宁县大金湖景区甘露寺码头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--338322111::1;PuProperty=1::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=15bc89440ba15abd</url>
+			</video>
+
+      <video name="三明市泰宁寨下天崩山-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1690216709::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=15d8a4af72e47bc9</url>
+			</video>
+			<video name="三明市泰宁寨下天崩山-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1690216709::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=15d8a4af72e47bc9</url>
+			</video>
+
+
+      <video name="三明尤溪县朱熹公园景区-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--800390868::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=2a8f226c595d9773</url>
+			</video>
+			<video name="三明尤溪县朱熹公园景区-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--800390868::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=2a8f226c595d9773</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

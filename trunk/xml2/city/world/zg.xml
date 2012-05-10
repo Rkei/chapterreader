@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点" order="0" >
+		<city name="张家界" type="0" order="D" >
+			<video name="# 张家界(单击加载)">
+				<url>city/world/zjj.xml</url>
+			</video>
+		</city>	
+		<city name="新疆" type="0" order="C" >
+			<video name="# 新疆(单击加载)">
+				<url>city/world/xj.xml</url>
+			</video>
+		</city>																			
+	</province>
+</provinces> 

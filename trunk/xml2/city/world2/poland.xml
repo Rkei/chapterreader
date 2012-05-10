@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="波兰" order="3" >
+<city name="波兰" type="180" order="A" >	
+<video name="什切青旧城">
+<url>http://213.199.197.133:5000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="温森斯">
+<url>http://159.218.60.31/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="波兰">
+<url>http://most.gizycko.pl/axis-cgi/mjpg/video.cgi</url>
+</video>
+<video name="华沙">
+<url>http://213.25.91.31:8894/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="扎布热">
+<url>http://kamerka.dtdns.net:8086/axis-cgi/mjpg/video.cgi</url>
+</video>
+<video name="科宁">
+<url>http://195.200.199.42/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="希隆斯克地区格雷富夫">
+<url>http://umigg.dyndns.org:8888/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="沃尔布罗姆">
+<url>http://79.189.44.171/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Belostok">
+<url>http://83.142.61.30:8081/axis-cgi/mjpg/video.cgi</url>
+</video>
+<video name="科沙林">
+<url>http://62.108.168.13/axis-cgi/mjpg/video.cgi</url>
+</video>
+<video name="亚斯琴别-兹德鲁伊">
+<url>http://213.77.33.2:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="克拉科夫">
+<url>http://dwstanislawa.dyndns.org/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="沃尔布罗姆">
+<url>http://79.189.44.173/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="吉林" order="S" >
+		<city name="延边自治州" type="1" order="C" >	
+			<video name="延吉市交通视频1">
+			<url>tmss://jlss.t3city.cn:9901/yjes_200</url>
+			</video>
+			<video name="延吉市交通视频2">
+			<url>tmss://jlss.t3city.cn:9901/yjes_201</url>
+			</video>
+			<video name="延吉市交通视频3">
+			<url>tmss://jlss.t3city.cn:9901/yjes_202</url>
+			</video>
+			<video name="延吉市交通视频4">
+			<url>tmss://jlss.t3city.cn:9901/yjes_203</url>
+			</video>
+			<video name="延吉市交通视频5">
+			<url>tmss://jlss.t3city.cn:9901/yjes_204</url>
+			</video>
+			<video name="延吉市交通视频6">
+			<url>tmss://jlss.t3city.cn:9901/yjes_205</url>
+			</video>
+			<video name="延吉市交通视频7">
+			<url>tmss://jlss.t3city.cn:9901/yjes_206</url>
+			</video>
+			<video name="延吉市交通视频8">
+			<url>tmss://jlss.t3city.cn:9901/yjes_207</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

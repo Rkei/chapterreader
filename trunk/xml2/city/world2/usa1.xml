@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点" order="0BA" >
+<city name="美国景点1" type="180" order="A" >	
+<video name="帕特森">
+<url>http://njhirailersnj.viewnetcam.com:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="冈尼森">
+<url>http://donitas.viewnetcam.com:5003/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="伊萨卡">
+<url>http://greenhousecam.hort.cornell.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="劳德代尔堡">
+<url>http://216.199.92.66/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知">
+<url>http://69.215.29.34/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="摩根敦">
+<url>http://cemrcam1.cemr.wvu.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="埃文斯维尔">
+<url>http://96.27.252.148/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="布鲁克">
+<url>http://vh.starautoauthority.com:8002/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="梅德福">
+<url>http://68.116.33.170:4002/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列2">
+<url>http://toddlertree.axiscam.net:8082/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列3">
+<url>http://166.211.74.92/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="剑桥">
+<url>http://foodcam.media.mit.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="罗切斯特">
+<url>http://harriscam.ce.rit.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="芝加哥">
+<url>http://140.192.244.125/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="雷德福">
+<url>http://137.45.136.225/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="芝加哥系列2">
+<url>http://140.192.244.124/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="盖恩斯维尔">
+<url>http://68.157.188.173:81/mjpg/1/video.mjpg</url>
+</video>
+<video name="孟菲斯">
+<url>http://141.225.28.49/mjpg/1/video.mjpg</url>
+</video>
+<video name="格林伍德">
+<url>http://24.54.99.6/mjpg/1/video.mjpg</url>
+</video>
+<video name="圣何塞">
+<url>http://66.243.43.111/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="图森">
+<url>http://166.89.65.156/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Bend">
+<url>http://samcosbend.homeip.net:82/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="维克森林">
+<url>http://166.82.38.62/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="芝加哥系列3">
+<url>http://140.192.109.189/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="北曼彻斯特">
+<url>http://spartancamii.manchester.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="斯科菲尔德">
+<url>http://206.176.200.94/-wvhttp-01-/GetOneShot?frame_count=no_limit::1;data=v.mjpg</url>
+</video>
+<video name="wellsboro">
+<url>http://vma3.viewnetcam.com:12395/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="奥本大学">
+<url>http://flycatcher.eng.auburn.edu:88/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="拉克罗斯">
+<url>http://198.150.32.55/-wvhttp-01-/GetOneShot?frame_count=no_limit::1;data=v.mjpg</url>
+</video>
+<video name="Unalakleet ">
+<url>http://wmocam.bssd.org/-wvhttp-01-/GetOneShot?frame_count=no_limit::1;data=v.mjpg</url>
+</video>
+<video name="奥罗诺">
+<url>http://209.222.195.10/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点3" order="0EC" >
+		<city name="福建莆田" type="1" order="G" >	
+			<video name="莆田秀屿区湄洲岛妈祖庙鼓楼-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006660020::1;PuId-ChannelNo=086594-1153196940::1;PuProperty=0::1;VauPtzAdd=218.6.16.85::1;VauPtzPort=50000::1;VauRtspAdd=218.6.16.85::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=2ae504f928cf6945</url>
+			</video>
+			<video name="莆田秀屿区湄洲岛妈祖庙鼓楼-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006660020::1;PuId-ChannelNo=086594-1153196940::1;PuProperty=0::1;VauPtzAdd=218.6.16.85::1;VauPtzPort=50000::1;VauRtspAdd=218.6.16.85::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=2ae504f928cf6945</url>
+			</video>
+
+      <video name="莆田湄洲岛妈祖升天阁-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1513542730::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=605706c5db8c575</url>
+			</video>
+			<video name="莆田湄洲岛妈祖升天阁-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1513542730::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=605706c5db8c575</url>
+			</video>
+
+      <video name="莆田荔城区阔口玉湖公园-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006660020::1;PuId-ChannelNo=086594--1127822751::1;PuProperty=0::1;VauPtzAdd=218.6.16.85::1;VauPtzPort=50000::1;VauRtspAdd=218.6.16.85::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=7091c82e7b133ee7</url>
+			</video>
+			<video name="莆田荔城区阔口玉湖公园-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006660020::1;PuId-ChannelNo=086594--1127822751::1;PuProperty=0::1;VauPtzAdd=218.6.16.85::1;VauPtzPort=50000::1;VauRtspAdd=218.6.16.85::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=7091c82e7b133ee7</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

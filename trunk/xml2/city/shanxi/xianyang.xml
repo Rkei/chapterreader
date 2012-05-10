@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="陕西" order="H5" >
+		<city name="咸阳" type="1" order="B" >
+			<!--video name="电影院十字(高分辨率)">
+			<url>rtsp://120.192.246.11:554/service?msisdn=10101300000020000::1;PuId-ChannelNo=010203010001010500000044::1;PlayMethod=0::1;StreamingType=2::1;PuProperty=1::1;VAUADD=10.110.10.43::1;VauRtspAdd=10.110.10.43::1;VauRtspPort=554::1;overtcp=00</url>
+			</video-->	
+			<video name="电影院十字(中分辨率)">
+			<url>rtsp://120.192.246.11:554/service?msisdn=10101300000020000::1;PuId-ChannelNo=010203010001010500000044::1;PlayMethod=0::1;StreamingType=4::1;PuProperty=1::1;VAUADD=10.110.10.43::1;VauRtspAdd=10.110.10.43::1;VauRtspPort=554::1;overtcp=00</url>
+			</video>	
+			<video name="电影院十字(低分辨率)">
+			<url>rtsp://120.192.246.11:554/service?msisdn=10101300000020000::1;PuId-ChannelNo=010203010001010500000044::1;PlayMethod=0::1;StreamingType=6::1;PuProperty=1::1;VAUADD=10.110.10.43::1;VauRtspAdd=10.110.10.43::1;VauRtspPort=554::1;overtcp=00</url>
+			</video>	
+			<!--video name="电影院十字(TD/WLAN)">
+			<url>rtsp://120.192.246.11:554/service?msisdn=10101300000020000::1;PuId-ChannelNo=010203010001010500000044::1;PlayMethod=0::1;StreamingType=0::1;PuProperty=1::1;VAUADD=10.110.10.43::1;VauRtspAdd=10.110.10.43::1;VauRtspPort=554::1;overtcp=00</url>
+			</video-->	
+
+		</city>
+	</province>
+</provinces> 

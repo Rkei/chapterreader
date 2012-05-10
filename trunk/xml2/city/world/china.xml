@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球景点" order="Q" >
+		<city name="中国" type="1" order="A" >	
+			<video name="中国.上海.外滩 ">
+			<url>mmsh://www.onedir.com/cam3</url>
+			</video>
+      <video name="中国.上海.东门路">
+			<url>mmsh://www.onedir.com/cam1</url>
+			</video>
+			<video name="中国.上海.外滩t">
+			<url>mmst://www.onedir.com/cam3</url>
+			</video>
+      <video name="中国.上海.东门路t">
+			<url>mmst://www.onedir.com/cam1</url>
+			</video>		
+			<video name="中国.青岛.栈桥">
+			<url>rtsp://60.209.7.135/zhanqiao</url>
+			</video>		
+			<video name="新华路">
+			<url>rtsp://218.201.202.233/broadcast/dy_xhl.rm</url>
+			</video>	
+			<video name="中国.湖北.恩施.州城中心">
+			<url>mmsh://gb.estv.com.cn/gjt</url>
+			</video>
+			<video name="中国.湖北.恩施.州城中心 t">
+			<url>mmst://gb.estv.com.cn/gjt</url>
+			</video>
+			<video name="中国.湖南.张家界.迷魂台">
+			<url>mmsh://220.168.204.82:8081/ms007.wmv?w=620|450</url>
+			</video>												
+			<video name="中国.湖南.张家界.水绕四门">
+			<url>mmsh://220.168.204.82:8082/ms001.wmv?w=620|450</url>
+			</video>				
+			<video name="中国.湖南.张家界.点将台">
+			<url>mmsh://220.168.204.82:8082/ms003.wmv?w=620|450</url>
+			</video>			
+			<video name="中国.湖南.张家界.老磨湾">
+			<url>mmsh://220.168.204.82:8082/ms002.wmv?w=620|450</url>
+			</video>				
+			<video name="中国.湖南.张家界.茅岩河">
+			<url>mmsh://220.168.204.82:8082/ms005.wmv</url>
+			</video>	
+			<video name="中国.湖南.张家界.天桥遗墩">
+			<url>mmsh://220.168.204.82:8082/ms005.wmv?w=620|450</url>
+			</video>
+			
+			<video name="乌市金银大道">
+			<url>rtmp://183.62.138.113/live/livestream51</url>
+			</video>
+			<video name="直播新疆丝绸">
+			<url>rtmp://124.117.226.122/live/camchina256</url>
+			</video>
+			<video name="巴州博斯腾湖广场">
+			<url>rtmp://124.117.226.122/live/CAP11009001</url>
+			</video>
+			<video name="巴州开都河广场">
+			<url>rtmp://124.117.226.122/live/CAP11008801</url>
+			</video>
+			<video name="新疆库尔勒孔雀河">
+			<url>rtmp://124.117.226.122/live/CAP11008601</url>
+			</video>
+			<video name="新疆库尔勒风帆广场">
+			<url>rtmp://124.117.226.122/live/CAP11008901</url>
+			</video>																							
+		</city>
+	</province>
+</provinces> 

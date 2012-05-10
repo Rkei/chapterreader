@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点二" order="0BB" >
+<city name="美国景点4" type="180" order="D" >	
+<video name="华盛顿">
+<url>http://70.88.152.30:10000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿姆斯特丹">
+<url>http://cam01.dcg.nxs.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="海滩避风港">
+<url>http://daycam01.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="哥伦比亚">
+<url>http://corrihertractors.axiscam.net:9550/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="图森系列2">
+<url>http://webcam3.mmto.arizona.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Owls Head">
+<url>http://72.95.127.157/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="科罗拉多斯普林斯">
+<url>http://skywaycreations.viewnetcam.com:800/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Owls Head系列2">
+<url>http://webcam.atlanticeyrielodge.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="迈阿密系列2">
+<url>http://allansmiamicam4.axiscam.net:8400/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="巴提">
+<url>http://mtstandard.serveftp.net:19141/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="南安普敦">
+<url>http://hopes.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="魔鬼湖">
+<url>http://dldsl131195.stellarnet.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="华盛顿系列2">
+<url>http://asla.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="瓦佩顿系列2">
+<url>http://134.129.32.142/mjpg/1/video.mjpg</url>
+</video>
+<video name="南安普敦系列2">
+<url>http://hopes.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="芝加哥系列6">
+<url>http://stay2.viewnetcam.com:85/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="都柏林">
+<url>http://209.172.109.142:9500/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="卡斯廷">
+<url>http://209.222.220.14/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="巴拿马城">
+<url>http://tmc.baycountyfl.gov:2309/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="盐湖城">
+<url>http://208.187.252.12/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="巴拿马城系列2">
+<url>http://tmc.baycountyfl.gov:2306/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南韦茅斯">
+<url>http://74.92.3.186:12062/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕斯科">
+<url>http://71.36.245.80:3001/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="科罗拉多斯普林斯系列2">
+<url>http://72.165.31.230/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="马斯基根">
+<url>http://24.236.250.155:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="卡博特">
+<url>http://billcam.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="弗兰特罗亚尔">
+<url>http://173.15.200.53/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="布莱克富特">
+<url>http://idaho1.viewnetcam.com:43/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Grand Junction">
+<url>http://webcam2.mesastate.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="洛杉矶">
+<url>http://74.62.193.106:1111/-wvhttp-01-/GetOneShot?frame_count=no_limit::1;data=v.mjpg</url>
+</video>
+<video name="西拉斐特">
+<url>http://128.210.180.179/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs version="1.5">
+<rtsp version="1.2" name="rtsp1.xml" />
+<rtsp version="1.2" name="rtsp2.xml" />
+<rtsp version="1.2" name="rtsp4.xml" />
+<rtsp version="1.2" name="rtsp5.xml" />
+<rtsp version="1.4" name="gdhs.xml" />
+<rtsp version="1.2" name="gdyz.xml" />
+<rtsp version="1.2" name="gdcg.xml" />
+<rtsp version="1.2" name="heyuan.xml" />
+<load version="1.3" name="city/gd.xml" />
+<load version="1.2" name="city/sc.xml" />
+<load version="1.2" name="city/heyuan.xml" />
+<load version="1.2" name="city/dianxin.xml" />
+<load version="1.4" name="city/zjnb.xml" />
+<load version="1.2" name="city/sh.xml" />
+<load version="1.2" name="city/hb.xml" />
+<load version="1.2" name="city/fj.xml" />
+<load version="1.2" name="city/guizhou/gz.xml" />
+<load version="1.2" name="city/world/world.xml" />
+<para name="appoffer" value="1" meney="20" />
+<para name="show1" value="1.15以上版本新增了200多个宁波摄像头，1.16版本增加了上海摄像头，抢鲜体验吧。无法播放的视频服务器正处于离线状态，请稍后尝试。" />
+<para name="show2" value="" />
+<para name="show3" value="" />
+<para name="rscount" value="5" /> 
+<para name="freeday" value="24" />
+<para name="youmi" value="113" />
+<para name="baidu" value="0" />
+<para name="tengxun" value="0" />
+<para name="pkgversion" value="1.02" />
+<para name="reflashtime" value="24" />
+<para name="pkgurl" value="http" >http://apk.goapk.com//apk/201111/18/com.wxcs_37163100_0.apk</para>
+<para name="vinvalid" value="1.0" />
+</configs>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点二" order="0BB" >
+<city name="美国景点6" type="180" order="F" >	
+<video name="格林斯博罗">
+<url>http://216.215.184.2/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="莱茵贝克">
+<url>http://theoldplace.homeip.net:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Aspen">
+<url>http://dogsaspen.dyndns.org:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列4">
+<url>http://24.39.200.66:8003/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="里诺">
+<url>http://206.158.4.16/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="梅德福系列2">
+<url>http://68.116.33.170:4004/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="巴尔的摩">
+<url>http://131.118.32.130/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Rock Hill">
+<url>http://dcccam.winthrop.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列10">
+<url>http://12.154.129.247/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="马凯特">
+<url>http://24.213.36.254:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="拉斐特">
+<url>http://24.249.90.99/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="芝加哥系列7">
+<url>http://140.192.244.123/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="好莱坞">
+<url>http://63.138.232.19/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="奥斯威戈系列5">
+<url>http://146.139.72.63/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="大西洋城">
+<url>http://138.89.253.56:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="洛杉矶系列2">
+<url>http://blchburbank1.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="阿尔弗雷德系列2">
+<url>http://webcam2.alfred.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="贝林翰系列3">
+<url>http://140.160.141.187/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="布莱克斯堡系列2">
+<url>http://128.173.44.107/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="马斯基根系列3">
+<url>http://24.236.250.155:8085/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="马凯特系列2">
+<url>http://24.213.36.254:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="洛杉矶系列3">
+<url>http://store80.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="纽瓦克">
+<url>http://128.175.122.228/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列11">
+<url>http://12.154.129.240/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="印地安那">
+<url>http://cam02.cc.iup.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="林肯系列2">
+<url>http://ucommcam2.unl.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥罗拉系列2">
+<url>http://205.244.118.49/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列12">
+<url>http://12.154.134.212/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列5">
+<url>http://67.53.34.94:4002/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿尔弗雷德系列3">
+<url>http://149.84.160.211/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="杰克逊维尔">
+<url>http://cam6461078.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+</city>
+</province>
+</provinces>

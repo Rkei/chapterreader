@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="G" >
+		<city name="泉州" type="1" order="C" >	
+			<video name="丰泽刺桐路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500062010100009180::1;StreamingType=1</url>
+			</video>
+			<video name="宝宝在线1">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100005723::1;StreamingType=1</url>
+			</video>
+			<video name="宝宝在线2">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009072::1;StreamingType=1</url>
+			</video>
+			<video name="宝宝在线3">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009073::1;StreamingType=1</url>
+			</video>
+			<video name="宝宝在线4">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009074::1;StreamingType=1</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

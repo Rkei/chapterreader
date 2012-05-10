@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球精选" order="0" >
+		<city name="全球精选" type="0" order="A" >
+			<video name="# 全球精选(单击加载)">
+				<url>city/world/jxsp1.xml</url>
+			</video>
+		</city>
+ </province>
+ <province name="美国" order="0" >
+		<city name="美国1" type="0" order="B" >
+			<video name="# 美国1(单击加载)">
+				<url>city/world2/qqjdmg2.xml</url>
+			</video>
+		</city>
+ </province>
+ <province name="日本" order="1" >
+		<city name="日本" type="0" order="D" >
+			<video name="# 日本(单击加载)">
+				<url>city/world/qqjdrb1.xml</url>
+			</video>
+		</city>		
+		<city name="日本2" type="180" order="E" >
+			<video name="# 日本2(单击加载)">
+				<url>city/world2/japan.xml</url>
+			</video>
+		</city>	
+ </province>
+ <province name="英国" order="1" >
+		<city name="英国" type="0" order="F" >
+			<video name="# 英国(单击加载)">
+				<url>city/world/qqjdyg1.xml</url>
+			</video>
+		</city>				
+</province>
+
+ <province name="俄罗斯" order="2" >
+		<city name="俄罗斯" type="180" order="A"  >
+			<video name="# 俄罗斯(单击加载)">
+				<url>city/world2/russia.xml</url>
+			</video>
+		</city>				
+</province>
+
+ <province name="瑞典" order="3" >
+		<city name="瑞典" type="180" order="A"  >
+			<video name="# 瑞典(单击加载)">
+				<url>city/world2/sweden.xml</url>
+			</video>
+		</city>				
+</province>
+
+ <province name="挪威" order="3" >
+		<city name="挪威" type="180" order="A"  >
+			<video name="# 挪威(单击加载)">
+				<url>city/world2/norway.xml</url>
+			</video>
+		</city>				
+</province>
+
+<province name="荷兰" order="3" >
+    <city name="荷兰" type="180" order="A" >	
+      <video name="# 荷兰(单击加载)">
+				<url>city/world2/netherlands.xml</url>
+			</video>
+		</city>				
+</province>
+
+<province name="波兰" order="3" >
+   <city name="波兰" type="180" order="A" >	
+	    <video name="# 波兰(单击加载)">
+				<url>city/world2/poland.xml</url>
+			</video>
+		</city>				
+</province>
+
+<province name="乌克兰" order="3" >
+<city name="乌克兰" type="180" order="A" >	
+	<video name="# 乌克兰(单击加载)">
+				<url>city/world2/ukraine.xml</url>
+			</video>
+		</city>				
+</province>
+
+<province name="美国景点" order="0BA" >
+    <city name="美国景点1" type="180" order="A" >	
+	     <video name="# 美国景点1(单击加载)">
+				  <url>city/world2/usa1.xml</url>
+			 </video>
+		</city>
+		<city name="美国景点2" type="180" order="B" >	
+	     <video name="# 美国景点2(单击加载)">
+				  <url>city/world2/usa2.xml</url>
+			 </video>
+		</city>	
+		<city name="美国景点3" type="180" order="C" >	
+	     <video name="# 美国景点3(单击加载)">
+				  <url>city/world2/usa3.xml</url>
+			 </video>
+		</city>					
+</province>
+
+<province name="美国景点二" order="0BB" >
+    <city name="美国景点4" type="180" order="D" >	
+	     <video name="# 美国景点4(单击加载)">
+				  <url>city/world2/usa4.xml</url>
+			 </video>
+		</city>
+		<city name="美国景点5" type="180" order="E" >	
+	     <video name="# 美国景点5(单击加载)">
+				  <url>city/world2/usa5.xml</url>
+			 </video>
+		</city>	
+		<city name="美国景点6" type="180" order="F" >	
+	     <video name="# 美国景点6(单击加载)">
+				  <url>city/world2/usa6.xml</url>
+			 </video>
+		</city>					
+</province>
+
+<province name="美国景点三" order="0BC" >
+    <city name="美国景点7" type="180" order="G" >	
+	     <video name="# 美国景点7(单击加载)">
+				  <url>city/world2/usa7.xml</url>
+			 </video>
+		</city>
+		<city name="美国景点8" type="180" order="H" >	
+	     <video name="# 美国景点8(单击加载)">
+				  <url>city/world2/usa8.xml</url>
+			 </video>
+		</city>	
+		<city name="美国景点9" type="180" order="I" >	
+	     <video name="# 美国景点9(单击加载)">
+				  <url>city/world2/usa9.xml</url>
+			 </video>
+		</city>					
+</province>
+
+<province name="美国景点四" order="0BD" >
+    <city name="美国景点10" type="180" order="J" >	
+	     <video name="# 美国景点10(单击加载)">
+				  <url>city/world2/usa10.xml</url>
+			 </video>
+		</city>
+		<city name="美国景点11" type="180" order="K" >	
+	     <video name="# 美国景点11(单击加载)">
+				  <url>city/world2/usa11.xml</url>
+			 </video>
+		</city>	
+		<city name="美国景点12" type="180" order="L" >	
+	     <video name="# 美国景点12(单击加载)">
+				  <url>city/world2/usa12.xml</url>
+			 </video>
+		</city>					
+</province>
+	
+<province name="其他地区" order="9" >
+	<city name="其他地区" type="0" order="H" >
+			<video name="# 其他地区(单击加载)">
+				<url>city/world2/qqjdqtgj1.xml</url>
+			</video>
+		</city>				
+</province>
+</provinces> 

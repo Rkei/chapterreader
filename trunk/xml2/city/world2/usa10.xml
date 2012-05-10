@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点四" order="0BD" >
+<city name="美国景点10" type="180" order="J" >	
+<video name="印地安那系列2">
+<url>http://cam01.cc.iup.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南波特兰">
+<url>http://208.233.32.8:1949/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="图森系列5">
+<url>http://hatcam.sao.arizona.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿尔弗雷德系列4">
+<url>http://149.84.160.250/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="格林维尔系列3">
+<url>http://70.46.124.139/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="亚基马系列3">
+<url>http://68.116.20.194:304/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="密尔沃基">
+<url>http://155.92.196.35/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="韦瑟福德">
+<url>http://lifecam.swosu.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="盖恩斯维尔系列2">
+<url>http://collaborationcommons.hscl.ufl.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="坦帕系列3">
+<url>http://24.73.219.222/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Collegeville">
+<url>http://construction.ursinus.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="霍普金斯">
+<url>http://prominigolf.bounceme.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="迈阿密系列4">
+<url>http://204.68.81.62/mjpg/1/video.mjpg</url>
+</video>
+<video name="迈阿密系列5">
+<url>http://204.68.81.63/mjpg/1/video.mjpg</url>
+</video>
+<video name="乔治敦系列2">
+<url>http://161.13.1.35/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="芝加哥系列10">
+<url>http://65.113.219.177/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Solon">
+<url>http://bmw.dnsalias.com:8082/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥罗拉系列3">
+<url>http://192.203.224.2:8090/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="道奇城">
+<url>http://209.184.47.33/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="拉斯维加斯">
+<url>http://206.194.62.32/mjpg/1/video.mjpg</url>
+</video>
+<video name="南波特兰系列2">
+<url>http://208.233.32.8:1948/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="哥伦比亚系列7">
+<url>http://corriherptz.axiscam.net:9550/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="莱明斯特">
+<url>http://ghr.dyndns.org:8002/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="哥伦比亚系列8">
+<url>http://corriherptz.axiscam.net:9551/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="谷村">
+<url>http://207.178.234.150:81/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="哈雷瓦">
+<url>http://67.52.86.70:5008/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Columbia">
+<url>http://lowerlot.axiscam.net:9551/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="拉克罗斯系列3">
+<url>http://198.150.52.78/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列14">
+<url>http://71.35.77.53:46001/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="法兰克福">
+<url>http://12.154.97.251/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="卡斯廷缅因州">
+<url>http://209.222.220.165/mjpg/1/video.mjpg</url>
+</video>
+</city>
+</province>
+</provinces>

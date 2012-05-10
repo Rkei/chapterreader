@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="广东" order="A" >
+		<city name="汕尾" type="1" order="L" >
+			<video name="汕尾圆盘慈云山广场">
+			<url>rtsp://211.139.247.217:554/play/653134232d28221e34322433323d7073717371797070747073793d/1241/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="汕尾海港罗马广场">
+			<url>rtsp://211.139.247.217:554/play/991316010f0a003c16100611101f52515351535b52525652515b1f/1247/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="汕尾移动综合楼服营厅">
+			<url>rtsp://211.139.247.217:554/play/614d485f51545e62484e584f4e410c0f0d0f0d050c0c080c0f0541/1239/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="汕尾后门高速公路">
+			<url>rtsp://211.139.247.217:554/play/594b4e59575258644e485e4948470a090b090b030a0a0e0a090347/1252/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="测试视频15">
+			<url>rtsp://211.139.247.217:554/play/663237202e2b211d37312730313e73707270727a73737773707a3e/1285/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="城区大圆盘">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3151/54381.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.247.217:554/play/832326313f3a300c26203621202f626262626163636a6763676b2f/1241/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</hdurl>
+			</video>
+			<video name="汕尾海港">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3151/55181.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.247.217:554/play/991316010f0a003c16100611101f525252525153535a5753575b1f/1247/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</hdurl>
+			</video>
+			<video name="综合楼服营厅" >
+	    <url>rtsp://211.139.247.217:554/play/932d283f31343e02282e382f2e216c6c6c6d6c6c6c656c646e6421/1239/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+      </video>
+		 <video name="汕尾测试03" >
+	   <url>rtsp://211.139.247.217:554/play/395752454b4e447852544255545b161616171616161f161e141e5b/1235/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+	   </video>
+		</city>
+	</province>
+</provinces> 

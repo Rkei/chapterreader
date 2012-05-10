@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="山西" order="H4" >
+		<city name="大同" type="1" order="E" >
+			<video name="魏都大道">
+			<url>tmss://211.142.5.161:9901/tmes_1036?isLive=true&amp;playTitle=魏都大道&amp;netType=1&amp;msisdn=10001&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>	
+			<video name="清远西街">
+			<url>tmss://211.142.5.161:9901/tmes_1035?isLive=true&amp;playTitle=清远西街&amp;netType=1&amp;msisdn=10001&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>	
+		</city>
+	</province>
+</provinces> 

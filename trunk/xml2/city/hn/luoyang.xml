@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <provinces version="1.2">
+	<province name="河南" order="H1" >
+		<city name="洛阳" type="1" order="C" >
+			<video name="中州路新华书店">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_111?isLive=true::1;amp;playTitle=中州路新华书店::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>
+		  <video name="牡丹桥南">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_104?isLive=true::1;amp;playTitle=牡丹桥南::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>		
+		  <video name="九都路解放路">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_123?isLive=true::1;amp;playTitle=九都路解放路::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="凯旋路解放路">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_105?isLive=true::1;amp;playTitle=凯旋路解放路::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="王城桥北">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_101?isLive=true::1;amp;playTitle=王城桥北::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="中州长春路口">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_119?isLive=true::1;amp;playTitle=中州长春路口::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="开元大道瀛洲桥">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_118?isLive=true::1;amp;playTitle=开元大道瀛洲桥::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="华山路青岛路口">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_114?isLive=true::1;amp;playTitle=华山路青岛路口::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>		
+		  <video name="洛宜路学府街">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_115?isLive=true::1;amp;playTitle=洛宜路学府街::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="英才路积翠南街">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_121?isLive=true::1;amp;playTitle=英才路积翠南街::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="古城路广利街交叉口">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_128?isLive=true::1;amp;playTitle=古城路广利街交叉口::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="王城大道古城路口">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_129?isLive=true::1;amp;playTitle=王城大道古城路口::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="开元大道通济街口">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_126?isLive=true::1;amp;playTitle=开元大道通济街口::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="小北门">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_106?isLive=true::1;amp;playTitle=小北门::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="金鹏小吃路口">
+			<url>TIVC:tmss://221.176.138.8:9901/lysx_702?isLive=true::1;amp;playTitle=金鹏小吃路口::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="威尼斯快速通道">
+			<url>TIVC:tmss://221.176.138.8:9901/lysx_703?isLive=true::1;amp;playTitle=威尼斯快速通道::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>		
+		  <video name="十字街">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_110?isLive=true::1;amp;playTitle=十字街::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="东花坛">
+			<url>TIVC:tmss://221.176.138.8:9901/lyjk_116?isLive=true::1;amp;playTitle=东花坛::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>			
+		  <video name="南京路口（涧河）">
+			<url>TIVC:tmss://221.176.138.8:9901/lyxajk_302?isLive=true::1;amp;playTitle=南京路口（涧河）::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="北京路口（国道）">
+			<url>TIVC:tmss://221.176.138.8:9901/lyxajk_301?isLive=true::1;amp;playTitle=北京路口（国道）::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>	
+		  <video name="上海路口（国道）">
+			<url>TIVC:tmss://221.176.138.8:9901/lyxajk_304?isLive=true::1;amp;playTitle=上海路口（国道）::1;amp;netType=1::1;amp;msisdn=null::1;amp;channel_id=0009::1;amp;ProgramID=5789105::1;amp;type=1::1;amp;isdebug=true::1;amp;lg=zh_cn</url>
+			</video>																																			
+	 </city>
+	</province>
+</provinces>

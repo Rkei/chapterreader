@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="其他国家" order="3" >
+		<city name="其他国家" type="1" order="H" >
+			<video name="俄亥俄.瓦尔多后墙ht">
+			<url>mmsh://live.camstreams.com/csbat481</url>
+			</video>
+			<video name="捷克PLAY电台直播间④ht">
+			<url>mmsh://netshow.play.cz/impulswebcam</url>
+			</video>
+			<video name="奥地利 卡林西亚 湖光山色ht">
+			<url>mmsh://gcssrv.pkf.speednet.at/WSX/panorama_ktn_live</url>
+			</video>
+			<video name="德国哈雷.街道">
+			<url>mmsh://217.69.240.110/pct?MSWMExt=.asf</url>
+			</video>
+			<video name="泰国.苏梅岛.拉麦海滩">
+			<url>mmst://wms.th66.com/Livecam194</url>
+			</video>
+			<video name="加拿大.蒙特利尔 街角">
+			<url>mmst://live.camstreams.com/csspag3</url>
+			</video>
+			<video name="加拿大.多伦多.吸尘器商店ht">
+			<url>mmst://live.camstreams.com/csscarborovacuum</url>
+			</video>
+			<video name="澳大利亚.艾丽斯斯普林斯.Bojangles酒吧">
+			<url>mmst://media3.shiftreload.com.au/bojangles</url>
+			</video>
+			<video name="澳大利亚.维多利亚.毒蜘蛛">
+			<url>mmsh://mvmedia.museum.vic.gov.au/TarantulaWebCam?MSWMExt=.asf</url>
+			</video>
+			<video name="德国.奥芬巴赫.街道 不稳定">
+			<url>mmsh://live.camstreams.com/camstreamsdeactivated.wmv?MSWMExt=.asf</url>
+			</video>
+			<video name="匈牙利.德布勒森.阿派德广场 不稳定">
+			<url>mmsh://kitlei2.selfip.net</url>
+			</video>
+			<video name="意大利.西西里岛.埃特纳火山 不稳定">
+			<url>mmsh://streaming.videobank.it/etna</url>
+			</video>
+			<video name="波兰.安德雷胡夫.街道 不稳定">
+			<url>mmsh://91.121.31.168:80/</url>
+			</video>
+			<video name="希腊.米克诺斯岛 不稳定">
+			<url>mmsh://live.camstreams.com/csmykmarkos</url>
+			</video>
+			<video name="耶路撒冷.哭墙 不稳定">
+			<url>mmsh://www.po-ip.co.il/kotel</url>
+			</video>
+			<video name="巴西.里奥格兰德.特拉曼代.沙滩 不稳定">
+			<url>mmsh://midiaserverbr2.com/ondas</url>
+			</video>
+			<video name="比利时 布鲁赛尔黄金广场 不稳定">
+			<url>mms://T1.cinebel.be/grandplace</url>
+			</video>
+			<video name="西班牙.阿尔梅里亚.路口 ">
+			<url>mmsh://69.60.116.248:80/camstreamsdeactivated.wmv?MSWMExt=.asf</url>
+			</video>
+			<video name="奥地利.蒂罗尔.山地 不稳定">
+			<url>mms://streamnt02.highway.telekom.at/panorama_see_adsl</url>
+			</video>
+			<video name="泰国.芭堤雅.噪音酒吧 不稳定">
+			<url>mms://live.camstreams.com/csNoisBar</url>
+			</video>
+			<video name="泰国.芭堤雅.噪音酒吧 不稳定">
+			<url>mmsh://live.camstreams.com/camstreamsdeactivated.wmv?MSWMExt=.asf</url>
+			</video>
+			<video name="加拿大.安大略.尼亚加拉瀑布">
+			<url>mmst://webcams.niagarafallshotels.com/CNH-Stream2</url>
+			</video>
+			<video name="加拿大.蒙特利尔.公寓 不稳定">
+			<url>mms://live.camstreams.com/cscomroom</url>
+			</video>
+			<video name="荷兰.未知地点.窗外 不稳定">
+			<url>mms://live.camstreams.com/csharriesteenbruggen</url>
+			</video>
+			<video name="荷兰.阿姆斯特丹.国王广场 不稳定">
+			<url>mms://rembrandt.terena.nl/stream2</url>
+			</video>
+			<video name="澳大利亚.悉尼.海滩 不稳定">
+			<url>mms://strm-wm-03.coastalwatch.com/cstmullaloo_broadband</url>
+			</video>
+			<video name="澳大利亚.昆士兰.国王海滩 不稳定">
+			<url>mms://wms.2977.edgecastcdn.net/202977/cw_kings</url>
+			</video>	
+		</city>
+	</province>
+</provinces> 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="乌克兰" order="3" >
+<city name="乌克兰" type="180" order="A" >	
+<video name="基辅1">
+<url>http://82.207.68.254/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="基辅2">
+<url>http://195.5.57.138/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="基辅3">
+<url>http://213.179.246.212/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="基辅4">
+<url>http://webcam.zp.ukrtel.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

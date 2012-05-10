@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点2" order="0EB" >
+		<city name="重庆景区" type="1" order="A" >	
+			<video name="仙女山">
+			<url>rtsp://183.65.36.54:18000/cslive/77</url>
+			</video>												
+			<video name="巫山红叶">
+			<url>rtsp://183.65.36.54:18000/cslive/89</url>
+			</video>				
+			<video name="巫峡">
+			<url>rtsp://183.65.36.54:18000/cslive/91</url>
+			</video>			
+			<video name="小三峡－小小三峡交汇处">
+			<url>rtsp://183.65.36.54:18000/cslive/92</url>
+			</video>		
+			<video name="巫山红叶2">
+			<url>rtsp://183.65.36.54:18000/cslive/94</url>
+			</video>	
+			<video name="小三峡－小小三峡交汇处">
+			<url>rtsp://183.65.36.54:18000/cslive/92</url>
+			</video>	
+			<video name="名山风景区（鬼城）">
+			<url>rtsp://183.65.36.54:18003/cslive/118</url>
+			</video>	
+			<video name="幸福广场">
+			<url>rtsp://183.65.36.54:18000/cslive/94</url>
+			</video>
+			<video name="嘉陵江大桥（渝中区段）">
+			<url>rtsp://183.65.36.54:18000/cslive/20</url>
+			</video>	
+			<video name="长江大桥（渝中区段）">
+			<url>rtsp://183.65.36.54:18000/cslive/53</url>
+			</video>
+			<video name="石门大桥（江北区段）">
+			<url>rtsp://183.65.36.54:18003/cslive/162</url>
+			</video>
+			<video name="半月楼立交">
+			<url>rtsp://183.65.36.54:18000/cslive/11</url>
+			</video>
+			
+			<video name="大学城往内环高速">
+			<url>rtsp://183.65.36.54:18000/cslive/26</url>
+			</video>
+			<video name="小龙坎立交">
+			<url>rtsp://183.65.36.54:18000/cslive/29</url>
+			</video>
+			<video name="会展中心往长江大桥">
+			<url>rtsp://183.65.36.54:18000/cslive/52</url>
+			</video>
+			<video name="朝天门大桥（南岸区段）">
+			<url>rtsp://183.65.36.54:18000/cslive/55</url>
+			</video>
+			
+			<video name="鹅公岩大桥（南岸区段）">
+			<url>rtsp://183.65.36.54:18000/cslive/58</url>
+			</video>
+			<video name="工贸立交">
+			<url>rtsp://183.65.36.54:18000/cslive/60</url>
+			</video>
+			<video name="万寿路往南城大道">
+			<url>rtsp://183.65.36.54:18000/cslive/62</url>
+			</video>
+			<video name="洋人街往腾龙大道">
+			<url>rtsp://183.65.36.54:18000/cslive/73</url>
+			</video>
+			
+			
+			<video name="行政服务中心">
+			<url>rtsp://183.65.36.54:18003/cslive/119</url>
+			</video>	
+			<video name="人和立交">
+			<url>rtsp://183.65.36.54:18000/cslive/45</url>
+			</video>	
+			<video name="汽博中心十字路口">
+			<url>rtsp://183.65.36.54:18000/cslive/50</url>
+			</video>	
+			<video name="天来大酒店十字路口">
+			<url>rtsp://183.65.36.54:18000/cslive/51</url>
+			</video>	
+			<video name="财富中心十字路口">
+			<url>rtsp://183.65.36.54:18000/cslive/67</url>
+			</video>	
+			
+			<video name="星光大道十字路口">
+			<url>rtsp://183.65.36.54:18000/cslive/68</url>
+			</video>	
+			<video name="泰山大道">
+			<url>rtsp://183.65.36.54:18000/cslive/95</url>
+			</video>	
+			<video name="金渝立交">
+			<url>rtsp://183.65.36.54:18003/cslive/108</url>
+			</video>	
+			<video name="民安大道（金帝豪苑路口）">
+			<url>rtsp://183.65.36.54:18003/cslive/113</url>
+			</video>	
+			
+			<video name="北环立交">
+			<url>rtsp://183.65.36.54:18003/cslive/143</url>
+			</video>	
+			<video name="北环入口至内环高速">
+			<url>rtsp://183.65.36.54:18003/cslive/144</url>
+			</video>	
+			
+			<video name="合川上十字路口">
+			<url>rtsp://183.65.36.54:18003/cslive/161</url>
+			</video>
+			<video name="塔耳门路口">
+			<url>rtsp://183.65.36.54:18003/cslive/166</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

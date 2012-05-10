@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs version="1.5">
+<rtsp version="1.2" name="rtsp1.xml" />
+<rtsp version="1.2" name="rtsp2.xml" />
+<rtsp version="1.2" name="rtsp4.xml" />
+<rtsp version="1.2" name="rtsp5.xml" />
+<rtsp version="1.4" name="gdhs.xml" />
+<rtsp version="1.2" name="gdyz.xml" />
+<rtsp version="1.2" name="gdcg.xml" />
+<rtsp version="1.4" name="heyuan.xml" />
+<load version="1.3" name="city/gd.xml" />
+<load version="1.2" name="city/sc.xml" />
+<load version="1.2" name="city/heyuan.xml" />
+<load version="1.2" name="city/dianxin.xml" />
+<load version="1.4" name="city/zjnb.xml" />
+<load version="1.2" name="city/sh.xml" />
+<load version="1.5" name="city/hb.xml" />
+<load version="1.7" name="city/fj.xml" />
+<load version="1.2" name="city/guizhou/gz.xml" />
+<load version="1.4" name="city/world/world21.xml" />
+<load version="1.4" name="city/world/zg.xml" />
+<load version="1.2" name="city/gslk/sh2.xml" />
+<load version="1.2" name="city/jiangsu/js.xml" />
+<load version="1.2" name="city/jl/jl.xml" />
+<load version="1.3" name="city/hainan/hn.xml" />
+<load version="1.2" name="city/nmg/nmg.xml" />
+<load version="1.5" name="city/hn/hn.xml" />
+<load version="1.5" name="city/sx/sx.xml" />
+<load version="1.2" name="city/shanxi/shanxi.xml" />
+<load version="1.2" name="city/cq/cq.xml" />
+<para name="appoffer" value="1" meney="20" />
+<para name="show1" value="说明一下，部分地区摄像头晚上会关闭，由于种种原因，目前上海地区部分路口摄像头延迟较大，而且播放30分钟前的重复录像，其他大部都是实时的，延迟为秒级。同时由于部分地区摄像头最近在调整，可能无法加载。谢谢你的支持。                 书虫听吧，支持txt小说播放，解放双眼，拥有海量小说和广播剧资源。                             英国摄像头为高清，较耗流量，建议通过wifi观看。手机观看视频需要切换到cmnet或wlan。无法播放的视频服务器正处于离线状态，请稍后尝试。" />
+<para name="show2" value="" />
+<para name="show3" value="" />
+<para name="rscount" value="5" /> 
+<para name="freeday" value="24" />
+<para name="youmi" value="245" />
+<para name="baidu" value="0" />
+<para name="tengxun" value="100" />
+<para name="pkgversion" value="1.02" />
+<para name="reflashtime" value="24" />
+<!--para name="tplayerurl" value="http" >http://wap.xiamentd.com/app/TrafficVideo/cache/download/1302862068463.apk</para-->
+<!--para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para-->
+<para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
+<!--para name="tplayerurl" value="http" >http://wap.nj.gov.cn/njwap/TemobiPlayer_signed.apk</para-->
+<para name="pkgurl" value="http" >http://apk.goapk.com//apk/201111/18/com.wxcs_37163100_0.apk</para>
+<para name="vinvalid" value="1.0" />
+</configs>

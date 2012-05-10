@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="重庆" order="H5" >
+		<city name="重庆市区" type="1" order="A" >
+			<video name="# 重庆市区(单击加载)">
+				<url>city/cq/cqsq.xml</url>
+			</video>
+		</city>							
+	</province>
+</provinces> 

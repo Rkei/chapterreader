@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点三" order="0BC" >
+<city name="美国景点8" type="180" order="H" >	
+<video name="斯普林菲尔德密苏里州">
+<url>http://66.220.231.110/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="诺克斯维尔系列6">
+<url>http://jjansheski.axiscam.net:8000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="林肯系列3">
+<url>http://129.93.141.53/mjpg/1/video.mjpg</url>
+</video>
+<video name="威廉斯堡">
+<url>http://128.239.101.125/mjpg/1/video.mjpg</url>
+</video>
+<video name="哥伦比亚系列3">
+<url>http://corrihertractors.axiscam.net:9551/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="汉密尔顿系列2">
+<url>http://149.43.156.109/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="史蒂文森">
+<url>http://206.58.237.158/mjpg/1/video.mjpg</url>
+</video>
+<video name="奥兰多">
+<url>http://atsphones.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="北港">
+<url>http://billslawn89d.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="瓦佩顿系列3">
+<url>http://134.129.32.141/mjpg/1/video.mjpg</url>
+</video>
+<video name="圣洛伦索">
+<url>http://fremontca.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="布莱顿">
+<url>http://wtghalab.dyndns.org:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Blairstown">
+<url>http://198.182.247.192/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="海洋岛海滩">
+<url>http://216.99.115.136:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="海伦娜系列2">
+<url>http://mtncam.coolcybercats.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="利物浦">
+<url>http://webcam1.lpl.org/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列9">
+<url>http://24.39.200.66:8017/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="魔鬼湖系列2">
+<url>http://lakecam.gondtc.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="西哈特福德">
+<url>http://cam2.mwd.hartford.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列10">
+<url>http://24.39.200.66:8001/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="费尔班克斯">
+<url>http://climatecam.gi.alaska.edu/mjpg/1/video.mjpg</url>
+</video>
+<video name="奥本大学系列2">
+<url>http://ncateastwebcam.eng.auburn.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列11">
+<url>http://24.39.200.66:8009/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥本大学系列3">
+<url>http://ncateastwebcam2.eng.auburn.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列12">
+<url>http://24.39.200.66:8011/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Marco Island">
+<url>http://marcoisland34145.axiscam.net:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="什里夫波特">
+<url>http://208.42.203.54:8586/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="希洛">
+<url>http://128.171.86.104/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="盐湖城系列2">
+<url>http://205.120.142.50/mjpg/1/video.mjpg</url>
+</video>
+<video name="圣彼得堡">
+<url>http://uphambeach.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="大急流城密歇根州">
+<url>http://153.106.112.46/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

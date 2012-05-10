@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="湖南" order="C" >
+		<city name="郴州" type="1" order="B" >
+			<video name="郴州苏仙岭路口"><url>rtsp://124.232.143.242:54245/CS_Live/42303_2</url></video>	
+			<video name="郴州五岭广场路口"><url>rtsp://124.232.143.242:54245/CS_Live/42304_2</url></video>	
+			<video name="郴州罗家井路口"><url>rtsp://124.232.143.242:54245/CS_Live/42305_2</url></video>	
+			<video name="郴州汽车总站路口"><url>rtsp://124.232.143.242:54245/CS_Live/42306_2</url></video>	
+			<video name="107国道北湖区政府路口"><url>rtsp://124.232.143.242:54245/CS_Live/42330_2</url></video>	
+			<video name="苏仙南路苏园桥道"><url>rtsp://124.232.143.242:54245/CS_Live/42331_2</url></video>	
+			<video name="飞虹路三中路口"><url>rtsp://124.232.143.242:54245/CS_Live/42332_2</url></video>	
+			<video name="飞虹路飞虹桥路口"><url>rtsp://124.232.143.242:54245/CS_Live/42333_2</url></video>	
+			<video name="燕泉路信用联社路口"><url>rtsp://124.232.143.242:54245/CS_Live/42334_2</url></video>	
+			<video name="西街人民医院路口"><url>rtsp://124.232.143.242:54245/CS_Live/42335_2</url></video>	
+			<video name="升平路火车站路口"><url>rtsp://124.232.143.242:54245/CS_Live/42346_2</url></video>	
+			<video name="北湖路建设银行路口"><url>rtsp://124.232.143.242:54245/CS_Live/42321_2</url></video>	
+			<video name="107国道天龙站路口"><url>rtsp://124.232.143.242:54245/CS_Live/42322_2</url></video>	
+			<video name="苏园路苏仙影视城路口"><url>rtsp://124.232.143.242:54245/CS_Live/42320_2</url></video>	
+			<video name="人民东路统一合作市场路口"><url>rtsp://124.232.143.242:54245/CS_Live/42319_2</url></video>	
+			<video name="香雪路香雪公馆路口"><url>rtsp://124.232.143.242:54245/CS_Live/42323_2</url></video>	
+			<video name="郴桂路天湖大酒店路口"><url>rtsp://124.232.143.242:54245/CS_Live/42318_2</url></video>
+			<video name="苏仙岭正大门"><url>rtsp://124.232.143.242:54245/CS_Live/42324_2</url></video>		
+			<video name="苏仙岭第二个大门"><url>rtsp://124.232.143.242:54245/CS_Live/42325_2</url></video>	
+			<video name="苏石路市政务中心路口"><url>rtsp://124.232.143.242:54245/CS_Live/42326_2</url></video>	
+			<video name="燕泉路日月大酒店路口"><url>rtsp://124.232.143.242:54245/CS_Live/42327_2</url></video>	
+			<video name="人民西路五连冠路口"><url>rtsp://124.232.143.242:54245/CS_Live/42328_2</url></video>	
+			<video name="国庆南路南塔路口"><url>rtsp://124.232.143.242:54245/CS_Live/42329_2</url></video>	
+			<video name="东南西北街口"><url>rtsp://124.232.143.242:54245/CS_Live/42341_2</url></video>	
+			<video name="人民东路厚尔酒店路口"><url>rtsp://124.232.143.242:54245/CS_Live/42342_2</url></video>	
+			<video name="107国道五岭驾校路口"><url>rtsp://124.232.143.242:54245/CS_Live/42343_2</url></video>
+		</city>
+	</province>
+</provinces> 

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="重庆" order="H5" >
+		<city name="重庆市区" type="1" order="A" >
+			<video name="松树桥立交">
+			<url>rtsp://183.65.36.54:18000/cslive/18</url>
+			</video>	
+			<video name="海关往红旗河沟">
+			<url>rtsp://183.65.36.54:18000/cslive/23</url>
+			</video>
+			<video name="新牌坊转盘">
+			<url>rtsp://183.65.36.54:18000/cslive/22377_2</url>
+			</video>
+			<video name="电子校立交">
+			<url>rtsp://183.65.36.54:18000/cslive/56</url>
+			</video>
+			<video name="建新东路往五里店转盘">
+			<url>rtsp://183.65.36.54:18000/cslive/65</url>
+			</video>
+			<video name="红土地立交">
+			<url>rtsp://183.65.36.54:18000/cslive/66</url>
+			</video>
+			<video name="红石路（大庆村站）">
+			<url>rtsp://183.65.36.54:18000/cslive/69</url>
+			</video>
+			<video name="余松路（北环往大庆村）">
+			<url>rtsp://183.65.36.54:18000/cslive/71</url>
+			</video>
+			<video name="高家花园大桥（江北区段）">
+			<url>rtsp://183.65.36.54:18000/cslive/72</url>
+			</video>
+			<video name="建新南路（华新街往观音桥）">
+			<url>rtsp://183.65.36.54:18000/cslive/109</url>
+			</video>
+			<video name="盘溪转盘">
+			<url>rtsp://183.65.36.54:18000/cslive/115</url>
+			</video>
+			<video name="小苑路（观音桥环道）">
+			<url>rtsp://183.65.36.54:18000/cslive/121</url>
+			</video>
+			<video name="石门大桥（江北区段）">
+			<url>rtsp://183.65.36.54:18000/cslive/162</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

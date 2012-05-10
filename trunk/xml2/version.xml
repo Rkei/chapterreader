@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs version="1.5">
+	<vfile version="1.3" name="city/gdgz.xml" />
+	<vfile version="1.2" name="city/gdsz.xml" />
+	<vfile version="1.2" name="city/gddg.xml" />
+	<vfile version="1.3" name="city/gdfs.xml" />
+	<vfile version="1.2" name="city/gdcz.xml" />
+	<vfile version="1.2" name="city/gdhw.xml" />
+	<vfile version="1.2" name="city/gdhz.xml" />
+	<vfile version="1.3" name="city/gdjm.xml" />
+	<vfile version="1.4" name="city/gdmm.xml" />
+	<vfile version="1.2" name="city/gdmz.xml" />
+	<vfile version="1.2" name="city/gdnsyg.xml" />
+	<vfile version="1.2" name="city/gdqy.xml" />
+	<vfile version="1.3" name="city/gdst.xml" />
+	<vfile version="1.3" name="city/gdsw.xml" />
+	<vfile version="1.2" name="city/gdsg.xml" />
+	<vfile version="1.2" name="city/gdyj.xml" />
+	<vfile version="1.2" name="city/gdyf.xml" />
+	<vfile version="1.2" name="city/gdzj.xml" />
+	<vfile version="1.2" name="city/gdzq.xml" />
+	<vfile version="1.2" name="city/gdzs.xml" />
+	<vfile version="1.2" name="city/gdzh.xml" />
+	<vfile version="1.2" name="city/heyuan.xml" />
+	<vfile version="1.2" name="city/sccd.xml" />
+	<vfile version="1.4" name="city/zjnb.xml" />
+	<vfile version="1.2" name="city/shpd.xml" />
+	<vfile version="1.2" name="city/shpt.xml" />
+	<vfile version="1.3" name="city/hbwh.xml" />
+	<vfile version="1.2" name="city/hbxy.xml" />
+	<vfile version="1.1" name="city/fjfz.xml" />
+	<vfile version="1.1" name="city/fjnp.xml" />
+	<vfile version="1.1" name="city/fjpt.xml" />
+	<vfile version="1.1" name="city/fjqz.xml" />
+	<vfile version="1.1" name="city/fjsm.xml" />
+	<vfile version="1.1" name="city/fjzz.xml" />
+	<vfile version="1.1" name="city/guizhou/gzas.xml" />
+	<vfile version="1.1" name="city/guizhou/gzbj.xml" />
+	<vfile version="1.1" name="city/guizhou/gzdy.xml" />
+	<vfile version="1.1" name="city/guizhou/gzgy.xml" />
+	<vfile version="1.1" name="city/guizhou/gzkl.xml" />
+	<vfile version="1.1" name="city/guizhou/gzlps.xml" />	
+	<vfile version="1.1" name="city/guizhou/gztr.xml" />	
+	<vfile version="1.1" name="city/guizhou/gzxy.xml" />	
+	<vfile version="1.1" name="city/guizhou/gzzy.xml" />	
+	<vfile version="1.1" name="city/world/china.xml" />
+	<vfile version="1.1" name="city/gslk/gslk.xml" />
+	<vfile version="1.1" name="city/gslk/qt.xml" />
+	<vfile version="1.1" name="city/world/world21.xml"/>
+	<vfile version="1.1" name="city/world/qqjdmg1.xml"/>
+	<vfile version="1.0" name="city/world/jxsp.xml"/>
+	<vfile version="1.1" name="city/jiangsu/jsnj.xml"/>
+	<vfile version="1.1" name="city/fjxm.xml"/>
+	<vfile version="1.2" name="city/hb/hbyc.xml"/>
+	<vfile version="1.2" name="city/cq/cqsq.xml"/>
+</configs>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="河南" order="H1" >
+		<city name="郑州" type="1" order="A" >	
+			<video name="东风路文化路">
+			<url>tmss://221.176.138.8:9901/zzdljk_108</url>
+			</video>
+			<video name="农业路花园路">
+			<url>tmss://221.176.138.8:9901/zzdljk_102</url>
+			</video>
+			
+			<video name="紫荆山立交三层">
+			<url>tmss://221.176.138.8:9901/zzdljk_119</url>
+			</video>
+			<video name="金水路南阳立交三层">
+			<url>tmss://221.176.138.8:9901/zzdljk_118</url>
+			</video>
+			<video name="经三路东风路">
+			<url>tmss://221.176.138.8:9901/zzdljk_117</url>
+			</video>
+			<video name="金水路中州大道">
+			<url>tmss://221.176.138.8:9901/zzdljk_116</url>
+			</video>
+			<video name="北环路南阳路">
+			<url>tmss://221.176.138.8:9901/zzdljk_115</url>
+			</video>
+			<video name="文化路与北环路口路">
+			<url>tmss://221.176.138.8:9901/zzdljk_114</url>
+			</video>
+			<video name="花园路丰产路">
+			<url>tmss://221.176.138.8:9901/zzdljk_113</url>
+			</video>
+			<video name="黄河路南阳路口">
+			<url>tmss://221.176.138.8:9901/zzdljk_112</url>
+			</video>
+			<video name="农业路南阳路">
+			<url>tmss://221.176.138.8:9901/zzdljk_111</url>
+			</video>
+			<video name="金水路未来路">
+			<url>tmss://221.176.138.8:9901/zzdljk_110</url>
+			</video>
+			<video name="北环文化路立交">
+			<url>tmss://221.176.138.8:9901/zzdljk_109</url>
+			</video>
+			<video name="黄河路文化路">
+			<url>tmss://221.176.138.8:9901/zzdljk_107</url>
+			</video>
+			<video name="花园路黄河路">
+			<url>tmss://221.176.138.8:9901/zzdljk_106</url>
+			</video>
+			<video name="金水路城东路">
+			<url>tmss://221.176.138.8:9901/zzdljk_104</url>
+			</video>
+			<video name="花园路东风路">
+			<url>tmss://221.176.138.8:9901/zzdljk_103</url>
+			</video>
+			<video name="农业路经三路">
+			<url>tmss://221.176.138.8:9901/zzdljk_120</url>
+			</video>
+			<video name="解放路铭功路">
+			<url>tmss://221.176.138.8:9901/zzdljk_101</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

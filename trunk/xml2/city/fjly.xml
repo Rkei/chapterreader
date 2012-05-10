@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="G" >
+		<city name="龙岩" type="1" order="J" >
+			<video name="城市建设管理监察大队大门监控2">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0050::1;channel=2::1;streamtype=1::1;streamEncoding=1::1;acsip=218.207.200.135::1;acsport=7660::1;acsusr=admin::1;acspwd=12345::1;usrtype=1::1;naluflag=1::1;transport=1::1;netline=1/track</url>
+			</video>
+			<video name="城下路口处1">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0072::1;channel=1::1;streamtype=1::1;streamEncoding=1::1;acsip=218.207.200.135::1;acsport=7660::1;acsusr=admin::1;acspwd=12345::1;usrtype=1::1;naluflag=1::1;transport=1::1;netline=1/track</url>
+			</video>
+			<video name="环卫处视频监控 黄竹坑1通道01">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0030::1;channel=1::1;streamtype=0::1;netType=0::1;streamEncoding=1::1;acsip=218.207.200.135::1;acsport=7660::1;acsusr=admin::1;acspwd=12345::1;usrtype=1::1;naluflag=1::1;transport=1::1;netline=1/track</url>
+			</video>
+			<video name="灌洋路口1">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0073::1;channel=1::1;streamtype=1::1;streamEncoding=1::1;acsip=218.207.200.135::1;acsport=7660::1;acsusr=admin::1;acspwd=12345::1;usrtype=1::1;naluflag=1::1;transport=1::1;netline=1/track</url>
+			</video>
+			<video name="环卫处视频监控 黄竹坑3 通道01">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0033::1;channel=1::1;streamtype=0::1;netType=0::1;streamEncoding=1::1;acsip=218.207.200.135::1;acsport=7660::1;acsusr=admin::1;acspwd=12345::1;usrtype=1::1;naluflag=1::1;transport=0::1;netline=1/track</url>
+			</video>		
+			
+			<video name="城市建设管理监察大队大门监控2">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0050::1;amp;channel=2::1;amp;streamtype=1::1;amp;streamEncoding=1::1;amp;acsip=218.207.200.135::1;amp;acsport=7660::1;amp;acsusr=admin::1;amp;acspwd=12345::1;amp;usrtype=1::1;amp;naluflag=1::1;amp;transport=1::1;amp;netline=1/track</url>
+			</video>		
+			<video name="莲花环岛路口">
+			<url>TIVC:rtsp://218.207.200.141/PUID-ChannelNo=14000000000000000011200009200000-4::1;amp;PlayMethod=0</url>
+			</video>
+			<video name="永定虎岗乡人民政府城下路口">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0072::1;amp;channel=1::1;amp;streamtype=1::1;amp;streamEncoding=1::1;amp;acsip=218.207.200.135::1;amp;acsport=7660::1;amp;acsusr=admin::1;amp;acspwd=12345::1;amp;usrtype=1::1;amp;naluflag=1::1;amp;transport=1::1;amp;netline=1/track</url>
+			</video>
+			<video name="环卫处视频监控 黄竹坑1通道01">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0030::1;amp;channel=1::1;amp;streamtype=0::1;amp;netType=0::1;amp;streamEncoding=1::1;amp;acsip=218.207.200.135::1;amp;acsport=7660::1;amp;acsusr=admin::1;amp;acspwd=12345::1;amp;usrtype=1::1;amp;naluflag=1::1;amp;transport=1::1;amp;netline=1/track</url>
+			</video>
+			<video name="国贸路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009500000-2::1;amp;PlayMethod=0</url>
+			</video>
+			<video name="九一南路路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009500000-4::1;amp;PlayMethod=0</url>
+			</video>
+			<video name="麒丰路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009500000-3::1;amp;PlayMethod=0</url>
+			</video>
+			<video name="高速路出口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009800000-1::1;amp;PlayMethod=0</url>
+			</video>
+			<video name="小溪环岛路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009200000-3::1;amp;PlayMethod=0</url>
+			</video>
+			<video name="闽西宾馆路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009800000-2::1;amp;PlayMethod=0</url>
+			</video>
+			
+			<video name="永定虎岗乡人民政府灌洋路口">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0073::1;amp;channel=1::1;amp;streamtype=1::1;amp;streamEncoding=1::1;amp;acsip=218.207.200.135::1;amp;acsport=7660::1;amp;acsusr=admin::1;amp;acspwd=12345::1;amp;usrtype=1::1;amp;naluflag=1::1;amp;transport=1::1;amp;netline=1/track</url>
+			</video>
+			<video name="环卫处视频监控 黄竹坑3 通道01">
+			<url>TIVC:rtsp://218.207.200.145:7554/livestream?deviceid=0033::1;amp;channel=1::1;amp;streamtype=0::1;amp;netType=0::1;amp;streamEncoding=1::1;amp;acsip=218.207.200.135::1;amp;acsport=7660::1;amp;acsusr=admin::1;amp;acspwd=12345::1;amp;usrtype=1::1;amp;naluflag=1::1;amp;transport=0::1;amp;netline=1/track</url>
+			</video>
+			<video name="龙腾人民路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009500000-1::1;amp;PlayMethod=0</url>
+			</video>
+			
+			<video name="公交公司路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009200000-2::1;amp;PlayMethod=0</url>
+			</video>
+			<video name="隔后桥路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009800000-4::1;amp;PlayMethod=0</url>
+			</video>
+			<video name="龙腾人民路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009500000-1::1;amp;PlayMethod=0</url>
+			</video>
+			<video name="龙腾人民路口">
+			<url>TIVC:rtsp://218.207.200.141:7554/PUID-ChannelNo=14000000000000000011200009500000-1::1;amp;PlayMethod=0</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

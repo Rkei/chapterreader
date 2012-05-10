@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="广东">
+		<city name="河源2" type="1">
+			<video name="源城区36-双下路与河源大道交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=428::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区36-啸仙中学大门前">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=429::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区36-河源中学大门口左侧">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=430::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区36-河源大道市电视大学前">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=431::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区37-沿江路与大同路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=436::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区37-市一小前十字路口3">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=439::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区37-市财政局路口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=440::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区38-凯丰路兴源路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=445::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区38-市一小前十字路口1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=448::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区39-河源广场前拐角处">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=452::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区39-兴源路东华路交汇家乐福前">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=455::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区39-市一中大门旁">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=457::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区40-大同路文明路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=460::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区40-长安街永安农贸市场">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=461::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区41-新兴东巷财贸幼儿园路口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=469::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区41-城市广场大门前">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=470::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区41-长安街东华路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=471::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区41-红星路华达路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=472::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区42-红星路大同路交汇(市政施工)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=476::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区42-广晟广场地税局前">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=477::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区42-红星路东华路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=479::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区42-长安市场大门对面">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=481::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区43-长安街华达街交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=484::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区43-长安街新风路交汇1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=487::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区44-市三小大门对面">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=492::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区44-东升学校大门右侧">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=495::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区44-沿江路凯丰路交汇1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=496::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区45-新风路文明路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=501::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区45-兴源市场门前路段">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=502::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区46-河源会议中心出口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=508::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区46-长安街河源大道交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=513::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区47-大同路长安街交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=517::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区47-兴源路新风路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=519::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区48-文明路东华路交汇1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=524::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区48-广晟广场停车场">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=526::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区49-长安西街保健院门口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=532::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区49-人民医院新区门诊部1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=533::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区49-人民医院新区门诊部2">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=536::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区50-红星路新风路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=541::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区50-市政府大门右侧">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=542::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区50-市公安局大门对面">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=544::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区51-河源大道源城区客运站">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=548::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区51-长塘路大桥路交汇">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=550::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区53-上角中心幼儿园大门">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=565::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区54-中心市场大门内">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=572::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区54-汽车总站入口右侧">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=575::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区54-河源大桥桥头">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=577::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区55-源城区人民医院">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=582::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区56-上角市场内十字路口1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=588::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区57-沿江路天琴半岛喷泉">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=596::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区58-灯光球场出美食街拐角1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=607::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区59-祥丰商业街恒兴隆广场前">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=616::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区60-万绿商业广场中心区出口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=621::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区60-科技五路龙记市场路口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=623::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区60-科技四路高新派出所大门">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=625::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区61-兴业大道-高新区管委会">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=628::1;isqy=0
+				</url>
+			</video>
+			<video name="源城区61-科八路-南开学校大门">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=24::1;cid=630::1;isqy=0
+				</url>
+			</video>
+			<video name="和平01-汽车总站大楼右侧">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=20::1;cid=750::1;isqy=0
+				</url>
+			</video>
+			<video name="和平01-六角亭桥头">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=20::1;cid=751::1;isqy=0
+				</url>
+			</video>
+			<video name="和平01-阳明一小对面">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=20::1;cid=752::1;isqy=0
+				</url>
+			</video>
+			<video name="和平02-福和中学路口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=20::1;cid=757::1;isqy=0
+				</url>
+			</video>
+			<video name="和平02-东方家具广场路口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=20::1;cid=760::1;isqy=0
+				</url>
+			</video>
+			<video name="紫金01-永安大道北镇二小学路口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=19::1;cid=678::1;isqy=0
+				</url>
+			</video>
+			<video name="紫金02-步行街内">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=19::1;cid=686::1;isqy=0
+				</url>
+			</video>
+			<video name="紫金03-环城路紫金中学老操场路口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=19::1;cid=692::1;isqy=0
+				</url>
+			</video>
+			<video name="紫金04-金山大道人民医院">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=19::1;cid=700::1;isqy=0
+				</url>
+			</video>
+			<video name="紫金04-金山大道紫金文化广场">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=19::1;cid=702::1;isqy=0
+				</url>
+			</video>
+			<video name="紫金05-金山大道汽车站侧">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=19::1;cid=709::1;isqy=0
+				</url>
+			</video>
+			<video name="连平01-连平中学大门左侧墙角">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=23::1;cid=768::1;isqy=0
+				</url>
+			</video>
+			<video name="连平01-平县附城中学墙角">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=23::1;cid=769::1;isqy=0
+				</url>
+			</video>
+			<video name="连平02-连平车站候车室内">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=23::1;cid=774::1;isqy=0
+				</url>
+			</video>
+			<video name="连平03-步行街内十字路口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=23::1;cid=781::1;isqy=0
+				</url>
+			</video>
+			<video name="连平04-人民医院对面河东乡下菜前">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=23::1;cid=790::1;isqy=0
+				</url>
+			</video>
+			<video name="龙川01-门诊部十字路口 一">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=22::1;cid=719::1;isqy=0
+				</url>
+			</video>
+			<video name="龙川02-育苗幼儿园路口 一">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=22::1;cid=725::1;isqy=0
+				</url>
+			</video>
+			<video name="龙川02-田家炳中学 一">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=22::1;cid=728::1;isqy=0
+				</url>
+			</video>
+			<video name="龙川03-火车站广场 二">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=22::1;cid=732::1;isqy=0
+				</url>
+			</video>
+			<video name="龙川04-龙城街心花园　一">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=22::1;cid=742::1;isqy=0
+				</url>
+			</video>
+			<video name="东源01-文化广场东侧入口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=21::1;cid=639::1;isqy=0
+				</url>
+			</video>
+			<video name="东源02-东源中学前T字路口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=21::1;cid=649::1;isqy=0
+				</url>
+			</video>
+			<video name="东源03-黄沙大道中国移动大楼前1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=21::1;cid=653::1;isqy=0
+				</url>
+			</video>
+			<video name="东源04-新源社区爱婴家园路口1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=21::1;cid=660::1;isqy=0
+				</url>
+			</video>
+			<video name="东源05-中心市场内广场">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=21::1;cid=668::1;isqy=0
+				</url>
+			</video>
+			<video name="阳光幼儿园－活动区二-摄像头1">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=27::1;cid=104::1;isqy=1
+				</url>
+			</video>
+			<video name="阳光幼儿园-活动区一">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=27::1;cid=107::1;isqy=1
+				</url>
+			</video>
+			<video name="阳光幼儿园-园区大门口">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=27::1;cid=108::1;isqy=1
+				</url>
+			</video>
+			<video name="星谷科技-前台">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=28::1;cid=812::1;isqy=1
+				</url>
+			</video>
+			<video name="星谷科技-A办公区">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=28::1;cid=813::1;isqy=1
+				</url>
+			</video>
+			<video name="星谷科技-B办公区">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=28::1;cid=814::1;isqy=1
+				</url>
+			</video>
+			<video name="建设大道移动服务大厅1-路况">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=detail::1;gid=4::1;cid=3::1;isqy=0
+				</url>
+			</video>
+
+		</city>
+	</province>
+</provinces> 

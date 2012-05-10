@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="广东" order="A" >
+		<city name="河源-源城区" type="4" order="E" >
+			<video name="! 源城区1(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=24::1;pi=1::1;pz=40
+				</url>
+			</video>
+			<video name="! 源城区2(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=24::1;pi=2::1;pz=40
+				</url>
+			</video>	
+			<video name="! 源城区3(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=24::1;pi=3::1;pz=40
+				</url>
+			</video>	
+			<video name="! 源城区4(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=24::1;pi=4::1;pz=40
+				</url>
+			</video>	
+			<video name="! 源城区5(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=24::1;pi=5::1;pz=40
+				</url>
+			</video>	
+			<video name="! 源城区6(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=24::1;pi=6::1;pz=40
+				</url>
+			</video>																						 		
+		</city>	
+		<city name="河源-其他" type="4" order="F" >
+			<video name="! 紫金县(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=19::1;pi=1::1;pz=40
+				</url>
+			</video>
+			<video name="! 和平县(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=20::1;pi=1::1;pz=40
+				</url>
+			</video>
+			<video name="! 东源县(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=21::1;pi=1::1;pz=40
+				</url>
+			</video>
+			<video name="! 龙川县(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=22::1;pi=1::1;pz=40
+				</url>
+			</video>	
+			<video name="! 连平县(单击加载)">
+				<url>
+					http://v.gmcchy.com/wap/index.php?opr=pub::1;gid=23::1;pi=1::1;pz=40
+				</url>
+			</video>									
+		</city>												
+	</province>		
+</provinces> 

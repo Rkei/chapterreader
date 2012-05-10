@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点2" order="0EB" >
+		<city name="福建漳州" type="1" order="E" >	
+			<video name="漳州南靖土楼田螺坑上观景-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-797910963::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=2c3aaa60495c7794</url>
+			</video>
+			<video name="漳州南靖土楼田螺坑上观景-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-797910963::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=2c3aaa60495c7794</url>
+			</video>
+
+	
+	    <video name="漳州南靖土楼河坑后观光台-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--296962761::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=66b1435074b60e9a</url>
+			</video>
+			<video name="漳州南靖土楼河坑后观光台-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--296962761::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=66b1435074b60e9a</url>
+			</video>
+			
+			<video name="漳州华安土楼观光台-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-974684311::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=46419a170d3938b9</url>
+			</video>
+			<video name="漳州华安土楼观光台-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-974684311::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=46419a170d3938b9</url>
+			</video>
+			
+			<video name="漳州华安二宜楼制高点全景-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--164867838::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=22371efd6e72d9a4</url>
+			</video>
+			<video name="漳州华安二宜楼制高点全景-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--164867838::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=22371efd6e72d9a4</url>
+			</video>
+
+      <video name="漳州华安二宜楼大门内侧-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-605224797::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=564d80533fb1574b</url>
+			</video>
+			<video name="漳州华安二宜楼大门内侧-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-605224797::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=564d80533fb1574b</url>
+			</video>
+
+      <video name="漳州华安二宜楼边门内侧-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1951314714::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=75350cf913b65a55</url>
+			</video>
+			<video name="漳州华安二宜楼边门内侧-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1951314714::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=75350cf913b65a55</url>
+			</video>
+			
+			<video name="漳州华安二宜楼四楼隐通廊-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1053921436::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=2816766b0f6ab63d</url>
+			</video>
+			<video name="漳州华安二宜楼四楼隐通廊-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1053921436::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=2816766b0f6ab63d</url>
+			</video>
+
+      <video name="漳州华安二宜楼十单元-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1446259304::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=73295f2f1fdc5491</url>
+			</video>
+			<video name="漳州华安二宜楼十单元-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1446259304::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=73295f2f1fdc5491</url>
+			</video>
+			
+			<video name="漳州华安南阳楼制高点全景-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1296080307::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=6c5980d37d26b39e</url>
+			</video>
+			<video name="漳州华安南阳楼制高点全景-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1296080307::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=6c5980d37d26b39e</url>
+			</video>
+			
+			<video name="漳州华安南阳楼大门内侧-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1652797072::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=742b5704194c85ee</url>
+			</video>
+			<video name="漳州华安南阳楼大门内侧-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1652797072::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=742b5704194c85ee</url>
+			</video>
+
+      <video name="漳州华安南阳楼3楼文物参观内走廊-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1744776946::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=343d35b51b451125</url>
+			</video>
+			<video name="漳州华安南阳楼3楼文物参观内走廊-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1744776946::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=343d35b51b451125</url>
+			</video>
+			
+			<video name="漳州华安南阳楼3楼文物参观走廊-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1872077589::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=5eeee30a03ca237f</url>
+			</video>
+			<video name="漳州华安南阳楼3楼文物参观走廊-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1872077589::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=5eeee30a03ca237f</url>
+			</video>
+
+
+      <video name="漳州东阳楼2楼制高点全景-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1974193068::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=71a663ac51191c87</url>
+			</video>
+			<video name="漳州东阳楼2楼制高点全景-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1974193068::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=71a663ac51191c87</url>
+			</video>
+
+      <video name="漳州东阳楼大门入口处全景-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--2101493711::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=6e9ad5565bd55289</url>
+			</video>
+			<video name="漳州东阳楼大门入口处全景-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--2101493711::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=6e9ad5565bd55289</url>
+			</video>
+			
+			<video name="漳州东山西门兜海堤-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1565397881::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=64aa73862005fc07</url>
+			</video>
+			<video name="漳州东山西门兜海堤-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1565397881::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=64aa73862005fc07</url>
+			</video>
+			
+			<video name="漳州东山宫前村码头-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1886518641::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=663424fe112c593c</url>
+			</video>
+			<video name="漳州东山宫前村码头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1886518641::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=663424fe112c593c</url>
+			</video>
+
+
+      <video name="漳州东山澳角村码头-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--46797927::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=12900d5c6a7d133c</url>
+			</video>
+			<video name="漳州东山澳角村码头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--46797927::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=12900d5c6a7d133c</url>
+			</video>
+
+
+      <video name="漳州西埔湾码头-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1143021395::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=27a1045d1563489c</url>
+			</video>
+			<video name="漳州西埔湾码头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1143021395::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=27a1045d1563489c</url>
+			</video>
+
+		</city>
+	</province>
+</provinces> 
