@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点" order="0" >
+		<city name="张家界" type="1" order="D" >	
+			<video name="中国.湖南.张家界.迷魂台">
+			<url>mmsh://220.168.204.82:8081</url>
+			</video>												
+			<video name="中国.湖南.张家界.水绕四门">
+			<url>mmsh://220.168.204.83:8081</url>
+			</video>				
+			<video name="中国.湖南.张家界.点将台">
+			<url>mmsh://220.168.204.82:8083</url>
+			</video>			
+			<video name="中国.湖南.张家界.老磨湾">
+			<url>mmsh://220.168.204.83:8083</url>
+			</video>				
+			<video name="中国.湖南.张家界.天桥遗墩">
+			<url>mmsh://220.168.204.82:8082/ms005.wmv?w=620|450</url>
+			</video>
+			<video name="中国.湖南.张家界.张家界御笔峰">
+			<url>mmsh://220.168.204.83:8082</url>
+			</video>		
+		</city>
+	</province>
+</provinces> 

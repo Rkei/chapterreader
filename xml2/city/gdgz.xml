@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.3">
+	<province name="广东" order="A" >
+		<city name="广州" type="1" order="A" >
+			<video name="测试">
+			    <url>rtsp://120.197.4.28:554/live/1/08C7579B652C2D7E/kbutaj889ee4dx9w.sdp</url>
+			</video>		
+			<video name="·天河北路-天河东路交界">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=1</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/08C7579B652C2D7E/kbutaj889ee4dx9w.sdp</hdurl>
+			</video>
+			<video name="·猎德大桥-阅江路段">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=3</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/5F70448166150530/fkhyldt0ri92f2wf.sdp</hdurl>
+			</video>
+			<video name="·中山大道西-科韵路交界">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=7</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/3E0721D154F60DEF/syiubra2azl52x0g.sdp</hdurl>
+			</video>
+			<video name="·中山大道西-华快立交">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=20</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/60D7090328C84D48/e7ooqwcfbqjoo80j.sdp</hdurl>
+			</video>
+			<video name="·中山大道西-天府路口">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=21</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/276F7A0B2A9D5EE4/fkhyldt0ri92f2wf.sdp</hdurl>
+			</video>
+			<video name="·中山大道西-科韵路口">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=22</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/2ED404BE4F222DBD/fkhyldt0ri92f2wf.sdp</hdurl>
+			</video>
+			<video name="·中山大道西-车陂路口">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=23</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/282A69BA2003232D/kbutaj889ee4dx9w.sdp</hdurl>
+			</video>
+			<video name="·中山大道中-东圃加油站西">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=24</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/3E21386E1E3E1517/kbutaj889ee4dx9w.sdp</hdurl>
+			</video>
+			<video name="·中山大道中-东圃加油站东">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=25</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/7D0F25654A9264EF/fkhyldt0ri92f2wf.sdp</hdurl>
+			</video>
+			<video name="·广园快速-五山立交">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=26</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/7B0476BD64905DCE/syiubra2azl52x0g.sdp</hdurl>
+			</video>
+			<video name="·环市西路天富荔珊鞋城前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=64</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/CC90AA2BFD41F2E4/5b1acf38984b35ae.sdp</hdurl>
+			</video>
+			<video name="·环市西路市客运站入口处">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=78</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/EC30D4A97BE44ACE/2n6tddisqdperhg1.sdp</hdurl>
+			</video>
+			<video name="·沿江东路-湖滨宾馆">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=2</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/4B2A36A041FB2423/kpkq1x5sn4xrdxbl.sdp</hdurl>
+			</video>
+			<video name="·东风东路省建行">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=15</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/03294ABB314633CD/kpkq1x5sn4xrdxbl.sdp</hdurl>
+			</video>
+			<video name="·环市西火车站中广场前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=60</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/5A8CB3EAF90C5922/cj1rt4unoe4kqkq1.sdp</hdurl>
+			</video>
+			<video name="·环市西路流花车站前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=61</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/29B70FCAE4E56D86/fdgr1bzumscly4rj.sdp</hdurl>
+			</video>
+			<video name="·草暖公园站">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=62</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/E0DFED949FDE598F/utohmh6hb7fetbbz.sdp</hdurl>
+			</video>
+			<video name="·站前路总站">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=63</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/8D972FD44929D8F6/mik67ryrgubtcue5.sdp</hdurl>
+			</video>
+			<video name="·人民北路友谊剧院前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=65</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/874EF926167DFD21/nqcn3mw4mzaxpd6y.sdp</hdurl>
+			</video>
+			<video name="·站前路与站南路交界处">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=66</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/019120484A0BE422/ihqy40akndc8na9p.sdp</hdurl>
+			</video>
+			<video name="·火车站总站广场（入口处）">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=67</url>
+			    <hdurl>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=67</hdurl>
+			</video>
+			<video name="·站前路与白马大厦前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=68</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/FE7B0E8DF9A4DB1C/s1ljr46tajbhamcj.sdp</hdurl>
+			</video>
+			<video name="·环市西路与广园西路交界处">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=69</url>
+			    <hdurl>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=69</hdurl>
+			</video>
+			<video name="·环市西路火车站西广场前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=71</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/7EEF6C338501B699/s74zi961etsyszrv.sdp</hdurl>
+			</video>
+			<video name="·环市路广播电台前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=73</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/952FB48F39493420/mc0x9t0k36bqnsts.sdp</hdurl>
+			</video>
+			<video name="·环市西路与站前路交界处流花车站出口人行天桥下">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=75</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/63DEED0BD1F9D1E3/k8jdtjg0he1nnxoq.sdp</hdurl>
+			</video>
+			<video name="·环市西路市客运站出口处">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=76</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/D7543B122D7FDBD7/ljm3mh4lxh2jakqf.sdp</hdurl>
+			</video>
+			<video name="·环市西路与站南路交界处壹马大厦对面">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=77</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/726E54180D3A519B/knajlii8m3e1priv.sdp</hdurl>
+			</video>
+			<video name="·环市西路省汽车站旅客出口旁">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=85</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/F37C161465A87C74/7xsynhlngczbcxau.sdp</hdurl>
+			</video>
+			<video name="·环市西路省汽车站出租车上客点">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=86</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/5184FE5E3346D9AA/jwb8urmz6ng4coqk.sdp</hdurl>
+			</video>
+			<video name="·火车站出租车候客区">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=87</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/0FCF99E8A13B763C/8j2c32qh7fcrrm8k.sdp</hdurl>
+			</video>
+			<video name="·火车站出租车上客区">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=88</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/8C1527C38E27B793/4i9847kx94cql0k8.sdp</hdurl>
+			</video>
+			<video name="·丰乐路-大沙地东交界">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=17</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/57104EA22BC76279/fkhyldt0ri92f2wf.sdp</hdurl>
+			</video>
+			<video name="·港湾路-黄浦东路交界">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=19</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/2EAA41306F616FF2/kpkq1x5sn4xrdxbl.sdp</hdurl>
+			</video>
+			<video name="·黄埔东路-庙头路口">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=27</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/34F6593E3CC20412/kbutaj889ee4dx9w.sdp</hdurl>
+			</video>
+			<video name="·茅岗路-护林路交界">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=28</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/091006506B2842CC/kpkq1x5sn4xrdxbl.sdp</hdurl>
+			</video>
+			<video name="·黄埔东路-新华路口">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=30</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/5F70448166150530/fkhyldt0ri92f2wf.sdp</hdurl>
+			</video>
+			<video name="·文化公园-人民高架">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=4</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/23E01AB7648043EA/e7ooqwcfbqjoo80j.sdp</hdurl>
+			</video>
+			<video name="·东风西-西场立交">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=5</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/00DF0956659A0043/fkhyldt0ri92f2wf.sdp</hdurl>
+			</video>
+			<video name="·黄沙大道-珠江隧道路段">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=8</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/3F792E417B503DE4/f0syreukmjei3hgv.sdp</hdurl>
+			</video>
+			<video name="·中山七-康王路交界">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=11</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/607D161F59557FCF/syiubra2azl52x0g.sdp</hdurl>
+			</video>
+			<video name="·广园西-华南影都路段">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=14</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/031743126FC811E4/ipson9pay28wsrvi.sdp</hdurl>
+			</video>
+			<video name="·西湾路与机务段交界处">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=72</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/81A3E3FA643B3D4C/uo6b2v1yzqgddqeg.sdp</hdurl>
+			</video>
+			<video name="·环市西路与站前路交界处流花宾馆门前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=74</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/6414166A03CD9311/k2h33e84ygzalan1.sdp</hdurl>
+			</video>
+			<video name="·花地大道与涴花路交界处十字路口">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=108</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/EE79B208A4B166E5/yhuu2nf1j0d16th7.sdp</hdurl>
+			</video>
+			<video name="·花地大道芳村客运站对面人行天桥旁">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=110</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/CC4B15C62FEDA685/o2dwcd81qmb07wv3.sdp</hdurl>
+			</video>
+			<video name="·花地大道芳村客运站前公交站前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=111</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/6E51820349040FC1/3qjh8y7olqy5chq9.sdp</hdurl>
+			</video>
+			<video name="·花地大道绿化带百安居前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=112</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/8F7004450E96D4A8/6ju8xwuchtajdft5.sdp</hdurl>
+			</video>
+			<video name="·花地大道中新意装横中心前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=114</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/9C5C5E7E0E4420DF/16edwsme8mkxityg.sdp</hdurl>
+			</video>
+			<video name="·花地大道微八连锁酒店旁天桥下">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=115</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/BED828BACDE24B29/a73e24257320f55b.sdp</hdurl>
+			</video>
+			<video name="·广佛路银海花园对面">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=117</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/9F004A826CDA0497/3yuk2adckpfx0yyu.sdp</hdurl>
+			</video>
+			<video name="·香雪三路-凯通楼（东面）">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=13</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/7E44383E366E3CB0/e7ooqwcfbqjoo80j.sdp</hdurl>
+			</video>
+			<video name="·萝岗收费站入口广场">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=52</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/EF13482F03DC2933/8a4voqh24zx9htt9.sdp</hdurl>
+			</video>
+			<video name="·萝岗收费站出口广场">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=53</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/C2CD8B4D228B79B7/vxwmvgh6xaj6mzmp.sdp</hdurl>
+			</video>
+			<video name="·火村收费站入口广场">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=54</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/30AF1247E53E4E2D/gtl6b7mqoi9r72kr.sdp</hdurl>
+			</video>
+			<video name="·人民桥-洪德路段">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=9</url>
+			    <hdurl>rtsp://120.197.4.28:554/live/1/0CDC34EA31303BBE/syiubra2azl52x0g.sdp</hdurl>
+			</video>
+			<video name="·环市路大北立交红绿灯处">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=70</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/133EA45173C113FA/ruf97owdbiu1fxf9.sdp</hdurl>
+			</video>
+			<video name="·琶洲展馆出租车候客通道前">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=96</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/7D6C1E1B4297862C/snojk9s68is03ou6.sdp</hdurl>
+			</video>
+			<video name="·琶洲展馆出租车上客点">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=97</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/2B9933FCC79490B3/h4wt7uic8rwri2sx.sdp</hdurl>
+			</video>
+			<video name="·芳村大道西广东省商业技工学校路口">
+			    <url>http://wap.wirelessgz.cn/smtf/phone/IG/playVideo.vm?id=116</url>
+			    <hdurl>rtsp://120.197.4.35/mobile/1/23CC57004EB0BCF8/joj5d2kd2b3xtlcd.sdp</hdurl>
+			</video>	 
+		</city>
+	</province>
+</provinces> 

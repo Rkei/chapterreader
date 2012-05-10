@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="中国景点" order="0EA" >
+<city name="台湾" type="1" order="I" >	
+<video name="台北1">
+<url>http://140.112.168.161:50005/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="台北2">
+<url>http://140.112.168.161:50004/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="台北3">
+<url>http://163.20.78.78/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="彰化">
+<url>http://61.60.112.230/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

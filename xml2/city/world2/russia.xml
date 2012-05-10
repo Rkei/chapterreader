@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="俄罗斯" order="2" >
+<city name="俄罗斯" type="180" order="A" >	
+<video name="乌法1">
+<url>http://92.50.128.238:12007/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法2">
+<url>http://92.50.128.238:12009/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法3">
+<url>http://92.50.128.238:12073/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法4">
+<url>http://92.50.128.238:12002/mjpg/1/video.mjpg</url>
+</video>
+<video name="乌法5">
+<url>http://92.50.128.238:12074/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法6">
+<url>http://92.50.128.238:12006/mjpg/1/video.mjpg</url>
+</video>
+<video name="乌法7">
+<url>http://92.50.128.238:12095/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法8">
+<url>http://92.50.128.238:12080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法9">
+<url>http://92.50.128.238:12075/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法10">
+<url>http://92.50.128.238:12071/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法11">
+<url>http://92.50.128.238:12070/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法12">
+<url>http://92.50.128.238:12057/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法13">
+<url>http://92.50.128.238:12051/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法14">
+<url>http://92.50.128.238:12031/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Tyumen">
+<url>http://webcam5.ttknet.ru/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法15">
+<url>http://92.50.128.238:12043/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法16">
+<url>http://92.50.128.238:12041/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法17">
+<url>http://92.50.128.238:12044/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法18">
+<url>http://92.50.128.238:12066/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="秋明1">
+<url>http://85.15.135.130/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="莫斯科">
+<url>http://212.42.54.135:8008/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="罗斯托夫-NA-donu">
+<url>http://webcam.iubip.ru:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="托木斯克">
+<url>http://212.192.120.253/mjpg/1/video.mjpg</url>
+</video>
+<video name="汉特 - 曼西斯克">
+<url>http://webcam.admhmao.ru/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法19">
+<url>http://92.50.128.238:12050/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法20">
+<url>http://92.50.128.238:12052/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法21">
+<url>http://92.50.128.238:12038/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法22">
+<url>http://92.50.128.238:12037/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法23">
+<url>http://92.50.128.238:12035/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法24">
+<url>http://92.50.128.238:12033/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法25">
+<url>http://92.50.128.238:12028/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法26">
+<url>http://92.50.128.238:12024/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法27">
+<url>http://92.50.128.238:12023/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法28">
+<url>http://92.50.128.238:12022/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法29">
+<url>http://92.50.128.238:12019/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法30">
+<url>http://92.50.128.238:12015/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法31">
+<url>http://92.50.128.238:12010/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法32">
+<url>http://92.50.128.238:12064/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="莫斯科2">
+<url>http://213.251.199.163/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法33">
+<url>http://92.50.128.238:12029/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="索契34">
+<url>http://62.182.141.132/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="秋明2">
+<url>http://webcam4.ttknet.ru/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="莫斯科3">
+<url>http://212.42.54.136:8008/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="马加丹">
+<url>http://89.28.252.218/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="加特契纳">
+<url>http://193.111.254.182/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="莫斯科4">
+<url>http://195.239.51.162/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法36">
+<url>http://92.50.128.238:12090/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法37">
+<url>http://dcccam.winthrop.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法38">
+<url>http://92.50.128.238:12042/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法39">
+<url>http://92.50.128.238:12093/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法40">
+<url>http://92.50.128.238:12030/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="秋明3">
+<url>http://85.15.135.134/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法42">
+<url>http://92.50.128.238:12016/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法43">
+<url>http://92.50.128.238:12063/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法44">
+<url>http://92.50.128.238:12011/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法45">
+<url>http://92.50.128.238:12058/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法46">
+<url>http://92.50.128.238:12026/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法47">
+<url>http://92.50.128.238:12017/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="秋明4">
+<url>http://webcam1.ttknet.ru/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="秋明5">
+<url>http://85.15.135.133/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法48">
+<url>http://92.50.128.238:12053/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌法49">
+<url>http://92.50.128.238:12091/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

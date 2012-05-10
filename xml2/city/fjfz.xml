@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="G" >
+		<city name="福州" type="1" order="A" >
+			<video name="福州市得贵巷">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012641::1;StreamingType=1</url>
+			</video>
+			<video name="福州市政状元镜1">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012630::1;StreamingType=1</url>
+			</video>
+			<video name="福州市政迎宾路">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012628::1;StreamingType=1</url>
+			</video>
+			<video name="福州市政首山路">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012629::1;StreamingType=1</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

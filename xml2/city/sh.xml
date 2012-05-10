@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="上海" order="C" >
+		<city name="浦东" type="0" order="A" >
+			<video name="# 浦东(单击加载)">
+				<url>city/shpd.xml</url>
+			</video>
+		</city>		
+		<city name="普陀" type="0" order="B" >
+			<video name="# 普陀(单击加载)">
+				<url>city/shpt.xml</url>
+			</video>
+		</city>				
+	</province>
+</provinces> 

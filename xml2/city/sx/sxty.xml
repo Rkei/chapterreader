@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="山西" order="H4" >
+		<city name="太原" type="1" order="A" >
+			<video name="迎泽大街火车站站前广场">
+			<url>tmss://211.142.5.161:9901/tmes_1026?isLive=true&amp;playTitle=迎泽大街火车站站前广场&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>	
+			<video name="西北环高速向阳段">
+			<url>tmss://211.142.5.161:9901/tmes_1027?isLive=true&amp;playTitle=西北环高速向阳段&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+			<video name="南内环街新建路口">
+			<url>tmss://211.142.5.161:9901/tmes_1002?isLive=true&amp;playTitle=南内环街新建路口&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+			<video name="西北环高速上薛段">
+			<url>tmss://211.142.5.161:9901/tmes_1028?isLive=true&amp;playTitle=西北环高速上薛段&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+			<video name="滨河东路平阳西巷口">
+			<url>tmss://211.142.5.161:9901/tmes_1004?isLive=true&amp;playTitle=滨河东路平阳西巷口&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+			<video name="双塔西街解放南路口">
+			<url>tmss://211.142.5.161:9901/tmes_1023?isLive=true&amp;playTitle=双塔西街解放南路口&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+			<video name="南内环街体育路丁字路口">
+			<url>tmss://211.142.5.161:9901/tmes_1021?isLive=true&amp;playTitle=南内环街体育路丁字路口&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+			<video name="迎泽大街火车站路口">
+			<url>tmss://211.142.5.161:9901/tmes_1025?isLive=true&amp;playTitle=迎泽大街火车站路口&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+			<video name="胜利街新建路口">
+			<url>tmss://211.142.5.161:9901/tmes_1022?isLive=true&amp;playTitle=胜利街新建路口&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+			<video name="长风街新晋祠路口">
+			<url>tmss://211.142.5.161:9901/tmes_1001?isLive=true&amp;playTitle=长风街新晋祠路口&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+			<video name="新晋祠农展馆路口">
+			<url>tmss://211.142.5.161:9901/tmes_1003?isLive=true&amp;playTitle=新晋祠农展馆路口&amp;netType=1&amp;msisdn=null&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

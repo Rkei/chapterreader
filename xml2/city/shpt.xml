@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.3">
+	<province name="上海" order="C" >
+		<city name="普陀" type="200" order="B" >
+			<video name="武宁路普雄路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00004.rm</url>
+			</video>	
+			<video name="武宁路中山北路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00014.rm</url>
+			</video>
+			<video name="金沙江真北路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00007.rm</url>
+			</video>
+			<video name="金沙江路大渡河路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00009.rm</url>
+			</video>
+			<video name="曹杨路兰溪路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00002.rm</url>
+			</video>
+			<video name="曹杨路中山北路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00011.rm</url>
+			</video>
+			<video name="曹杨路武宁路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00003.rm</url>
+			</video>
+			<video name="曹杨路铜川路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00012.rm</url>
+			</video>
+			<video name="武宁路东新路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00013.rm</url>
+			</video>
+			<video name="长寿路西康路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00017.rm</url>
+			</video>
+			<video name="长寿路安远路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00015.rm</url>
+			</video>
+			<video name="金沙江路真光路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00008.rm</url>
+			</video>
+			<video name="中山北路金沙江路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00001.rm</url>
+			</video>
+			<video name="金沙江路枣阳路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00010.rm</url>
+			</video>
+			<video name="武宁路长寿路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00005.rm</url>
+			</video>
+			<video name="长寿路胶州路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00016.rm</url>
+			</video>
+			<video name="长寿路江宁路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00006.rm</url>
+			</video>
+			<video name="中山北路光新路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00018.rm</url>
+			</video>
+			<video name="沪太路新村路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00019.rm</url>
+			</video>
+			<video name="大渡河路武宁路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00020.rm</url>
+			</video>
+			<video name="曹安路万镇路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00022.rm</url>
+			</video>
+			<video name="曹安路真光路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00023.rm</url>
+			</video>
+			<video name="志丹路新村路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00024.rm</url>
+			</video>
+			<video name="志丹路平利路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00025.rm</url>
+			</video>
+			<video name="曹杨路普雄路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00026.rm</url>
+			</video>
+			<video name="大渡河路铜川路">
+			<url>rtsp://120.204.198.7:80/transportVideo/jj00021.rm</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

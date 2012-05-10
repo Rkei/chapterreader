@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点3" order="0EC" >
+		<city name="福建福州" type="1" order="F" >	
+			<video name="福州福清园下洪春松涛园-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1491914563::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=7902eb2a3e785d97</url>
+			</video>
+			<video name="福州福清园下洪春松涛园-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1491914563::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=7902eb2a3e785d97</url>
+			</video>
+
+      <video name="福州鼓山眺望台-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--567258843::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=7f1818887e425379</url>
+			</video>
+			<video name="福州鼓山眺望台-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--567258843::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=7f1818887e425379</url>
+			</video>
+			
+			<video name="福州平潭会展中心-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--680250056::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=837cfe159ef0058</url>
+			</video>
+			<video name="福州平潭会展中心-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--680250056::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=837cfe159ef0058</url>
+			</video>
+
+      <video name="福州永泰县大樟溪休闲娱乐中心-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1323079710::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=490bb3ce4c09ae17</url>
+			</video>
+			<video name="福州永泰县大樟溪休闲娱乐中心-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1323079710::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=490bb3ce4c09ae17</url>
+			</video>
+
+
+      <video name="福州福清体育公园-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--666760868::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=c5440621185db24</url>
+			</video>
+			<video name="福州福清体育公园-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--666760868::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=c5440621185db24</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

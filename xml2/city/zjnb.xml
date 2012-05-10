@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="浙江" order="B" >
+		<city name="宁波" type="110" order="C" >
+			<video name="#5 宁波(1.14以上版本)(单击加载)">
+				<url>http://www.nbkjt.com/services/PUWebServiceGZIP/getvideo?GetType=2</url>
+			</video>
+		</city>			
+	</province>
+</provinces> 

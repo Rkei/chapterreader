@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="河南" order="H1" >
+		<city name="三门峡" type="1" order="E" >	
+			<video name="连霍高速洛阳出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_131</url>
+			</video>
+			<video name="连霍高速新安出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_134</url>
+			</video>
+			<video name="连霍高速偃师出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_135</url>
+			</video>
+			<video name="连霍高速孟津出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_133</url>
+			</video>
+			<video name="连霍高速洛阳东出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_132</url>
+			</video>
+			<video name="西南环高速伊川北出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_136</url>
+			</video>
+			<video name="西南环高速新区出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_138</url>
+			</video>
+			<video name="西南环高速涧西出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_140</url>
+			</video>
+			<video name="二广高速瀍河出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_137</url>
+			</video>
+			<video name="二广高速汝阳出入口">
+			<url>tmss://221.176.138.8:9901/lyjk_139</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

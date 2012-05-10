@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="广东" order="A" >
+	   <city name="阳江" type="1" order="N" >
+			<video name="东风三路环湖路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/48505.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500003657::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=a2412abdc88ffaacfdadfa149f74f238</hdurl>
+			</video>
+			<video name="石湾北路漠江路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/48507.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500003661::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=bef1b3dbc5d37f3663ba5b9340076db0</hdurl>
+			</video>
+			<video name="西平北路新江路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/48508.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500003663::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=d4e91310389cf373f48a98bb259413ef</hdurl>
+			</video>
+			<video name="东风三路鹰山路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/48447.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500003637::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=5381b61185716fd46959ce8baf9fa083</hdurl>
+			</video>
+			<video name="金山路尤鱼桥头">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/48448.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500003621::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=1de882d70ebb5f5490ed77d18bd94075</hdurl>
+			</video>
+			<video name="石湾南路东风路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/48445.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500003236::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=f9ac68fc26d4ba1fbbf995625dd1bef4</hdurl>
+			</video>
+			<video name="东风二路二环路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/48446.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500003238::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=43a2b3bb4488205188d2e78415886b9d</hdurl>
+			</video>
+			<video name="东风三路鸳鸯湖">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/54501.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500003915::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=bb3b03b10abc14da5234d1c43f6765a0</hdurl>
+			</video>
+			<video name="两阳中学前门右">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/54181.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500004074::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=4661c636bf39e50f64a7ac6e05590457</hdurl>
+			</video>
+			<video name="两阳中学前门左">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/54182.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500004075::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=4716feddfee5e5f3e57b9361c4cae8c0</hdurl>
+			</video>
+			<video name="阳西实验小学校外">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/54861.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500004434::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=fe10c5634992c64c1f30fda83f81f822</hdurl>
+			</video>
+			<video name="阳西实验小学校内">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/54862.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500004433::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=a754c0196f2378a45ae49dfad96a42e0</hdurl>
+			</video>
+			<video name="马尾岛鱼排">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/54863.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500004478::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123124636::1;encrypt=495b56e87c36f28b64e0a09c07688609</hdurl>
+			</video>
+			<video name="闸坡大角湾入口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/54881.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500004480::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123125231::1;encrypt=43d396ac2879701740383ee99ab5a6b0</hdurl>
+			</video>
+			<video name="新江北路财政局路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3181/48244.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500003174::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123125231::1;encrypt=e1b3b01c5ff23a1ab04963fae504bf33</hdurl>
+			</video>
+			<video name="新江北路体育路段" >
+	    <url>http://yjsdnm.vhosta.1065m.com/lk/16.htm</url>
+	    <hdurl>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010401010500003189::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110602173525::1;encrypt=d76ccc8fa7a2c0346710025637a06fc8</hdurl>
+	    </video>
+	    <video name="阳东县塘坪镇马尾村鱼场" >
+	    <url>http://yjsdnm.vhosta.1065m.com/lk/23.htm</url>
+	    <hdurl>rtsp://211.139.251.75:554/service?PuId-ChannelNo=010203010401010500004708::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110730224434::1;encrypt=e26d8ad36baf598e4d8b9bc9c550ddaa</hdurl>
+	    </video>
+		  <video name="方正小学校内" >
+	    <url>http://yjsdnm.vhosta.1065m.com/lk/11.htm</url>
+	    <hdurl>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010401010500004254::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110603152840::1;encrypt=36118a5f8396e65dcf5edc4a5b5f5d20</hdurl>
+	    </video>
+	    <video name="方正小学校外" >
+	    <url>http://yjsdnm.vhosta.1065m.com/lk/12.htm</url>
+	    <hdurl>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010401010500004255::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110603153937::1;encrypt=92297c61188213ef86d78d68eaaacd70</hdurl>
+	    </video>
+	    <video name="闸坡风车群景点" >
+	    <url>http://yjsdnm.vhosta.1065m.com/lk/21.htm</url>
+	    <hdurl>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010401010500004491::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110602221944::1;encrypt=4f96fde4d95eb2a05bc02fb1503c5f41</hdurl>
+	    </video>
+	    <video name="闸坡大角湾全景" >
+	    <url>http://yjsdnm.vhosta.1065m.com/lk/22.htm</url>
+	    <hdurl>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010401010500004490::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.164.131::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110602221902::1;encrypt=fb9f295827e69c79a33ab9d22704956f</hdurl>
+    	</video>
+     </city>	
+		</province>
+</provinces> 

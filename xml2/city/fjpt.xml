@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="G" >
+		<city name="莆田" type="1" order="B" >
+			<video name="福厦路赤溪段路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008759::1;StreamingType=1</url>
+			</video>
+			<video name="涵江新涵大街路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008773::1;StreamingType=1</url>
+			</video>
+			<video name="荔城区文献路">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008592::1;StreamingType=1</url>
+			</video>
+			<video name="秀屿火车站入口视频">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400194010100013211::1;StreamingType=1</url>
+			</video>
+			<video name="仙游县鲤南镇城南西路路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008630::1;StreamingType=1</url>
+			</video>
+			<video name="莆田高楼梅园路路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008315::1;StreamingType=1</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

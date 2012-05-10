@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点2" order="0EB" >
+		<city name="福建厦门" type="1" order="D" >	
+			<video name="厦门滨北员当湖-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1062158003::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=38a36a66706c9a29</url>
+			</video>
+			<video name="厦门滨北员当湖-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1062158003::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=38a36a66706c9a29</url>
+			</video>
+															
+			<video name="厦门环岛南路厦大白城景区-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1567331065::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=7315210315c00f2b</url>
+			</video>	
+			<video name="厦门环岛南路厦大白城景区-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1567331065::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=7315210315c00f2b</url>
+			</video>
+						
+			<video name="厦门曾厝安海滨浴场-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--537888783::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=5aa8db9b024ca5e7</url>
+			</video>	
+			<video name="厦门曾厝安海滨浴场-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--537888783::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=5aa8db9b024ca5e7</url>
+			</video>
+					
+			<video name="厦门鼓浪屿轮渡码头-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-810567741::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=4ccf3ee019090826</url>
+			</video>	
+			<video name="厦门鼓浪屿轮渡码头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-810567741::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=4ccf3ee019090826</url>
+			</video>	
+						
+			<video name="厦门轮渡海边景象-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-556984941::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=6e2236346b82d133</url>
+			</video>
+			<video name="厦门轮渡海边景象-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-556984941::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=6e2236346b82d133</url>
+			</video>
+			
+			<video name="厦门鼓浪屿港仔后海滨浴场-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--2137935569::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=6147862835ffb17c</url>
+			</video>	
+			<video name="厦门鼓浪屿港仔后海滨浴场-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--2137935569::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=6147862835ffb17c</url>
+			</video>	
+			
+			<video name="厦门鼓浪屿景象-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--434796874::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=3afd402159a09900</url>
+			</video>	
+			<video name="厦门鼓浪屿景象-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--434796874::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=3afd402159a09900</url>
+			</video>	
+			
+			<video name="厦门市同安区北辰山走马坪与水库-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--2026520355::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=191e2cd83e454d22</url>
+			</video>	
+			<video name="厦门市同安区北辰山走马坪与水库-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--2026520355::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=191e2cd83e454d22</url>
+			</video>		
+			
+			<video name="厦门市同安区北辰山仙宫顶-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-516408929::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=27c6806e60968c1e</url>
+			</video>	
+			<video name="厦门市同安区北辰山仙宫顶-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-516408929::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=27c6806e60968c1e</url>
+			</video>	
+			
+			
+			<video name="厦门同安北辰山仙女瀑布-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-954418432::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=56124c997795ce4c</url>
+			</video>
+			<video name="厦门同安北辰山仙女瀑布-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-954418432::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=56124c997795ce4c</url>
+			</video>
+			
+			<video name="厦门同安北辰山龙潭瀑布-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1830437438::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=3404a0cb26353134</url>
+			</video>
+			<video name="厦门同安北辰山龙潭瀑布-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1830437438::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=3404a0cb26353134</url>
+			</video>
+			
+			<video name="厦门市同安区北辰山观景台-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1392427935::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=5569ac001e8f0e74</url>
+			</video>
+			<video name="厦门市同安区北辰山观景台-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1392427935::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=5569ac001e8f0e74</url>
+			</video>
+			
+			<video name="厦门同安北辰山王沈之广场-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-78399426::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=589d3dfc6f15c12a</url>
+			</video>
+			<video name="厦门同安北辰山王沈之广场-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-78399426::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=589d3dfc6f15c12a</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

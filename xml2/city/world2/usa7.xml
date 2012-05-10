@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点三" order="0BC" >
+<city name="美国景点7" type="180" order="G" >	
+<video name="普罗沃">
+<url>http://webcams.byu.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕特森系列2">
+<url>http://njhirailersnj.viewnetcam.com:60003/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="格林维尔系列2">
+<url>http://rwd.viewnetcam.com:1020/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="南韦茅斯系列2">
+<url>http://74.92.3.186:12022/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="海伦娜">
+<url>http://mountaincam.coolcybercats.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="弗拉格斯塔夫">
+<url>http://webcam2.facsrv.nau.edu/mjpg/1/video.mjpg</url>
+</video>
+<video name="未知系列6">
+<url>http://24.39.200.66:8013/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="亚基马系列2">
+<url>http://68.116.20.194:302/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列13">
+<url>http://12.154.142.172/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列14">
+<url>http://12.154.129.249/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="芝加哥系列8">
+<url>http://66.237.132.123/-wvhttp-01-/GetOneShot?frame_count=no_limit::1;data=v.mjpg</url>
+</video>
+<video name="索伦">
+<url>http://bmw.dnsalias.com:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列7">
+<url>http://166.211.74.94/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="孟菲斯系列2">
+<url>http://160.36.10.164/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="欧文">
+<url>http://webcam.wti.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Sebewaing">
+<url>http://skycam.sebewaing.net/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="图森系列4">
+<url>http://166.89.65.155/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="弗雷斯诺加利福尼亚州">
+<url>http://soaravenal.viewnetcam.com:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="西梦露">
+<url>http://72.149.206.142:9000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥克利">
+<url>http://strikelodge.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="因特洛肯密歇根州">
+<url>http://ournorth.dlinkddns.com:9090/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="埃利茨维尔印第安纳州">
+<url>http://webcam01pd.frenchlick.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="埃姆斯">
+<url>http://skycam.admin.iastate.edu/-wvhttp-01-/GetOneShot?frame_count=no_limit::1;data=v.mjpg</url>
+</video>
+<video name="洛杉矶系列4">
+<url>http://blchburbank2.viewnetcam.com:51000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="未知系列8">
+<url>http://209.206.162.230/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="汉密尔顿">
+<url>http://149.43.156.108/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="莫尔海德">
+<url>http://136.234.15.209/mjpg/1/video.mjpg</url>
+</video>
+<video name="新伯尔尼">
+<url>http://camphand.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="拉夫兰">
+<url>http://wildbasin.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="沃基">
+<url>http://tdicam5.viewnetcam.com:2070/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="奥斯威戈系列6">
+<url>http://146.139.72.67/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

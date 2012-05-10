@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点" order="0EA" >
+		<city name="新疆" type="410" order="C" >	
+			<video name="乌市金银大道">
+			<url>rtmp://183.62.138.113/live/livestream51</url>
+			</video>
+			<video name="直播新疆丝绸">
+			<url>rtmp://124.117.226.122/live/camchina256</url>
+			</video>
+			<video name="巴州博斯腾湖广场">
+			<url>rtmp://124.117.226.122/live/CAP11009001</url>
+			</video>
+			<video name="巴州开都河广场">
+			<url>rtmp://124.117.226.122/live/CAP11008801</url>
+			</video>
+			<video name="新疆库尔勒孔雀河">
+			<url>rtmp://124.117.226.122/live/CAP11008601</url>
+			</video>
+			<video name="新疆库尔勒风帆广场">
+			<url>rtmp://124.117.226.122/live/CAP11008901</url>	
+			</video>	
+		</city>
+	</province>
+</provinces> 

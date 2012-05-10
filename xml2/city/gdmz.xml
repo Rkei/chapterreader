@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="广东" order="A" >
+		<city name="梅州" type="1" order="K" >
+			<video name="嘉应中路西桥头红绿灯">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54630.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.119.58:554/live/1/1F2220127EF4052B/hxd8o1sx8021201r.sdp</hdurl>
+			</video>
+			<video name="彬芳大道恩华广场圆盘">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54631.3_1.jsp?redirected=true</url>
+			
+			</video>
+			<video name="江北十甲尾金利来大街">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54632.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.119.58:554/live/1/42592D061D565F4D/2rd1vojest59oas3.sdp</hdurl>
+			</video>
+			<video name="江北秋云桥头十字路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54633.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.119.58:554/live/1/4C7523F32FE41C40/chpsixsx94tml5xo.sdp</hdurl>
+			</video>
+			<video name="江北月梅三角圆盘路况">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54634.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.119.58:554/live/1/58F42A591BCE52F1/64fayixvf00ole72.sdp</hdurl>
+			</video>
+			<video name="外经贸局东山大桥圆盘">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54635.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.119.58:554/live/1/3F03190279835832/v44zpegaotqrgisk.sdp</hdurl>
+			</video>
+			<video name="梅州移动营业厅大门口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54602.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.119.58:554/live/1/095235C06AA87F89/sgvz2s8f00y4v9dw.sdp</hdurl>
+			</video>
+			<video name="梅州移动营业厅自助区">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54601.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.119.58:554/live/1/6F3757F810AC4E58/ap76j5so57z721w6.sdp</hdurl>
+			</video>
+			<video name="江南丽都中路富源酒店" >
+	    <url>rtsp://221.179.119.58:554/live/1/0FDC2353735B722A/0mj7ejjta5a0zxtv.sdp</url>
+	    </video>
+	    <video name="梅县柏利酒店十字路口" >
+	    <url>rtsp://221.179.119.58:554/live/1/181B74516CAC44D5/dt0ri92f2wfe7ooq.sdp</url>
+	    </video>
+	    <video name="彬芳大道友谊宾馆圆盘" >
+	    <url>rtsp://221.179.119.58:554/live/1/1E8B5BD83F9341AB/8oltbboly5wsh5sv.sdp</url>
+	    </video>
+	    <video name="江南邮政金叶酒店圆盘" >
+	    <url>rtsp://221.179.119.58:554/live/1/3F996860085A23EC/hlls7okr6gsbycow.sdp</url>
+	    </video>
+    	<video name="梅江区仕业楼三角圆盘" >
+	    <url>rtsp://221.179.119.58:554/live/1/11C2632D66E3730E/x9djxb7pd37e46s8.sdp</url>
+	    </video>
+	    <video name="梅江消防文化公园路口" >
+	    <url>rtsp://221.179.119.58:554/live/1/350E27514A714A47/u8ivhl9mt8m7607p.sdp</url>
+	    </video>
+		</city>
+	</province>
+</provinces> 

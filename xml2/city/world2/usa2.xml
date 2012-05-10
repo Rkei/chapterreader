@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点" order="0BA" >
+<city name="美国景点2" type="180" order="B" >	
+<video name="摩斯伦镇">
+<url>http://airportcam.puc.edu/-wvhttp-01-/GetOneShot?frame_count=no_limit::1;data=v.mjpg</url>
+</video>
+<video name="湖米尔斯">
+<url>http://cam1.northiowa.org:800/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="吉尔伯特">
+<url>http://63.226.59.176/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="休斯敦">
+<url>http://129.7.48.166/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="三叶">
+<url>http://strawberryweathercam.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="芝加哥系列4">
+<url>http://netcam.ccc.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Conshohocken">
+<url>http://usaphone.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Cedarville">
+<url>http://webcam3.cedarville.edu/mjpg/1/video.mjpg</url>
+</video>
+<video name="Cedarville系列2">
+<url>http://webcam2.cedarville.edu/mjpg/1/video.mjpg</url>
+</video>
+<video name="Morganville">
+<url>http://lycdockcam.viewnetcam.com:82/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="圣佩德罗">
+<url>http://208.33.95.101/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="科斯塔梅萨">
+<url>http://69.224.130.151/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="哈德森">
+<url>http://ssi.viewnetcam.com:3/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="科斯塔梅萨系列2">
+<url>http://69.224.130.147/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥斯威戈">
+<url>http://aem065.amc.anl.gov/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="沃尔顿堡滩">
+<url>http://b4work.dyndns.org:8082/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥斯威戈系列2">
+<url>http://146.139.72.76/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="温斯洛普">
+<url>http://64.139.100.67:60001/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="迈阿密">
+<url>http://129.171.176.150/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="里卡弗里堡俄亥俄州">
+<url>http://209.143.33.109/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="夏威夷檀香山">
+<url>http://mauigarageside.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="奥斯汀">
+<url>http://12.52.91.101/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥斯威戈系列3">
+<url>http://146.139.72.65/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="林肯内布拉斯加州">
+<url>http://www.lincolnmachine.com:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="安阿伯">
+<url>http://141.213.21.112/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥克里奇">
+<url>http://bissell.cortn.org/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="灵顿">
+<url>http://beadcam.d2g.com:5193/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="安阿伯系列2">
+<url>http://141.213.21.89/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="莱昂斯福尔斯纽约州">
+<url>http://monaco1.axiscam.net:8000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="西雅图">
+<url>http://140.142.24.44:4625/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="法姆维尔">
+<url>http://159.230.4.123/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

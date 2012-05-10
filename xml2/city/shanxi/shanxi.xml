@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="陕西" order="H5" >
+		<city name="咸阳" type="1" order="B" >
+			<video name="# 咸阳(单击加载)">
+				<url>city/shanxi/xianyang.xml</url>
+			</video>
+		</city>		
+		<!--city name="宝鸡" type="1" order="C" >
+			<video name="# 宝鸡(单击加载)">
+				<url>city/shanxi/shanxibaoji.xml</url>
+			</video>
+		</city-->							
+	</province>
+</provinces> 

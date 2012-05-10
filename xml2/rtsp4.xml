@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="湖南" order="C" >
+		<city name="长沙" type="3" order="A" >
+			 <url>http://124.232.142.84//RoadViewServer/roadview_get_videolist_bycity.flow?::1;icpname=gtmobile::1;imsi=310260000000000::1;version=2.01::1;cid=1</url>		
+		</city>	
+		<city name="郴州" type="3" order="B" >
+			 <url>http://124.232.142.84//RoadViewServer/roadview_get_videolist_bycity.flow?::1;icpname=gtmobile::1;imsi=310260000000000::1;version=2.01::1;cid=2</url>		
+		</city>							
+	</province>	
+	
+	<province name="广东(电信)" order="B" >
+		<city name="广州" type="3" order="A" >
+			 <url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=1</url>		
+		</city>	
+		<city name="东莞" type="3" order="C" >
+			 <url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=2</url>		
+		</city>	
+		<city name="深圳" type="3" order="B" >
+			 <url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=3</url>		
+		</city>	
+		<city name="佛山" type="3" order="D" >
+			 <url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=4</url>		
+		</city>	
+		<city name="中山" type="3" order="E" >
+			 <url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=5</url>		
+		</city>					
+												
+	</province>		
+		
+	<province name="网上推荐" order="I" >
+		<city name="企业应用" type="2" order="C" >
+			 <url>http://3g.pernet.tv/index.php?opr=pub::1;gid=4</url>		
+		</city>	
+		<city name="宝宝在线" type="2" order="B" >
+			 <url>http://3g.pernet.tv/index.php?opr=pub::1;gid=1</url>		
+		</city>	
+		<city name="交通路况" type="2" order="A" >
+			 <url>http://3g.pernet.tv/index.php?opr=pub::1;gid=2</url>		
+		</city>	
+		<city name="更多分享" type="2" order="D" >
+			 <url>http://3g.pernet.tv/index.php?opr=pub::1;gid=-1</url>		
+		</city>							
+	</province>		
+</provinces> 

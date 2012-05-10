@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点2" order="0EB" >
+		<city name="重庆景区" type="1" order="A" >
+			<video name="# 重庆景区(单击加载)">
+				<url>city/world2/cqjq.xml</url>
+			</video>
+		</city>	
+		<city name="福建厦门" type="0" order="D" >
+			<video name="# 福建厦门(单击加载)">
+				<url>city/world2/fjxm.xml</url>
+			</video>
+		</city>		
+		
+		<city name="福建漳州" type="1" order="E" >	
+			<video name="# 福建漳州客家土楼(单击加载)">
+				<url>city/world2/fjzz.xml</url>
+			</video>
+		</city>		
+		
+		<city name="福建龙泉" type="1" order="H" >	
+			<video name="# 福建龙泉(单击加载)">
+				<url>city/world2/fjlq.xml</url>
+			</video>
+		</city>	
+		
+	</province>
+</provinces> 

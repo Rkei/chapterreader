@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点4" order="0ED" >
+		<city name="江苏景点" type="1" order="A" >	
+			<video name="扬中市民广场-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010011000200616400-010011010500616401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="扬中市民广场-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010011000200616400-010011010500616401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+      
+      <video name="扬州文昌阁-高清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000727000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="扬州文昌阁-普清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000727000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="扬州瘦西湖-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011415000200441600-011415010500441601::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="扬州瘦西湖-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011415000200441600-011415010500441601::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="徐州开元宾馆-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010513000200441800-010513010500441801::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="徐州开元宾馆-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010513000200441800-010513010500441801::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+
+      <video name="连云港鱼湾风景区-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010909000200443800-010909010500443801::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="连云港鱼湾风景区-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010909000200443800-010909010500443801::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="女神像西景区-高清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=111200112000365000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="女神像西景区-普清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=111200112000365000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="盐城-迎宾广场-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011102000200423000-011102010500423001::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="盐城-迎宾广场-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011102000200423000-011102010500423001::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+
+      <video name="无线-pu-0-高清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000111000110000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="无线-pu-0-普清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000111000110000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="09北展入口-高清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000726000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="09北展入口-普清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000726000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="淮安周恩来故居-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011714000200435400-011714010500435401::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="淮安周恩来故居-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011714000200435400-011714010500435401::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+
+      <video name="镇江塔影湖-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010011000200421800-010011010500421801::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="镇江塔影湖-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010011000200421800-010011010500421801::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			
+      <video name="常州恐龙园-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=0106xb000200420600-0106xb010500420601::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="常州恐龙园-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=0106xb000200420600-0106xb010500420601::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="天翼看交通01-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011415000201339200-011415010501339201::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="天翼看交通01-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011415000201339200-011415010501339201::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+
+      <video name="江苏-dx-高清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000729000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="江苏-dx-普清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000729000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="江苏物联网研发中心-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011001000200665800-011001010500665801::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="江苏物联网研发中心-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011001000200665800-011001010500665801::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+
+      <video name="江苏-苏州人民路-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011212000200654800-011212010500654801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="江苏-苏州人民路-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011212000200654800-011212010500654801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+
+      <video name="江苏-pu12-高清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000111000111000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="江苏-pu12-普清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000111000111000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="江苏-新四军纪念馆-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011102000200423600-011102010500423601::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="江苏-新四军纪念馆-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011102000200423600-011102010500423601::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="测试-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011415000201339200-011415010501339202::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="测试-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011415000201339200-011415010501339202::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="太湖新天地-高清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000690000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="太湖新天地-普清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000690000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="湿地公园大风车-高清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000692000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="湿地公园大风车-普清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=110000112000692000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="泰州市泰州中学-高清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=111200112000382000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="泰州市泰州中学-普清">
+			<url>rtsp://58.211.76.60:554/service?UserId=110000400175001000::1;PuId-ChannelNo=111200112000382000-1::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.211.76.60::1;VauPtzPort=5060::1;VauRtspAdd=58.211.76.60::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+      <video name="南京新庄立交-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010103000100437200-010103010500437201::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="南京新庄立交-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010103000100437200-010103010500437201::1;PlayMethod=0::1;PuProperty=1::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+
+
+      <video name="江苏王府名邸-高清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011215000200853400-011215010500853401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=0</url>
+			</video>
+			<video name="江苏王府名邸-普清">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=011215000200853400-011215010500853401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=0</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

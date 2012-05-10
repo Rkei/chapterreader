@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="山西" order="H4" >
+		<city name="太原" type="1" order="A" >
+			<video name="# 太原(单击加载)">
+				<url>city/sx/sxty.xml</url>
+			</video>
+		</city>		
+		<city name="临汾" type="1" order="B"  >
+			<video name="# 临汾(单击加载)">
+				<url>city/sx/sxlf.xml</url>
+			</video>
+		</city>	
+		<city name="晋中" type="1" order="C"  >
+			<video name="# 晋中(单击加载)">
+				<url>city/sx/sxjz.xml</url>
+			</video>
+		</city>			
+		<city name="阳泉" type="1" order="D"  >
+			<video name="# 阳泉(单击加载)">
+				<url>city/sx/sxyq.xml</url>
+			</video>
+		</city>
+		<city name="大同" type="1" order="E"  >
+			<video name="# 大同(单击加载)">
+				<url>city/sx/sxdt.xml</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

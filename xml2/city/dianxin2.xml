@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="湖南" order="C">
+		<city name="长沙(新版)" type="1" order="A">
+			<video name="# 长沙(单击加载)">
+				<url>http://lanplayer.googlecode.com/svn/trunk/xml/city/hunan/changsha.xml</url>
+				<!--url>http://124.232.142.84//RoadViewServer/roadview_get_videolist_bycity.flow?::1;icpname=gtmobile::1;imsi=310260000000000::1;version=2.01::1;cid=1</url-->
+			</video>
+		</city>
+		<city name="郴州" type="1" order="B">
+			<video name="# 郴州(单击加载)">
+				<url>http://lanplayer.googlecode.com/svn/trunk/xml/city/hunan/bz.xml</url>
+				<!--url>http://124.232.142.84//RoadViewServer/roadview_get_videolist_bycity.flow?::1;icpname=gtmobile::1;imsi=310260000000000::1;version=2.01::1;cid=2</url -->
+			</video>
+		</city>
+	</province>
+</provinces> 

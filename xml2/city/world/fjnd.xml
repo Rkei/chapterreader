@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点4" order="0" >
+		<city name="福建宁德" type="1" order="F" >	
+			<video name="宁德古田县湖滨码头-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1886328747::1;PuProperty=1::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=176fcb4146ecce63</url>
+			</video>
+			<video name="宁德古田县湖滨码头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1886328747::1;PuProperty=1::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=176fcb4146ecce63</url>
+			</video>
+
+      <video name="宁德古田县大桥临水宫-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1072636005::1;PuProperty=1::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=a008fe06b736919</url>
+			</video>
+			<video name="宁德古田县大桥临水宫-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1072636005::1;PuProperty=1::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=a008fe06b736919</url>
+			</video>
+
+      <video name="宁德市霞浦县杨家溪坝头-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1429215621::1;PuProperty=1::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=77b9367a36f31e3c</url>
+			</video>
+			<video name="宁德市霞浦县杨家溪坝头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1429215621::1;PuProperty=1::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=77b9367a36f31e3c</url>
+			</video>
+
+      <video name="宁德市寿宁县西浦风景区-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--967766968::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=b19237d1f687c14</url>
+			</video>
+			<video name="宁德市寿宁县西浦风景区-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--967766968::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=b19237d1f687c14</url>
+			</video>
+			
+			<video name="宁德市寿宁县西山顶风景区-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-264450118::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=4dba30ef0ff57e29</url>
+			</video>
+			<video name="宁德市寿宁县西山顶风景区-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-264450118::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=4dba30ef0ff57e29</url>
+			</video>
+      
+      <video name="宁德漂流售票处-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-843424539::1;PuProperty=1::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=3138a4b116344886</url>
+			</video>
+			<video name="宁德漂流售票处-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-843424539::1;PuProperty=1::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=3138a4b116344886</url>
+			</video>
+
+      <video name="宁德古田翠屏湖-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1970629046::1;PuProperty=1::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=75f794e00104effe</url>
+			</video>
+			<video name="宁德古田翠屏湖-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-1970629046::1;PuProperty=1::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=75f794e00104effe</url>
+			</video>
+
+      <video name="宁德太姥山检票处-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-945345976::1;PuProperty=1::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=47d3eaeb15a6b839</url>
+			</video>
+			<video name="宁德太姥山检票处-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-945345976::1;PuProperty=1::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=47d3eaeb15a6b839</url>
+			</video>
+
+      <video name="宁德拓荣县九龙井风景区-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--336950231::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=2b26355d5cb32e10</url>
+			</video>
+			<video name="宁德拓荣县九龙井风景区-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--336950231::1;PuProperty=0::1;VauPtzAdd=117.27.130.113::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.113::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=2b26355d5cb32e10</url>
+			</video>
+      
+      <video name="宁德拓荣县东狮山风景区-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1569167317::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=3e6a71cd4fa30ce5</url>
+			</video>
+			<video name="宁德拓荣县东狮山风景区-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1569167317::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=3e6a71cd4fa30ce5</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

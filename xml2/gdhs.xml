@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="广东" order="A" >
+		<city name="惠州" type="1" order="L" >
+			<video name="惠州东江大桥东平段实时路况-摄像头1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/361/227776.3_1.jsp?redirected=true</url>
+	        </video>
+			<video name="惠州天虹商场往演达大道处实时路况-摄像头1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/361/227777.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="惠州鹅岭南路173医院路口实时路况-摄像头1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/361/227780.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="惠州云山西路德威大厦处实时路况-摄像头">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/361/227789.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="惠州康帝门前实时路况-摄像头1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/361/48150.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="惠州合生大桥实时路况">
+				<url>rtsp://120.196.134.29:554/live/1/2EC1E070856207CB/zpCMeitlxBfjytfj.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州鳄湖路木兰园实时路况">
+				<url>rtsp://120.196.134.29:554/live/1/E891211078E22283/WOGUkFtQz7i4MKCc.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州惠州大道往水口方向实时路况">
+				<url>rtsp://120.196.134.29:554/live/1/96005F5EF6CB1AEC/C1kz6r9BoNs7hJbx.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州仲恺大道海关门前实时路况">
+				<url>rtsp://120.196.134.29:554/live/1/92748332C6B31471/bpdmoMDvzsEWobEf.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州大道云山路口处实时路况">
+				<url>rtsp://120.196.134.29:554/live/1/61F1F6ED8A2AD0CF/vlZtm1kop2vGjA39.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州港惠新天地门前实时路">
+				<url>rtsp://120.196.134.29:554/live/1/19B2E90250BF948E/ooFIEHjAMmGGwV39.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州三环路汽车广场门前实时路况">
+				<url>rtsp://120.196.134.29:554/live/1/6FD326C20A6303F9/i6VLeXIptCG9HlOD.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州达利大厦B">
+				<url>rtsp://120.196.134.29:554/live/1/6075AF379CB9242C/IPDXwAb36xpAbcir.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州花边岭广场实时路况">
+				<url>rtsp://120.196.134.29:554/live/1/EE5DFED6ACE44201/B0Y7TDXgYFVkvPig.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州麦地南路五中门口路况">
+				<url>rtsp://120.196.134.29:554/live/1/EB693E8647FDB25E/ObIczcke3gT9p6Ne.sdp?id=guest::1;t=1315321026::1;en=3306c12d1034081d0f03b1d39fe8cc9b::1;rs=wap
+				</url>
+			</video>
+			<video name="惠州麦地东路东江明珠路况">
+				<url>rtsp://120.196.134.29:554/live/1/46501FF85950BF74/RMvslhsb91JaNoIh.sdp?id=guest::1;t=1315321026::1;en=3306c12d1034081d0f03b1d39fe8cc9b::1;rs=wap
+				</url>
+			</video>
+			<video name="惠神路口-惠神路口">
+				<url>rtsp://120.196.147.14:554/live/1/FAEC79528E7528A7/0FDu6vFNm34b7wqo.sdp?id=guest::1;t=1315320747::1;en=8552ba15560e052f110e56e6f9121f57::1;rs=wap</url>
+			</video>
+		</city>
+		<city name="江门" type="1" order="J" >
+			<video name="江门台山东和2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/215301.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="江门综合楼前门">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48372.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="江门公司外来客户停车">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48373.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="江门综合楼大堂登记处">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48374.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="江门逸豪酒店1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48375.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="江门鹤山文华路1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48378.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="江门鹤山文华路2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48379.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="江门恩平电声1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48303.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="江门全球通厅大门左侧">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54701.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="江门综合楼前门岗右侧">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54702.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="江门全球通厅大门右侧">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54703.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="江门开平新华堡">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/230581.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="江门综厅合楼1F客梯">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54707.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门开平雅致酒店2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/230583.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门开平雅致酒店1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/230584.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门移动篮球场前">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/231321.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门移动篮球场后">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/231322.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门台山其利五金">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/215345.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门正诚行2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/231845.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门台山东和1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/215236.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门二机楼门口">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54163.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门二机楼停车棚">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54164.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门逸豪酒店2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/231561.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门逸豪酒店3">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/231562.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门逸豪酒店4">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/231563.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门鹤山邮局1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54141.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门鹤山邮局2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54142.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门恩平电声2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54143.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门恩平中保1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54144.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门恩平中保2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54145.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门综合楼后岗停车场">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/54161.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门农机厂2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48171.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门双龙酒店1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48172.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门双龙酒店2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48173.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门天悦酒店1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48174.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门天悦酒店2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48175.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门新会城南1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48176.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门新会城南2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48177.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门新会分公司1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48178.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门新会分公司2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48179.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门新会凤凰酒店1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48180.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门新会凤凰酒店2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48181.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门新会粮油大厦1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48182.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门新会粮油大厦2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48183.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门移动饭堂二楼1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48184.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门移动饭堂二楼2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48185.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门移动饭堂一楼">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48186.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门东湖百货1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48162.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门东湖百货2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48163.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门发展大道">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48164.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门发展大道">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48164.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门建设三路">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48165.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门江月旅馆1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48166.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门江月旅馆2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48167.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门金华厅1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48168.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门金华厅2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48169.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江门农机厂1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/381/48170.3_1.jsp?redirected=true
+				</url>
+			</video>
+		</city>
+		<city name="茂名" type="1" order="T" >
+			<video name="油城五路（明湖商场前十字路口）">
+				<url>http://211.139.240.217/mmwap/video/videoroad.jsp</url>
+			</video>
+
+			<video name="大草坪十字路口">
+				<url>http://211.139.240.217/mmwap/video/videowmds.jsp</url>
+			</video>
+
+			<video name="茂名东站">
+				<url>http://211.139.240.217/mmwap/video/videostation.jsp</url>
+			</video>
+
+			<video name="茂名文化广场景点">
+				<url>http://211.139.240.217/mmwap/video/videoplaza.jsp</url>
+			</video>
+
+			<video name="茂名-聚佳广场1">
+				<url>http://211.139.240.217/mmwap/video/videoplaza1.jsp</url>
+			</video>
+
+
+			<video name="茂名-化州广伦山路口">
+				<url>http://211.139.240.217/mmwap/video/videoroad1.jsp</url>
+			</video>
+
+			<video name="茂名_移动公司内部">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232081.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="茂名_移动公司外部">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232082.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="茂名_文化广场">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232083.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="茂名_汇丰酒店">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232102.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="茂名_茂东火车站">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232103.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="茂名_聚佳广场2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232104.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="茂名_外贸大厦">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232105.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="茂名_化州">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232101.3_1.jsp?redirected=true
+				</url>
+			</video>
+		</city>
+		<city name="梅州" type="1" order="P" >
+			<video name="嘉应中路西桥头红绿灯">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54630.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="彬芳大道恩华广场圆盘">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54631.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江北十甲尾金利来大街">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54632.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江北秋云桥头十字路口">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54633.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="江北月梅三角圆盘路况">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54634.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="外经贸局东山大桥圆盘">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54635.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="梅州移动营业厅大门口">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54602.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="梅州移动营业厅自助区">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3111/54601.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="江南丽都中路富源酒店">
+				<url>rtsp://221.179.119.58:554/live/1/0FDC2353735B722A/0mj7ejjta5a0zxtv.sdp
+				</url>
+			</video>
+
+			<video name="梅县柏利酒店十字路口">
+				<url>rtsp://221.179.119.58:554/live/1/181B74516CAC44D5/dt0ri92f2wfe7ooq.sdp
+				</url>
+			</video>
+
+			<video name="彬芳大道友谊宾馆圆盘">
+				<url>rtsp://221.179.119.58:554/live/1/1E8B5BD83F9341AB/8oltbboly5wsh5sv.sdp
+				</url>
+			</video>
+
+			<video name="江南邮政金叶酒店圆盘">
+				<url>rtsp://221.179.119.58:554/live/1/3F996860085A23EC/hlls7okr6gsbycow.sdp
+				</url>
+			</video>
+
+			<video name="梅江区仕业楼三角圆盘">
+				<url>rtsp://221.179.119.58:554/live/1/11C2632D66E3730E/x9djxb7pd37e46s8.sdp
+				</url>
+			</video>
+
+			<video name="梅江消防文化公园路口">
+				<url>rtsp://221.179.119.58:554/live/1/350E27514A714A47/u8ivhl9mt8m7607p.sdp
+				</url>
+			</video>
+
+		</city>
+		<city name="南沙渔港" type="1" order="Q" >
+			<video name="南沙渔港7">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48322.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="南沙渔港1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48261.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="南沙渔港3">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48263.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="南沙渔港4">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48264.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="南沙渔港5">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48265.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+		</city>
+		<city name="清远" type="1" order="Q" >
+
+			<video name="清远连山民族高级中学2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219433.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远清新县太平镇秦皇村委会1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197863.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远清新县太平镇秦皇村委会2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197864.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远清新县太平镇秦皇村养猪场1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197865.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远清新县太平镇秦皇村养猪场2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197866.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远清新县太平镇秦皇村养猪场3">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197867.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远佛冈城北中学2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/231543.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远清新县秦皇村菜场示范基地1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/231721.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远清新县秦皇村菜场示范基地2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/231722.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远阳山实验小学3">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219377.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远龙塘镇第一初级小学1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/230561.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远龙塘镇第一初级小学2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/230562.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远连南民族初级中学2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219400.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远连山广德中学1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219401.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远连山广德中学4">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219402.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远连山民族高级中学1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219403.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远连州慧光中学3">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219404.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="清远连南民族初级小学1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219405.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为清远附三楼接待区">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/48246.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为清远招标（1）室">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/48249.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="华为清远招标（2）室">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3191/48250.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+		</city>
+		<city name="汕头" type="1" order="S" >
+			<video name="金砂东路金龙大厦路段">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54081.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="金砂东路汕融大厦路段">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54082.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="金砂东路与华山路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54083.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="天山路南">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54084.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="时代广场">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54085.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="金凤路与东厦路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54086.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="金凤路桃园路段">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54087.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="天山路与黄河路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54088.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="天山路长江路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54089.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="礐石大桥1">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54090.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="礐石大桥2">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54091.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="金砂东路与黄山路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54092.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="海滨路与大华路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54093.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="金砂东路与金环路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54094.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="金砂东路">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54095.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="东厦路与金凤路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54096.3_1.jsp?redirected=true
+				</url>
+			</video>
+
+			<video name="东厦路与金湖路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54097.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="黄河路与嵩山路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54098.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="海滨路">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54099.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="汕头海湾">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54100.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="汕樟路与金湖路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54101.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="金湖路与汕樟路交界">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/351/54102.3_1.jsp?redirected=true
+				</url>
+			</video>
+		</city>
+		<city name="汕尾" type="1" order="S" >
+			<video name="城区大圆盘">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3151/54381.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="汕尾海港">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3151/55181.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="综合楼服营厅">
+				<url>rtsp://211.139.247.217:554/play/932d283f31343e02282e382f2e216c6c6c6d6c6c6c656c646e6421/1239/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0
+				</url>
+			</video>
+			<video name="汕尾测试03">
+				<url>rtsp://211.139.247.217:554/play/395752454b4e447852544255545b161616171616161f161e141e5b/1235/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0
+				</url>
+			</video>
+		</city>
+		<city name="韶关" type="1" order="I" >
+			<video name="南雄柴岭段">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231955.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="启明北路">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231969.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="曲江大转盘北">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231985.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="北江桥头西">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231986.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="武江桥头西">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231987.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="丹霞山门口">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232069.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="曲江三小大门口">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232070.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="乳源南岭国家森林公园">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232067.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="和平路小学正门">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232077.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="大润发路口南">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231981.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="黄岗山西">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232041.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="西堤北路">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232005.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="始兴县贤丰村示范田">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232006.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="始兴县贤丰村敬老院">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232007.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="沐溪工业园">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232182.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="工业中路大转盘">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231947.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="京珠高速云岩南">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231991.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="106国道与323交界南">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231992.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="风采楼">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232061.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="韶赣高速路口西">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231997.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="西河桥头西">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232002.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="理工职业培训学院正门">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232079.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="坪乳公路路口东">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231995.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="火车东站广场西">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231996.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="西河立交桥东">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231972.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="西河体育中心">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231973.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="乐昌古佛岩">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232063.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="韶关口岸大厦">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231945.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="东河桥东">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231977.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="西河健身广场">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231953.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="京珠南段">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231949.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="曲江水文高速路口">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231957.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="南雄珠玑古巷">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232065.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="曲江三小操场">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232073.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="曲江三小办公楼二楼走廊">
+				<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232074.3_1.jsp?redirected=true
+				</url>
+			</video>
+			<video name="健身广场中心">
+				<url>rtsp://211.139.249.252:554/GE5DCMBQGA5DAORRHEZC4MJWHAXDCMBOHA5DGNZXG43TUMJQGE2TK/GI5GCZDNNFXDUYLENVUW4/GM5G24DFM42A/GQ5DGZ3QOA5HCY3JMY/v.sdp
+				</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

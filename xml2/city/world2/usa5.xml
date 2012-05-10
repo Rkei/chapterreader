@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点二" order="0BB" >
+<city name="美国景点5" type="180" order="E" >	
+<video name="檀香山系列3">
+<url>http://132.160.98.239:8275/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="尼斯维尔">
+<url>http://98.173.21.132:3001/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="布卢姆斯堡">
+<url>http://alwebcam.bulib.bloomu.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="威尔明顿">
+<url>http://captnbills.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="图森系列3">
+<url>http://166.89.65.161/-wvhttp-01-/GetOneShot?frame_count=no_limit::1;data=v.mjpg</url>
+</video>
+<video name="Hauppauge">
+<url>http://12.154.129.246/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列2">
+<url>http://12.154.129.244/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="丹佛">
+<url>http://8150.bathgate.org/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="诺曼">
+<url>http://129.15.88.23/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列3">
+<url>http://12.154.129.243/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="安阿伯系列3">
+<url>http://aemwebcam.engin.umich.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="西雅图系列2">
+<url>http://webcam.ucds.org/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="坦帕">
+<url>http://131.247.8.66/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列4">
+<url>http://12.154.129.238/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列5">
+<url>http://12.154.129.235/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕洛阿尔托">
+<url>http://camera.britta.com:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥林匹亚">
+<url>http://westcam1.centralia.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列6">
+<url>http://12.154.129.230/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥罗拉">
+<url>http://lgc.aurora.edu:100/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列7">
+<url>http://12.154.129.231/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="埃弗里特">
+<url>http://webcam.heraldnet.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列8">
+<url>http://12.154.129.232/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="开普科勒尔">
+<url>http://benshome.dyndns.org:6082/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="马斯基根系列2">
+<url>http://24.236.250.155:8084/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="塔科马">
+<url>http://happy.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列9">
+<url>http://12.154.129.236/mjpg/1/video.mjpg</url>
+</video>
+<video name="索诺拉">
+<url>http://67.115.174.248/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="亚基马">
+<url>http://68.116.20.194:301/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="迈阿密系列3">
+<url>http://204.68.81.64/mjpg/1/video.mjpg</url>
+</video>
+<video name="奥斯威戈系列4">
+<url>http://aem076.amc.anl.gov/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="哥伦比亚系列2">
+<url>http://corrihershopcam.axiscam.net:9552/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点三" order="0BC" >
+<city name="美国景点9" type="180" order="I" >	
+<video name="罗切斯特系列2">
+<url>http://axis8e2f25.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="埃弗里特系列2">
+<url>http://launch.axiscam.net:53435/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="纳拉甘西特">
+<url>http://72.87.114.24/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="哥伦比亚系列4">
+<url>http://lowerlot.axiscam.net:9552/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="费城">
+<url>http://207.245.119.24/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥斯威戈系列7">
+<url>http://aem060.amc.anl.gov/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乔治敦">
+<url>http://70.91.83.108/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="特洛伊密歇根州">
+<url>http://208.72.103.12/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="华盛顿系列3">
+<url>http://70.88.152.30:9999/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="科尔比">
+<url>http://164.113.38.11/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="罗夫诺">
+<url>http://77.120.86.18/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="艾伦代尔">
+<url>http://148.61.161.209/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列13">
+<url>http://wdwebcam4.westchasedistrict.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="哥伦比亚系列5">
+<url>http://corriherptz.axiscam.net:9552/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="拉克罗斯系列2">
+<url>http://64.91.68.185/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥本大学系列4">
+<url>http://131.204.99.178/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="纳格斯黑德">
+<url>http://24.177.24.98/mjpg/1/video.mjpg</url>
+</video>
+<video name="纽约">
+<url>http://160.39.97.178/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Oracle">
+<url>http://rescam1.b2science.org/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Old Hickory">
+<url>http://webcam1.cabinsusa.com:8003/-wvhttp-01-/GetOneShot?frame_count=no_limit::1;data=v.mjpg</url>
+</video>
+<video name="坦帕系列2">
+<url>http://198.92.142.138/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="圣路易斯奥比斯波">
+<url>http://129.65.37.4/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="皇后镇">
+<url>http://lundbergbuilders.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="威奇托">
+<url>http://156.26.2.12/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="什里夫波特系列2">
+<url>http://208.42.203.54:8589/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="梅里登">
+<url>http://69.177.83.150/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="罗切斯特系列3">
+<url>http://axis8de459.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="蒙彼利埃">
+<url>http://woodchuckcentral.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="米德兰">
+<url>http://72.48.229.3:8887/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="芝加哥系列9">
+<url>http://65.113.219.179/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="哥伦比亚系列6">
+<url>http://corrihershopcam.axiscam.net:9550/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

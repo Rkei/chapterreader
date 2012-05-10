@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点4" order="0ED" >
+		<city name="福建三明" type="1" order="I"  >
+			<video name="# 福建三明(单击加载)">
+				<url>city/world2/fjsm.xml</url>
+			</video>
+		</city>			
+		
+		<city name="福建平潭" type="1" order="K" >
+			<video name="# 福建平潭(单击加载)">
+				<url>city/world2/fjpingtan.xml</url>
+			</video>
+		</city>	
+		
+		<city name="江苏景点" type="1" order="A" >
+			<video name="# 江苏景点(单击加载)">
+				<url>city/world2/jssz.xml</url>
+			</video>
+		</city>	
+		
+		<city name="福建宁德" type="1" order="F"  >
+			<video name="# 福建宁德(单击加载)">
+				<url>city/world2/fjnd.xml</url>
+			</video>
+		</city>	
+		
+	</province>
+</provinces> 

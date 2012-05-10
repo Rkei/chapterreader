@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="上海" order="C" >
+		<city name="浦东" type="200" order="A" >
+			<video name="罗山路张衡路">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00006.rm</url>
+			</video>	
+			<video name="龙东大道张东路">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00001.rm</url>
+			</video>
+			<video name="罗山路科苑西路">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00007.rm</url>
+			</video>
+			<video name="锦绣东路黄杨路">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00003.rm</url>
+			</video>
+			<video name="大连路隧道浦东入口">
+			<url>rtsp://120.204.198.7:80/transportVideo/ksl0002.rm</url>
+			</video>
+			<video name="延安隧道浦东入口">
+			<url>rtsp://120.204.198.7:80/transportVideo/ksl0004.rm</url>
+			</video>
+			<video name="新建路隧道浦东入口">
+			<url>rtsp://120.204.198.7:80/transportVideo/ksl0006.rm</url>
+			</video>
+			<video name="卢浦大桥浦东引桥">
+			<url>rtsp://120.204.198.7:80/transportVideo/ksl0003.rm</url>
+			</video>
+			<video name="杨浦大桥">
+			<url>rtsp://120.204.198.7:80/transportVideo/ksl0007.rm</url>
+			</video>
+			<video name="南浦大桥">
+			<url>rtsp://120.204.198.7:80/transportVideo/ksl0008.rm</url>
+			</video>
+			<video name="罗山路祖冲之路">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00005.rm</url>
+			</video>
+			<video name="浦东大道浦东南路">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00008.rm</url>
+			</video>
+			<video name="浦东南路银城中路">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00009.rm</url>
+			</video>
+			<video name="浦东南路世纪大道">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00010.rm</url>
+			</video>
+			<video name="浦东南路张扬地道北">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00011.rm</url>
+			</video>
+			<video name="锦绣东路黑松路">
+			<url>rtsp://120.204.198.7:80/transportVideo/pd00002.rm</url>
+			</video>
+			<video name="翔殷路隧道浦东入口">
+			<url>rtsp://120.204.198.7:80/transportVideo/ksl0005.rm</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

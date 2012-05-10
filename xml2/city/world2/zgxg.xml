@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点" order="0EA" >
+		<city name="香港" type="1" order="D" >	
+			<video name="九龙地区">
+			<url>rtsp://tdvideo.hgctr.com:554/encoder/kltd.rm</url>
+			</video>												
+			<video name="香港地区">
+			<url>rtsp://tdvideo.hgctr.com:554/encoder/hktd.rm </url>
+			</video>				
+			<video name="荃湾地区">
+			<url>rtsp://tdvideo.hgctr.com:554/encoder/twtd.rm</url>
+			</video>			
+			<video name="屯门">
+			<url>rtsp://tdvideo.hgctr.com:554/encoder/tmtd.rm</url>
+			</video>				
+			
+			<video name="test">
+			<url>http://129.171.176.150/mjpg/1/video.mjpg?resolution=320x240</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

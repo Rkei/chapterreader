@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点" order="0" >
+		<city name="四川景点" type="1" order="E" >	
+			<video name="桃花节桃花山1（普清）">
+			<url>rtsp://218.205.231.149:554/mobile/1/57B57700157717F9/Bqzmav1DhFjmr2Ho.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>	
+			<video name="桃花节桃花山1（高清）">
+			<url>rtsp://218.205.231.149:554/live/1/57B57700157717F9/4Kvv4mHnMHTkCRgd.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>	
+			<video name="桃花节桃花山2（高清）">
+			<url>rtsp://218.205.231.149:554/live/1/16EC1C722A2B7FD0/6LolnkthASNzctz2.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>													
+			<video name="桃花节主会场（普清）">
+			<url>rtsp://218.205.231.149:554/mobile/1/1CF503160E83027B/WjzlEyBuiMRXm5zB.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>	
+			<video name="桃花节主会场（高清）">
+			<url>rtsp://218.205.231.149:554/live/1/1CF503160E83027B/zEULeXc0WQQccq3c.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>	
+			<video name="都江堰 - 青城山-天然图画（普清）">
+			<url>rtsp://218.205.231.149:554/mobile/1/6D577D2D53E53744/Fsl2KqzsU09QBhi1.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>	
+			<video name="都江堰 - 青城山-天然图画（高清）">
+			<url>rtsp://218.205.231.149:554/live/1/6D577D2D53E53744/099yyF8zhpAbEtLd.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>
+			<video name="都江堰 - 青城山景区牌坊（普清）">
+			<url>rtsp://218.205.231.149:554/mobile/1/521E6E3637542B77/lcP3koKhuP94jAfi.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>
+			<video name="都江堰 - 青城山景区牌坊（高清）">
+			<url>rtsp://218.205.231.149:554/live/1/521E6E3637542B77/pe6FlthZzz4vACG5.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>
+			<video name="青城山-情侣树 （普清）">
+			<url>rtsp://218.205.231.149:554/mobile/1/2BE002E246997C6D/0w2qms9V2fSEuYqp.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>
+			<video name="青城山-情侣树 （高清）">
+			<url>rtsp://218.205.231.149:554/live/1/2BE002E246997C6D/NUM8BoEeQkgaZQON.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>
+			<video name="青城山-新索桥头（普清）">
+			<url>rtsp://218.205.231.149:554/mobile/1/079F66093A58487A/DsX8SCMryfjy8sOm.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>
+			<video name="青城山-新索桥头（高清）">
+			<url>rtsp://218.205.231.149:554/live/1/079F66093A58487A/8bbWknfk4GabQbal.sdp?id=guest&amp;amp;t=1333245693&amp;amp;en=be530bbee21574b940d2960535b953a9&amp;amp;rs=ws</url>
+			</video>
+			<video name="青城山-22号飞仙观（普清）">
+			<url>rtsp://218.205.231.149:554/mobile/1/6D593052659B32CF/uBJ7ksS0g0ikw7YG.sdp?id=guest&amp;amp;t=1333245912&amp;amp;en=76c815f7c2852449ab3822186f46d772&amp;amp;rs=ws</url>
+			</video>
+			<video name="青城山-22号飞仙观（高清）">
+			<url>rtsp://218.205.231.149:554/live/1/6D593052659B32CF/mV5FWnOILaVP27pB.sdp?id=guest&amp;amp;t=1333245912&amp;amp;en=76c815f7c2852449ab3822186f46d772&amp;amp;rs=ws</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

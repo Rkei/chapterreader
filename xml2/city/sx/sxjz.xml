@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="山西" order="H4" >
+		<city name="晋中" type="1" order="C" >
+			<video name="顺城街">
+			<url>tmss://211.142.5.161:9901/tmes_1014?isLive=true::1;playTitle=顺城街::1;netType=1::1;msisdn=10001::1;channel_id=0009::1;ProgramID=5789105::1;type=1::1;isdebug=true::1;lg=zh_cn</url>
+			</video>	
+			<video name="迎宾街">
+			<url>tmss://211.142.5.161:9901/tmes_1013?isLive=true::1;playTitle=迎宾街::1;netType=1::1;msisdn=10001::1;channel_id=0009::1;ProgramID=5789105::1;type=1::1;isdebug=true::1;lg=zh_cn</url>
+			</video>	
+			<video name="顺城街府兴路口">
+			<url>tmss://211.142.5.161:9901/tmes_1013?isLive=true::1;playTitle=顺城街府兴路口::1;netType=1::1;msisdn=10001::1;channel_id=0009::1;ProgramID=5789105::1;type=1::1;isdebug=true::1;lg=zh_cn</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

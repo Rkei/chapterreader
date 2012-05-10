@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点3" order="0EC" >
+		<city name="福建南平" type="1" order="K" >	
+			<video name="南平建阳江景-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-2088082170::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=4034bb3d6b4278f5</url>
+			</video>
+			<video name="三明市泰宁县上清溪下码头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591-2088082170::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=4034bb3d6b4278f5</url>
+			</video>
+      
+      <video name="武夷山景区玉女峰河边-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1328723759::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=4beb288f3809d60e</url>
+			</video>
+			<video name="武夷山景区玉女峰河边-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--1328723759::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=4beb288f3809d60e</url>
+			</video>
+   
+      <video name="南平武夷山小武夷全景-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--2005086538::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=4e89503f199891e9</url>
+			</video>
+			<video name="南平武夷山小武夷全景-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=0000000000200000000000006864053::1;PuId-ChannelNo=086591--2005086538::1;PuProperty=0::1;VauPtzAdd=117.27.130.114::1;VauPtzPort=50000::1;VauRtspAdd=117.27.130.114::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=4e89503f199891e9</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

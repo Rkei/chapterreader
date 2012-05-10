@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点" order="0EA" >
+		<city name="张家界" type="0" order="D" >
+			<video name="# 张家界(单击加载)">
+				<url>city/world2/zjj1.xml</url>
+			</video>
+		</city>	
+		<city name="新疆" type="0" order="C" >
+			<video name="# 新疆(单击加载)">
+				<url>city/world2/xj1.xml</url>
+			</video>
+		</city>	
+		<city name="香港" type="1" order="D" >
+			<video name="# 香港(单击加载)">
+				<url>city/world2/zgxg.xml</url>
+			</video>
+		</city>	
+		<city name="丹霞山相关" type="1" order="D" >
+			<video name="# 丹霞山相关(单击加载)">
+				<url>city/world2/dxs.xml</url>
+			</video>
+		</city>	
+		<city name="四川景点" type="1" order="E"  >
+			<video name="# 四川景点(单击加载)">
+				<url>city/world2/sccd.xml</url>
+			</video>
+		</city>	
+		
+		<city name="台湾" type="1" order="I"  >
+			<video name="# 台湾(单击加载)">
+				<url>city/world2/taiwan.xml</url>
+			</video>
+		</city>		
+	</province>
+</provinces> 

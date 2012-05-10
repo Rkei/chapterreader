@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="中国景点2" order="0EB" >
+		<city name="福建龙泉" type="1" order="H" >	
+			<video name="泉州安溪洪恩岩-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000170000300-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;repeat=20::1;hashtoken=273963757b2c2bb5</url>
+			</video>
+			<video name="泉州安溪洪恩岩-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000170000300-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;repeat=20::1;hashtoken=273963757b2c2bb5</url>
+			</video>
+
+      <video name="泉州安溪清水岩-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000170000295-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=1ffd16ae7b510a96</url>
+			</video>
+			<video name="泉州安溪清水岩-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000170000295-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=1ffd16ae7b510a96</url>
+			</video>
+
+      <video name="泉州丰泽西湖公园-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000103020008-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=14a951915e937403</url>
+			</video>
+			<video name="泉州丰泽西湖公园-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000103020008-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=14a951915e937403</url>
+			</video>
+      
+      <video name="泉州台商洛阳桥-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000140000010-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=2c8ab3ad2ffba6ba</url>
+			</video>
+			<video name="泉州台商洛阳桥-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000140000010-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=2c8ab3ad2ffba6ba</url>
+			</video>
+
+      <video name="泉州洛江马甲镇仙公山-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000204000022-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=6b1f66af5d1de954</url>
+			</video>
+			<video name="泉州洛江马甲镇仙公山-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000204000022-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=6b1f66af5d1de954</url>
+			</video>
+
+      <video name="泉州南安武荣公园-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111200118-4::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=59171f24790c11d</url>
+			</video>
+			<video name="泉州南安武荣公园-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111200118-4::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=59171f24790c11d</url>
+			</video>
+
+
+      <video name="泉州永春牛姆林-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000180000195-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=6527728e16adadb2</url>
+			</video>
+			<video name="泉州永春牛姆林-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000180000195-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=6527728e16adadb2</url>
+			</video>
+
+      <video name="泉州德化瓷都广场-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140503000390000031-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=1da0d5d72ea35678</url>
+			</video>
+			<video name="泉州德化瓷都广场-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140503000390000031-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=1da0d5d72ea35678</url>
+			</video>
+
+      <video name="泉州鲤城府文庙广场-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028322-7::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=5d8f2e8e40ad55cc</url>
+			</video>
+			<video name="泉州鲤城府文庙广场-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028322-7::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=5d8f2e8e40ad55cc</url>
+			</video>
+			
+      <video name="泉州鲤城府涂门庙清净寺-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028375-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=411ca5035226a293</url>
+			</video>
+			<video name="泉州鲤城府涂门庙清净寺-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028375-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=411ca5035226a293</url>
+			</video>
+			
+			<video name="泉州德化唐寨山门口-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111908222-5::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=578bb3270c0cdc37</url>
+			</video>
+			<video name="泉州德化唐寨山门口-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111908222-5::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=578bb3270c0cdc37</url>
+			</video>
+
+      <video name="泉州鲤城宿燕寺海会塔广场-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111018333-6::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=6db8e9f320f338ba</url>
+			</video>
+			<video name="泉州鲤城宿燕寺海会塔广场-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111018333-6::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=6db8e9f320f338ba</url>
+			</video>
+      
+      <video name="泉州鲤城文庙-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028329-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=6e0d9843180d2356</url>
+			</video>
+			<video name="泉州鲤城文庙-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028329-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=6e0d9843180d2356</url>
+			</video>
+
+      <video name="泉州南安武荣公园-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111200118-3::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=55473c6f2830099a</url>
+			</video>
+			<video name="泉州南安武荣公园-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111200118-3::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=55473c6f2830099a</url>
+			</video>
+
+      <video name="泉州市惠安县崇武古城后门-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111690137-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=71b99111c52b360</url>
+			</video>
+			<video name="泉州市惠安县崇武古城后门-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111690137-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=71b99111c52b360</url>
+			</video>
+      
+      <video name="泉州丰泽东湖公园大门-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028523-7::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=df11bca5b7d5269</url>
+			</video>
+			<video name="泉州丰泽东湖公园大门-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028523-7::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=df11bca5b7d5269</url>
+			</video>
+       
+      <video name="泉州市惠安县崇武古城大门-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111690146-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=559240a8330a563b</url>
+			</video>
+			<video name="泉州市惠安县崇武古城大门-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111690146-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=559240a8330a563b</url>
+			</video>
+
+      <video name="泉州石狮龟公园对面-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000101302074-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=36de6fd905c0a623</url>
+			</video>
+			<video name="泉州石狮龟公园对面-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000101302074-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=36de6fd905c0a623</url>
+			</video>
+			
+      <video name="泉州鲤城宿燕寺山门-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111010363-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=22e6967d0a34168f</url>
+			</video>
+			<video name="泉州鲤城宿燕寺山门-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111010363-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=22e6967d0a34168f</url>
+			</video>
+
+      <video name="泉州德化政府广场-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140503000390000001-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=4654d9b5707c223c</url>
+			</video>
+			<video name="泉州德化政府广场-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140503000390000001-1::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=4654d9b5707c223c</url>
+			</video>
+
+      <video name="泉州鲤城涂门街关帝庙-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000103078018-5::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=63eb7011743f6042</url>
+			</video>
+			<video name="泉州鲤城涂门街关帝庙-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000103078018-5::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=63eb7011743f6042</url>
+			</video>
+     
+      <video name="泉州丰泽东湖公园西大门-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028523-5::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=b9ceb182418db3d</url>
+			</video>
+			<video name="泉州丰泽东湖公园西大门-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028523-5::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=b9ceb182418db3d</url>
+			</video>
+
+      <video name="泉州鲤城苏夫人庙-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111018308-5::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=3969b6c758c0fc7e</url>
+			</video>
+			<video name="泉州鲤城苏夫人庙-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111018308-5::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=3969b6c758c0fc7e</url>
+			</video>
+
+      <video name="泉州鲤城后城旅游文化街隐居桥头-高清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028375-2::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=62d0232d245a9580</url>
+			</video>
+			<video name="泉州鲤城后城旅游文化街隐居桥头-普清">
+			<url>rtsp://117.27.130.118:554/service?UserId=A8766406A84B195456BDC16F06813135::1;PuId-ChannelNo=140502000111028375-2::1;PuProperty=1::1;VauPtzAdd=120.33.35.220::1;VauPtzPort=5062::1;VauRtspAdd=120.33.35.220::1;VauRtspPort=554::1;StreamingType=1::1;hashtoken=62d0232d245a9580</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

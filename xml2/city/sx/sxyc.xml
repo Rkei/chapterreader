@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="山西" order="H4" >
+		<city name="运城" type="1" order="G" >
+			<video name="河东广场十字路口">
+			<url>tmss://211.142.5.161:9901/tmes_1007?isLive=true&amp;playTitle=河东广场十字路口&amp;netType=1&amp;msisdn=10001&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>	
+			<video name="运城市黄河大道">
+			<url>tmss://211.142.5.161:9901/tmes_1008?isLive=true&amp;playTitle=运城市黄河大道&amp;netType=1&amp;msisdn=10001&amp;channel_id=0009&amp;ProgramID=5789105&amp;type=1&amp;isdebug=true&amp;lg=zh_cn</url>
+			</video>	
+		</city>
+	</province>
+</provinces> 

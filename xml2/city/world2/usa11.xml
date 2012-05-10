@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国景点四" order="0BD" >
+<city name="美国景点11" type="180" order="K" >	
+<video name="Hauppauge系列15">
+<url>http://12.154.142.170/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列15">
+<url>http://71.35.77.53:46004/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列16">
+<url>http://71.35.77.53:46003/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列16">
+<url>http://12.154.134.213/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列17">
+<url>http://12.154.134.210/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="沃尔瑟姆">
+<url>http://wbrs.campusctr.brandeis.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="达拉斯">
+<url>http://66.180.102.33:8865/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列18">
+<url>http://12.154.129.227/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="迈阿密系列6">
+<url>http://webcam6.med.miami.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="圣保罗">
+<url>http://134.29.208.43/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列19">
+<url>http://12.154.129.250/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="米希科特">
+<url>http://68.191.188.218/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="亨登">
+<url>http://24.249.248.178/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="尤金">
+<url>http://128.223.91.91/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列20">
+<url>http://12.154.129.248/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="厄巴纳">
+<url>http://webcam.gcrl.uiuc.edu/mjpg/1/video.mjpg</url>
+</video>
+<video name="里弗赛德加利福尼亚州">
+<url>http://138.23.241.12:8052/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="印第安诺拉">
+<url>http://216.203.127.154:8888/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Reseda">
+<url>http://store48.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Hamilton">
+<url>http://149.43.156.106/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列21">
+<url>http://12.154.129.245/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="萨拉索塔">
+<url>http://meridianllc.dyndns.org/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="伯克利">
+<url>http://wood1.axiscam.net:8000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Hauppauge系列22">
+<url>http://12.154.129.239/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="冈尼森系列2">
+<url>http://webcam1.western.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿斯彭">
+<url>http://dogsaspen.dyndns.org:8082/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥斯威戈系列8">
+<url>http://146.139.72.66/axis-cgi/mjpg/video.cgi::1;data=v.mjpg</url>
+</video>
+<video name="未知系列17">
+<url>http://24.39.200.66:8005/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="普莱诺">
+<url>http://webcam.simsware.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="史蒂文森系列2">
+<url>http://scenic.saw.net/mjpg/1/video.mjpg</url>
+</video>
+<video name="斯坦福大学">
+<url>http://soeccam.stanford.edu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

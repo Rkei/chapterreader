@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球景点" order="Q" >
+		<city name="中国" type="0" order="A" >
+			<video name="# 中国(单击加载)">
+				<url>city/world/china.xml</url>
+			</video>
+		</city>	
+		<city name="美国" type="0" order="B" >
+			<video name="# 美国(单击加载)">
+				<url>city/world/qqjdmg.xml</url>
+			</video>
+		</city>	
+		<city name="日本" type="0" order="D" >
+			<video name="# 日本(单击加载)">
+				<url>city/world/qqjdrb.xml</url>
+			</video>
+		</city>		
+		<city name="英国" type="0" order="F" >
+			<video name="# 英国(单击加载)">
+				<url>city/world/qqjdyg.xml</url>
+			</video>
+		</city>				
+		<city name="其他国家" type="0" order="H" >
+			<video name="# 其他国家(单击加载)">
+				<url>city/world/qqjdqtgj.xml</url>
+			</video>
+		</city>	
+		<city name="亚太地区" type="0" order="E" >
+			<video name="# 亚太地区(单击加载)">
+				<url>city/world/qqjdytdq.xml</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

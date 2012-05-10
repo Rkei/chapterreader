@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="瑞典" order="3">
+<city name="瑞典" type="180" order="A" >	
+<video name="威廉敏娜市">
+<url>http://81.8.163.101:8082/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="威廉敏娜市">
+<url>http://81.8.162.151/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="永比海德">
+<url>http://194.68.33.209/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知">
+<url>http://83.150.146.110/mjpg/1/video.mjpg</url>
+</video>
+<video name="未知">
+<url>http://webbkamera.uppsala.com/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="布登市">
+<url>http://pagla.mine.nu:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="于默奥">
+<url>http://kamera1.vfp.slu.se/mjpg/1/video.mjpg</url>
+</video>
+<video name="于默奥">
+<url>http://kamera3.vfp.slu.se/mjpg/1/video.mjpg</url>
+</video>
+<video name="瑟尔沃斯堡市">
+<url>http://torso.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="冈内夫">
+<url>http://tangvagen.axiscam.net:443/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="穆拉市">
+<url>http://kamera.alvdalen.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="厄斯特松德">
+<url>http://195.84.98.147/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="上托尔内奥市">
+<url>http://194.117.188.37/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="斯德哥尔摩">
+<url>http://81.170.248.12/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Ume">
+<url>http://brantbergskameran.net.umea.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="吕勒奥">
+<url>http://stugan.dnsalias.net:8000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿尔耶普卢格市">
+<url>http://194.103.218.16/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿尔耶普卢格市">
+<url>http://194.103.218.15/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="乌德瓦拉">
+<url>http://uddevallagk.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Raa">
+<url>http://194.16.1.67/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="布拉斯塔德">
+<url>http://smogen.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="斯特伦斯奈斯布吕克">
+<url>http://stromsnasbruk.axiscam.net:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Raa">
+<url>http://194.16.1.68/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知">
+<url>http://193.45.231.73/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="斯德哥尔摩">
+<url>http://webcam1.jbt.slu.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瓦尔贝里">
+<url>http://217.73.101.60/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="博里霍尔姆">
+<url>http://194.218.96.169/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="博里霍尔姆">
+<url>http://194.218.96.92/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="于默奥">
+<url>http://kamera4.vfp.slu.se/mjpg/1/video.mjpg</url>
+</video>
+<video name="于默奥">
+<url>http://kamera2.vfp.slu.se/mjpg/1/video.mjpg</url>
+</video>
+<video name="马尔默">
+<url>http://83.183.216.182/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="索莱夫特奥市">
+<url>http://194.103.3.70/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="塔比">
+<url>http://82.182.132.51:81/mjpg/1/video.mjpg</url>
+</video>
+<video name="威廉敏娜市">
+<url>http://webcam3.vilhelmina.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="斯特伦斯塔德">
+<url>http://webcam2.stromstad.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

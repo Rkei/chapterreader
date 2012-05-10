@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球精选" order="0" >
+		<city name="全球精选" type="0" order="A" >
+			<video name="# 全球精选(单击加载)">
+				<url>city/world/jxsp1.xml</url>
+			</video>
+		</city>
+ </province>
+ <province name="美国" order="1" >
+		<city name="美国1" type="0" order="B" >
+			<video name="# 美国1(单击加载)">
+				<url>city/world/qqjdmg2.xml</url>
+			</video>
+		</city>
+ </province>
+ <province name="日本" order="1" >
+		<city name="日本" type="0" order="D" >
+			<video name="# 日本(单击加载)">
+				<url>city/world/qqjdrb1.xml</url>
+			</video>
+		</city>		
+ </province>
+ <province name="英国" order="1" >
+		<city name="英国" type="0" order="F" >
+			<video name="# 英国(单击加载)">
+				<url>city/world/qqjdyg1.xml</url>
+			</video>
+		</city>				
+</province>
+<province name="其他地区" order="4" >
+	<city name="其他地区" type="0" order="H" >
+			<video name="# 其他地区(单击加载)">
+				<url>city/world/qqjdqtgj1.xml</url>
+			</video>
+		</city>				
+</province>
+</provinces> 

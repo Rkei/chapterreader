@@ -1,0 +1,233 @@
+<?xml version="1.2" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="四川" order="E" >
+    <city name="成都" type="1" order="A" >
+  
+<video name="蓓蕾幼儿园-中一班" >
+<url>rtsp://218.205.231.149:554/live/1/585814D16E7E409C/5609536355901269.sdp?id=guest::1;t=1315322128::1;en=59298799e58e9b38f15169f1a611a817::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路北二段汉江路1#和乐商务酒店外" >
+<url>rtsp://218.205.231.149:554/live/1/19662A0B2B3344A5/556d90ac7b580470.sdp?id=guest::1;t=1315322128::1;en=59298799e58e9b38f15169f1a611a817::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路东四段红星路四段遂宁宾馆门口" >
+<url>rtsp://218.205.231.149:554/live/1/27D07A4701104459/53515ace5f2c5dae.sdp?id=guest::1;t=1315322128::1;en=59298799e58e9b38f15169f1a611a817::1;rs=wap</url>
+</video>
+
+<video name="实时路况-西三环路四段贝森路青羊大道口" >
+<url>rtsp://218.205.231.149:554/live/1/466937CA12C82DE0/7cc09337564811eb.sdp?id=guest::1;t=1315322129::1;en=24e49fc6e532bf4a8a8ebc82e22b3000::1;rs=wap</url>
+</video>
+
+<video name="实时路况-二环路北三段火车北站广场9" >
+<url>rtsp://218.205.231.149:554/live/1/5E59316B72A234EB/669891f863374e0d.sdp?id=guest::1;t=1315322129::1;en=24e49fc6e532bf4a8a8ebc82e22b3000::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路督院街新开街84街" >
+<url>rtsp://218.205.231.149:554/live/1/3A352BD32A1528A9/9158bd20a878ba57.sdp?id=guest::1;t=1315322129::1;en=24e49fc6e532bf4a8a8ebc82e22b3000::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路督院街市防疫站" >
+<url>rtsp://218.205.231.149:554/live/1/7B32251532CA35C0/b1a6d86aa087fd15.sdp?id=guest::1;t=1315322129::1;en=24e49fc6e532bf4a8a8ebc82e22b3000::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路北二段汉江路1#和乐商务酒店外" >
+<url>rtsp://218.205.231.149:554/live/1/3BAA039735D01614/a1aaf6574b2c7b10.sdp?id=guest::1;t=1315322130::1;en=698b2de607b43c61b46638578e9d5009::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路西三段大庆路" >
+<url>rtsp://218.205.231.149:554/live/1/6C7213EC450B2EF8/363712e683f3bcd0.sdp?id=guest::1;t=1315322130::1;en=698b2de607b43c61b46638578e9d5009::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路北四段玉泉太升北路口" >
+<url>rtsp://218.205.231.149:554/live/1/5E3F1F621207041F/4985c8bfc05edd91.sdp?id=guest::1;t=1315322130::1;en=698b2de607b43c61b46638578e9d5009::1;rs=wap</url>
+</video>
+
+<video name="实时路况-三环路西四段清江西路口" >
+<url>rtsp://218.205.231.149:554/live/1/478F029127BC2F54/bd948c328d716f5c.sdp?id=guest::1;t=1315322130::1;en=698b2de607b43c61b46638578e9d5009::1;rs=wap</url>
+</video>
+
+<video name="蓓蕾幼儿园-大班" >
+<url>rtsp://218.205.231.149:554/live/1/37D826721708254B/1616219955815715.sdp?id=guest::1;t=1315322131::1;en=4bd0036e0a22b7c4002c3c6bac30e6af::1;rs=wap</url>
+</video>
+
+<video name="成都移动青白江分公司-成都移动青白江分公司" >
+<url>rtsp://218.205.231.149:554/live/1/2EAB13731C906C12/0510302779015841.sdp?id=guest::1;t=1315322131::1;en=4bd0036e0a22b7c4002c3c6bac30e6af::1;rs=wap</url>
+</video>
+
+<video name="实时路况-二环路东四段与锦东路交叉口" >
+<url>rtsp://218.205.231.149:554/live/1/65B734FB35E4707E/f5006a1a42c745e5.sdp?id=guest::1;t=1315322132::1;en=c38c8c152be230fb1b065b3be3c8c1c2::1;rs=wap</url>
+</video>
+
+<video name="实时路况-二环路北三段火车北站WOWO超市门前" >
+<url>rtsp://218.205.231.149:554/live/1/0D8B3E252B1926E5/51b7c14ad43c8643.sdp?id=guest::1;t=1315322132::1;en=c38c8c152be230fb1b065b3be3c8c1c2::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路锦沙路温鸭子" >
+<url>rtsp://218.205.231.149:554/live/1/795B030D238307B4/3d4d39f8d98f6d2f.sdp?id=guest::1;t=1315322132::1;en=c38c8c152be230fb1b065b3be3c8c1c2::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路水碾河电信营业厅" >
+<url>rtsp://218.205.231.149:554/live/1/3B7D4C49332A47EC/8163fc40199761ad.sdp?id=guest::1;t=1315322133::1;en=3f9b071f939290361dc0952a8a403470::1;rs=wap</url>
+</video>
+
+<video name="实时路况-二环路西二段府南新区路口" >
+<url>rtsp://218.205.231.149:554/live/1/43CE6F9443445D9A/2274eac3c178b23c.sdp?id=guest::1;t=1315322133::1;en=3f9b071f939290361dc0952a8a403470::1;rs=wap</url>
+</video>
+
+<video name="实时路况-二环路东三段双林北支路口" >
+<url>rtsp://218.205.231.149:554/live/1/5284212950CD5BD6/a715cd816b0793ae.sdp?id=guest::1;t=1315322133::1;en=3f9b071f939290361dc0952a8a403470::1;rs=wap</url>
+</video>
+
+<video name="实时路况-二环路北三段火车北站广场13" >
+<url>rtsp://218.205.231.149:554/live/1/0FA6042C499878C7/be3039e726def4f1.sdp?id=guest::1;t=1315322133::1;en=3f9b071f939290361dc0952a8a403470::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路暑袜北三街蜀都大厦" >
+<url>rtsp://218.205.231.149:554/live/1/4AAD1EF95EDD6C0B/009890d3c40d8f72.sdp?id=guest::1;t=1315322134::1;en=3ab6f30e7bdd69c500de52daccefa13d::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路西二段名翠路清江东路口" >
+<url>rtsp://218.205.231.149:554/live/1/7E71637404F7667F/b63509c805db377b.sdp?id=guest::1;t=1315322134::1;en=3ab6f30e7bdd69c500de52daccefa13d::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路锦江区盐市口人民东路（人民商场路口）" >
+<url>rtsp://218.205.231.149:554/live/1/730108A4299325B3/4a6d9eeb65c5007c.sdp?id=guest::1;t=1315322134::1;en=3ab6f30e7bdd69c500de52daccefa13d::1;rs=wap</url>
+</video>
+
+<video name="都江堰-人工湖" >
+<url>rtsp://218.205.231.149:554/live/1/2F8B5FCF0E1608F6/8600532187662882.sdp?id=guest::1;t=1315322135::1;en=1038f7fcbbc70dd79cb174661ae9ff8d::1;rs=wap</url>
+</video>
+
+<video name="都江堰-图书馆" >
+<url>rtsp://218.205.231.149:554/live/1/4791741A21A52C81/2741248154756858.sdp?id=guest::1;t=1315322135::1;en=1038f7fcbbc70dd79cb174661ae9ff8d::1;rs=wap</url>
+</video>
+
+<video name="成都恒越有限公司-办公走廊" >
+<url>rtsp://182.150.140.56:80/vbox_live.sdp?magic=1229631995417542::1;rs=wap</url>
+</video>
+
+<video name="龙泉桃花节视频1-桃花节视频1" >
+<url>rtsp://218.205.231.149:554/live/1/57B57700157717F9/3551299996222301.sdp?id=guest::1;t=1315322135::1;en=1038f7fcbbc70dd79cb174661ae9ff8d::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路西三段过街楼街与东城根下街路口" >
+<url>rtsp://218.205.231.149:554/live/1/3933291736436024/90502e5112834081.sdp?id=guest::1;t=1315322640::1;en=90338a712cd4e3cbcc251754fabe059d::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路东五段103号" >
+<url>rtsp://218.205.231.149:554/live/1/64677BD2169974DC/2cd00f97b9a48408.sdp?id=guest::1;t=1315322640::1;en=90338a712cd4e3cbcc251754fabe059d::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路宁夏街与万和路之间绿化带内" >
+<url>rtsp://218.205.231.149:554/live/1/03F5400F3D3C52B8/a00c4e7152a862f1.sdp?id=guest::1;t=1315322641::1;en=072db6af062f1ab11719836ea94fb9da::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路督院街锦江桥" >
+<url>rtsp://218.205.231.149:554/live/1/64C446AD39850BB7/955cd2c3d22ff316.sdp?id=guest::1;t=1315322641::1;en=072db6af062f1ab11719836ea94fb9da::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路锦江区庆云南街二医院门口" >
+<url>rtsp://218.205.231.149:554/live/1/45F44D7D2DB87DF3/2f011eec4bbe9628.sdp?id=guest::1;t=1315322641::1;en=072db6af062f1ab11719836ea94fb9da::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路西二段成温立交桥" >
+<url>rtsp://218.205.231.149:554/live/1/38F1636968AB7AD3/bfe5dc576dd7160f.sdp?id=guest::1;t=1315322641::1;en=072db6af062f1ab11719836ea94fb9da::1;rs=wap</url>
+</video>
+
+<video name="实时路况-二环路北三段火车北站广场4" >
+<url>rtsp://218.205.231.149:554/live/1/35AB46A109903442/bc514794db02406e.sdp?id=guest::1;t=1315322642::1;en=1827760c1e2fc93270c4994cd81a7fc6::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路西二段名翠路清江东路口" >
+<url>rtsp://218.205.231.149:554/live/1/55201E55160872A4/1bf38cc650e77a18.sdp?id=guest::1;t=1315322642::1;en=1827760c1e2fc93270c4994cd81a7fc6::1;rs=wap</url>
+</video>
+
+<video name="实时路况-二环路北三段火车北站广场8" >
+<url>rtsp://218.205.231.149:554/live/1/30C34A0446F274C9/aaa0d3e99c64b86d.sdp?id=guest::1;t=1315322642::1;en=1827760c1e2fc93270c4994cd81a7fc6::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路东五段103号" >
+<url>rtsp://218.205.231.149:554/live/1/3FF7112C7BE43CA9/333965fe147416d3.sdp?id=guest::1;t=1315322642::1;en=1827760c1e2fc93270c4994cd81a7fc6::1;rs=wap</url>
+</video>
+
+<video name="成都移动新津分公司-成都移动新津分公司" >
+<url>rtsp://218.205.231.149:554/live/1/4C2478001D326FBE/8321451484038538.sdp?id=guest::1;t=1315322643::1;en=d4be269c26068fa87eb891aea52c699e::1;rs=wap</url>
+</video>
+
+<video name="蓓蕾幼儿园-小二班" >
+<url>rtsp://218.205.231.149:554/live/1/39F871BD7D2463FC/4154393455093094.sdp?id=guest::1;t=1315322643::1;en=d4be269c26068fa87eb891aea52c699e::1;rs=wap</url>
+</video>
+
+
+<video name="成都市蓓蕾幼儿园-大厅" >
+<url>rtsp://218.205.231.149:554/live/1/1A3079C118906ECE/8998666416335684.sdp?id=guest::1;t=1315322644::1;en=5ba4ea38e6a6f813144d0d7d904e990e::1;rs=wap</url>
+</video>
+
+<video name="成都市蓓蕾幼儿园-多功能活动厅" >
+<url>rtsp://218.205.231.149:554/live/1/31C4553B144C32AB/4294667198120919.sdp?id=guest::1;t=1315322644::1;en=5ba4ea38e6a6f813144d0d7d904e990e::1;rs=wap</url>
+</video>
+
+<video name="金桥明珠幼儿园-芽芽小班" >
+<url>rtsp://218.205.231.149:554/live/1/64D446A6569E04DE/4aafec81bddad8f6.sdp?id=guest::1;t=1315322645::1;en=152a6b943275e7f06d812edb148d80e0::1;rs=wap</url>
+</video>
+
+<video name="蓓蕾幼儿园-中班" >
+<url>rtsp://218.205.231.149:554/live/1/52D06C5101C16E0C/0887043257145607.sdp?id=guest::1;t=1315322645::1;en=152a6b943275e7f06d812edb148d80e0::1;rs=wap</url>
+</video>
+
+<video name="蓓蕾幼儿园-学前班" >
+<url>rtsp://218.205.231.149:554/live/1/7BA64B081FEE128A/0356973363663145.sdp?id=guest::1;t=1315322646::1;en=d2270c43f6b4c8e4948171fa6095e18f::1;rs=wap</url>
+</video>
+
+<video name="实时路况-一环路西三段永陵路口" >
+<url>rtsp://218.205.231.149:554/live/1/2CBE124B67C85A59/7f43f0a5e68a0f59.sdp?id=guest::1;t=1315322646::1;en=d2270c43f6b4c8e4948171fa6095e18f::1;rs=wap</url>
+</video>
+
+<video name="金桥明珠双语幼稚园-蒙班寝室" >
+<url>rtsp://218.205.231.149:554/live/1/0F0A057E31FE7A14/cb015b3ebcf3e30f.sdp?id=guest::1;t=1315322647::1;en=2d43de4b3234939d0dc08e30ac753424::1;rs=wap</url>
+</video>
+
+<video name="成都市蓓蕾幼儿园-操场右" >
+<url>rtsp://218.205.231.149:554/live/1/0B9D117B610D2B43/5623034104727649.sdp?id=guest::1;t=1315322647::1;en=2d43de4b3234939d0dc08e30ac753424::1;rs=wap</url>
+</video>
+
+<video name="金桥明珠幼儿园-果果大班" >
+<url>rtsp://218.205.231.149:554/live/1/0DB427D30BC2573D/a7b46099f58dbf55.sdp?id=guest::1;t=1315322648::1;en=fccba582a621f9633aae7cf32dcb8137::1;rs=wap</url>
+</video>
+
+<video name="蓓蕾幼儿园-小二班" >
+<url>rtsp://218.205.231.149:554/live/1/0B5804474F0A793D/6076531802341633.sdp?id=guest::1;t=1315323505::1;en=de3aa20091622d104608cb2a9210eb34::1;rs=wap</url>
+</video>
+
+<video name="金桥明珠幼儿园-果果大班" >
+<url>rtsp://218.205.231.149:554/live/1/10FC2B0732264EB6/998b967915dce5a5.sdp?id=guest::1;t=1315323505::1;en=de3aa20091622d104608cb2a9210eb34::1;rs=wap</url>
+</video>
+
+<video name="金桥明珠双语幼稚园-蒙班寝室" >
+<url>rtsp://218.205.231.149:554/live/1/60424C544561421D/ecae2943db61d04d.sdp?id=guest::1;t=1315323505::1;en=de3aa20091622d104608cb2a9210eb34::1;rs=wap</url>
+</video>
+
+<video name="妈妈爱幼儿园-大门" >
+<url>rtsp://218.205.231.149:554/live/1/0E1739710A367F1B/b7edad5ff1d54458.sdp?id=guest::1;t=1315323505::1;en=de3aa20091622d104608cb2a9210eb34::1;rs=wap</url>
+</video>
+
+<video name="金桥明珠幼儿园-花花中班" >
+<url>rtsp://218.205.231.149:554/live/1/545E212074FC6535/375b52f084ff8c44.sdp?id=guest::1;t=1315323506::1;en=d1990522d7559698e91cb14c2e62bc67::1;rs=wap</url>
+</video>
+
+<video name="金桥明珠双语幼儿园-芽芽班" >
+<url>rtsp://218.205.231.149:554/live/1/78A234F51ADC25B1/7a07d34e4eaba6db.sdp?id=guest::1;t=1315323506::1;en=d1990522d7559698e91cb14c2e62bc67::1;rs=wap</url>
+</video>
+
+<video name="蓓蕾幼儿园-中二班" >
+<url>rtsp://218.205.231.149:554/live/1/730C1F7217016400/2232739850448859.sdp?id=guest::1;t=1315323506::1;en=d1990522d7559698e91cb14c2e62bc67::1;rs=wap</url>
+</video>
+
+<video name="金桥明珠双语幼稚园-豆豆班" >
+<url>rtsp://218.205.231.149:554/live/1/4CBE4FCD59977D47/0472764984566980.sdp?id=guest::1;t=1315323507::1;en=1efeea16364c89d061e0b1077cc67f2c::1;rs=wap</url>
+</video>
+
+		</city>			
+	</province>
+</provinces> 
