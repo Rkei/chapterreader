@@ -16,12 +16,12 @@
 		
 		<city name="中国台湾1" type="1" order="F" >		
 	    <video name="# 中国台湾1(单击加载)">
-				<url>city/world4/zgam.xml</url>
+				<url>city/world4/zgtw.xml</url>
 			</video>
 		</city>	
 		<city name="中国台湾2" type="1" order="G" >
 	    <video name="# 中国台湾2(单击加载)">
-				<url>city/world4/zgam.xml</url>
+				<url>city/world4/zgtw2.xml</url>
 			</video>
 		</city>						
 </province>
