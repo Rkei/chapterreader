@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="中国" order="C" >
+ <city name="中国香港" type="1" order="D" >	
+			<video name="# 中国香港(单击加载)">
+				<url>city/world4/zgxg.xml</url>
+			</video>
+		</city>	
+		<city name="中国澳门" type="1" order="I" >	
+	    <video name="# 中国澳门(单击加载)">
+				<url>city/world4/zgam.xml</url>
+			</video>
+		</city>	
+		
+		<city name="中国台湾1" type="1" order="F" >		
+	    <video name="# 中国台湾1(单击加载)">
+				<url>city/world4/zgam.xml</url>
+			</video>
+		</city>	
+		<city name="中国台湾2" type="1" order="G" >
+	    <video name="# 中国台湾2(单击加载)">
+				<url>city/world4/zgam.xml</url>
+			</video>
+		</city>						
+</province>
+
+
+</provinces> 
