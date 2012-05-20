@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="中国" order="C" >
-<city name="中国台湾2" type="1" order="G" >	
+<city name="中国台湾2" type="888" order="G" >	
 
 <video name="台湾 台北交通路口 5">
 <url>http://60.251.184.162/mjpg/quad/video.mjpg</url>

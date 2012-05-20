@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="中国" order="C" >
-<city name="中国香港" type="1" order="D" >	
+<city name="中国香港" type="888" order="D" >	
 <video name="香港 Central District-高清">
-<url>http://livevideo.worldicearena.com/mjpg/video.mjpg?Resolution=192x144&Quality=Standard&data=v.mjpg</url>
+<url>http://livevideo.worldicearena.com/mjpg/video.mjpg?Resolution=192x144&amp;Quality=Standard&amp;data=v.mjpg</url>
 </video>
 <video name="香港 german swiss international school">
 <url>http://weathercam.gsis.edu.hk/mjpg/video.mjpg</url>
 </video>
 <video name="香港 赛车道-低分辨率">
-<url>http://aco.viewnetcam.com:50000/nphMotionJpeg?Resolution=192x144&Quality=Standard&data=v.mjpg</url>
+<url>http://aco.viewnetcam.com:50000/nphMotionJpeg?Resolution=192x144&amp;Quality=Standard&amp;data=v.mjpg</url>
 </video>
 <video name="香港 赛车道-普清">
-<url>http://aco.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+<url>http://aco.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240&amp;Quality=Standard&amp;data=v.mjpg</url>
 </video>
 <video name="香港 赛车道-高清">
-<url>http://aco.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&Quality=Standard&data=v.mjpg</url>
+<url>http://aco.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&amp;Quality=Standard&amp;data=v.mjpg</url>
 </video>
 </city>
 </province>
