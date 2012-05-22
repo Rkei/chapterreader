@@ -17,7 +17,7 @@
 			</video>
   </city>	
   <city name="爱知县" type="1" order="D" >	
-      <video name="# 日本东京1(单击加载)">
+      <video name="# 爱知县(单击加载)">
 				<url>city/world5/rbqt4.xml</url>
 			</video>
   </city>				
@@ -52,7 +52,7 @@
 			</video>
   </city>
   <city name="福冈" type="1" order="C" >		
-      <video name="# 千叶(单击加载)">
+      <video name="# 福冈(单击加载)">
 				<url>city/world5/rbqt7.xml</url>
 			</video>
   </city>		
