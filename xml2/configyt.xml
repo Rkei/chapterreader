@@ -42,7 +42,7 @@
 <!--load version="1.5" name="city/sx/sx.xml" /-->
 <!--load version="1.2" name="city/shanxi/shanxi.xml" /-->
 <para name="appoffer" value="1" meney="20" />
-<para name="show1" value="手机观看视频需要切换到cmnet或wlan。无法播放的视频服务器正处于离线状态，请稍后尝试。" />
+<para name="show1" value="观看外国摄像头时注意时差，部分摄像头晚上无法观看。部分摄像头帧率较低，可能感觉会比较卡。手机观看视频需要切换到cmnet或wlan。无法播放的视频服务器正处于离线状态，请稍后尝试。" />
 <para name="show2" value="" />
 <para name="show3" value="" />
 <para name="rscount" value="5" /> 
