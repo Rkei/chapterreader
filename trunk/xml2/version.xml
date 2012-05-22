@@ -53,4 +53,16 @@
 	<vfile version="1.1" name="city/fjxm.xml"/>
 	<vfile version="1.2" name="city/hb/hbyc.xml"/>
 	<vfile version="1.2" name="city/cq/cqsq.xml"/>
+	
+	<vfile version="1.1" name="city/world5/rbdj1.xml"/>
+	<vfile version="1.1" name="city/world5/rbdj2.xml"/>
+	<vfile version="1.1" name="city/world5/rbdj3.xml"/>
+	<vfile version="1.1" name="city/world5/rbdj4.xml"/>
+	<vfile version="1.1" name="city/world5/rbdj5.xml"/>
+	<vfile version="1.1" name="city/world5/rbdj6.xml"/>
+	
+	<vfile version="1.1" name="city/world4/qita.xml"/>
+	<vfile version="1.1" name="city/world4/taiguo.xml"/>
+	<vfile version="1.1" name="city/world4/zhongdong.xml"/>
+	<vfile version="1.1" name="city/world4/zgam.xml"/>
 </configs>
