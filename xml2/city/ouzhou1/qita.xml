@@ -12,6 +12,14 @@
 			<url>city/ouzhou1/polan2.xml</url>
 		</video>
 	</city>	
-	
 </province>
+
+<province name="冰岛" order="CK" >
+<city name="冰岛" type="1" order="A" >	
+	<video name="# 冰岛(单击加载)">
+			<url>city/ouzhou1/bingdao.xml</url>
+		</video>
+	</city>	
+</province>
+
 </provinces>
