@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="波兰" order="CI" >
+	
+  <city name="波兰" type="1" order="A" >	
+		<video name="# 波兰(单击加载)">
+			<url>city/ouzhou1/polan1.xml</url>
+		</video>
+	</city>	
+  <city name="波兰2" type="1" order="B" >	
+		<video name="# 波兰2(单击加载)">
+			<url>city/ouzhou1/polan2.xml</url>
+		</video>
+	</city>	
+	
+</province>
+</provinces>
