@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="荷兰" order="DA" >
+<city name="荷兰" type="1888" order="A" >	
+<video name="德瓦尔">
+<url>http://82.151.35.229:443/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="尔芬">
+<url>http://zeehond.tonytee.nl:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="尔芬系列2">
+<url>http://zeehond.tonytee.nl:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="海牙">
+<url>http://ivv.dyndns.info/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="沃尔伯格">
+<url>http://82.93.241.220/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="恩斯赫德">
+<url>http://130.89.153.235/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="恩斯赫德系列2">
+<url>http://130.89.153.240/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="恩斯赫德系列3">
+<url>http://130.89.153.238/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="恩斯赫德系列4">
+<url>http://130.89.153.239/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="德龙滕">
+<url>http://87.195.39.103/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="鹿特丹">
+<url>http://84.246.0.104:82/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕彭德雷赫特">
+<url>http://procam10.eun.proserve.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕彭德雷赫特系列2">
+<url>http://procam8.eun.proserve.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕彭德雷赫特系列3">
+<url>http://procam6.eun.proserve.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="霍赫芬">
+<url>http://92.66.4.219:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="埃姆斯特">
+<url>http://86.88.160.143:8033/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瓦赫宁根">
+<url>http://93.125.157.72:5506/mjpg/1/video.mjpg</url>
+</video>
+<video name="未知">
+<url>http://webcam.sentia.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿姆斯特丹">
+<url>http://cam02.dcg.nxs.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="恩斯赫德系列5">
+<url>http://130.89.153.236/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="赞德沃特">
+<url>http://92.67.19.169/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿姆斯特丹系列2">
+<url>http://kzvw.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Eersel">
+<url>http://82.92.166.224:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="恩斯赫德系列6">
+<url>http://130.89.153.233/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕彭德雷赫特系列4">
+<url>http://webcam2.makeweb.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="恩斯赫德系列7">
+<url>http://130.89.153.232/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="恩斯赫德系列8">
+<url>http://130.89.153.234/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="鹿特丹系列2">
+<url>http://84.246.0.104:81/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕彭德雷赫特系列5">
+<url>http://procam9.eun.proserve.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="埃姆斯特系列2">
+<url>http://86.88.160.143:8031/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="迪伦">
+<url>http://weercamsdieren.mijnveluwezoom.nl:81/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="艾瑟尔斯泰恩">
+<url>http://olbert.xs4all.nl:563/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕彭德雷赫特系列6">
+<url>http://procam2.eun.proserve.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕彭德雷赫特系列7">
+<url>http://procam1.eun.proserve.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="帕彭德雷赫特系列8">
+<url>http://procam3.eun.proserve.nl/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="鹿特丹系列3">
+<url>http://84.246.0.104:83/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Gorredijk">
+<url>http://brugburdaard.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="利门">
+<url>http://62.216.19.241:42080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="鹿特丹系列4">
+<url>http://217.148.160.63/mjpg/1/video.mjpg</url>
+</video>
+<video name="鹿特丹系列5">
+<url>http://wscr.mine.nu/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="亨厄洛">
+<url>http://cams.salden.nl:4444/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="阿姆斯多芬">
+<url>http://ptzcam.peterspages.net:81/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="鹿特丹系列6">
+<url>http://84.246.0.104:84/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+</city>
+</province>
+</provinces>
