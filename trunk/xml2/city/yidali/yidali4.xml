@@ -3,10 +3,6 @@
 <province name="意大利" order="BH" >
 <city name="意大利4" type="1888" order="D" >	
 
-<video name="伦巴第 Milan 8">
-<url>http://87.22.80.97/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
-</video>
-
 <video name="伦巴第 Milan 海边小屋9">
 <url>http://webcam.eurcamping.it/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
@@ -121,6 +117,10 @@
 
 <video name="西西里 Paceco 海边浴场18-高清">
 <url>http://79.5.175.198/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Milan 未知8">
+<url>http://87.22.80.97/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 </city>
