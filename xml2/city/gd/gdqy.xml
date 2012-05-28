@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="清远" type="1" order="R" >
+			<video name="清远连山民族高级中学2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219433.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005064::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123115823::1;encrypt=b40115f278e687d2188f0eea9bf11be5</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村委会1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197863.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004891::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=f14d8976bb2626c4355edf8e5440cdbb</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村委会2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197864.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004892::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=2a7beee3cf60b98baab3155bad4ae001</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村养猪场1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197865.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004880::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=2be99f412aafd85e69da2eb222812bee</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村养猪场2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197866.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004883::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=0f0a8f0608ab4b1c13a71e792cb7280e</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村养猪场3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197867.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004884::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=0523efde113e54a0643b5001d4e3e219</hdurl>
+			</video>
+			<video name="清远佛冈城北中学2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/231543.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005062::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=9fcfee6c2bce01a74d6ffac9bc3093d3</hdurl>
+			</video>
+			<video name="清远清新县秦皇村菜场示范基地1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/231721.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004888::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=1b10fadb41d9a5ff3bcb99c860c397e8</hdurl>
+			</video>
+	    <video name="清远清新县秦皇村菜场示范基地2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/231722.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004887::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=ddd782f9d0bb10d2ded3c4ca79f48699</hdurl>
+			</video>
+			<video name="清远阳山实验小学3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219377.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005033::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=05955c561837780419d12db8463fe3c6</hdurl>
+			</video>
+			<video name="清远龙塘镇第一初级小学1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/230561.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005074::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=3db3d91108fd4a70ab80eaffe7fee67f</hdurl>
+			</video>
+			<video name="清远龙塘镇第一初级小学2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/230562.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005075::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=955603c2672d58cb6a94d7923596f144</hdurl>
+			</video>
+		  <video name="清远连南民族初级中学2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219400.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005051::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=2edcd8eab99e784a610820e5ca596262</hdurl>
+			</video>
+			<video name="清远连山广德中学1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219401.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005021::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=ac2f2e8b5cc8a70cd3ac108d7b07fdc6</hdurl>
+			</video>
+			<video name="清远连山广德中学4">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219402.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005024::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=16312f47bfda2ce868068f4de7dae2aa</hdurl>
+			</video>
+			<video name="清远连山民族高级中学1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219403.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005063::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=aab56d0770a3f86724e32b965150d613</hdurl>
+			</video>
+			<video name="清远连州慧光中学3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219404.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005048::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=05ceb519d5aec98c8893830c184eba77</hdurl>
+			</video>
+			<video name="清远连南民族初级小学1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219405.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005039::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=4b35d509b1cdf170cef385aa41d859f6</hdurl>
+			</video>
+			<video name="华为清远附三楼接待区">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/48246.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500000093::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=e87d62318e3181050cba9b24311a7982</hdurl>
+			</video>
+			<video name="华为清远招标（1）室">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/48249.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500000098::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=b9577c65d80c8ecd21e4322b9e383b7e</hdurl>
+			</video>
+			<video name="华为清远招标（2）室">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/48250.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500000099::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=4d4f6891c9e57e69266be493c065589a</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 
