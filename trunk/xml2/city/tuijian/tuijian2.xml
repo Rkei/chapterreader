@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="tuijian" order="S" >
+		<city name="tuijian" type="888" order="C" >	
+			<!--video name="交通千里眼--全国多个城市的实时交通视频，出行好帮手。">
+			<url>http://static.apk.hiapk.com/html/2012/05/586093.html</url>
+			</video>
+			
+			<video name="亚洲间谍摄像头--收集亚洲数千个高清网络摄像头，异国实景随时看。">
+			<url>http://static.apk.hiapk.com/html/2012/05/595745.html</url>
+			</video-->
+			
+			<video name="书虫听吧--自带语音库，支持txt文本朗读，解放你的眼睛。">
+			<url>http://static.apk.hiapk.com/html/2012/05/594182.html</url>
+			</video>
+			
+		</city>
+	</province>
+</provinces> 
