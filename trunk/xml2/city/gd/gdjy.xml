@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="揭阳" type="1" order="J">
+			<video name="榕江华府2期-新北河桥">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/7604.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/4A9BFFF6CCCC7F08/QL00ZRnqBq2jBTUf.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="星河城2-梅东大桥">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/7606.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/428C1A6F4422371E/mDyZ2ezxrXF0kUuG.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="榕江华府1期-临江北路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/7603.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/F09ED0B46B3F8824/LPF8Vfq3u3vvdxzx.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="汇景蓝湾-十字路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/7605.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/269C5CF65259795B/ulVJuqWzT1MP68gd.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="北河大桥-北河大桥">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/7607.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/01ED354C39D6C98A/4uma67kuOb4vQcu9.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="普宁移动服务厅-IP208">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/7608.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/D5A5A514A12C06F6/9qQBYtQdQ4xWqcHF.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="惠来县-金龙大厦十字路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/231261.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/FDC3F73587DB7B27/W5EK66TRmWD4koRy.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="惠来县-惠神十字路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/230741.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/FAEC79528E7528A7/i07TOVNCUElHDRs0.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="普宁市-普宁市政府东">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/231443.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/9A6E0EBCB87B51F6/KWaMjQESVxd1tegs.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="揭西京明渡假村-主楼下通道">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/232221.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/CD6C6EC7AD911238/ro0ybj0MAnNe7ZXY.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="揭阳楼-揭阳楼十字路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/230721.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/FCD09FCE90787458/p7uyheunZWKRLlec.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="揭阳楼-揭阳楼全景">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/230722.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/E0B567F61A450355/5fRpWBBzBxAGwwTG.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="揭东万竹园-大门入口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/231401.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/E0DAAE1D5569DC25/F13Kv0XounQAKgQq.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="普宁市-普宁市政府西">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/231441.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/BF94BE0C16AC416D/knNTcDDPkLLXtLH6.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="揭阳星谷-Apple 配件区" >
+    	<url>rtsp://120.196.147.14:554/live/2/21EDF12CF59C183F/NbOfDQodI0tZOG9J.sdp?id=guest::1;t=1315320747::1;en=8552ba15560e052f110e56e6f9121f57::1;rs=wap</url>
+	    </video>
+	    <video name="揭阳星谷-Apple 专卖店" >
+	    <url>rtsp://120.196.147.14:554/live/3/21EDF12CF59C183F/6Su6ApT6wlNvN5Oo.sdp?id=guest::1;t=1315320747::1;en=8552ba15560e052f110e56e6f9121f57::1;rs=wap</url>
+	    </video>
+		  <video name="揭阳星谷-Apple 电脑区" >
+	    <url>rtsp://120.196.147.14:554/live/4/21EDF12CF59C183F/NEY7FUb4XXfSxkAn.sdp?id=guest::1;t=1315320747::1;en=8552ba15560e052f110e56e6f9121f57::1;rs=wap</url>
+	    </video>
+    	<video name="揭阳星谷-Apple 体验厅" >
+	    <url>rtsp://120.196.147.14:554/live/1/21EDF12CF59C183F/0G0hu6cBGNlmjnr8.sdp?id=guest::1;t=1315320747::1;en=8552ba15560e052f110e56e6f9121f57::1;rs=wap</url>
+	    </video>	
+		</city>
+	</province>
+</provinces> 

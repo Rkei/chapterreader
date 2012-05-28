@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.4">
+   <province name="广东" order="S">
+		<city name="深圳" type="100" order="B" >
+			<video name="滨河上步立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=00606E801058</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTAwNjA2RTgwMTA1OA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/288CFA7F19045C97/wlCjMXuZF47gg197.sdp?id=13888888888::1;t=1320561828::1;en=4ba60a0b0fb8abc5707e8d4bbc0875c7::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/288CFA7F19045C97/0tzXltK33REc9UOm.sdp?id=13888888888::1;t=1320561828::1;en=4ba60a0b0fb8abc5707e8d4bbc0875c7::1;rs=ws</hdurl>
+			</video>
+			<video name="滨河大道赤尾段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C4</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDNA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/C242CCE677551A60/ZxviDjQscJe3uwSc.sdp?id=13888888888::1;t=1320562906::1;en=355ba015a518d0b0e39643f490d99a20::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/C242CCE677551A60/R8iFxVbMgrVR72ar.sdp?id=13888888888::1;t=1320562906::1;en=355ba015a518d0b0e39643f490d99a20::1;rs=ws</hdurl>
+			</video>
+			<video name="滨河皇岗立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120416</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxNg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/EA6C5223B2F8B492/79G34SPrnVJrjgdY.sdp?id=13888888888::1;t=1320563005::1;en=ac64528bb1650868093925dc8fa451bb::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/EA6C5223B2F8B492/O3GYKulSaj1iZlWw.sdp?id=13888888888::1;t=1320563005::1;en=ac64528bb1650868093925dc8fa451bb::1;rs=ws</hdurl>
+			</video>
+			<video name="北环上步立交">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRBNw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/1B14AFA8618BC22A/jlNKIdeUKVGKeauf.sdp?id=13888888888::1;t=1320563067::1;en=d94b11b2c40917cb8fad03b76608d5a5::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/1B14AFA8618BC22A/bEDpliBpWHb117o9.sdp?id=13888888888::1;t=1320563067::1;en=d94b11b2c40917cb8fad03b76608d5a5::1;rs=ws</hdurl>
+			</video>
+			<video name="滨河车公庙立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120417</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxNw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/4AAC2BAEAA898CE4/Ws3cT8UZD2f4Rwze.sdp?id=13888888888::1;t=1320563142::1;en=3c05a46156077b356bf1b71ea3d13953::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/4AAC2BAEAA898CE4/xHQq8sYvwChn9PSt.sdp?id=13888888888::1;t=1320563142::1;en=3c05a46156077b356bf1b71ea3d13953::1;rs=ws</hdurl>
+			</video>
+			<video name="北环彩田立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041E</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxRQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/147C05E3ECA5D8BF/gSCBFCsTh4qvHYEV.sdp?id=13888888888::1;t=1320563197::1;en=f61308b38c3c65f621bca23f7d93394b::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/147C05E3ECA5D8BF/nYKI33wuV7NseaWu.sdp?id=13888888888::1;t=1320563197::1;en=f61308b38c3c65f621bca23f7d93394b::1;rs=ws</hdurl>
+			</video>
+			<video name="华强南立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C5</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDNQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/AA1DCA8FF8FA7E2D/mCZt75kUWaQV5zi9.sdp?id=13888888888::1;t=1320563262::1;en=31624d49daef05d738e68f9e8777386d::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/AA1DCA8FF8FA7E2D/eZxeqhSPRZofylPj.sdp?id=13888888888::1;t=1320563262::1;en=31624d49daef05d738e68f9e8777386d::1;rs=ws</hdurl>
+			</video>
+			<video name="北环香梅路段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120480</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ4MA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/FF1E32968D4219F0/UGWqdQx1doCHuk5y.sdp?id=13888888888::1;t=1320563315::1;en=d3bf2f0a256d957e4ab62072d8f2f1c6::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/FF1E32968D4219F0/eSzYaUGphv7XfygI.sdp?id=13888888888::1;t=1320563315::1;en=d3bf2f0a256d957e4ab62072d8f2f1c6::1;rs=ws</hdurl>
+			</video>
+			<video name="北环新洲立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120171</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDE3MQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/69B3A22CC86BB4A0/URQkqGgCFWbEuaLS.sdp?id=13888888888::1;t=1320563362::1;en=f3204e95ae2f3e5f9e136262ca061d25::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/69B3A22CC86BB4A0/yJcyH4P34TVUZY6F.sdp?id=13888888888::1;t=1320563362::1;en=f3204e95ae2f3e5f9e136262ca061d25::1;rs=ws</hdurl>
+			</video>
+			<video name="黄木岗立交">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRERg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/8BB3E7A4B5ECCA76/0J9j2675R28J8Ip3.sdp?id=13888888888::1;t=1320563414::1;en=c82c6b79572e941626ef56a6a67a384e::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/8BB3E7A4B5ECCA76/4yCMbZPfp89GoBqy.sdp?id=13888888888::1;t=1320563414::1;en=c82c6b79572e941626ef56a6a67a384e::1;rs=ws</hdurl>
+			</video>
+			<video name="红荔新洲路口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12003D</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDAzRA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/06F8590B120AC873/fUhkwAsbstucdaDj.sdp?id=13888888888::1;t=1320563469::1;en=ca4bbe33414efb23777a6b411ad7dd4a::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/06F8590B120AC873/f58iT8S4XZg0mw3i.sdp?id=13888888888::1;t=1320563469::1;en=ca4bbe33414efb23777a6b411ad7dd4a::1;rs=ws</hdurl>
+			</video>
+			<video name="红荔香蜜湖西路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120041</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDA0MQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/928C1AADC22AE27C/U7aLWDwNf7kT2CvN.sdp?id=13888888888::1;t=1320563526::1;en=af06437ceade3d58c785da327c3b6c49::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/928C1AADC22AE27C/U8ODIlKbunn0z0Ze.sdp?id=13888888888::1;t=1320563526::1;en=af06437ceade3d58c785da327c3b6c49::1;rs=ws</hdurl>
+			</video>
+			<video name="华强中公交站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204D1</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDREMQ==.html</url>
+		  <ldurl>rtsp://120.196.125.22:554/mobile/1/827FE579A4EB0E75/wshwPplXuqjGUai7.sdp?id=13888888888::1;t=1320563585::1;en=45e48fc6a282cc24515d879864f89941::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/827FE579A4EB0E75/ndjp5JSP3sZJAEcs.sdp?id=13888888888::1;t=1320563585::1;en=45e48fc6a282cc24515d879864f89941::1;rs=ws</hdurl>
+			</video>
+			<video name="北环银湖路段">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ3Rg==.html</url>
+			</video>
+			<video name="华强北经济大厦站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204CE</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDRQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/B9B72842F36B5545/e0sDFLbFOH1pND1e.sdp?id=13888888888::1;t=1320563665::1;en=f3cc146d32cbeca459138d271504bdef::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/B9B72842F36B5545/AxeI09Vw9d3q8w02.sdp?id=13888888888::1;t=1320563665::1;en=f3cc146d32cbeca459138d271504bdef::1;rs=ws</hdurl>
+			</video>
+			<video name="皇岗梅林路口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1203E4</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDNFNA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/5C8A69036F948C7A/njxARdvSTNOan11Z.sdp?id=13888888888::1;t=1320563722::1;en=84e4829fa0cd2aacd2753aac74ec3ee8::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/5C8A69036F948C7A/LIcIxl438MwaRKBQ.sdp?id=13888888888::1;t=1320563722::1;en=84e4829fa0cd2aacd2753aac74ec3ee8::1;rs=ws</hdurl>
+			</video>
+			<video name="皇岗口岸车辆进出口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120170</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDE3MA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/E4C8F82B1AA453DD/PbAjmf67uGevwNLY.sdp?id=13888888888::1;t=1320563763::1;en=4947164a2a8a373aacb47cb68ea57957::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/E4C8F82B1AA453DD/BDzmhPeZZ5ypJWVW.sdp?id=13888888888::1;t=1320563763::1;en=4947164a2a8a373aacb47cb68ea57957::1;rs=ws</hdurl>
+			</video>
+			<video name="华强北华富路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120353</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM1Mw==.html</url>
+		  <ldurl>rtsp://120.196.125.22:554/mobile/1/68B969A25FE995B7/BbHwBhSjKKwwcYhS.sdp?id=13888888888::1;t=1320563829::1;en=e16e9478796ff40dcf6fd4c3ddee1cd2::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/68B969A25FE995B7/PzMX536ApIGDOdOF.sdp?id=13888888888::1;t=1320563829::1;en=e16e9478796ff40dcf6fd4c3ddee1cd2::1;rs=ws</hdurl>
+			</video>
+			<video name="彩田梅林路口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C7</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDNw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/B4F8170C5224FAAA/VvxIFBVrtlkavPjh.sdp?id=13888888888::1;t=1320563919::1;en=2c9595560cab31a443eecc38cba5d67f::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/B4F8170C5224FAAA/V6r5jZNsKnqACEHD.sdp?id=13888888888::1;t=1320563919::1;en=2c9595560cab31a443eecc38cba5d67f::1;rs=ws</hdurl>
+			</video>
+			<video name="福华益田路口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204D7</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRENw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/51FACB21FC91AAF7/l8kHnGcFvwCjKgek.sdp?id=13888888888::1;t=1320563998::1;en=c98965d23484bdc55d25641a350dca67::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/51FACB21FC91AAF7/Kz7JiR8mKf9c8HT3.sdp?id=13888888888::1;t=1320563998::1;en=c98965d23484bdc55d25641a350dca67::1;rs=ws</hdurl>
+			</video>
+			<video name="皇岗口岸公交站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120170</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDQQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/786B5E9959A17421/IvWdcihdRmdf951F.sdp?id=13888888888::1;t=1320564048::1;en=726ad0b2ad49a2951efb3088e40d302c::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/786B5E9959A17421/Fnh6gT80BmH54pjK.sdp?id=13888888888::1;t=1320564048::1;en=726ad0b2ad49a2951efb3088e40d302c::1;rs=ws</hdurl>
+			</video>
+			<video name="同乐检查站 ">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12003F</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDAzRg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/35AE5D738AD14C7C/0hIKmDTXn9KTHY7D.sdp?id=13888888888::1;t=1320564110::1;en=97cb9f2140593d83bec17779ce065a88::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/35AE5D738AD14C7C/6RS53tcdgggVO7Vr.sdp?id=13888888888::1;t=1320564110::1;en=97cb9f2140593d83bec17779ce065a88::1;rs=ws</hdurl>
+			</video>
+			<video name="白芒检查站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120044</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDA0NA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/41B3111450E0BB92/Al4xGgz6n9WxTSqa.sdp?id=13888888888::1;t=1320564152::1;en=41a70f2ea781c9f938f8e1c8e7e94d66::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/41B3111450E0BB92/qI0qRLIo7cZWnfRP.sdp?id=13888888888::1;t=1320564152::1;en=41a70f2ea781c9f938f8e1c8e7e94d66::1;rs=ws</hdurl>
+			</video>
+			<video name="清水河检查站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120043</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDA0Mw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/77BFFA403D44CC4A/wKxAYNfvTeKzFJ8e.sdp?id=13888888888::1;t=1320564199::1;en=00dad54269508f5a3c6f497549c07a63::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/77BFFA403D44CC4A/IBc79ZF7pihu9Ajo.sdp?id=13888888888::1;t=1320564199::1;en=00dad54269508f5a3c6f497549c07a63::1;rs=ws</hdurl>
+			</video>
+			<video name="布吉检查站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12003C</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDI3QQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/C879D748C7FDEF6B/3bi4z9dMUDRfUHag.sdp?id=13888888888::1;t=1320564243::1;en=5c8818f28a68c499070d430d1204f5d1::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/C879D748C7FDEF6B/w1hWf0155C1kJoGK.sdp?id=13888888888::1;t=1320564243::1;en=5c8818f28a68c499070d430d1204f5d1::1;rs=ws</hdurl>
+			</video>
+			<video name="南山大道玉泉路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12009D</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDA5RA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/F203A5BCF0EE0EF8/C6DA6vCH7nMEySuK.sdp?id=13888888888::1;t=1320564292::1;en=a4cd1902a301fadd77868e5afc4d6f0f::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/F203A5BCF0EE0EF8/mGKgvNECl2Rq3S5V.sdp?id=13888888888::1;t=1320564292::1;en=a4cd1902a301fadd77868e5afc4d6f0f::1;rs=ws</hdurl>
+			</video>
+			<video name="沙河西路西丽段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120400</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQwMA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/B17686951FBA5769/OTVriqRQFUTBMCZc.sdp?id=13888888888::1;t=1320564353::1;en=182bd6d9ee1fc9e9ef6ca2e6dc906ba3::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/B17686951FBA5769/zyJKWke5elxn3nwl.sdp?id=13888888888::1;t=1320564353::1;en=182bd6d9ee1fc9e9ef6ca2e6dc906ba3::1;rs=ws</hdurl>
+			</video>
+			<video name="深南南海立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120418</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxOA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/B85D3F818AC36881/NHmjdU7Ur0LKMkTx.sdp?id=13888888888::1;t=1320564403::1;en=e59b5c9d56ccd7cad31f092e0b28a3e1::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/B85D3F818AC36881/VVti6jhZYg0NKyZ8.sdp?id=13888888888::1;t=1320564403::1;en=e59b5c9d56ccd7cad31f092e0b28a3e1::1;rs=ws</hdurl>
+			</video>
+			<video name="深南大道世界之窗段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120463</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ2Mw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/4182B68E247C4B8C/1ilXhEQw97sFZCbL.sdp?id=13888888888::1;t=1320564453::1;en=05e912696c5b47c12b40c8211f420b5d::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/4182B68E247C4B8C/VikjPu9feRFNj3aU.sdp?id=13888888888::1;t=1320564453::1;en=05e912696c5b47c12b40c8211f420b5d::1;rs=ws</hdurl>
+			</video>
+			<video name="深南路大道白石洲段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120461</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ2MQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/49C68EB9411CBF9D/WJTMWw1GlAI28JbI.sdp?id=13888888888::1;t=1320564516::1;en=f12ea96012ae945d807f21bff949ae9d::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/49C68EB9411CBF9D/J9YOZp8bUvLUuorW.sdp?id=13888888888::1;t=1320564516::1;en=f12ea96012ae945d807f21bff949ae9d::1;rs=ws</hdurl>
+			</video>
+			<video name="新横坪公路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1203FE</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDNGRQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/9891F8AA964E66A6/PmkUGN7M701CNDkc.sdp?id=13888888888::1;t=1320564568::1;en=e5f54fbc39d160f8b60acf03f33bb628::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/9891F8AA964E66A6/yHH0qufBrjFZFNnq.sdp?id=13888888888::1;t=1320564568::1;en=e5f54fbc39d160f8b60acf03f33bb628::1;rs=ws</hdurl>
+			</video>
+			<video name="龙翔大道新丰路段">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxMQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/250104AD4E096580/tShWErZmLjLsixQP.sdp?id=13888888888::1;t=1320564614::1;en=6e20e08ef1fca7e5a7a34c19216215aa::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/250104AD4E096580/HB06Ruc7RsBhu7Cj.sdp?id=13888888888::1;t=1320564614::1;en=6e20e08ef1fca7e5a7a34c19216215aa::1;rs=ws</hdurl>
+			</video>
+			<video name="龙翔大道如意路">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTExMDA2Mg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/3DD00E3C3ABA6B09/vjnwqNGHrgcIyMo1.sdp?id=13888888888::1;t=1320564669::1;en=421cea15a1f1298ae75e30c821440441::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/3DD00E3C3ABA6B09/CjAQIYaCytBzHc5R.sdp?id=13888888888::1;t=1320564669::1;en=421cea15a1f1298ae75e30c821440441::1;rs=ws</hdurl>
+			</video>
+			<video name="黄阁路龙翔大道">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQyMw==.html</url>
+		  <ldurl>rtsp://120.196.125.22:554/mobile/1/CB75847AD588F857/aKyZBbvVsrgYe0A8.sdp?id=13888888888::1;t=1320564715::1;en=551f7aa347a01e826506c65145c54b40::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/CB75847AD588F857/4N0xGSCt6RFbPvyG.sdp?id=13888888888::1;t=1320564715::1;en=551f7aa347a01e826506c65145c54b40::1;rs=ws</hdurl>
+		  </video>
+			<video name="龙平龙城路口">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTAwNjA2RTgwMTM4Mw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/5983F08F173734BA/HC5rLRnq7hbwTP6W.sdp?id=13888888888::1;t=1320564768::1;en=760211d7214494e5cf85025f52f0e88e::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/5983F08F173734BA/cf5KopKs6S1EQJbt.sdp?id=13888888888::1;t=1320564768::1;en=760211d7214494e5cf85025f52f0e88e::1;rs=ws</hdurl>
+			</video>
+			<video name="吉华路段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120406</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQwNg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/454E18954BDDC483/CJSmY82Y3GFvkVGe.sdp?id=13888888888::1;t=1320564810::1;en=ac05146cc9a5afff86dd0535ae51dde1::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/454E18954BDDC483/3x7mL2NsVsHzOU7I.sdp?id=13888888888::1;t=1320564810::1;en=ac05146cc9a5afff86dd0535ae51dde1::1;rs=ws</hdurl>
+			</video>
+			<video name="布吉龙景立交">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ2MA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/A4657717A24E5403/woF5zjfR5iPI373p.sdp?id=13888888888::1;t=1320564938::1;en=4d1ece54683591157c1c3e92cb1e58f6::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/A4657717A24E5403/wbcFfbt7qk0bMZGW.sdp?id=13888888888::1;t=1320564938::1;en=4d1ece54683591157c1c3e92cb1e58f6::1;rs=ws</hdurl>
+			</video>
+			<video name="布沙路大芬村口以东">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A110029</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTExMDAyOQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/1AEEC69A7D52FEB2/9jgt9Kmpaqbt2dUW.sdp?id=13888888888::1;t=1320564996::1;en=c2bfe1f31cd9a0bc1f547f8675c94d20::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/1AEEC69A7D52FEB2/3YM1CUwbJTvfRHaN.sdp?id=13888888888::1;t=1320564996::1;en=c2bfe1f31cd9a0bc1f547f8675c94d20::1;rs=ws</hdurl>
+			</video>
+			<video name="坳背路深惠路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041A</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxQQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/0AA00586DD92C70E/0z2ZzlkGRPNKAnyj.sdp?id=13888888888::1;t=1320565136::1;en=4e0654da05ed0fd0e1b31def75dc4dac::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/0AA00586DD92C70E/TFNLOT6cMGBLROXq.sdp?id=13888888888::1;t=1320565136::1;en=4e0654da05ed0fd0e1b31def75dc4dac::1;rs=ws</hdurl>
+			</video>
+			<video name="惠深公路罗岗高架桥西">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120486</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ4Ng==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/C61423EB67BAEB11/dZeTz1w5CtdWp6pY.sdp?id=13888888888::1;t=1320565206::1;en=4ef4d26780e38aae39937e8406bb2c8b::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/C61423EB67BAEB11/IIPfmXEbVXDgRLh9.sdp?id=13888888888::1;t=1320565206::1;en=4ef4d26780e38aae39937e8406bb2c8b::1;rs=ws</hdurl>
+			</video>
+			<video name="四联路深惠路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041C</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxQw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/B6A3706E87A3EC3B/jSmryECrpcmEJwDB.sdp?id=13888888888::1;t=1320565265::1;en=7d9e993a461feafe791d174a8fbe2238::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/B6A3706E87A3EC3B/1w1JTq8dEWgiPHC3.sdp?id=13888888888::1;t=1320565265::1;en=7d9e993a461feafe791d174a8fbe2238::1;rs=ws</hdurl>
+			</video>
+			<video name="惠深公路罗岗高架桥东">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120487</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ4Nw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/E35A2B69192BBCA5/ODkWp9zGsRz3l52t.sdp?id=13888888888::1;t=1320565317::1;en=a53ad11a19523d15df306a2cf55a756d::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/E35A2B69192BBCA5/ixkX7TXWtqdTvDd6.sdp?id=13888888888::1;t=1320565317::1;en=a53ad11a19523d15df306a2cf55a756d::1;rs=ws</hdurl>
+			</video>
+			<video name="布吉大芬立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12043D</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQzRA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/1A77CCA4D17737A0/0rKnzDNPAX34GkLY.sdp?id=13888888888::1;t=1320565363::1;en=3a6838392f0c15a69794c42a7f1d153d::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/1A77CCA4D17737A0/rARM73gS7SKePKJ2.sdp?id=13888888888::1;t=1320565363::1;en=3a6838392f0c15a69794c42a7f1d153d::1;rs=ws</hdurl>
+			</video>
+			<video name="丹竹头立交">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRENg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/5B19DEF939A2F495/QDsZzY0twjZ3SM9h.sdp?id=13888888888::1;t=1320565420::1;en=2873715dbce29f928715e8afea8bcebf::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/5B19DEF939A2F495/y2WCUxskixKApPXS.sdp?id=13888888888::1;t=1320565420::1;en=2873715dbce29f928715e8afea8bcebf::1;rs=ws</hdurl>
+			</video>
+			<video name="布吉路吉华路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120356</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM1Ng==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/15673AE77CF3AE87/n2yg2o28ueMiMF4Z.sdp?id=13888888888::1;t=1320565464::1;en=26721857ede0a10d573756ec34f6cff7::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/15673AE77CF3AE87/n0zOTjp0brmiow9u.sdp?id=13888888888::1;t=1320565464::1;en=26721857ede0a10d573756ec34f6cff7::1;rs=ws</hdurl>
+			</video>
+			<video name="布吉镇吉华路秀峰路口">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM1Mg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/B5F615400A7FD850/SmaBaq5ctPrDyIaN.sdp?id=13888888888::1;t=1320565508::1;en=758818e6602f02e0613074239877b904::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/B5F615400A7FD850/p7a21kvs4eHZpEqH.sdp?id=13888888888::1;t=1320565508::1;en=758818e6602f02e0613074239877b904::1;rs=ws</hdurl>
+			</video>
+			<video name="布龙路吉华路">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM3MQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/39C3CEF4284E26A6/TuQzMpjc81Eg8Pr0.sdp?id=13888888888::1;t=1320565570::1;en=c4b040914dfb6c11f644d27b27aa2402::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/39C3CEF4284E26A6/2ANngFPvjSmyIzhL.sdp?id=13888888888::1;t=1320565570::1;en=c4b040914dfb6c11f644d27b27aa2402::1;rs=ws</hdurl>
+			</video>
+			<video name="布龙路坂雪岗大道">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRBQg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/304B4BDC7F28E9AB/dvO6DtyLX5Ts5pG7.sdp?id=13888888888::1;t=1320565636::1;en=314827745e4d7609b21526439ba359dc::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/304B4BDC7F28E9AB/bHlUeCqDuiPFavjv.sdp?id=13888888888::1;t=1320565636::1;en=314827745e4d7609b21526439ba359dc::1;rs=ws</hdurl>
+			</video>
+			<video name="布龙收费站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120481</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ2Mg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/C420C622CD48DB5A/OxpVuM8QArQR1l9i.sdp?id=13888888888::1;t=1320565685::1;en=c89789e7878be2a997b7f788af360c3e::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/C420C622CD48DB5A/qH0B24sopyRYZaT1.sdp?id=13888888888::1;t=1320565685::1;en=c89789e7878be2a997b7f788af360c3e::1;rs=ws</hdurl>
+			</video>
+			<video name="白灰围一路爱心路">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRCRQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/9A71178976BA59AD/mQPS9rfZ0Eh1K3o9.sdp?id=13888888888::1;t=1320565737::1;en=6419cb0aa8d4703cdab9ab43345c78f2::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/9A71178976BA59AD/yiCluUmaBsDKDM7F.sdp?id=13888888888::1;t=1320565737::1;en=6419cb0aa8d4703cdab9ab43345c78f2::1;rs=ws</hdurl>
+			</video>
+			<video name="松白路玉律路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120359</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM1OQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/42DB1719168A3318/glRiD2Up58dfUYoE.sdp?id=13888888888::1;t=1320565801::1;en=ccfc8ee52ae4afd5eae6fa3fd2aaebbb::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/42DB1719168A3318/UKuhoDpyj8FFF6wf.sdp?id=13888888888::1;t=1320565801::1;en=ccfc8ee52ae4afd5eae6fa3fd2aaebbb::1;rs=ws</hdurl>
+			</video>
+			<video name="107国道松岗段南">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120402</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQwMg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/CB36DD974CC80856/XNcR1X2uGgnKtLgC.sdp?id=13888888888::1;t=1320565864::1;en=31540b3dc8ce6cc85371d89fe541130d::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/CB36DD974CC80856/jc53SNITFroHWDEl.sdp?id=13888888888::1;t=1320565864::1;en=31540b3dc8ce6cc85371d89fe541130d::1;rs=ws</hdurl>
+			</video>
+			<video name="107国道创业立交">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDREQg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/80449E4A7D6C48D6/hAu5iEoYXHPlTQ2o.sdp?id=13888888888::1;t=1320565910::1;en=a8c18142a81ac7221160eea267e7955a::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/80449E4A7D6C48D6/FIMFcAj2ljIMTtSE.sdp?id=13888888888::1;t=1320565910::1;en=a8c18142a81ac7221160eea267e7955a::1;rs=ws</hdurl>
+			</video>
+			<video name="松白路黄江路段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120409</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQwOQ==.html</url>
+		  <ldurl>rtsp://120.196.125.22:554/mobile/1/D4F1FFB472A7DC26/HUkOQcVHOaBPWrLm.sdp?id=13888888888::1;t=1320565981::1;en=fec4062314d77b9c7a2a3135d6fb1cee::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/D4F1FFB472A7DC26/zFDkRDKOw8LAei42.sdp?id=13888888888::1;t=1320565981::1;en=fec4062314d77b9c7a2a3135d6fb1cee::1;rs=ws</hdurl>
+			</video>
+			<video name="建安一路上川路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120419</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxOQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/C84793368980B095/mRt7qbIqpL9ULZBw.sdp?id=13888888888::1;t=1320566040::1;en=75e99f20ed9cfa7e03ba6f7e23881c95::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/C84793368980B095/U6tJmwYtVwv9rZJR.sdp?id=13888888888::1;t=1320566040::1;en=75e99f20ed9cfa7e03ba6f7e23881c95::1;rs=ws</hdurl>
+			</video>
+			<video name="龙华汽车站视频点二">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120421</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQyMQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/3F986666A8BAD2A2/v7C27HbyaOYnL4kd.sdp?id=13888888888::1;t=1320566106::1;en=1cb5d7d6f103b43f71cb2853cd59b1dd::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/3F986666A8BAD2A2/BXbgmwuGdRXllcAb.sdp?id=13888888888::1;t=1320566106::1;en=1cb5d7d6f103b43f71cb2853cd59b1dd::1;rs=ws</hdurl>
+			</video>
+			<video name="民治大道天虹段">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ4NA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/A0A9368A6AD3E351/Xm74cNhLz9YTks1t.sdp?id=13888888888::1;t=1320566221::1;en=c6cd415370d2c3ef4e2617bc08586405::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/A0A9368A6AD3E351/ixj1r256Sh6gNDwH.sdp?id=13888888888::1;t=1320566221::1;en=c6cd415370d2c3ef4e2617bc08586405::1;rs=ws</hdurl>
+			</video>
+			<video name="民治大道潜龙花园">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQ3RQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/F70F07E6998BF7AB/anJJ4jxWtWUyBUyI.sdp?id=13888888888::1;t=1320566263::1;en=7d173f7be0d1f80b1a3af43837bf0243::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/F70F07E6998BF7AB/ge2EpW7ccEKDknaQ.sdp?id=13888888888::1;t=1320566263::1;en=7d173f7be0d1f80b1a3af43837bf0243::1;rs=ws</hdurl>
+			</video>
+			<video name="宝安大道新安六路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041D</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxRA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/839864F1826D3DD4/x70CXWjhEEske6Rb.sdp?id=13888888888::1;t=1320566327::1;en=51a50eb1dbbebcd940ebe892892e045b::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/839864F1826D3DD4/6xC5bXUiYm64v1iY.sdp?id=13888888888::1;t=1320566327::1;en=51a50eb1dbbebcd940ebe892892e045b::1;rs=ws</hdurl>
+			</video>
+			<video name="观光路大水坑路段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=</url2>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/9828DB0C3E9AF0BC/hqIXZu4pd5Yca7a4.sdp?id=13888888888::1;t=1320569087::1;en=11460fa375e56d13ae1686c6f3f45324::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/9828DB0C3E9AF0BC/3RQJ3WaykkMTMCi0.sdp?id=13888888888::1;t=1320569087::1;en=11460fa375e56d13ae1686c6f3f45324::1;rs=ws</hdurl>
+			</video>
+			<video name="大梅沙路口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C9</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDOQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/F5D3DB45FA415C1B/ThwyYE2q9cb8avpv.sdp?id=13888888888::1;t=1320569153::1;en=2bfcbe8e36b3af6565e440424fc25679::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/F5D3DB45FA415C1B/uouwpIo3iwditdTz.sdp?id=13888888888::1;t=1320569153::1;en=2bfcbe8e36b3af6565e440424fc25679::1;rs=ws</hdurl>
+			</video>
+			<video name="东部沿海高速入口东">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120335</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDMzNQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/A8A3C90C21B847A8/LqYjEKkYKOB2YPC9.sdp?id=13888888888::1;t=1320569334::1;en=8480916e1fdb90777a8bf5aa4da9b579::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/A8A3C90C21B847A8/k2MWlXhFwNWp46oF.sdp?id=13888888888::1;t=1320569334::1;en=8480916e1fdb90777a8bf5aa4da9b579::1;rs=ws</hdurl>
+			</video>
+			<video name="大梅沙路段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1203FF</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDNGRg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/4CD25899934170C1/rLby2r4EMNuyA4Gt.sdp?id=13888888888::1;t=1320569393::1;en=5cb636cef95ef70fbdbe0bdc77606a86::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/4CD25899934170C1/3RgdNiiQo8KB3GWp.sdp?id=13888888888::1;t=1320569393::1;en=5cb636cef95ef70fbdbe0bdc77606a86::1;rs=ws</hdurl>
+			</video>
+			<video name="布吉农批市场">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120358</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM1OA==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/F4BCF06F5FC2CF1D/TQsT6YlkjwMkbVet.sdp?id=13888888888::1;t=1320569477::1;en=dd13cf3333f24341161904a07df752cd::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/F4BCF06F5FC2CF1D/sg5rED5PsHCaSOxj.sdp?id=13888888888::1;t=1320569477::1;en=dd13cf3333f24341161904a07df752cd::1;rs=ws</hdurl>
+			</video>
+			<video name="滨河大道鹿丹西">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQwQw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/41D181DA151F46BC/tP2piP0sGYMpCeZD.sdp?id=13888888888::1;t=1320569707::1;en=7a5c4d7afeec6037f4aa7079e6f095a2::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/41D181DA151F46BC/b9RYSIRPBnnKaHJ8.sdp?id=13888888888::1;t=1320569707::1;en=7a5c4d7afeec6037f4aa7079e6f095a2::1;rs=ws</hdurl>
+			</video>
+			<video name="和平路南">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDMzNg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/DA78EA85F943CCB9/UnsbzjA24FBfPRx5.sdp?id=13888888888::1;t=1320569755::1;en=167f3d2fa64136b73561ec54e8aa95d8::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/DA78EA85F943CCB9/qgQ1pBs2EaLTVg94.sdp?id=13888888888::1;t=1320569755::1;en=167f3d2fa64136b73561ec54e8aa95d8::1;rs=ws</hdurl>
+			</video>
+			<video name="和平路北">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQzQw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/E0D443340C232C0C/3C4NdfRvMxdx5MU7.sdp?id=13888888888::1;t=1320569853::1;en=185dd9d7ca9448034d4624eba646da9c::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/E0D443340C232C0C/bqymAtdPvqkhl9hf.sdp?id=13888888888::1;t=1320569853::1;en=185dd9d7ca9448034d4624eba646da9c::1;rs=ws</hdurl>
+			</video>
+			<video name="沿河路罗芳立交">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM3OQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/AA1446BB4A31FBCD/m5YhvMSmZv9idNBr.sdp?id=13888888888::1;t=1320570128::1;en=5952d68f392590fb799a3068edfdd047::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/AA1446BB4A31FBCD/n0RZRf7DmvlhoL8E.sdp?id=13888888888::1;t=1320570128::1;en=5952d68f392590fb799a3068edfdd047::1;rs=ws</hdurl>
+			</video>
+			<video name="布心金威天桥">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12035A</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM1QQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/4791CACC761F4C8D/pj0q9YhjVYHofMmZ.sdp?id=13888888888::1;t=1320570179::1;en=64a8773cb0d6fbc6664e14d1080e1510::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/4791CACC761F4C8D/T4TSD17pVuTI8NSh.sdp?id=13888888888::1;t=1320570179::1;en=64a8773cb0d6fbc6664e14d1080e1510::1;rs=ws</hdurl>
+			</video>
+			<video name="罗沙路罗芳立交">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRBNg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/A4E89922F417CC7F/EThwsUTP5i04UiIL.sdp?id=13888888888::1;t=1320570254::1;en=803c306e0e2259b48671bb8efbd90e90::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/A4E89922F417CC7F/0EAzk4CjBE3XzfT9.sdp?id=13888888888::1;t=1320570254::1;en=803c306e0e2259b48671bb8efbd90e90::1;rs=ws</hdurl>
+			</video>
+			<video name="红岗路泥岗立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041B</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxQg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/2574421284BEC2E6/rMDgpQrn5FGVu651.sdp?id=13888888888::1;t=1320570316::1;en=af711a9d047d4176b61e68d6c329d941::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/2574421284BEC2E6/H3kTCjFyqmDlmnIP.sdp?id=13888888888::1;t=1320570316::1;en=af711a9d047d4176b61e68d6c329d941::1;rs=ws</hdurl>
+			</video>
+			<video name="滨河大道沿河南路北">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041F</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxRg==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/CF2C6E894347D971/P6gdRLtMZm82Fol9.sdp?id=13888888888::1;t=1320570378::1;en=7c3e2001d8310144a99bb94d038dfade::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/CF2C6E894347D971/EkX51crSuiT8cc06.sdp?id=13888888888::1;t=1320570378::1;en=7c3e2001d8310144a99bb94d038dfade::1;rs=ws</hdurl>
+			</video>
+			<video name="滨河大道鹿丹东">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12040E</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQwRQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/EB1D3BAD7CFAD560/KKS1U9tTmhSUC8w8.sdp?id=13888888888::1;t=1320570421::1;en=a50604f1912f4b735135f6ea084f29b1::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/EB1D3BAD7CFAD560/GyfPptMXm42hAcud.sdp?id=13888888888::1;t=1320570421::1;en=a50604f1912f4b735135f6ea084f29b1::1;rs=ws</hdurl>
+			</video>
+			<video name="滨河大道沿河南路南">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204CC</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDQw==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/DF76E78BEF868A5E/aXfAqcYn2Uo5mzjI.sdp?id=13888888888::1;t=1320570467::1;en=c39643d7a6d725c346d4f9410239e936::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/DF76E78BEF868A5E/w7CKCKdwKlqNiVfA.sdp?id=13888888888::1;t=1320570467::1;en=c39643d7a6d725c346d4f9410239e936::1;rs=ws</hdurl>
+			</video>
+			<video name="春风高架">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM3Nw==.html</url>
+			</video>
+			<video name="嘉宾木棉花路口">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDREQQ==.html</url>
+			</video>
+		</city>							
+	</province>	
+</provinces> 
