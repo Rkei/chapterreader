@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="更多" order="w" >
+		<city name="更多摄像头" type="8888" order="C" >	
+			<video name="交通千里眼--全国多个城市的实时交通视频，出行好帮手。">
+			<url>http://static.apk.hiapk.com/html/2012/05/590875.html</url>
+			</video>
+			
+			<video name="全球眼--收集数千个全球多个国家的公开场合和景点摄像头。">
+			<url>http://static.apk.hiapk.com/html/2012/05/605320.html</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
