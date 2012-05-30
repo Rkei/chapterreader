@@ -2,7 +2,7 @@
 <provinces version="1.2">
 	<province name="tuijian" order="S" >
 		<city name="tuijian" type="888" order="C" >	
-			<video name="交通千里眼--全国多个城市的实时交通视频，出行好帮手。">
+			<!--video name="交通千里眼--全国多个城市的实时交通视频，出行好帮手。">
 			<url>http://static.apk.hiapk.com/html/2012/05/590875.html</url>
 			</video>
 			
@@ -28,7 +28,7 @@
 			
 			<video name="公务员考试语音速记--收集数千道常识考题，语音播放，睡前记忆最佳选择。">
 			<url>http://static.apk.hiapk.com/html/2012/05/574319.html</url>
-			</video>
+			</video-->
 			
 		</city>
 	</province>
