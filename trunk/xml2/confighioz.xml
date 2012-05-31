@@ -13,8 +13,8 @@
 <load version="1.2" name="city/dianxin.xml" />
 <load version="1.2" name="city/nmg/nmg.xml" />
 <load version="1.4" name="city/zjnb.xml" /-->
-	
 
+<load version="1.2" name="city/deguo/faguo.xml" />
 <load version="1.2" name="city/deguo/deguo.xml" />
 <load version="1.2" name="city/ouzhou1/aodili.xml" />
 
