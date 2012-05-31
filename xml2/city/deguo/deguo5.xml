@@ -3,11 +3,11 @@
 <province name="德国二" order="BD" >
 <city name="德国5" type="1888" order="E" >	
 	
-<video name="德国-北莱茵-威斯特法伦州 D��sseldorf 门前马路">
+<video name="德国-北莱茵-威斯特法伦州  门前马路">
 <url>http://langecker1.axiscam.net:8001/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
-<video name="德国-北莱茵-威斯特法伦州 K?nigswinter 转盘雕像">
+<video name="德国-北莱茵-威斯特法伦州  转盘雕像">
 <url>http://marienhagen.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
@@ -39,7 +39,7 @@
 <url>http://chrissie.selfhost.tv:88/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
 </video>
 
-<video name="德国-石勒苏益格—荷尔施泰因 Neum��nster 楼下2">
+<video name="德国-石勒苏益格—荷尔施泰因  楼下2">
 <url>http://sagerviertel.dyndns.org:2001/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
 </video>
 
