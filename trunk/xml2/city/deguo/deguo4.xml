@@ -27,7 +27,7 @@
 <url>http://217.78.137.43/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
-<video name="德国-北莱茵-威斯特法伦州 J��lich 飞机场">
+<video name="德国-北莱茵-威斯特法伦州  飞机场">
 <url>http://edkv.dyndns.org:32180/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
@@ -35,7 +35,7 @@
 <url>http://dmz.bab-tec.de:83/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
-<video name="德国-莱茵兰-法耳次州  Zweibr��cken">
+<video name="德国-莱茵兰-法耳次州  交通路口-高清">
 <url>http://benson04.serveftp.net:1024/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
@@ -119,8 +119,8 @@
 <url>rtsp://eye3.medicdat.de/mpeg4/media.amp</url>
 </video>
 
-<video name="德国-勃兰登堡  Forst">
-<url>http://niesky.dyndns.org/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+<video name="德国-勃兰登堡  Forst 城市风景4">
+<url>http://niesky.dyndns.org/axis-cgi/mjpg/video.cgi?camera=&resolution=320x240&1338466823539</url>
 </video>
 
 <video name="法兰克福 Hessen 德国 网球场2">

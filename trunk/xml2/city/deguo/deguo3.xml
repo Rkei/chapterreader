@@ -31,7 +31,7 @@
 <url>http://bodensee-therme.serveftp.net/mjpg/video.mjpg?Quality=Motion</url>
 </video>
 
-<video name="德国-巴登-符腾堡州 L?rrach 铁路">
+<video name="德国-巴登-符腾堡州  铁路">
 <url>http://stenzelflyfishing.dyndns.org:8001/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
@@ -51,11 +51,11 @@
 <url>http://139.174.156.201/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
-<video name="德国-下萨克森州 G?ttingen 城市风景">
+<video name="德国-下萨克森州 城市风景">
 <url>http://134.76.175.241/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
-<video name="德国-下萨克森州 G?ttingen 城市风景-高清">
+<video name="德国-下萨克森州 城市风景-高清">
 <url>rtsp://134.76.175.241/mpeg4/media.amp</url>
 </video>
 
@@ -115,11 +115,11 @@
 <url>http://rempp-freiburg.dyndns.org:8081/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
 </video>
 
-<video name="德国-柏林 Berlin 实验室4">
+<video name="德国-柏林  实验室4">
 <url>http://141.20.31.128/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
-<video name="德国-柏林 Berlin 山中茅屋-高清">
+<video name="德国-柏林  山中茅屋-高清">
 <url>http://ipse.ath.cx/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
 
