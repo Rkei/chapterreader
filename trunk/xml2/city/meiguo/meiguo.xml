@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="美国" order="BB" >
+    <city name="加州1" type="1888" order="A" >	
+			<video name="# 加利福尼亚1(单击加载)">
+				<url>city/deguo/meiguo1-1.xml</url>
+			</video>
+		</city>	
+    <city name="加州2" type="1888" order="B" >	
+    	<video name="# 加利福尼亚2(单击加载)">
+				<url>city/deguo/meiguo1-2.xml</url>
+			</video>
+		</city>	
+		<city name="加州3" type="1888" order="C" >	
+    	<video name="# 加利福尼亚3(单击加载)">
+				<url>city/deguo/meiguo1-3.xml</url>
+			</video>
+		</city>	
+		<city name="加州4" type="1888" order="D" >	
+    	<video name="# 加利福尼亚4(单击加载)">
+				<url>city/deguo/meiguo1-4.xml</url>
+			</video>
+		</city>	
+		<city name="加州5" type="1888" order="E" >	
+    	<video name="# 加利福尼亚5(单击加载)">
+				<url>city/deguo/meiguo1-5.xml</url>
+			</video>
+		</city>	
+</province>
+
+<province name="美国2" order="BC" >
+    <city name="佛罗里达" type="1888" order="A" >	
+    	  <video name="# 佛罗里达1(单击加载)">
+				   <url>city/deguo/meiguo6-1.xml</url>
+			  </video>
+		</city>	
+		<city name="佛罗里达2" type="1888" order="A" >	
+    	  <video name="# 佛罗里达2(单击加载)">
+				   <url>city/deguo/meiguo6-2.xml</url>
+			  </video>
+		</city>	
+		<city name="佛罗里达3" type="1888" order="A" >	
+    	  <video name="# 佛罗里达3(单击加载)">
+				   <url>city/deguo/meiguo6-3.xml</url>
+			  </video>
+		</city>	
+
+    <city name="科罗拉多州" type="1888" order="D" >	
+    	<video name="# 佛罗里达3(单击加载)">
+				   <url>city/deguo/meiguo3-1.xml</url>
+			  </video>
+		</city>	
+</province>
+</provinces> 
