@@ -57,7 +57,7 @@
 </video>
 
 <video name="田纳西州 Madison 荒漠">
-<url>http://cam.balloonfacility.com/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://cam.balloonfacility.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="田纳西州 Memphis 田纳西大学教室-高清">
@@ -77,7 +77,7 @@
 </video>
 
 <video name="田纳西州 Martin 田纳西大学马丁分校">
-<url>http://libcam1.utm.edu/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://libcam1.utm.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="田纳西州 Memphis 田纳西大学电教室5">
@@ -89,7 +89,7 @@
 </video>
 
 <video name="Pigeon Forge 田纳西州 教学大楼">
-<url>http://204.117.196.50:65309/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://204.117.196.50:65309/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="田纳西州 Memphis 田纳西大学实验室3">
