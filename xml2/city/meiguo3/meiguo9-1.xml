@@ -52,7 +52,7 @@
 <url>http://74.62.88.197/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
-<video name="威斯康辛州 Schofield" 交通摄像头4>
+<video name="威斯康辛州 Schofield 交通摄像头4" >
 <url>http://206.176.200.94/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
