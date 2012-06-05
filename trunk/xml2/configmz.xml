@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs version="1.5">
+<tuijian version="1.2" name="city/tuijian/tuijian1.xml" />
+<more version="1.2" name="city/tuijian/more.xml" />
+
+	
+
+
+<load version="1.2" name="city/meiguo/meiguo.xml" />
+<load version="1.6" name="city/world3/worldall.xml" />
+
+
+
+<para name="appoffer" value="1" meney="20" />
+<para name="show1" value="观看外国摄像头时注意时差，部分摄像头晚上无法观看。部分摄像头帧率较低，可能感觉会比较卡。手机观看视频需要切换到cmnet或wlan。无法播放的视频服务器正处于离线状态，请稍后尝试。" />
+<para name="show2" value="" />
+<para name="show3" value="" />
+<para name="rscount" value="5" /> 
+<para name="freeday" value="24" />
+<para name="youmi" value="245" />
+<para name="baidu" value="0" />
+<para name="tengxun" value="100" />
+<para name="pkgversion" value="1.02" />
+<para name="reflashtime" value="24" />
+<!--para name="tplayerurl" value="http" >http://wap.xiamentd.com/app/TrafficVideo/cache/download/1302862068463.apk</para-->
+<!--para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para-->
+<para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
+<!--para name="tplayerurl" value="http" >http://wap.nj.gov.cn/njwap/TemobiPlayer_signed.apk</para-->
+<para name="pkgurl" value="http" >http://apk.goapk.com//apk/201111/18/com.wxcs_37163100_0.apk</para>
+<para name="vinvalid" value="1.0" />
+</configs>
