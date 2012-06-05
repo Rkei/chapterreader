@@ -51,8 +51,12 @@
 <url>http://200.59.36.195/mjpg/video.mjpg?Resolution=320x240</url>
 </video>
 
-
-
+<!--test>
+http://www.bariloche.com.ar/cgi-bin/faststream.jpg?stream=full&fps=2&rand=557620
+http://camaravarese.dyndns.org:1025/mjpg/video.mjpg?Resolution=320x240
+http://camaraonda.homelinux.com:82/mjpg/video.mjpg?Resolution=320x240
+http://200.61.9.124/mjpg/video.mjpg?Resolution=320x240
+<test-->
 
 
 </city>
