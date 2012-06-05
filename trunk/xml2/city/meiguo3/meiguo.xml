@@ -27,7 +27,7 @@
 		</city>	
 </province>
 
-<province name="美国6" order="BF" >
+<province name="美国6" order="BG" >
    <city name="田纳西州" type="1" order="A" >	
 			<video name="# 田纳西州(单击加载)">
 				<url>city/meiguo3/meiguo4-1.xml</url>
