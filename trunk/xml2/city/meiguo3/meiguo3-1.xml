@@ -17,7 +17,7 @@
 </video>
 
 <video name="罗得岛州 Warwick  停车场监控-高清">
-<url>http://www.haroust.com/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://www.haroust.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="罗得岛州 Kingston  罗得岛大学校园3">
@@ -49,7 +49,7 @@
 </video>
 
 <video name="南达科他州 Sioux Falls 城镇鸟瞰2">
-<url>http://216.16.99.51/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://216.16.99.51/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南达科他州 Rapid City 南达科他矿业理工学院-实验室">

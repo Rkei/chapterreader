@@ -17,7 +17,7 @@
 </video>
 
 <video name="宾州 Aston 停车场">
-<url>http://bacorp1.com:81/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://bacorp1.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="宾州 West Chester 海边沙滩">
@@ -57,7 +57,7 @@
 </video>
 
 <video name="宾州 Reading 观光索道">
-<url>http://66.216.161.65/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://66.216.161.65/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="宾州 Collegeville 乌尔辛纳斯学院运动场">
@@ -65,7 +65,7 @@
 </video>
 
 <video name="宾州 East Earl 气候监测摄像头">
-<url>http://nhpa-cam1.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://nhpa-cam1.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="宾州 Indiana 宾夕法尼亚印第安纳大学机房-高清">
@@ -81,15 +81,15 @@
 </video>
 
 <video name="宾州 Phoenixville 未知摄像头">
-<url>http://dh0-east.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://dh0-east.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="宾州 Pittsburgh 宾州匹兹堡大学2">
-<url>http://130.49.240.237/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://130.49.240.237/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="宾州 Wellsboro 狗的宿舍">
-<url>http://vma1.viewnetcam.com:12393/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://vma1.viewnetcam.com:12393/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="宾州 Chester 办公室">

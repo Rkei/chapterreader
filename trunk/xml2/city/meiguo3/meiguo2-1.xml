@@ -9,7 +9,7 @@
 </video>
 
 <video name="南卡罗来纳州 Simpsonville  停车场-高清">
-<url>http://68.115.253.194:1026/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://68.115.253.194:1026/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="南卡罗来纳州 Charleston  海边草地">
@@ -29,23 +29,23 @@
 </video>
 
 <video name="南卡罗来纳州 Charleston  游艇码头2-高清">
-<url>http://66.64.209.98/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://66.64.209.98/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="南卡罗来纳州 Easley  马路3-高清">
-<url>http://68.115.199.210/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://68.115.199.210/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="南卡罗来纳州 Greenville  未知摄像头3">
-<url>http://173.221.156.123:60000/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://173.221.156.123:60000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="南卡罗来纳州 Hilton Head Island  交通摄像头-高清">
-<url>http://64.203.236.169:84/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://64.203.236.169:84/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="南卡罗来纳州 Anderson  摩托车仓库">
-<url>http://216.105.151.206:8080/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://216.105.151.206:8080/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Charleston  未知摄像头2">
@@ -61,11 +61,11 @@
 </video>
 
 <video name="南卡罗来纳州 Florence  加油站-高清1080p">
-<url>http://97.67.191.180/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://97.67.191.180/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="南卡罗来纳州 Florence  超时监控摄像头2-高清">
-<url>http://97.67.191.182/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://97.67.191.182/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="南卡罗来纳州 Greenville  未知摄像头5">
@@ -73,19 +73,19 @@
 </video>
 
 <video name="南卡罗来纳州 Greenville  服务器机房">
-<url>http://rack.nobelsys.net/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://rack.nobelsys.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Hilton Head Island  游艇码头2">
-<url>http://64.203.239.235/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://64.203.239.235/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Mount Pleasant  办公室摄像头2-高清">
-<url>http://66.208.201.209:8085/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://66.208.201.209:8085/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="南卡罗来纳州 Mount Pleasant  桥2">
-<url>http://mailserver.charlestonharborresort.com:1123/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://mailserver.charlestonharborresort.com:1123/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Myrtle Beach  游泳池">
@@ -97,15 +97,15 @@
 </video>
 
 <video name="南卡罗来纳州 Fort Mill  楼下花圃-高清">
-<url>http://24.123.188.36/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://24.123.188.36/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Hilton Head Island  服装商城监控摄像头3">
-<url>http://64.203.236.169:81/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+<url>http://64.203.236.169:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
 </video>
 
 <video name="南卡罗来纳州 Mount Pleasant  游艇码头4">
-<url>http://mailserver.charlestonharborresort.com:1122/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://mailserver.charlestonharborresort.com:1122/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Rock Hill  温斯洛普大学校园2">
@@ -117,7 +117,7 @@
 </video>
 
 <video name="南卡罗来纳州 Conway  游艇码头4">
-<url>http://98.101.223.10:8213/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://98.101.223.10:8213/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Greenville  画店-高清">
@@ -133,7 +133,7 @@
 </video>
 
 <video name="南卡罗来纳州 Irmo  交通路口">
-<url>http://24.172.40.246/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://24.172.40.246/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Mount Pleasant  游艇码头6-高清">
@@ -141,11 +141,11 @@
 </video>
 
 <video name="南卡罗来纳州 Myrtle Beach  未知摄像头7">
-<url>http://98.101.223.10:8073/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://98.101.223.10:8073/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Myrtle Beach  海边沙滩5">
-<url>http://sandy.efriendly.com:81/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://sandy.efriendly.com:81/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="南卡罗来纳州 Rock Hill  温斯洛普大学校园3">
