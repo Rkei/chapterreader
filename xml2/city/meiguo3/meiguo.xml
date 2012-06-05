@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="美国5" order="BF" >
+   <city name="宾州1" type="1" order="A" >	
+			<video name="# 宾州1(单击加载)">
+				<url>city/meiguo3/meiguo1-1.xml</url>
+			</video>
+		</city>	
+		<city name="宾州2" type="1" order="B" >
+			<video name="# 宾州2(单击加载)">
+				<url>city/meiguo3/meiguo1-2.xml</url>
+			</video>
+		</city>	
+
+		<city name="南卡罗来纳" type="1" order="C" >
+    	<video name="# 南卡罗来纳(单击加载)">
+				<url>city/meiguo3/meiguo2-1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="其他" type="1" order="D" >	
+    	<video name="# 其他(单击加载)">
+				<url>city/meiguo3/meiguo3-1.xml</url>
+			</video>
+		</city>	
+</province>
+
+
+</provinces> 
