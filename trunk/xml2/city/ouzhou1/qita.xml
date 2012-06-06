@@ -22,4 +22,36 @@
 	</city>	
 </province>
 
+<province name="爱尔兰" order="CL" >
+<city name="爱尔兰" type="1" order="A" >	
+	<video name="# 爱尔兰(单击加载)">
+			<url>city/ouzhou1/aierlan.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="荷兰" order="DA" >
+<city name="荷兰" type="1" order="A" >	
+	<video name="# 荷兰(单击加载)">
+			<url>city/ouzhou1/helan1.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="瑞典" order="DB" >
+<city name="瑞典" type="1" order="A" >	
+	<video name="# 瑞典(单击加载)">
+			<url>city/ouzhou1/ruidian1.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="挪威" order="DC" >
+<city name="挪威" type="1" order="A" >	
+<video name="# 挪威(单击加载)">
+			<url>city/ouzhou1/nuowei1.xml</url>
+		</video>
+	</city>	
+</province>
+
 </provinces>
