@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-<province name="Norway" order="A" >
-<city name="Norway" type="1" order="A" >	
+<province name="挪威" order="DC" >
+<city name="挪威" type="1" order="A" >	
 <video name="海于格松">
 <url>http://sbf1.axiscam.net:9002/mjpg/1/video.mjpg?resolution=320x240</url>
 </video>
@@ -54,13 +54,13 @@
 <url>http://84.49.60.202:8080/mjpg/1/video.mjpg?resolution=320x240</url>
 </video>
 <video name="特隆赫姆">
-<url>http://lysoysund.viewnetcam.com:60000/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+<url>http://lysoysund.viewnetcam.com:60000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
 </video>
 <video name="未知">
 <url>http://89.162.72.203/mjpg/1/video.mjpg?resolution=320x240</url>
 </video>
 <video name="海于格松系列2">
-<url>http://webcam.fitjar.kommune.no/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+<url>http://webcam.fitjar.kommune.no/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
 </video>
 <video name="利耶尔挪威">
 <url>http://81.167.204.10:1080/mjpg/1/video.mjpg?resolution=320x240</url>
