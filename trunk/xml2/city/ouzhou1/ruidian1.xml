@@ -57,7 +57,7 @@
 <url>http://194.103.218.15/mjpg/1/video.mjpg?resolution=320x240</url>
 </video>
 <video name="乌德瓦拉">
-<url>http://uddevallagk.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+<url>http://uddevallagk.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
 </video>
 <video name="Raa">
 <url>http://194.16.1.67/mjpg/1/video.mjpg?resolution=320x240</url>
