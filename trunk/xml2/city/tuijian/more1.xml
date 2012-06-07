@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="更多" order="w" >
+		<city name="更多摄像头" type="8888" order="C" >	
+			<video name="交通千里眼--全国多个城市的实时交通视频，出行好帮手。">
+			<url>http://static.apk.hiapk.com/html/2012/05/612204.html</url>
+			</video>
+			
+			<video name="天眼看世界--收集全球多个国家数千个公开场合和景点摄像头。">
+			<url>http://cdn2.down.apk.gfan.com/asdf/Pfiles/2012/6/6/261929_0354de90-286f-491b-a2aa-aaaf61a3a0c2.apk</url>
+			</video>
+			
+			<video name="欧洲间谍摄像头--收集欧洲数千个公开场合和景点摄像头。">
+			<url>http://d.appoole.com/soft/1338536065998.apk</url>
+			</video>
+			
+			<video name="亚洲间谍摄像头--收集亚洲数千个高清网络摄像头，异国实景随时看。">
+			<url>http://d.appoole.com/soft/1338519841726.apk?com.jdy.jdyyt34869</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
