@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="上海" order="C" >
+	<province name="上海" order="T0" >
 		<city name="高速路口" type="300" order="C" >
 			<video name="G60沪昆高速">
 			<url>mmst://114.80.221.20/A8HWVIDEO</url>
