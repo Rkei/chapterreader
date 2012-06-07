@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="贵州" order="H" >
+	<province name="贵州" order="T0" >
 		<city name="遵义" type="1" order="B" >	
 			<video name="珠海路口">
 			<url>rtsp://218.201.202.233/broadcast/zy_zhlk.rm</url>
