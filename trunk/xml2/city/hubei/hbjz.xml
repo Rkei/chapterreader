@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="湖北" order="T" >
+		<city name="荆州" type="1" order="J" >
+			<video name="江津江区">
+			<url>rtsp://211.137.78.148/broadcast/jz_jgj03.rm</url>
+			</video>
+			<video name="东门路口">
+			<url>rtsp://211.137.78.148/broadcast/jz_jgj02.rm</url>
+			</video>
+			<video name="江津塔桥">
+			<url>rtsp://211.137.78.148/broadcast/jz_jgj01.rm</url>
+			</video>
+			<video name="测试">
+			<url>rtsp://211.137.78.148/broadcast/jz_jgj04.rm</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
