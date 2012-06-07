@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="湖南" order="C">
+	<!--province name="湖南" order="C">
 		<city name="长沙(新版)" type="1" order="A">
 			<video name="# 长沙(单击加载)">
 				<url>http://lanplayer.googlecode.com/svn/trunk/xml/city/hunan/changsha.xml</url>
-				<!--url>http://124.232.142.84//RoadViewServer/roadview_get_videolist_bycity.flow?::1;icpname=gtmobile::1;imsi=310260000000000::1;version=2.01::1;cid=1</url-->
 			</video>
 		</city>
 		<city name="郴州" type="1" order="B">
 			<video name="# 郴州(单击加载)">
 				<url>http://lanplayer.googlecode.com/svn/trunk/xml/city/hunan/bz.xml</url>
-				<!--url>http://124.232.142.84//RoadViewServer/roadview_get_videolist_bycity.flow?::1;icpname=gtmobile::1;imsi=310260000000000::1;version=2.01::1;cid=2</url -->
 			</video>
 		</city>
-	</province>
+	</province -->
 
-	<province name="广东(电信)" order="B">
+	<!--province name="广东(电信)" order="B">
 		<city name="广州" type="6" order="A">
 			<video name="#3 广州(单击加载)">
 				<url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=1</url>
@@ -42,9 +40,9 @@
 			</video>
 		</city>
 
-	</province>
+	</province-->
 
-	<province name="网上推荐" order="I">
+	<province name="网上推荐" order="U">
 		<city name="企业应用" type="7" order="C">
 			<video name="#2 企业应用(单击加载)">
 				<url>http://3g.pernet.tv/index.php?opr=pub::1;gid=4</url>
