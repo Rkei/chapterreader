@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="上海" order="C" >
+	<province name="上海" order="T0" >
 		<city name="其他" type="300" order="Q" >
 			<video name="上海方浜中路摄像头">
 			<url>mmst://www.onedir.com/cam1</url>
