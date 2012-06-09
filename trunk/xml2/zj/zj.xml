@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="浙江" order="T" >
+		<city name="舟山" type="1" order="D" >
+			<video name="# 舟山(单击加载)"><url>city/zj/zjzs.xml</url></video>
+		</city>	
+	</province>
+</provinces> 

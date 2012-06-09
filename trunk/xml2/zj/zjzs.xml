@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="浙江" order="T" >
+		<city name="舟山" type="1" order="C" >
+			
+			<video name="定海长途客运中心大厅"><url>rtsp://120.199.17.41:554/s?A=d99f166b::1;C=1::1;CP=5061</url></video>
+			<video name="岱山高亭客运码头高速轮检票口"><url>rtsp://120.199.17.41:554/s?A=b94d31c8::1;C=1::1;CP=5061</url></video>
+			<video name="嵊泗李柱山客运站方位二"><url>rtsp://120.199.17.41:554/s?A=76c4e795::1;C=1::1;CP=5061</url></video>
+			<video name="嵊泗李柱山客运站方位三"><url>rtsp://120.199.17.41:554/s?A=b59d2094::1;C=1::1;CP=5061</url></video>
+			<video name="嵊泗李柱山客运站方位四"><url>rtsp://120.199.17.41:554/s?A=d7ca0436::1;C=1::1;CP=5061</url></video>
+			<video name="普陀半升洞客运站候船厅"><url>rtsp://120.199.17.41:554/s?A=676aeb93::1;C=2::1;CP=5061</url></video>
+			<video name="普陀半升洞客运站检票口"><url>rtsp://120.199.17.41:554/s?A=c330916b::1;C=2::1;CP=5061</url></video>
+			<video name="普陀半升洞客运站售票口"><url>rtsp://120.199.17.41:554/s?A=a766c21c::1;C=2::1;CP=5061</url></video>
+			<video name="普陀蜈蚣峙客运站售票处"><url>rtsp://120.199.17.41:554/s?A=932632b8::1;C=2::1;CP=5061</url></video>
+			<video name="普陀蜈蚣峙客运站码头"><url>rtsp://120.199.17.41:554/s?A=d30ba5ee::1;C=2::1;CP=5061</url></video>
+			
+		</city>			
+	</province>
+</provinces> 
