@@ -12,7 +12,7 @@
 </video>
 
 <video name="乔治亚州 Rabun Gap未知摄像头1">
-<url>http://gapcam.dyndns.org:8081/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://gapcam.dyndns.org:8081/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="乔治亚州 Avondale Estates 窗外风景">
@@ -44,7 +44,7 @@
 </video>
 
 <video name="乔治亚州Duluth 宠物宿舍">
-<url>http://cam4231202.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://cam4231202.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="乔治亚州Peachtree City  野外休闲亭">
@@ -60,7 +60,7 @@
 </video>
 
 <video name="乔治亚州Milledgeville 门口监控摄像头 未知摄像头">
-<url>http://168.16.203.247/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://168.16.203.247/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="乔治亚州Snellville 未知摄像头2">
@@ -76,7 +76,7 @@
 </video>
 
 <video name="乔治亚州Demorest 茶餐厅-高清">
-<url>http://hofers.dyndns.tv/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://hofers.dyndns.tv/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 
