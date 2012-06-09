@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 	<province name="浙江" order="T" >
-		<city name="舟山" type="1" order="C" >
+		<city name="舟山" type="1" order="D" >
 			
 			<video name="定海长途客运中心大厅"><url>rtsp://120.199.17.41:554/s?A=d99f166b::1;C=1::1;CP=5061</url></video>
 			<video name="岱山高亭客运码头高速轮检票口"><url>rtsp://120.199.17.41:554/s?A=b94d31c8::1;C=1::1;CP=5061</url></video>
