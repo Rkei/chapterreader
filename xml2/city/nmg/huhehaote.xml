@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="内蒙古" order="H2" >
+	<province name="内蒙古" order="T" >
 		<city name="呼和浩特" type="1" order="A" >	
-			<video name="鼓楼立交桥">
-			<url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000007-01::1;PlayMethod=0::1;StreamingType=2</url>
-			</video>
-			<video name="大召寺东侧">
-			<url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000008-01::1;PlayMethod=0::1;StreamingType=2</url>
-			</video>
+			<video name="鼓楼立交桥（普清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000007-01::1;PlayMethod=0::1;StreamingType=1</url></video>
+			<video name="鼓楼立交桥（高清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000007-01::1;PlayMethod=0::1;StreamingType=2</url></video>
+			<video name="大召寺东侧（普清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000008-01::1;PlayMethod=0::1;StreamingType=1</url></video>
+			<video name="大召寺东侧（高清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000008-01::1;PlayMethod=0::1;StreamingType=2</url></video>
+			
+			<video name="呼市旗舰店"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000005-01::1;PlayMethod=0::1;StreamingType=1</url></video>
+			<video name="呼市旗舰店（高清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000005-01::1;PlayMethod=0::1;StreamingType=2</url></video>
+			
 		</city>
 	</province>
 </provinces> 

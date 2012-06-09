@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="内蒙古" order="H2" >
+	<province name="内蒙古" order="T" >
 		<city name="呼和浩特" type="1" order="A" >
 			<video name="# 呼和浩特(单击加载)">
 				<url>city/nmg/huhehaote.xml</url>
