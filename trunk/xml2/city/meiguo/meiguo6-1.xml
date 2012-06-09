@@ -7,12 +7,9 @@
 <url>http://24.73.219.222/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
-<video name="佛罗里达州 Fort Myers 校园监控">
-<url>http://208.78.132.152/mjpg/video.mjpg?resolution=352x288</url>
-</video>
 
 <video name="佛罗里达州 Fort Myers 校园监控-高清">
-<url>http://208.78.132.152/mjpg/video.mjpg?resolution=352x288</url>
+<url>http://208.78.132.152/mjpg/video.mjpg?Resolution=352x288</url>
 </video>
 
 <video name="佛罗里达州 Miami 迈阿密大学-校园鸟瞰">
