@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="内蒙古" order="T" >
+		<city name="赤峰" type="1" order="D" >	
+			<video name="赤峰松山木兰街">
+			<url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011020030001-01::1;PlayMethod=0::1;StreamingType=2</url>
+			</video>
+			<video name="赤峰克旗经棚迎昌路">
+			<url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000058-01::1;PlayMethod=0::1;StreamingType=2</url>
+			</video>
+			<video name="赤峰海贝尔游乐场周边">
+			<url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000007001-01::1;PlayMethod=0::1;StreamingType=2</url>
+			</video>
+			<video name="赤峰宝鼎大厦十字路口">
+			<url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011071000017-01::1;PlayMethod=0::1;StreamingType=2</url>
+			</video>
+			<video name="赤峰钢铁西街">
+			<url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000006503-03::1;PlayMethod=0::1;StreamingType=2</url>
+			</video>
+			<video name="赤峰园林路">
+			<url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011071000018-02::1;PlayMethod=0::1;StreamingType=2</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
