@@ -72,7 +72,7 @@
 </video>
 
 <video name="科罗拉多州 Florissant 窗外松林2-高清">
-<url>http://divide-webcam.viewnetcam.com:120/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://divide-webcam.viewnetcam.com:120/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="科罗拉多州 米沙州立学院-校园3">
@@ -92,7 +92,7 @@
 </video>
 
 <video name="科罗拉多州 藏车库4">
-<url>http://69.146.254.227/axis-cgi/mjpg/video.cgi?camera=&resolution=320x240&1338219062562</url>
+<url>http://69.146.254.227/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338219062562</url>
 </video>
 
 <video name="科罗拉多州 Grand Junction 米沙州立学院-球场5">
@@ -100,7 +100,7 @@
 </video>
 
 <video name="科罗拉多州 Gunnison 乡村马路2-高清">
-<url>http://donitas.viewnetcam.com:5003/nphMotionJpeg?resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://donitas.viewnetcam.com:5003/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="科罗拉多州 Longmont 乡村马路3">
@@ -112,7 +112,7 @@
 </video>
 
 <video name="科罗拉多州 Leadville 广场停车场">
-<url>http://pbville.ajmiller.org:81/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://pbville.ajmiller.org:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="科罗拉多州 Boulder 乡村马路3">
@@ -120,7 +120,7 @@
 </video>
 
 <video name="科罗拉多州 Ophir 城镇街道">
-<url>http://telluridemountainproperties-east.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://telluridemountainproperties-east.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="科罗拉多州 Vail 观光索道">
@@ -128,15 +128,15 @@
 </video>
 
 <video name="科罗拉多州 Loveland 森林公园">
-<url>http://wildbasin.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://wildbasin.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="科罗拉多州 Ophir 城镇街道2-高清">
-<url>http://telluridemountainproperties-west.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://telluridemountainproperties-west.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 <video name="科罗拉多州 室内花卉4">
-<url>http://skywaycreations.viewnetcam.com:800/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+<url>http://skywaycreations.viewnetcam.com:800/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 
 </city>
