@@ -120,7 +120,7 @@
 </video>
 
 <video name="德国-勃兰登堡  Forst 城市风景4">
-<url>http://niesky.dyndns.org/axis-cgi/mjpg/video.cgi?camera=&resolution=320x240&1338466823539</url>
+<url>http://niesky.dyndns.org/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338466823539</url>
 </video>
 
 <video name="法兰克福 Hessen 德国 网球场2">
