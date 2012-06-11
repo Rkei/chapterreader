@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="欧洲精选" order="D" >
+		<city name="欧洲精选2" type="1" order="B" >
+			
+<video name="瑞典 瑟尔沃斯堡市">
+<url>http://torso.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瑞典 穆拉市">
+<url>http://kamera.alvdalen.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瑞典 Ume">
+<url>http://brantbergskameran.net.umea.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瑞典 阿尔耶普卢格市">
+<url>http://194.103.218.16/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瑞典 乌德瓦拉">
+<url>http://uddevallagk.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Laupen 城市风景">
+<url>http://hnhn.dyndns.tv:8400/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Spiez 阿达尔波登山2">
+<url>http://marti-adelboden.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士 首都伯尔尼 Lyss 城市街景">
+<url>http://axis-lyss2.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="爱尔兰 Ireland Wexford Wexford 韦克斯福德湖滨小镇">
+<url>http://93.92.12.9/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰 尔芬">
+<url>http://zeehond.tonytee.nl:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 尔芬系列2">
+<url>http://zeehond.tonytee.nl:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 沃尔伯格">
+<url>http://82.93.241.220/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 瓦赫宁根">
+<url>http://93.125.157.72:5506/mjpg/1/video.mjpg</url>
+</video>
+<video name="荷兰 赞德沃特">
+<url>http://92.67.19.169/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 阿姆斯特丹系列2">
+<url>http://kzvw.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 Gorredijk">
+<url>http://brugburdaard.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="挪威 努尔菲尤尔埃德">
+<url>http://194.248.190.92/mjpg/1/video.mjpg</url>
+</video>
+<video name="挪威 Ski ">
+<url>http://drobak.mine.nu:8000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="法国 下诺曼底 Caen 诺曼底卡昂球场2">
+<url>http://62.160.78.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 香槟-阿登 Biesles 比耶勒人工湖">
+<url>http://alexvoves.axiscam.net:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 巴黎大区 Draveil 海港">
+<url>http://81.255.79.81:20091/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+</video>
+<video name="法国 巴黎大区 Choisy-le-roi 海洋馆">
+<url>http://80.13.189.135/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 巴黎大区 Paris 办公室11">
+<url>http://premium-computer.fr:9002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 巴黎大区 Paris 海景20">
+<url>http://217.128.152.166:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 巴黎大区 Paris 巴黎湖景37">
+<url>http://80.14.145.27/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 南特-办公室">
+<url>http://130.66.66.1/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 普罗旺斯 山上的别墅">
+<url>http://mandelieu.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 普罗旺斯-阿尔卑斯 Nice 城市鸟瞰2">
+<url>http://82.230.103.244/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 罗纳-阿尔卑斯 民宅">
+<url>http://217.128.101.75/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 下诺曼底 Rai 酒吧">
+<url>http://webcam.ville-saintes.fr:80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 
