@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 	<province name="美洲精选" order="b" >
-		<city name="美洲精选1" type="1" order="1" >
+		<city name="美洲精选1" type="1888" order="1" >
 			
 <video name="美国 哥伦比亚 开罗美国大学-未知摄像头9">
 <url>http://webcam.american.edu/mjpg/video.mjpg?resolution=352x288</url>

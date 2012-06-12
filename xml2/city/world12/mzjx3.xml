@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 	<province name="美洲精选" order="b" >
-		<city name="美洲精选3" type="1" order="C" >
+		<city name="美洲精选3" type="1888" order="C" >
 			
 <video name="美国 加州 Santa Clara 圣塔克拉拉大学校园">
 <url>http://129.210.52.139/mjpg/video.mjpg?resolution=352x288</url>
