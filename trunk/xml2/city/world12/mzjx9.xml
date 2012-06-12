@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="美洲精选" order="b" >
-		<city name="美洲精选9" type="1" order="I" >
+	<province name="美洲精选" order="c" >
+		<city name="美洲精选9" type="1888" order="I" >
 <video name="美国 美国华盛顿 Bellingham 西华盛顿大学-实验室">
 <url>http://cf405wc.cs.wwu.edu/mjpg/video.mjpg?Resolution=352x288</url>
 </video>

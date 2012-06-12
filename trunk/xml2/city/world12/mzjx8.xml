@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="美洲精选" order="b" >
-		<city name="美洲精选8" type="1" order="H" >
+	<province name="美洲精选" order="c" >
+		<city name="美洲精选8" type="1888" order="H" >
 			
 <video name="美国 罗得岛州 Kingston 罗得岛大学校园">
 <url>http://131.128.154.111/mjpg/video.mjpg?resolution=352x288</url>

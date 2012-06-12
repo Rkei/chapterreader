@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="美洲精选" order="b" >
-		<city name="美洲精选10" type="1" order="J" >
+	<province name="美洲精选" order="c" >
+		<city name="美洲精选10" type="1888" order="J" >
 			
 <video name="美国 弗吉尼亚州 Locust Hill 海边摄像头">
 <url>http://jacksoncreek.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>

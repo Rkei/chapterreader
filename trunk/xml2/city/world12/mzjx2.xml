@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 	<province name="美洲精选" order="b" >
-		<city name="美洲精选2" type="1" order="B" >
+		<city name="美洲精选2" type="1888" order="B" >
 			
 <video name="加拿大 安大略-Lansdowne 海边码头 -普清">
 <url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=352x240</url>
