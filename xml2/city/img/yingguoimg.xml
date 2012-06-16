@@ -40,7 +40,7 @@
 
 
 <video name="伦敦 别墅监控-高清">
-<url>http://zapcam.viewnetcam.com:12077/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+<url>http://zapcam.viewnetcam.com:12077/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
 </video>
 
 <video name="伦敦 游艇码头-高清">
