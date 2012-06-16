@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+  <province name="实时图片" order="BH" >
+		<city name="英国" type="4888" order="A" >	
+			<video name="# 英国(单击加载)">
+				<url>city/img/yingguoimg.xml</url>
+			</video>
+		</city>
+ </province>
+</provinces> 
