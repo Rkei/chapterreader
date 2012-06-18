@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片2" order="BI" >
+<city name="美国1" type="4888" order="C" >	
+	
+<video name="伊利诺伊 Chicago 芝加哥大学校园1">
+<url>http://buscam.uchicago.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥大学校园2">
+<url>http://c-cam.uchicago.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Aurora 奥罗拉大学-海岸">
+<url>http://lgc.aurora.edu:100/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Chicago 芝加哥电教室">
+<url>http://140.192.244.123/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Chicago 芝加哥大学校园3">
+<url>http://r-cam.uchicago.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥树林与马路5">
+<url>http://webcam.vi.wheeling.il.us/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Schaumburg 绍姆堡私家机场">
+<url>http://lefc-kpwk.dyndns.org:5020/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特实验室室内2">
+<url>http://146.139.72.79/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Chicago 芝加哥大学实验室">
+<url>http://140.192.244.124/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Dekalb 北伊利诺斯大学-室外">
+<url>http://131.156.107.87/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Ingleside 英格尔赛德 飞机仓库">
+<url>http://lefc-kpwk.dyndns.org:5021/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥大学实验室8">
+<url>http://140.192.244.125/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥大学校园-高清">
+<url>http://63.250.253.12/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Downers Grove  大学校园2">
+<url>http://65.113.219.177/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Northbrook 诺斯布鲁克汽车修理中心">
+<url>http://vhshop.cmauto.com:8001/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="伊利诺伊 Peoria 布拉德利大学校园">
+<url>http://136.176.70.200/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特实验室内">
+<url>http://146.139.72.67/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Macomb 大学校园">
+<url>http://184.171.227.54:84/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="伊利诺伊 Rock Island  奥古斯塔那学院-餐厅">
+<url>http://webcam1.augustana.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Urbana 伊利诺伊大学-实验玉米地">
+<url>http://webcam.gcrl.uiuc.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特 大学实验室视频监控">
+<url>http://146.139.72.77/jpg/image.jpg</url>
+</video>
+
+
+<video name="内华达州 Las Vegas  美國沙漠研究所">
+<url>http://bcwebcam.dri.edu/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="内华达州 Reno 内华达雪山2">
+<url>http://206.230.61.85:8080/jpg/image.jpg</url>
+</video>
+
+<video name="内华达州 Reno 内华达室外3">
+<url>http://24.180.37.226:8160/jpg/image.jpg</url>
+</video>
+
+<video name="内华达州 Reno 内华达大学校园">
+<url>http://24.180.37.226:8250/jpg/image.jpg</url>
+</video>
+
+<video name="内华达州 Reno 内华达大学校园2">
+<url>http://quadcam.unrfound.unr.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="内华达州 Reno 里诺矿山8">
+<url>http://206.230.61.55/jpg/image.jpg</url>
+</video>
+
+
+<video name="新罕布什尔州  Hanover 达特茅斯学院校园">
+<url>http://wc2.dartmouth.edu/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="新罕布什尔州 Rumney  汉普夏湖泊">
+<url>http://bruhawachet2.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="新泽西州 Riverton  泽西 海边沙滩">
+<url>http://74.94.55.182/jpg/image.jpg</url>
+</video>
+
+<video name="新泽西州 Linden  泽西 教堂内">
+<url>http://cam1.starofdavidmemorial.com/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="新泽西州 Livingston  泽西花园">
+<url>http://presbygardens.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="内布拉斯加州 Lincoln 林肯 lincolnmachine工厂内">
+<url>http://www.lincolnmachine.com:8081/jpg/image.jpg</url>
+</video>
+
+
+<video name="内布拉斯加州 Omaha 奥马哈园林">
+<url>http://147.134.38.233/jpg/image.jpg</url>
+</video>
+
+
+<video name="新墨西哥州 Rio Rancho  墨西哥城马路">
+<url>http://67.42.115.85:1752/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="新墨西哥州 Santa Fe  墨西哥城山林">
+<url>http://67.42.115.85:1751/jpg/image.jpg</url>
+</video>
+
+
+<video name="内布拉斯加州 Lincoln 内布拉斯加大学室内">
+<url>http://ucommcam2.unl.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="内布拉斯加州 Lincoln 内布拉斯加大学校园2">
+<url>http://cit-cam1.unl.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="内华达州 Reno 西内华达社区学院（高清）">
+<url>http://observatory.wnc.edu/oneshotimage.jpg</url>
+</video>
+
+<video name="新泽西州 Blairstown  树林小路（高清）">
+<url>http://198.182.247.196/record/current.jpg?rand=7898483</url>
+</video>
+
+
+<video name="伊利诺伊 Lockport 大学实验室">
+<url>http://aem076.amc.anl.gov/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 Bloomington 印第安纳大学校园">
+<url>http://149.159.112.246/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 West Lafayette  普渡大学-实验室2">
+<url>http://128.210.72.31/jpg/image.jpg</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学校园3">
+<url>http://webcam01.ecn.purdue.edu/jpg/image.jpg</url>
+</video>
+
+<video name="印第安纳州 Bloomington 印第安纳大学校园2">
+<url>http://129.79.44.40/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="印第安纳州 West Lafayette  普渡大学-电教室">
+<url>http://lwsnb158-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  电脑室7">
+<url>http://lwsnb160-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 Evansville 埃文斯维尔教堂">
+<url>http://96.27.252.154/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 West Lafayette  普渡大学-电教室2">
+<url>http://lwsnb131-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-电教室3">
+<url>http://lwsnb146-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-绘画室">
+<url>http://k133-200.mgmt.purdue.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-电教室4">
+<url>http://lwsnb148-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 Ellettsville 树林与草场">
+<url>http://webcam01pd.frenchlick.com/jpg/image.jpg</url>
+</video>
+
+<video name="印第安纳州 North Manchester  曼彻斯特学院-餐厅">
+<url>http://spartancamiv.manchester.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 Evansville 埃文斯维尔教堂2">
+<url>http://96.27.252.148/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 Vincennes 温森斯大学-电台直播间">
+<url>http://blazercam.vinu.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 Huntingburg 游泳池">
+<url>http://splashcam.holidayworld.com/oneshotimage.jpg</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学-实验室11">
+<url>http://bowncamsrv1.ecn.purdue.edu/jpg/image.jpg</url>
+</video>
+
+<video name="肯塔基州 Frankfort 法兰克福 大街">
+<url>http://camera5.buffalotrace.com/jpg/image.jpg</url>
+</video>
+
+
+<video name="肯塔基州 Wilmore 威尔莫尔桥">
+<url>http://173.190.94.9/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="肯塔基州 Frankfort 法兰克福 酒厂作坊">
+<url>http://12.154.97.251/jpg/image.jpg</url>
+</video>
+
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆门口">
+<url>http://webcam9.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆4">
+<url>http://delivery4.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆5">
+<url>http://delivery5.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆6">
+<url>http://delivery6.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆7">
+<url>http://delivery7.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+<video name="艾奥瓦州 Iowa City  艾奥瓦私家机场">
+<url>http://69.66.204.149/jpg/image.jpg</url>
+</video>
+
+
+<video name="艾奥瓦州 Davenport 艾奥瓦海边">
+<url>http://74.84.83.109/jpg/image.jpg</url>
+</video>
+
+
+<video name="艾奥瓦州 Iowa City  爱荷华大学校园">
+<url>http://128.255.26.209/jpg/image.jpg</url>
+</video>
+
+
+<video name="艾奥瓦州 Bettendorf 艾奥瓦 公路">
+<url>http://camera1.bettendorf.org/jpg/image.jpg</url>
+</video>
+
+<video name="艾奥瓦州 Indianola 印第安诺拉 林中动物投食点">
+<url>http://216.203.127.154:8888/jpg/image.jpg</url>
+</video>
+
+
+<video name="堪萨斯州 Wichita 堪萨斯 大学电教室内">
+<url>http://156.26.2.12/jpg/image.jpg</url>
+</video>
+
+<video name="堪萨斯州 Lawrence 堪萨斯 大学运动场">
+<url>http://hoglundcam.kuathletics.com/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="堪萨斯州 Pittsburg 匹兹堡州立大学校园">
+<url>http://collegio-cam.pittstate.edu/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="路易斯安那州 Lafayette 拉斐特餐厅">
+<url>http://webcam.prejeans.com/jpg/image.jpg</url>
+</video>
+
+
+<video name="路易斯安那州 West Monroe  路易斯安那 教堂内">
+<url>http://72.149.206.142:9000/jpg/image.jpg</url>
+</video>
+
+
+<video name="明尼苏达州 Cambridge 飞机场">
+<url>http://208.38.71.22:88/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="明尼苏达州 Eagle Lake  马丁路德学院校园">
+<url>http://mallcam.mlc-wels.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="明尼苏达州 Detroit Lakes  明尼苏达州 城市风貌">
+<url>http://205.241.135.70/jpg/image.jpg</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 明尼苏达州 公园里">
+<url>http://mallcam.morris.umn.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="明尼苏达州 Spring Grove  明尼苏达州 马路">
+<url>http://204.248.124.203/jpg/image.jpg</url>
+</video>
+
+<video name="明尼苏达州 Mankato 明尼苏达州 城市风景2">
+<url>http://68.232.253.194/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 明尼阿波利斯实验室6">
+<url>http://128.101.105.82/jpg/image.jpg</url>
+</video>
+
+<video name="明尼苏达州 Moorhead 明尼苏达州 大学校园">
+<url>http://136.234.15.209/jpg/image.jpg</url>
+</video>
+
+<video name="明尼苏达州 Hutchinson 哈钦森 美国海军航空博物馆">
+<url>http://hangar.navalaviationmuseum.org/jpg/image.jpg</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 明尼阿波利斯 培训教室">
+<url>http://134.84.117.226/jpg/image.jpg</url>
+</video>
+
+
+<video name="明尼苏达州 Excelsior 小码头">
+<url>http://minnetonkawebcam.gotdns.com/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="明尼苏达州 Saint Paul  厂房内">
+<url>http://134.29.251.176/oneshotimage.jpg</url>
+</video>
+
+
+<video name="明尼苏达州 Mankato 贝森尼路德学院校园-高清">
+<url>http://68.232.253.196/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学校园">
+<url>http://shapiro.cam.lib.umich.edu/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Wyoming 怀俄明泳池">
+<url>http://sjryc.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Allendale 艾伦代尔 公园">
+<url>http://148.61.97.229/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Allendale 艾伦代尔咖啡厅2">
+<url>http://148.61.171.201/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Allendale 艾伦代尔 大学校园">
+<url>http://148.61.151.202/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Ann Arbor  密歇根大学-实验室">
+<url>http://141.213.21.88/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Allendale 密歇根山校园4">
+<url>http://148.61.142.228/jpg/image.jpg</url>
+</video>
+
+
+<video name="密歇根州 Allendale 密歇根山 大学校园6">
+<url>http://148.61.253.219/jpg/image.jpg</url>
+</video>
+
+
+<video name="密歇根州 Troy 密歇根山生产车间">
+<url>http://208.72.103.12/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Allendale 密歇根山 运动场">
+<url>http://148.61.63.218/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Petoskey 密歇根山室内泳池">
+<url>http://webcam02.boynemountain.com/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+
+<video name="密歇根州 Ann Arbor 密歇根大学-实验室">
+<url>http://141.213.21.112/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Ann Arbor  密歇根大学-实验室2">
+<url>http://141.213.21.87/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学-实验室3">
+<url>http://141.213.21.92/jpg/image.jpg</url>
+</video>
+
+
+<video name="密歇根州 East Lansing  密歇根山公司内部">
+<url>http://35.9.170.60/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="密歇根州 Kalamazoo 密歇根山楼宇">
+<url>http://fmwmu-1.axiscam.net/jpg/image.jpg</url>
+</video>
+
+
+<video name="密歇根州 Ludington 湖泊码头">
+<url>http://ludingtonharbor.axiscam.net:5700/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Otsego 密歇根山小河">
+<url>http://hvmmarinacam.viewnetcam.com:60030/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="密歇根州 Allendale 艾伦代尔 大学校园-喷泉">
+<url>http://148.61.142.227/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学-实验室">
+<url>http://141.213.21.113/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学-走廊">
+<url>http://141.213.21.93/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Coldwater 科尔德沃 大学校园">
+<url>http://municamera.cbpu.com/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Saginaw 萨吉诺海边">
+<url>http://ausable-huron.axiscam.net/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="密歇根州 Ann Arbor 密歇根大学-室内运动场">
+<url>http://poolcam.ath.umich.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="密歇根州 Holland 马路边">
+<url>http://hartohj.axiscam.net:5700/jpg/image.jpg</url>
+</video>
+
+
+<video name="密歇根州 Scottville 儿童游乐场2">
+<url>http://24.236.250.155:8084/jpg/image.jpg</url>
+</video>
+
+
+<video name="密歇根州 East Lansing  密西根州立大学校园">
+<url>http://webcam01.news.msu.edu/jpg/image.jpg</url>
+</video>
+
+<video  name="密歇根州 Interlochen 港湾2">
+<url>http://24.231.238.190/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="密歇根州 Petoskey 皮托斯基庭院5">
+<url>http://bayview.viewnetcam.com:5000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="密歇根州 Ann Arbor 密歇根大学实验室">
+<url>http://141.213.21.110/jpg/image.jpg</url>
+</video>
+
+<video name="密歇根州 Utica 电器商场">
+<url>http://southbleach.axiscam.net:9001/jpg/image.jpg</url>
+</video>
+
+
+<video name="密歇根州 Ann Arbor 密歇根大学实验室3">
+<url>http://ercwebcam.engin.umich.edu/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="密歇根州 Ann Arbor 密歇根大学实验室6">
+<url>http://141.213.21.89/jpg/image.jpg</url>
+</video>
+
+
+<video name="密西西比州 Sunrise Beach  清澈水面-高清">
+<url>http://24.182.136.174/record/current.jpg?rand=7898483</url>
+</video>
+
+
+
+<video name="密西西比州 Saint Louis  圣路易斯华盛顿大学-餐厅2">
+<url>http://cafe-cam.wulib.wustl.edu/jpg/image.jpg</url>
+</video>
+
+<video name="密西西比州 Saint Louis  密苏里州 大学实验室">
+<url>http://69.151.40.81/jpg/image.jpg</url>
+</video>
+
+<video name="密苏里州 Joplin 欧扎克基督教学院校园">
+<url>http://webcam.occ.edu/jpg/image.jpg</url>
+</video>
+
+<video name="密西西比州 Sunrise Beach  密苏里州湖上泳池">
+<url>http://www.tomhilleary.tv/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="密苏里州 Warrensburg 沃伦斯堡街道">
+<url>http://axis-ad457a.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="密西西比州 Lake Ozark  密苏里州餐厅">
+<url>http://franky.axiscam.net/jpg/image.jpg</url>
+</video>
+
+
+<video name="密苏里州 Columbia 密苏里哥伦比亚大学校园">
+<url>http://128.206.143.98/jpg/image.jpg</url>
+</video>
+
+<video name="密苏里州 Columbia 圣路易斯药学院校园">
+<url>http://axis-cor.stlcop.edu/jpg/image.jpg</url>
+</video>
+
+<video name="密西西比州 Saint Louis  芳邦大学校园">
+<url>http://webcam.fontbonne.edu/jpg/image.jpg</url>
+</video>
+
+<video name="密西西比州 Saint Louis  密苏里州室内15">
+<url>http://66.128.103.146:60005/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+
+<video name="艾奥瓦州 Iowa City   爱荷华大学校园3（高清）">
+<url>http://128.255.30.27/oneshotimage.jpg</url>
+</video>
+
+
+<video name="艾奥瓦州 Long Grove  江边2">
+<url>http://64.22.200.68/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="堪萨斯州 Manhattan 堪萨斯州立大学校园（高清）">
+<url>http://hdswc-westend.housing.ksu.edu/oneshotimage.jpg</url>
+</video>
+
+<video name="堪萨斯州 Dodge City  大学电教室2">
+<url>http://209.184.47.13/jpg/image.jpg</url>
+</video>
+
+<video name="堪萨斯州 Manhattan 堪萨斯州立大学校园2（高清）">
+<url>http://hdssc-jardined-1.housing.ksu.edu/oneshotimage.jpg</url>
+</video>
+
+<video name="堪萨斯州 Manhattan 堪萨斯州立大学校园3（高清）">
+<url>http://hdswc-plaza.housing.ksu.edu/oneshotimage.jpg</url>
+</video>
+
+<video name="堪萨斯州 Dodge City  湖边小码头3">
+<url>http://sunapee.dyndns.org:8080/record/current.jpg?rand=7898483</url>
+</video>
+
+
+<video name="蒙大拿州 Livingston 利文斯顿河流">
+<url>http://69.146.3.114:9090/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="蒙大拿州 Bozeman 蒙大拿州立大学校园">
+<url>http://cateye-down.msu.montana.edu/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="蒙大拿州 Bozeman 博兹曼雪山2">
+<url>http://webcam02.bigskyresort.com/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="蒙大拿州 Kalispell 城市鸟瞰">
+<url>http://72.250.182.126/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="蒙大拿州 Big Sky  蒙大纳山景">
+<url>http://216.146.102.90:9000/jpg/image.jpg</url>
+</video>
+
+<video name="蒙大拿州 Bozeman 博兹曼山顶积雪4">
+<url>http://webcam03.bigskyresort.com/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+
+<video name="蒙大拿州 Missoula 美国管理技术大学校园">
+<url>http://grizcam.aux.umt.edu/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="蒙大拿州 Bozeman 博兹曼雪山下的村落5">
+<url>http://webcam01.bigskyresort.com/jpg/image.jpg</url>
+</video>
+
+<video name="蒙大拿州 Helena 海伦娜鸟瞰3">
+<url>http://161.7.29.11/jpg/image.jpg</url>
+</video>
+
+
+<video name="蒙大拿州 Missoula 美国管理技术大学校园3">
+<url>http://webcam.flbs.umt.edu/jpg/image.jpg</url>
+</video>
+
+<video name="蒙大拿州 Bozeman 博兹曼动物围栏6">
+<url>http://bearsgwdc.axiscam.net:4500/jpg/image.jpg</url>
+</video>
+
+</city>
+</province>
+</provinces>
