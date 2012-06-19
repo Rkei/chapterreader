@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-  <province name="实时图片" order="EH" >
+  <province name="实时图片" order="CH" >
 		<city name="英国" type="4888" order="A" >	<video name="# 英国(单击加载)"><url>city/img/yingguoimg.xml</url></video></city>
     <city name="瑞士" type="4888" order="C" >	<video name="# 瑞士(单击加载)"><url>city/img/ruishi.xml</url></video></city>
     <city name="意大利1" type="4888" order="D" >	<video name="# 意大利1(单击加载)"><url>city/img/yidali1.xml</url></video></city>
@@ -9,7 +9,7 @@
     <city name="奥地利"  type="4888" order="F" >	<video name="# 奥地利(单击加载)"><url>city/img/aodili.xml</url></video></city>
     <city name="波兰"  type="4888" order="G" >	<video name="# 波兰(单击加载)"><url>city/img/polan.xml</url></video></city>
  </province>
- <province name="实时图片2" order="EI" >
+ <province name="实时图片2" order="CI" >
 		<city name="美国1" type="4888" order="C" >	<video name="# 美国1(单击加载)"><url>city/img/meiguo1.xml</url></video></city>
  </province>
  
