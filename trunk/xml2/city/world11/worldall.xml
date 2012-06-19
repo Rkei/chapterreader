@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="欧洲精选" order="D" >
+	<province name="欧洲精选" order="b" >
 		<city name="欧洲精选" type="0" order="A" >
 			<video name="# 欧洲精选(单击加载)">
 				<url>city/world11/ozjx1.xml</url>
@@ -18,5 +18,12 @@
 				<url>city/world11/ozjx3.xml</url>
 			</video>
 		</city>
+		
+		<city name="俄罗斯" type="1" order="D" >
+			<video name="# 俄罗斯(单击加载)">
+				<url>city/world11/russian.xml</url>
+			</video>
+		</city>
+		
  </province>
 </provinces> 
