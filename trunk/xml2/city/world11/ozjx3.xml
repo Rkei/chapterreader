@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="欧洲精选" order="D" >
-		<city name="欧洲精选3" type="1" order="C" >
+	<province name="欧洲精选" order="b" >
+		<city name="欧洲精选3" type="1888" order="C" >
 			
 <video name="意大利-阿布鲁佐 Pescara 度假村">
-<url>http://212.43.123.19/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://212.43.123.19/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 <video name="意大利-阿布鲁佐 Isola 碧海银沙-高清">
-<url>http://91.214.62.106/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://91.214.62.106/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利-坎帕尼亚 Salento 海景山色-高清">
-<url>http://79.5.160.195/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://79.5.160.195/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利-坎帕尼亚 Battipaglia 温泉">
-<url>http://79.15.101.186:8080/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://79.15.101.186:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利-坎帕尼亚 Naples 古楼大街2">
-<url>http://webcam.hotelchiaia.com:8080/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://webcam.hotelchiaia.com:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利-坎帕尼亚 Caserta 美丽的海滨城市2-高清">
-<url>http://85.18.249.228/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://85.18.249.228/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 摩德纳省-罗马涅-艾米利亚 古楼大街3-高清">
-<url>http://webcam1.carpidiem.it/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://webcam1.carpidiem.it/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 Savignano Sul Rubicone Emilia-Romagna海边景色">
-<url>http://cvcogoleto.dyndns.org/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://cvcogoleto.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利Emilia-Romagna Modena 海边浴场4">
-<url>http://89.97.40.143/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://89.97.40.143/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 <video name="意大利 拉齐奥 海滨浴场8-高清">
-<url>http://95.240.239.195/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://95.240.239.195/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 拉齐奥 城镇风景9">
-<url>http://80.183.224.152/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://80.183.224.152/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 利古利亚 因佩里亚省  海滨浴场7">
 <url>http://213.204.2.199:5901/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 <video name="意大利 伦巴第 Bergamo 湖光山色-高清-1080p">
-<url>http://sebino.selfip.org:6201/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://sebino.selfip.org:6201/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 马尔凯 Pesaro 海边浴场10-高清">
-<url>http://82.104.250.105/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://82.104.250.105/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 马尔凯 Montecosaro 海滨浴场14">
-<url>http://87.30.238.11:81/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://87.30.238.11:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 皮埃蒙特 Borgosesia 浴场监控摄像头">
 <url>http://87.30.9.81:8155/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 <video name="意大利 皮埃蒙特 Turin 城镇大街1-高清">
-<url>http://rotary.hopto.org:81/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://rotary.hopto.org:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 皮埃蒙特 Saluzzo 城镇大街2-高清">
-<url>http://rotary.hopto.org:82/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://rotary.hopto.org:82/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 普利亚大区 Bari  椰树海边2-高清">
-<url>http://82.91.42.218/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://82.91.42.218/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 西西里 Balestrate 海边小码头3-高清">
-<url>http://82.107.87.169/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://82.107.87.169/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="意大利 Molveno Trentino-Alto Adige海边游泳池">
-<url>http://79.137.113.130:210/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://79.137.113.130:210/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="瑞士弗里堡州 Alterswil 城市风貌-旋转镜头">
 <url>http://axis-206m.axiscam.net:1025/mjpg/video.mjpg?resolution=352x288</url>
@@ -88,7 +88,7 @@
 <url>http://klosterplatz.selfip.info/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 <video name="瑞士索洛图恩 Olten 小城堡-高清">
-<url>http://80.254.180.196/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://80.254.180.196/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="瑞士索洛图恩 Solothurn 球场">
 <url>http://axis_tcwangen.axiscam.net:8099/mjpg/video.mjpg?resolution=352x288</url>
@@ -100,25 +100,25 @@
 <url>http://webcam02.lugano.ch/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 <video name="瑞士瓦莱州 Monthey 楼下喷泉-高清">
-<url>http://213.221.150.11/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://213.221.150.11/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="瑞士瓦莱州 Monthey 风力发电站2">
 <url>http://213.221.150.136/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 <video name="瑞士瓦莱州 Saint-jean 雪山下的别墅-高清">
-<url>http://grimloc.dnsalias.net/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://grimloc.dnsalias.net/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="瑞士瓦莱州 Monthey 江边小码头3-高清">
-<url>http://fwag.homeip.net/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://fwag.homeip.net/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="瑞士-沃州 Lausanne 宾馆前台-高清">
-<url>http://213.221.138.98/img/video.mjpeg?resolution=352x288&data=v.mjpg</url>
+<url>http://213.221.138.98/img/video.mjpeg?resolution=352x288::1;data=v.mjpg</url>
 </video>
 <video name="瑞士-沃州 Pully 小码头2">
 <url>http://laterrasse.stvs.ch:10023/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 <video name="奥地利 下奥地利 Ybbs 河边美景 -高清">
-<url>http://85.255.144.143/cgi-bin/faststream.jpg?stream=full&fps=1&rand=641024&data=v.mjpg</url>
+<url>http://85.255.144.143/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=641024::1;data=v.mjpg</url>
 </video>
 <video name="奥地利 上奥地利 Neuhofen河流  -普清">
 <url>http://80.123.249.194/mjpg/video.mjpg?resolution=320x240</url>
@@ -163,7 +163,7 @@
 <url>http://83.168.85.69/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 <video name="波兰 比亚威斯托克 3">
-<url>http://83.175.144.131:8888/image?speed=2&data=v.mjpg</url>
+<url>http://83.175.144.131:8888/image?speed=2::1;data=v.mjpg</url>
 </video>
 			
 		</city>

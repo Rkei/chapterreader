@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="欧洲精选" order="D" >
-		<city name="欧洲精选2" type="1" order="B" >
+	<province name="欧洲精选" order="b" >
+		<city name="欧洲精选2" type="1888" order="B" >
 			
 <video name="瑞典 瑟尔沃斯堡市">
 <url>http://torso.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
@@ -16,10 +16,10 @@
 <url>http://194.103.218.16/mjpg/1/video.mjpg?resolution=320x240</url>
 </video>
 <video name="瑞典 乌德瓦拉">
-<url>http://uddevallagk.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+<url>http://uddevallagk.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
 </video>
 <video name="瑞士 首都伯尔尼 Laupen 城市风景">
-<url>http://hnhn.dyndns.tv:8400/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240&data=v.mjpg</url>
+<url>http://hnhn.dyndns.tv:8400/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
 </video>
 <video name="瑞士 首都伯尔尼 Spiez 阿达尔波登山2">
 <url>http://marti-adelboden.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
@@ -64,7 +64,7 @@
 <url>http://alexvoves.axiscam.net:8082/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 <video name="法国 巴黎大区 Draveil 海港">
-<url>http://81.255.79.81:20091/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+<url>http://81.255.79.81:20091/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 <video name="法国 巴黎大区 Choisy-le-roi 海洋馆">
 <url>http://80.13.189.135/mjpg/video.mjpg?resolution=352x288</url>
