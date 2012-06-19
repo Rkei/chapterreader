@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-<province name="实时图片2" order="BI" >
+<province name="实时图片2" order="EI" >
 <city name="美国1" type="4888" order="C" >	
 	
 <video name="伊利诺伊 Chicago 芝加哥大学校园1">

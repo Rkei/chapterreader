@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-<province name="实时图片" order="BH" >
+<province name="实时图片" order="EH" >
 <city name="英国" type="4888" order="A" >	
 	
 
