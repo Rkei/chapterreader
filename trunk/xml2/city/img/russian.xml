@@ -11,8 +11,16 @@
 <url>http://camera2.butovo.com/jpg/image.jpg</url>
 </video>
 
-<video name="俄罗斯 健身房10">
-<url>http://195.239.51.162/jpg/image.jpg</url>
+<video name="俄罗斯 俱乐部前台4">
+<url>http://95.66.143.37:200/jpg/image.jpg</url>
+</video>
+
+<video name="俄罗斯 游戏俱乐部">
+<url>http://212.42.54.137:8008/jpg/image.jpg</url>
+</video>
+
+<video name="俄罗斯 托木斯克酒店室内">
+<url>http://mfc.tomsk.ru:8080/jpg/image.jpg</url>
 </video>
 
 <video name="俄罗斯 纹身室11">
@@ -56,23 +64,41 @@
 <url>http://94.198.109.177/jpg/image.jpg</url>
 </video>
 
-<video name="俄罗斯 游戏俱乐部">
-<url>http://212.42.54.137:8008/jpg/image.jpg</url>
-</video>
+
 
 <video name="俄罗斯 秋明 运动场">
 <url>http://webcam2.ttknet.ru/jpg/image.jpg</url>
 </video>
 
 
-<video name="俄罗斯 俱乐部前台4">
-<url>http://95.66.143.37:200/jpg/image.jpg</url>
+<video name="俄罗斯 跨海大桥22">
+<url>http://77.35.104.40/record/current.jpg?rand=7898483</url>
 </video>
 
-
-<video name="俄罗斯 托木斯克酒店室内">
-<url>http://mfc.tomsk.ru:8080/jpg/image.jpg</url>
+<video name="俄罗斯 高塔23">
+<url>http://62.141.120.196:90/record/current.jpg?rand=7898483</url>
 </video>
+
+<video name="俄罗斯 巴什克托 Ufa 鞋店8">
+<url>http://92.50.128.238:12042/jpg/image.jpg</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店9">
+<url>http://92.50.128.238:12068/jpg/image.jpg</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店10">
+<url>http://92.50.128.238:12056/jpg/image.jpg</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 商店走廊11">
+<url>http://92.50.128.238:12017/jpg/image.jpg</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 餐厅12">
+<url>http://92.50.128.238:12030/jpg/image.jpg</url>
+</video>
+
 
 
 <video name="俄罗斯 建筑工地2">
@@ -189,33 +215,6 @@
 <url>http://212.119.196.210/record/current.jpg?rand=7898483</url>
 </video>
 
-<video name="俄罗斯 跨海大桥22">
-<url>http://77.35.104.40/record/current.jpg?rand=7898483</url>
-</video>
-
-<video name="俄罗斯 高塔23">
-<url>http://62.141.120.196:90/record/current.jpg?rand=7898483</url>
-</video>
-
-<video name="俄罗斯 巴什克托 Ufa 鞋店8">
-<url>http://92.50.128.238:12042/jpg/image.jpg</url>
-</video>
-
-<video name="俄罗斯 巴什克托 Ufa 服装店9">
-<url>http://92.50.128.238:12068/jpg/image.jpg</url>
-</video>
-
-<video name="俄罗斯 巴什克托 Ufa 服装店10">
-<url>http://92.50.128.238:12056/jpg/image.jpg</url>
-</video>
-
-<video name="俄罗斯 巴什克托 Ufa 商店走廊11">
-<url>http://92.50.128.238:12017/jpg/image.jpg</url>
-</video>
-
-<video name="俄罗斯 巴什克托 Ufa 餐厅12">
-<url>http://92.50.128.238:12030/jpg/image.jpg</url>
-</video>
 
 <video name="俄罗斯 巴什克托 Ufa 服装店15">
 <url>http://92.50.128.238:12028/jpg/image.jpg</url>
@@ -368,6 +367,11 @@
 <video name="俄罗斯-莫斯科 城市鸟瞰32">
 <url>http://portal.kurkino.net.ru:801/jpg/image.jpg</url>
 </video>
+
+<video name="俄罗斯 健身房10">
+<url>http://195.239.51.162/jpg/image.jpg</url>
+</video>
+
 
 </city>
 </province>
