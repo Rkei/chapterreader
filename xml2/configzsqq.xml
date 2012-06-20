@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs version="1.5">
+<!--tuijian version="1.2" name="city/tuijian/tuijian1.xml" /-->
+<!--more version="1.2" name="city/tuijian/more.xml" /-->
+
+<load version="1.2" name="city/img/worldall.xml" />
+<load version="1.2" name="city/world12/worldall.xml" />
+<load version="1.2" name="city/world10/worldall.xml" />
+<load version="1.2" name="city/world11/worldall.xml" />
+<load version="1.2" name="city/world/worldall.xml" />
+<!--load version="1.2" name="city/jianada/jianada.xml" />
+<load version="1.2" name="city/meiguo/meiguo.xml" />
+<load version="1.2" name="city/meiguo2/meiguo.xml" />
+<load version="1.2" name="city/meiguo3/meiguo.xml" />
+<load version="1.2" name="city/meiguo4/meiguo.xml" />
+<load version="1.2" name="city/meizhou/meizhou.xml" />
+<load version="1.2" name="city/deguo/faguo.xml" />
+<load version="1.2" name="city/deguo/deguo.xml" />
+<load version="1.2" name="city/ouzhou1/aodili.xml" />
+<load version="1.2" name="city/yingguo/yingguo.xml" />
+<load version="1.2" name="city/ruishi/ruishi.xml" />
+<load version="1.2" name="city/world4/worldall.xml" />
+<load version="1.2" name="city/world5/rbdj.xml" />
+<load version="1.2" name="city/world5/rbqt.xml" />
+<load version="1.2" name="city/world6/russian.xml" />
+<load version="1.2" name="city/world5/rbdj.xml" />
+<load version="1.2" name="city/world5/rbqt.xml" />
+<load version="1.6" name="city/world3/worldall.xml" /-->
+<!--load version="1.6" name="city/world3/zg1.xml" />
+<load version="1.2" name="city/gs/gs.xml" />	
+<load version="1.2" name="city/xj/xj.xml" />
+<load version="1.3" name="city/gd/gd.xml" />
+<load version="1.3" name="city/hubei/hb.xml" />
+<load version="1.3" name="city/hubei/sc.xml" />
+<load version="1.3" name="city/guizhou/gz.xml" />
+<load version="1.2" name="city/gslk/sh2.xml" />
+<load version="1.2" name="city/dianxin.xml" />
+<load version="1.2" name="city/fj/fj.xml" />
+<load version="1.2" name="city/zj/zj.xml" />
+<!--load version="1.2" name="city/dianxin.xml" /-->
+
+<!--load version="1.2" name="city/zjnb.xml" />
+<load version="1.2" name="city/jiangsu/js2.xml" /-->
+
+<para name="appoffer" value="1" meney="20" />
+<para name="show1" value="手机观看视频需要切换到cmnet或wlan。无法播放的视频服务器正处于离线状态或者访问人数达到上限，请稍后尝试。观看外国摄像头时注意时差，部分摄像头晚上无法观看。部分摄像头帧率较低，可能感觉会比较卡。" />
+<para name="show2" value="" />
+<para name="show3" value="" />
+<para name="rscount" value="5" /> 
+<para name="freeday" value="24" />
+<para name="youmi" value="245" />
+<para name="baidu" value="0" />
+<para name="tengxun" value="100" />
+<para name="pkgversion" value="1.02" />
+<para name="reflashtime" value="24" />
+<para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
+<para name="pkgurl" value="http" >http://apk.goapk.com//apk/201111/18/com.wxcs_37163100_0.apk</para>
+<para name="vinvalid" value="1.0" />
+</configs>
