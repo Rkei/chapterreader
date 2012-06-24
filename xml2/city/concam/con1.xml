@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="可控摄像头" order="B" >
-<city name="可控摄像头1" type="4888" order="A" >	
+<city name="可控摄像头1" type="1888" order="A" >	
 
 <video name="德国 公司大楼4">
 <url>http://kamera1.grosswallstadt.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>

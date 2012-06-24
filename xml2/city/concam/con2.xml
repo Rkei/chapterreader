@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="可控摄像头" order="B" >
-<city name="可控摄像头2" type="4888" order="B" >	
+<city name="可控摄像头2" type="1888" order="B" >	
 
 <video name="日本 北海道 Sapporo海边码头5  -普清">
 <url>http://shimamaki-camera.aa0.netvolante.jp:8001/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
