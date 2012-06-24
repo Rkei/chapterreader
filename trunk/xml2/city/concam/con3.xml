@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="可控摄像头" order="B" >
-<city name="可控摄像头3" type="4888" order="C" >	
+<city name="可控摄像头3" type="1888" order="C" >	
 
 <video name="德国-下萨克森州 Osnabruck 大转盘-高清">
 <url>http://85.8.92.254:333/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
