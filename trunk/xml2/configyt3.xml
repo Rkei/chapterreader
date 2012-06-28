@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configs version="1.5">
-<tuijian version="1.2" name="city/tuijian/tuijian1.xml" />
-<more version="1.2" name="city/tuijian/more.xml" />
+<!--tuijian version="1.2" name="city/tuijian/tuijian1.xml" />
+<more version="1.2" name="city/tuijian/more.xml" /-->
 
 <load version="1.2" name="city/img/worldall.xml" />
 <load version="1.2" name="city/world10/worldall.xml" />
 <load version="1.2" name="city/world11/worldall.xml" />
 <load version="1.2" name="city/world12/worldall.xml" />
-<load version="1.2" name="city/concam/worldall.xml" />
+<!--load version="1.2" name="city/concam/worldall.xml" /-->
 
 <load version="1.2" name="city/gs/gs.xml" />	
 <load version="1.2" name="city/xj/xj.xml" />
