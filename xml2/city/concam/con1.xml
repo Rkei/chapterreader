@@ -1,23 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-<province name="可控摄像头" order="B" >
+<province name="可控摄像头" order="H" >
 <city name="可控摄像头1" type="1888" order="A" >	
+
+
+<video name="中国 澳门大街">
+<url>http://iacm-wcam1.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="中国 澳门景点">
+<url>http://iacm-wcam4.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="中国 澳门广场">
+<url>http://iacm-wcam5.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="中国 澳门广场大楼">
+<url>http://iacm-wcam7.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="中国 澳门政府大楼前">
+<url>http://wcam3.iacm.gov.mo/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
 
 <video name="德国 公司大楼4">
 <url>http://kamera1.grosswallstadt.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
-<video name="德国-巴登-符腾堡州 Ludwigsburg 窗外6">
+<!--video name="德国-巴登-符腾堡州 Ludwigsburg 窗外6">
 <url>http://eckardtscholz.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
-</video>
+</video-->
 <video name="德国-拜耳 Munich 城市风景（旋转摄像头）">
 <url>http://gud.stadtwerke-neustrelitz.de:81/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
 </video>
 <video name="德国-拜耳 Starnberg 城市风景10">
 <url>http://82.135.124.181/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
-<video name="德国-北莱茵-威斯特法伦州  野生动物">
+<!--video name="德国-北莱茵-威斯特法伦州  野生动物">
 <url>http://217.91.102.155/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
-</video>
+</video-->
 <video name="德国-北莱茵-威斯特法伦州 Welver 设备">
 <url>http://dno750.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
 </video>
@@ -33,22 +50,22 @@
 <video name="德国 停车场8">
 <url>http://vitalien.viewnetcam.com:24837/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
-<video name="德国-北莱茵-威斯特法伦州  气象监测">
+<!--video name="德国-北莱茵-威斯特法伦州  气象监测">
 <url>http://aros.dyndns.tv:5005/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
-</video>
+</video-->
 <video name="美国-宾州 Aston 停车场">
 <url>http://bacorp1.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
-<video name="美国-宾州 Richland 小鸟监控">
+<!--video name="美国-宾州 Richland 小鸟监控">
 <url>http://birdcam.hartshornarboretum.com/mjpg/video.mjpg?resolution=352x288</url>
-</video>
+</video-->
 <video name="美国-宾州 East Earl 气候监测摄像头">
 <url>http://nhpa-cam1.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 <video name="美国-Earl 宾州 十字路口2">
 <url>http://nhpa-cam.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
-<video name="美国-宾州 Flourtown 游乐场">
+<!--video name="美国-宾州 Flourtown 游乐场">
 <url>http://pmm.mainlinehobbies.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 <video name="美国-南卡罗来纳州 Greenville  服务器机房">
@@ -59,7 +76,7 @@
 </video>
 <video name="美国-南卡罗来纳州 Mount Pleasant  游艇码头4">
 <url>http://mailserver.charlestonharborresort.com:1122/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
-</video>
+</video-->
 <video name="美国-南卡罗来纳州 Myrtle Beach  海边7">
 <url>http://208.65.20.211/mjpg/video.mjpg?resolution=352x288</url>
 </video>
@@ -141,9 +158,9 @@
 <video name="日本东京 日本 东京 Chofu 前台">
 <url>http://schoolben-tsuruse.miemasu.net:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
-<video name="日本东京 日本 东京 Tokyo 海边17">
+<!--video name="日本东京 日本 东京 Tokyo 海边17">
 <url>http://sunset.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
-</video>
+</video-->
 <video name="日本东京 日本 东京 Tokyo 大夏广场20">
 <url>http://01002demo.hsd.shell.link-life.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
@@ -153,9 +170,9 @@
 <video name="日本东京 日本 东京 Tokyo  室内监控36">
 <url>http://pet.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
-<video name="日本东京 日本 东京 Tokyo 29">
+<!--video name="日本东京 日本 东京 Tokyo 29">
 <url>http://cam262280.miemasu.net:60010/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
-</video>
+</video-->
 <video name="日本东京 日本 东京 Tokyo 未知38">
 <url>http://60.45.63.26:8086/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
@@ -192,12 +209,12 @@
 <video name="日本 神奈川 Yokohama玩具熊  -高清">
 <url>http://cam262280.miemasu.net:60005/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
-<video name="日本 神奈川 Yokohama酒店内景  -普清">
+<!--video name="日本 神奈川 Yokohama酒店内景  -普清">
 <url>http://60.33.108.92/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 <video name="日本 神奈川 Yokohama酒店内景  -高清">
 <url>http://60.33.108.92/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
-</video>
+</video-->
 <video name="日本 神奈川 Fujisawa酒店内景  -普清">
 <url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
@@ -285,12 +302,12 @@
 <video name="日本 神奈川 Yokosuka二本松办公室  -高清">
 <url>http://219.117.194.134/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
-<video name="日本 神奈川 Yokohama天台摄像头  -普清">
+<!--video name="日本 神奈川 Yokohama天台摄像头  -普清">
 <url>http://camera.16g.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 <video name="日本 神奈川 Yokohama天台摄像头  -高清">
 <url>http://camera.16g.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
-</video>
+</video-->
 <video name="日本 神奈川 Yokohama运动场  -普清">
 <url>http://sagamiharagreen.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
@@ -360,12 +377,12 @@
 <video name="日本 爱知 丰田公司  窗外 -高清">
 <url>http://202.79.153.138:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
-<video name="日本 北海道 海道银行  -普清">
+<!--video name="日本 北海道 海道银行  -普清">
 <url>http://camera.hakodate.or.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
 <video name="日本 北海道 海道银行 -高清">
 <url>http://camera.hakodate.or.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
-</video>
+</video-->
 <video name="日本 北海道 Sapporo海边岛屿 -高清">
 <url>http://shiretoko.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
 </video>
