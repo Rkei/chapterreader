@@ -60,6 +60,9 @@
 <!--para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para-->
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
 <!--para name="tplayerurl" value="http" >http://wap.nj.gov.cn/njwap/TemobiPlayer_signed.apk</para-->
+
+<para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/06_28/15/com.jdy.jdyyt_153636.apk</para>
+<para name="gfanurl" value="http" >http://3g.gfan.com/data/index.php?/detail/index/268919</para>
 <para name="pkgurl" value="http" >http://apk.goapk.com//apk/201111/18/com.wxcs_37163100_0.apk</para>
 <para name="vinvalid" value="1.0" />
 </configs>
