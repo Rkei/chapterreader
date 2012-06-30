@@ -7,7 +7,7 @@
 <load version="1.2" name="city/world10/worldall.xml" />
 <load version="1.2" name="city/world11/worldall.xml" />
 <load version="1.2" name="city/world12/worldall.xml" />
-<!--load version="1.2" name="city/concam/worldall.xml" /-->
+<load version="1.2" name="city/concam/worldall.xml" />
 
 <load version="1.2" name="city/deguo/faguo.xml" />
 <load version="1.2" name="city/deguo/deguo.xml" />
