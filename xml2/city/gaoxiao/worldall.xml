@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+  <province name="搞笑视频" order="A" >
+		<city name="第一页" type="3008" order="A" >	<video name="# 第一页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=40::1;rows=20</url></video></city>
+ </province>
+</provinces> 
