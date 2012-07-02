@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configs version="1.5">
-<!--load version="1.0" name="2012/index.xml" />
-<load version="1.0" name="2011/index.xml" />
-<load version="1.0" name="2010/index.xml" />
-<load version="1.0" name="2008/index.xml" />
-<load version="1.0" name="2007/index.xml" />
-<load version="1.0" name="2006/index.xml" />
-<load version="1.0" name="2005/index.xml" />
-<load version="1.0" name="2004/index.xml" />
-<load version="1.0" name="2003/index.xml" />
-<load version="1.0" name="2002/index.xml" />
-<load version="1.0" name="2001/index.xml" /-->
 <para name="appoffer" value="1" meney="20" />
 <para name="show1" value="元旦快乐！" />
 <para name="show2" value="" />
@@ -18,7 +7,12 @@
 <para name="rscount" value="5" /> 
 <para name="freeday" value="24" />
 <para name="youmi" value="245" />
-<para name="baidu" value="0" />
+<para name="baidu" value="100" />
+<para name="nbaidu" value="90" />
+<para name="gbaidu" value="50" />
+<para name="freecon" value="5" />
+<para name="freeopen" value="150" />
+<para name="gfreeopen" value="100" />
 <para name="tengxun" value="100" />
 <para name="pkgversion" value="1.02" />
 <para name="reflashtime" value="24" />
