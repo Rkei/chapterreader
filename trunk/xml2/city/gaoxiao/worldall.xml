@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
   <province name="搞笑视频" order="A" >
-		<city name="第一页" type="3008" order="A" >	<video name="#9 第一页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=40::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第1页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=60::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第2页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=120::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第3页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=180::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第4页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=240::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第5页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=300::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第6页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=360::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第7页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=420::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第8页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=480::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第9页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=540::1;rows=60</url></video></city>
+		<city name="第一页" type="3008" order="A" >	<video name="#9 第10页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=600::1;rows=60</url></video></city>
  </province>
 </provinces> 
