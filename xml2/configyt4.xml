@@ -53,21 +53,19 @@
 <para name="freeday" value="24" />
 <para name="youmi" value="245" />
 <para name="baidu" value="100" />
-<para name="nbaidu" value="50" />
+<para name="nbaidu" value="1" />
 <para name="gbaidu" value="50" />
 <para name="freecon" value="5" />
 <para name="freeopen" value="150" />
 <para name="gfreeopen" value="100" />
 <para name="tengxun" value="100" />
+<para name="maxadinter" value="3" />
+<para name="domoonly" value="2" />
 <para name="pkgversion" value="1.02" />
 <para name="reflashtime" value="24" />
-<!--para name="tplayerurl" value="http" >http://wap.xiamentd.com/app/TrafficVideo/cache/download/1302862068463.apk</para-->
-<!--para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para-->
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
-<!--para name="tplayerurl" value="http" >http://wap.nj.gov.cn/njwap/TemobiPlayer_signed.apk</para-->
-
-<para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/06_28/15/com.jdy.jdyyt_153636.apk</para>
-<para name="gfanurl" value="http" >http://3g.gfan.com/data/index.php?/detail/index/268919</para>
-<para name="pkgurl" value="http" >http://apk.goapk.com//apk/201111/18/com.wxcs_37163100_0.apk</para>
+<!--para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/06_28/15/com.jdy.jdyyt_153636.apk</para>
+<para name="gfanurl" value="http" >http://3g.gfan.com/data/index.php?/detail/index/268919</para-->
+<!--para name="pkgurl" value="http" >http://apk.goapk.com//apk/201111/18/com.wxcs_37163100_0.apk</para-->
 <para name="vinvalid" value="1.0" />
 </configs>
