@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configs version="1.5">
-<!--tuijian version="1.2" name="city/tuijian/tuijian1.xml" />
-<more version="1.2" name="city/tuijian/more.xml" /-->
+<tuijian version="1.2" name="city/tuijian/tuijian1.xml" />
+<more version="1.2" name="city/tuijian/more.xml" />
 
 <load version="1.2" name="city/img/worldall.xml" />
 <load version="1.2" name="city/world10/worldall.xml" />
@@ -60,11 +60,11 @@
 <para name="gfreeopen" value="100" />
 <para name="tengxun" value="100" />
 <para name="maxadinter" value="15" />
-<para name="domoonly" value="16" />
+<para name="domoonly" value="17" />
 <para name="pkgversion" value="1.02" />
 <para name="reflashtime" value="24" />
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
-<para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_06/17/com.jdy.jdyyt_173451.apk</para>
+<para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_10/17/com.jdy.jdyyt_172459.apk</para>
 <para name="gfanurl" value="http" >http://3g.gfan.com/data/index.php?/detail/index/268919</para>
 <!--para name="pkgurl" value="http" >http://apk.goapk.com//apk/201111/18/com.wxcs_37163100_0.apk</para-->
 <para name="vinvalid" value="1.0" />
