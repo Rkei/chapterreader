@@ -3,7 +3,7 @@
 <province name="西班牙" order="BH" >
 <city name="西班牙" type="1888" order="A" >
 		
-<video name="西班牙.安达路西亚  小镇风景">
+<video name="西班牙.安达路西亚  气候监测台">
 <url>http://150.214.222.100/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
@@ -11,7 +11,7 @@
 <url>http://88.2.164.213:8086/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
-<video name="西班牙.安达路西亚 Roquetas De Mar 罗克塔斯天空与湖">
+<video name="西班牙.安达路西亚 Roquetas De Mar 罗克塔斯海边浴场">
 <url>http://83.61.22.4:8080/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
@@ -27,7 +27,7 @@
 <url>http://80.59.58.50:8081/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
-<video name="西班牙.安达路西亚 Algodonales 阿尔戈多纳莱斯郊外">
+<video name="西班牙.安达路西亚 Algodonales 阿尔戈多纳莱斯城镇风景">
 <url>http://80.38.183.149:2000/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
@@ -55,7 +55,7 @@
 <url>http://150.214.222.97/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
-<video name="西班牙.安达路西亚 Gelves 湖泊上的船">
+<video name="西班牙.安达路西亚 Gelves 海边风景">
 <url>http://webcampuntilla.dnsalias.com:8080/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
