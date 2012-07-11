@@ -6,10 +6,10 @@
 <load version="1.2" name="city/img2/worldall.xml" />
 <load version="1.2" name="city/world/worldall2.xml" />
 
-<!--load version="1.2" name="city/world12/worldall.xml" />
+<load version="1.2" name="city/world12/worldall.xml" />
 <load version="1.2" name="city/world10/worldall.xml" />
 <load version="1.2" name="city/world11/worldall.xml" />
-<load version="1.2" name="city/concam/worldall.xml" /-->
+<load version="1.2" name="city/concam/worldall.xml" />
 
 <!--load version="1.2" name="city/ruishi/ruishi.xml" />
 <load version="1.2" name="city/yingguo/yingguo.xml" />
@@ -48,7 +48,7 @@
 <load version="1.2" name="city/jiangsu/js2.xml" />
 
 <para name="appoffer" value="1" meney="20" />
-<para name="show1" value="手机观看视频需要切换到cmnet或wlan。无法播放的视频服务器正处于离线状态或者访问人数达到上限，请稍后尝试。观看外国摄像头时注意时差，部分摄像头晚上无法观看。部分摄像头帧率较低，可能感觉会比较卡。" />
+<para name="show1" value="" />
 <para name="show2" value="" />
 <para name="show3" value="" />
 <para name="rscount" value="5" /> 
@@ -66,8 +66,8 @@
 <para name="maxadinter" value="15" />
 <para name="domoonly" value="4" />
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
-<para name="pkgurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_05/23/com.vdcam.zsqq_230442.apk</para>
-<para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_05/23/com.vdcam.zsqq_230442.apk</para>
+<!--para name="pkgurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_05/23/com.vdcam.zsqq_230442.apk</para>
+<para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_05/23/com.vdcam.zsqq_230442.apk</para-->
 <!--para name="gfanurl" value="http" >http://3g.gfan.com/data/index.php?/detail/index/287237</para-->
 <para name="vinvalid" value="1.0" />
 </configs>
