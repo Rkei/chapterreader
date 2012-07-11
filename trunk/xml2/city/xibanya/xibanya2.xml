@@ -3,7 +3,7 @@
 <province name="西班牙" order="BH" >
 <city name="西班牙2" type="1888" order="B" >
 		
-<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那电路板4">
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那实验室4">
 <url>http://147.83.134.253/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
@@ -19,11 +19,11 @@
 <url>http://217.126.89.102:8030/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
-<video name="尼亚 Arenys De Mar 西班牙.加泰罗 私家快艇码头">
+<video name="尼亚 Arenys De Mar 西班牙.加泰罗 游艇码头">
 <url>http://217.126.49.50:4002/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
-<video name="西班牙.加泰罗尼亚 La Bisbal  私家快艇码头3">
+<video name="西班牙.加泰罗尼亚 La Bisbal  游艇码头3">
 <url>http://217.126.89.102:8040/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
