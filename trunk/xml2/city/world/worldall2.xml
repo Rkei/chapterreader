@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球精选" order="0" >
+		<city name="全球精选" type="0" order="A" >
+			<video name="# 全球精选(单击加载)">
+				<url>city/world/qqjx.xml</url>
+			</video>
+		</city>
+		<city name="中国实景" type="0" order="A2" >
+			<video name="# 中国实景(单击加载)">
+				<url>city/world/qqjx2.xml</url>
+			</video>
+		</city>
+		
+		<city name="全球精选2" type="1" order="B" >
+			<video name="# 全球精选2(单击加载)">
+				<url>city/world/tuijian1.xml</url>
+			</video>
+		</city>
+		
+		<city name="全球精选3" type="1" order="C" >
+			<video name="# 全球精选3(单击加载)">
+				<url>city/world/tuijian2.xml</url>
+			</video>
+		</city>
+		
+		<city name="全球精选4" type="1" order="D" >
+			<video name="# 全球精选4(单击加载)">
+				<url>city/world/tuijian3.xml</url>
+			</video>
+		</city>
+		
+		<city name="全球精选5" type="1" order="E" >
+			<video name="# 全球精选5(单击加载)">
+				<url>city/world/tuijian4.xml</url>
+			</video>
+		</city>
+		
+		<city name="全球精选6" type="1" order="F" >
+			<video name="# 全球精选6(单击加载)">
+				<url>city/world/tuijian5.xml</url>
+			</video>
+		</city>
+		
+ </province>
+</provinces> 
