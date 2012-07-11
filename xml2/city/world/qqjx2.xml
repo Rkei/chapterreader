@@ -2,10 +2,10 @@
 <provinces version="1.2">
 <province name="全球精选" order="0" >
 <city name="中国实景" type="1" order="A2" >	
-<video name="上海。金富运大酒店"><url>rtsp://www.onedir.com/cam2</url></video>
-<video name="上海。外滩"><url>rtsp://www.onedir.com/cam3</url></video>	
-<video name="上海。外滩-旋转"><url>rtsp://www.onedir.com/cam4</url></video>	
-<video name="上海。东门路"><url>rtsp://www.onedir.com/cam1</url></video>	
+<video name="上海.金富运大酒店"><url>rtsp://www.onedir.com/cam2</url></video>
+<video name="上海.外滩"><url>rtsp://www.onedir.com/cam3</url></video>	
+<video name="上海.外滩-旋转"><url>rtsp://www.onedir.com/cam4</url></video>	
+<video name="上海.东门路"><url>rtsp://www.onedir.com/cam1</url></video>	
 <video name="中国.湖南.张家界.迷魂台"><url>mmsh://220.168.204.82:8081</url></video>												
 <video name="中国.湖南.张家界.水绕四门"><url>mmsh://220.168.204.83:8081</url></video>				
 <video name="中国.湖南.张家界.点将台"><url>mmsh://220.168.204.82:8083</url></video>			
@@ -52,55 +52,55 @@
 <video name="福建.南平-武夷山玉女峰"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900029010100012233::1;StreamingType=1</url></video>
 <video name="福建.南平-武夷山玉女峰（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900029010100012233::1;StreamingType=2</url></video>
 
-<video name="上海交通。延安高架"><url>rtsp://114.80.221.20/yanangaojia</url></video>
-<video name="上海交通。逸仙沪闵高速"><url>rtsp://114.80.221.20/yixianhumingaojia</url></video>
-<video name="上海交通。南北高架"><url>rtsp://114.80.221.20/nanbeigaojia</url></video>
-<video name="上海交通。沪昆g60高速"><url>rtsp://114.80.221.20/A8HWVIDEO</url></video>
-<video name="上海交通。s20外环高速"><url>rtsp://114.80.221.20/waihuan</url></video>
-<video name="上海交通。s4沪金高速"><url>rtsp://114.80.221.20/A4</url></video>
-<video name="上海交通。s5沪嘉高速"><url>rtsp://114.80.221.20/A12</url></video>
-<video name="上海交通。g50沪渝高速"><url>rtsp://114.80.221.20/A9</url></video>
-<video name="上海交通。g1501环城南环"><url>rtsp://114.80.221.20/nanhuan</url></video>
-<video name="上海交通。g1501环城同三"><url>rtsp://114.80.221.20/raocheng</url></video>
-<video name="上海交通。g40沪陕高速"><url>rtsp://114.80.221.20/changjiansuiqiao</url></video>
-<video name="上海交通。s26沪常高速"><url>rtsp://114.80.221.20/S26</url></video>
-<video name="上海交通。申嘉湖高速"><url>rtsp://114.80.221.20/S32</url></video>
-<video name="上海交通。s2沪卢高速"><url>rtsp://114.80.221.20/S2</url></video>
-<video name="上海交通。沈海高速"><url>rtsp://114.80.221.20/A5</url></video>
-<video name="广东韶关。丹霞山门口"><url>rtsp://211.139.249.248:554/Camera/100013</url></video>													
-<video name="广东韶关。乐昌古佛岩"><url>rtsp://211.139.249.248:554/Camera/10169</url></video>				
-<video name="广东韶关。乳源南岭国家森林公园"><url>rtsp://211.139.249.248:554/Camera/10167</url></video>
-<video name="广东韶关。黄岗山西"><url>rtsp://211.139.249.248:554/Camera/100019</url></video>	
-<video name="广东韶关。南雄珠玑古巷"><url>rtsp://211.139.249.248:554/Camera/10168</url></video>
-<video name="广东韶关。南雄柴岭段"><url>rtsp://211.139.249.248:554/Camera/10165</url></video>
-<video name="广东韶关。曲江水文高速路口"><url>rtsp://211.139.249.248:554/Camera/10164</url></video>
-<video name="广东韶关。实时美景-风采楼"><url>rtsp://211.139.249.248:554/Camera/10153</url></video>
-<video name="广东韶关。西河健身广场"><url>rtsp://211.139.249.248:554/Camera/10161</url></video>
-<video name="广东韶关。西河桥头西"><url>rtsp://211.139.249.248:554/Camera/100024</url></video>
-<video name="广东韶关。东河桥东"><url>rtsp://211.139.249.248:554/Camera/10154</url></video>
-<video name="广东韶关。韶关口岸大厦"><url>rtsp://211.139.249.248:554/Camera/10162</url></video>
-<video name="广东韶关。西堤北路"><url>rtsp://211.139.249.248:554/Camera/10158</url></video>
-<video name="广东韶关。启明北路"><url>rtsp://211.139.249.248:554/Camera/10152</url></video>
-<video name="广东韶关。大润发路口南"><url>rtsp://211.139.249.248:554/Camera/10150</url></video>
-<video name="广东韶关。北江桥头西"><url>rtsp://211.139.249.248:554/Camera/100023</url></video>
-<video name="广东韶关。北西河立交桥东"><url>rtsp://211.139.249.248:554/Camera/10156</url></video>
-<video name="广东韶关。106国道与323交界南"><url>rtsp://211.139.249.248:554/Camera/100017</url></video>
-<video name="广东韶关。武江桥头西"><url>rtsp://211.139.249.248:554/Camera/100020</url></video>
-<video name="广东韶关。西河体育中心"><url>rtsp://211.139.249.248:554/Camera/10155</url></video>
-<video name="广东韶关。曲江大转盘北"><url>rtsp://211.139.249.248:554/Camera/100025</url></video>
-<video name="广东韶关。京珠高速云岩南"><url>rtsp://211.139.249.248:554/Camera/100016</url></video>
-<video name="广东韶关。坪乳公路路口东"><url>rtsp://211.139.249.248:554/Camera/100018</url></video>
-<video name="广东韶关。始兴县贤丰村示范田"><url>rtsp://211.139.249.248:554/Camera/10192</url></video>
-<video name="广东韶关。始兴县贤丰村敬老院"><url>rtsp://211.139.249.248:554/Camera/10191</url></video>
-<video name="广东韶关。工业中路大转盘"><url>rtsp://211.139.249.248:554/Camera/10160</url></video>
-<video name="广东韶关。曲江水文高速路口"><url>rtsp://211.139.249.248:554/Camera/10164</url></video>
-<video name="广东韶关。南雄柴岭段"><url>rtsp://211.139.249.248:554/Camera/10165</url></video>
-<video name="广东韶关。和平路小学正门"><url>rtsp://211.139.249.248:554/Camera/10157</url></video>
-<video name="广东韶关。理工职业培训学院正门"><url>rtsp://211.139.249.248:554/Camera/10151</url></video>
-<video name="广东韶关。理工职业曲江三小办公楼二楼走廊"><url>rtsp://211.139.249.248:554/Camera/10034</url></video>
-<video name="广东韶关。曲江三小操场"><url>rtsp://211.139.249.248:554/Camera/10035</url></video>
-<video name="广东韶关。曲江三小大门口"><url>rtsp://211.139.249.248:554/Camera/10044</url></video>
-<video name="广东韶关。火车东站广场西"><url>rtsp://211.139.249.248:554/Camera/100015</url></video>
+<video name="上海交通.延安高架"><url>rtsp://114.80.221.20/yanangaojia</url></video>
+<video name="上海交通.逸仙沪闵高速"><url>rtsp://114.80.221.20/yixianhumingaojia</url></video>
+<video name="上海交通.南北高架"><url>rtsp://114.80.221.20/nanbeigaojia</url></video>
+<video name="上海交通.沪昆g60高速"><url>rtsp://114.80.221.20/A8HWVIDEO</url></video>
+<video name="上海交通.s20外环高速"><url>rtsp://114.80.221.20/waihuan</url></video>
+<video name="上海交通.s4沪金高速"><url>rtsp://114.80.221.20/A4</url></video>
+<video name="上海交通.s5沪嘉高速"><url>rtsp://114.80.221.20/A12</url></video>
+<video name="上海交通.g50沪渝高速"><url>rtsp://114.80.221.20/A9</url></video>
+<video name="上海交通.g1501环城南环"><url>rtsp://114.80.221.20/nanhuan</url></video>
+<video name="上海交通.g1501环城同三"><url>rtsp://114.80.221.20/raocheng</url></video>
+<video name="上海交通.g40沪陕高速"><url>rtsp://114.80.221.20/changjiansuiqiao</url></video>
+<video name="上海交通.s26沪常高速"><url>rtsp://114.80.221.20/S26</url></video>
+<video name="上海交通.申嘉湖高速"><url>rtsp://114.80.221.20/S32</url></video>
+<video name="上海交通.s2沪卢高速"><url>rtsp://114.80.221.20/S2</url></video>
+<video name="上海交通.沈海高速"><url>rtsp://114.80.221.20/A5</url></video>
+<video name="广东韶关.丹霞山门口"><url>rtsp://211.139.249.248:554/Camera/100013</url></video>													
+<video name="广东韶关.乐昌古佛岩"><url>rtsp://211.139.249.248:554/Camera/10169</url></video>				
+<video name="广东韶关.乳源南岭国家森林公园"><url>rtsp://211.139.249.248:554/Camera/10167</url></video>
+<video name="广东韶关.黄岗山西"><url>rtsp://211.139.249.248:554/Camera/100019</url></video>	
+<video name="广东韶关.南雄珠玑古巷"><url>rtsp://211.139.249.248:554/Camera/10168</url></video>
+<video name="广东韶关.南雄柴岭段"><url>rtsp://211.139.249.248:554/Camera/10165</url></video>
+<video name="广东韶关.曲江水文高速路口"><url>rtsp://211.139.249.248:554/Camera/10164</url></video>
+<video name="广东韶关.实时美景-风采楼"><url>rtsp://211.139.249.248:554/Camera/10153</url></video>
+<video name="广东韶关.西河健身广场"><url>rtsp://211.139.249.248:554/Camera/10161</url></video>
+<video name="广东韶关.西河桥头西"><url>rtsp://211.139.249.248:554/Camera/100024</url></video>
+<video name="广东韶关.东河桥东"><url>rtsp://211.139.249.248:554/Camera/10154</url></video>
+<video name="广东韶关.韶关口岸大厦"><url>rtsp://211.139.249.248:554/Camera/10162</url></video>
+<video name="广东韶关.西堤北路"><url>rtsp://211.139.249.248:554/Camera/10158</url></video>
+<video name="广东韶关.启明北路"><url>rtsp://211.139.249.248:554/Camera/10152</url></video>
+<video name="广东韶关.大润发路口南"><url>rtsp://211.139.249.248:554/Camera/10150</url></video>
+<video name="广东韶关.北江桥头西"><url>rtsp://211.139.249.248:554/Camera/100023</url></video>
+<video name="广东韶关.北西河立交桥东"><url>rtsp://211.139.249.248:554/Camera/10156</url></video>
+<video name="广东韶关.106国道与323交界南"><url>rtsp://211.139.249.248:554/Camera/100017</url></video>
+<video name="广东韶关.武江桥头西"><url>rtsp://211.139.249.248:554/Camera/100020</url></video>
+<video name="广东韶关.西河体育中心"><url>rtsp://211.139.249.248:554/Camera/10155</url></video>
+<video name="广东韶关.曲江大转盘北"><url>rtsp://211.139.249.248:554/Camera/100025</url></video>
+<video name="广东韶关.京珠高速云岩南"><url>rtsp://211.139.249.248:554/Camera/100016</url></video>
+<video name="广东韶关.坪乳公路路口东"><url>rtsp://211.139.249.248:554/Camera/100018</url></video>
+<video name="广东韶关.始兴县贤丰村示范田"><url>rtsp://211.139.249.248:554/Camera/10192</url></video>
+<video name="广东韶关.始兴县贤丰村敬老院"><url>rtsp://211.139.249.248:554/Camera/10191</url></video>
+<video name="广东韶关.工业中路大转盘"><url>rtsp://211.139.249.248:554/Camera/10160</url></video>
+<video name="广东韶关.曲江水文高速路口"><url>rtsp://211.139.249.248:554/Camera/10164</url></video>
+<video name="广东韶关.南雄柴岭段"><url>rtsp://211.139.249.248:554/Camera/10165</url></video>
+<video name="广东韶关.和平路小学正门"><url>rtsp://211.139.249.248:554/Camera/10157</url></video>
+<video name="广东韶关.理工职业培训学院正门"><url>rtsp://211.139.249.248:554/Camera/10151</url></video>
+<video name="广东韶关.理工职业曲江三小办公楼二楼走廊"><url>rtsp://211.139.249.248:554/Camera/10034</url></video>
+<video name="广东韶关.曲江三小操场"><url>rtsp://211.139.249.248:554/Camera/10035</url></video>
+<video name="广东韶关.曲江三小大门口"><url>rtsp://211.139.249.248:554/Camera/10044</url></video>
+<video name="广东韶关.火车东站广场西"><url>rtsp://211.139.249.248:554/Camera/100015</url></video>
 <video name="福建.福州市得贵巷（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012641::1;StreamingType=2</url></video>
 <video name="福建.福州市政状元镜1（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012630::1;StreamingType=2</url></video>
 <video name="福建.福州市政迎宾路（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012628::1;StreamingType=2</url></video>
@@ -116,18 +116,6 @@
 <video name="福建.福州市五一路华荣宾馆前立交（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012650::1;StreamingType=2</url></video>
 <video name="福建.福州市古田路德克士前花圃（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012651::1;StreamingType=2</url></video>
 <video name="福建.福州市双湖高架桥下大转盘（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012667::1;StreamingType=2</url></video>
-<video name="内蒙古.赤峰松山木兰街"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011020030001-01::1;PlayMethod=0::1;StreamingType=2</url></video>
-<video name="内蒙古.赤峰克旗经棚迎昌路"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000058-01::1;PlayMethod=0::1;StreamingType=2</url></video>
-<video name="内蒙古.赤峰海贝尔游乐场周边"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000007001-01::1;PlayMethod=0::1;StreamingType=2</url></video>
-<video name="内蒙古.赤峰宝鼎大厦十字路口"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011071000017-01::1;PlayMethod=0::1;StreamingType=2</url></video>
-<video name="内蒙古.赤峰钢铁西街"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000006503-03::1;PlayMethod=0::1;StreamingType=2</url></video>
-<video name="内蒙古.赤峰园林路"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011071000018-02::1;PlayMethod=0::1;StreamingType=2</url></video>
-<video name="内蒙古.呼和浩特.鼓楼立交桥（普清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000007-01::1;PlayMethod=0::1;StreamingType=1</url></video>
-<video name="内蒙古.呼和浩特.鼓楼立交桥（高清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000007-01::1;PlayMethod=0::1;StreamingType=2</url></video>
-<video name="内蒙古.呼和浩特.大召寺东侧（普清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000008-01::1;PlayMethod=0::1;StreamingType=1</url></video>
-<video name="内蒙古.呼和浩特.大召寺东侧（高清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000008-01::1;PlayMethod=0::1;StreamingType=2</url></video>		
-<video name="内蒙古.呼和浩特.呼市旗舰店"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000005-01::1;PlayMethod=0::1;StreamingType=1</url></video>
-<video name="内蒙古.呼和浩特.呼市旗舰店（高清）"><url>rtsp://218.202.130.79:554/service?PuId-ChannelNo=047101011000000005-01::1;PlayMethod=0::1;StreamingType=2</url></video>
 <video name="乌市金银大道"><url>rtmp://183.62.138.113/live/livestream51</url></video>
 <video name="直播新疆丝绸"><url>rtmp://124.117.226.122/live/camchina256</url></video>
 <video name="巴州博斯腾湖广场"><url>rtmp://124.117.226.122/live/CAP11009001</url></video>
@@ -138,17 +126,7 @@
 <video name="麦盛莉宝岛酒店J-旅游在线"><url>rtmp://183.62.138.113/live/livestream243</url>	</video>
 <video name="麦盛莉高桥店B"><url>rtmp://183.62.138.113/live/livestream138</url>	</video>
 <video name="麦盛莉宝岛酒店I-旅游在线"><url>rtmp://183.62.138.113/live/livestream242</url>	</video>
-<video name="宝鸡金台观景区-在线景区平台"><url>rtmp://183.62.138.113/live/livestream51</url>	</video>
-<video name="高尔夫球场-景区在线平台"><url>rtmp://183.62.138.113/live/livestream71</url>	</video>
 <video name="深圳沙河沿岸-路况直播"><url>rtmp://183.62.138.113/live/livestream70</url>	</video>
-<video name="株洲德安科技展示厅视频2"><url>rtmp://183.62.138.113/live/CAA21004302</url>	</video>
-<video name="安徽幼儿园-宝宝在线"><url>rtmp://183.62.138.113/live/livestream350</url>	</video>
-<video name="安徽--宝宝在线10"><url>rtmp://183.62.138.113/live/livestream359</url>	</video>
-<video name="安徽--宝宝在线13"><url>rtmp://183.62.138.113/live/livestream366</url>	</video>
-<video name="安徽--宝宝在线15"><url>rtmp://183.62.138.113/live/livestream368</url>	</video>
-<video name="安徽--宝宝在线8"><url>rtmp://183.62.138.113/live/livestream353</url>	</video>
-<video name="车库实时视频"><url>rtmp://183.62.138.113/live/CAA41003003</url>	</video>
-<video name="广通科技1"><url>rtmp://183.62.138.113/live/CAA21008001</url>	</video>
 </city>
 </province>
 </provinces>
