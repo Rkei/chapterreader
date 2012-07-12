@@ -2,8 +2,26 @@
 <provinces version="1.2">
 <province name="奥地利" order="CC" >
 <city name="奥地利1" type="1888" order="A" >	
-<video name="澳大利亚 昆士兰-Toowoomba 草地 -高清">
-<url>http://139.86.48.94/mjpg/video.mjpg?resolution=704x576</url>
+
+
+<video name="奥地利 城堡-高清">
+<url>rtsp://goiserncam.weti.net/mpeg4/media.amp</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 广场-高清">
+<url>rtsp://cam1.rauris.net/axis-media/media.amp</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 山林-高清">
+<url>rtsp://almcam.xlink.at/mpeg4/media.amp</url>
+</video>
+
+<video name="奥地利 湖">
+<url>http://zellcam.xlink.at/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 湖-高清">
+<url>http://zellcam.xlink.at/mjpg/video.mjpg</url>
 </video>
 
 <video name="奥地利 蒂罗尔州 Kufstein 酒店 -普清">
