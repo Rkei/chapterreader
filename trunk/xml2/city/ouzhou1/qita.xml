@@ -47,9 +47,38 @@
 </province>
 
 <province name="挪威" order="DC" >
-<city name="挪威" type="1" order="A" >	
-<video name="# 挪威(单击加载)">
+  <city name="挪威" type="1" order="A" >	
+    <video name="# 挪威(单击加载)">
 			<url>city/ouzhou1/nuowei1.xml</url>
+		</video>
+	</city>	
+  <city name="挪威2" type="1" order="B" >	
+    <video name="# 挪威2(单击加载)">
+			<url>city/ouzhou1/nuowei2.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="乌克兰" order="DG" >
+  <city name="乌克兰" type="1" order="A" >	
+    <video name="# 乌克兰(单击加载)">
+			<url>city/ouzhou1/wukelan.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="希腊" order="DH" >
+  <city name="希腊" type="1" order="A" >	
+    <video name="# 希腊(单击加载)">
+			<url>city/ouzhou1/xila.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="罗马尼亚" order="DI" >
+  <city name="罗马尼亚" type="1" order="A" >	
+    <video name="# 罗马尼亚(单击加载)">
+			<url>city/ouzhou1/luomaniya.xml</url>
 		</video>
 	</city>	
 </province>
