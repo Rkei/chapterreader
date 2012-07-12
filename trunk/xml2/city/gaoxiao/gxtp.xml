@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+  <province name="搞笑图片" order="A" >
+		<city name="第1页" type="3008" order="A" >	<video name="#9 第1页(单击加载)"><url>http://i.snssdk.com/gallery/1/top/?tag=funny_heavy&count=300&offset=0&channel=hiapk</url></video></city>
+		<city name="第2页" type="3008" order="B" >	<video name="#9 第2页(单击加载)"><url>http://i.snssdk.com/gallery/1/top/?tag=funny_heavy&count=300&offset=300&channel=hiapk</url></video></city>
+ </province>
+</provinces> 
