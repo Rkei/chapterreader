@@ -11,5 +11,27 @@
 		<city name="第8页" type="3008" order="A" >	<video name="#9 第8页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=480::1;rows=60</url></video></city>
 		<city name="第9页" type="3008" order="A" >	<video name="#9 第9页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=540::1;rows=60</url></video></city>
 		<city name="第10页" type="3008" order="A" >	<video name="#9 第10页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=600::1;rows=60</url></video></city>
+		
+		<city name="第11页" type="3008" order="A" >	<video name="#9 第11页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=660::1;rows=60</url></video></city>
+		<city name="第12页" type="3008" order="A" >	<video name="#9 第12页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=720::1;rows=60</url></video></city>
+		<city name="第13页" type="3008" order="A" >	<video name="#9 第13页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=780::1;rows=60</url></video></city>
+		<city name="第14页" type="3008" order="A" >	<video name="#9 第14页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=840::1;rows=60</url></video></city>
+		<city name="第15页" type="3008" order="A" >	<video name="#9 第15页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=900::1;rows=60</url></video></city>
+		<city name="第16页" type="3008" order="A" >	<video name="#9 第16页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=960::1;rows=60</url></video></city>
+		<city name="第17页" type="3008" order="A" >	<video name="#9 第17页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1020::1;rows=60</url></video></city>
+		<city name="第18页" type="3008" order="A" >	<video name="#9 第18页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1080::1;rows=60</url></video></city>
+		<city name="第19页" type="3008" order="A" >	<video name="#9 第19页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1140::1;rows=60</url></video></city>
+		<city name="第20页" type="3008" order="A" >	<video name="#9 第20页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1200::1;rows=60</url></video></city>
+		
+		<city name="第21页" type="3008" order="A" >	<video name="#9 第21页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1260::1;rows=60</url></video></city>
+		<city name="第22页" type="3008" order="A" >	<video name="#9 第22页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1320::1;rows=60</url></video></city>
+		<city name="第23页" type="3008" order="A" >	<video name="#9 第23页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1380::1;rows=60</url></video></city>
+		<city name="第24页" type="3008" order="A" >	<video name="#9 第24页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1440::1;rows=60</url></video></city>
+		<city name="第25页" type="3008" order="A" >	<video name="#9 第25页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1500::1;rows=60</url></video></city>
+		<city name="第26页" type="3008" order="A" >	<video name="#9 第26页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1560::1;rows=60</url></video></city>
+		<city name="第27页" type="3008" order="A" >	<video name="#9 第27页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1620::1;rows=60</url></video></city>
+		<city name="第28页" type="3008" order="A" >	<video name="#9 第28页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1680::1;rows=60</url></video></city>
+		<city name="第29页" type="3008" order="A" >	<video name="#9 第29页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1740::1;rows=60</url></video></city>
+		<city name="第30页" type="3008" order="A" >	<video name="#9 第30页(单击加载)"><url>http://solr.51tv.com/solr/spiderVideoIndex/select/?q=*%3A*::1;fq=type%3A1::1;sort=lastmodify+desc::1;start=1800::1;rows=60</url></video></city>
  </province>
 </provinces> 
