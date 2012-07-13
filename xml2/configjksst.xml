@@ -7,7 +7,7 @@
 <load version="1.2" name="city/world/worldall2.xml" />
 
 <load version="1.2" name="city/world12/worldall.xml" />
-<load version="1.2" name="city/world10/worldall.xml" />
+<!--load version="1.2" name="city/world10/worldall.xml" /-->
 <load version="1.2" name="city/world11/worldall.xml" />
 <load version="1.2" name="city/concam/worldall.xml" />
 
@@ -69,7 +69,7 @@
 <para name="pkgversion" value="1.02" />
 <para name="reflashtime" value="24" />
 <para name="maxadinter" value="100" />
-<para name="domoonly" value="4" />
+<para name="domoonly" value="0" />
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
 <!--para name="pkgurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_05/23/com.vdcam.zsqq_230442.apk</para>
 <para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_05/23/com.vdcam.zsqq_230442.apk</para-->
