@@ -152,6 +152,70 @@
 <url>http://93.87.16.22/mjpg/video.mjpg?resolution=352x288</url>
 </video>
 
+
+<video name="斯洛文尼亚 Bohinj Trzin 石头海岸">
+<url>http://213.253.80.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛文尼亚 Brezovica Celje 城市风景（高清）">
+<url>http://77.38.12.202:8022/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="斯洛文尼亚 Bohinj Ljubljana 机场（高清）">
+<url>http://193.77.102.184:8088/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<!--video name="Slovenia Bohinj Secovlje 飞机场（实时图片）">
+<url>http://213.253.80.120/still.jpg?StillSno=00000199</url>
+</video>
+
+<video name="Slovenia Bohinj Ljubljana 气象观测站（高清1080p）">
+<url>http://193.77.151.113/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Slovenia Bohinj Koper 乡村风景（实时图片）">
+<url>http://bovecwebcam.viewnetcam.com:50001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal&Count=-378839509</url>
+</video-->
+
+<video name="泽西岛 Helier Saint 海边风景">
+<url>http://212.9.31.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="泽西岛 未知摄像头">
+<url>http://212.9.30.37:8080/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="泽西岛 John Saint 未知摄像头2">
+<url>http://87.244.76.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马其顿共和国 市中心广场">
+<url>http://62.162.103.242/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="立陶宛 Vilnius Vilniaus Apskritis 政府大楼广场（高清）">
+<url>http://82.135.240.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="立陶宛 Marijampole Marijampoles Apskritis 市中心广场（高清）">
+<url>http://87.247.125.254/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="列支敦斯登 Schellenberg Schellenberg 农场（旋转摄像头）-高清">
+<url>http://80.248.194.166:9000/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="列支敦斯登 Vaduz Vaduz 度假村">
+<url>http://193.5.27.52/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="曼岛 Douglas Isle of Man 窗外">
+<url>http://scarletttower.dyndns-web.com:8082/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+
 </city>
 </province>
 </provinces>
