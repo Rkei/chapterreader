@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
   <province name="搞笑图片" order="A" >
-		<city name="第1页" type="3008" order="A" >	<video name="#9 第1页(单击加载)"><url>http://i.snssdk.com/gallery/1/top/?tag=funny_heavy::1;count=300::1;offset=0::1;channel=hiapk</url></video></city>
-		<city name="第2页" type="3008" order="B" >	<video name="#9 第2页(单击加载)"><url>http://i.snssdk.com/gallery/1/top/?tag=funny_heavy::1;count=300::1;offset=300::1;channel=hiapk</url></video></city>
+  	<!--url>http://i.snssdk.com/gallery/1/top/?tag=funny_heavy::1;count=300::1;offset=0::1;channel=hiapk</url-->
+		<!--city name="第1页" type="3008" order="A" >	<video name="#9 第1页(单击加载)"><url>city/gaoxiao/pxtp1.xml</url></video></city>
+		<city name="第2页" type="3008" order="B" >	<video name="#9 第2页(单击加载)"><url>city/gaoxiao/pxtp2.xml</url></video></city>
+		<city name="第3页" type="3008" order="C" >	<video name="#9 第2页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=0::1;channel=hiapk</url></video></city-->
+		<city name="第1页" type="3008" order="A" >	<video name="#9 第1页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=0::1;channel=hiapk</url></video></city>
+		<city name="第2页" type="3008" order="B" >	<video name="#9 第2页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=100::1;channel=hiapk</url></video></city>
+		<city name="第3页" type="3008" order="C" >	<video name="#9 第3页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=200::1;channel=hiapk</url></video></city>
+		<city name="第4页" type="3008" order="D" >	<video name="#9 第4页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=300::1;channel=hiapk</url></video></city>
+		<city name="第5页" type="3008" order="E" >	<video name="#9 第5页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=400::1;channel=hiapk</url></video></city>
+		<city name="第6页" type="3008" order="F" >	<video name="#9 第6页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=500::1;channel=hiapk</url></video></city>
+		<city name="第7页" type="3008" order="G" >	<video name="#9 第7页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=600::1;channel=hiapk</url></video></city>
+		<city name="第8页" type="3008" order="H" >	<video name="#9 第8页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=700::1;channel=hiapk</url></video></city>
+		<city name="第9页" type="3008" order="I" >	<video name="#9 第9页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=800::1;channel=hiapk</url></video></city>
+		<city name="第10页" type="3008" order="J" >	<video name="#9 第10页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=900::1;channel=hiapk</url></video></city>
+		<city name="第11页" type="3008" order="K" >	<video name="#9 第11页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1000::1;channel=hiapk</url></video></city>
+		<city name="第12页" type="3008" order="L" >	<video name="#9 第12页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1100::1;channel=hiapk</url></video></city>
+		<city name="第13页" type="3008" order="M" >	<video name="#9 第13页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1200::1;channel=hiapk</url></video></city>
+		<city name="第14页" type="3008" order="N" >	<video name="#9 第14页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1300::1;channel=hiapk</url></video></city>
+		<city name="第15页" type="3008" order="O" >	<video name="#9 第15页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1400::1;channel=hiapk</url></video></city>
+		<city name="第16页" type="3008" order="P" >	<video name="#9 第16页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1500::1;channel=hiapk</url></video></city>
+		<city name="第17页" type="3008" order="Q" >	<video name="#9 第17页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1600::1;channel=hiapk</url></video></city>
+		<city name="第18页" type="3008" order="R" >	<video name="#9 第18页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1700::1;channel=hiapk</url></video></city>
+		<city name="第19页" type="3008" order="S" >	<video name="#9 第19页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1800::1;channel=hiapk</url></video></city>
+		<city name="第20页" type="3008" order="T" >	<video name="#9 第20页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_heavy::1;count=100::1;offset=1900::1;channel=hiapk</url></video></city>
+ </province>
+ <province name="搞笑图片2" order="B" >
+		<city name="第1页" type="3008" order="A" >	<video name="#9 第1页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=0::1;channel=hiapk</url></video></city>
+		<city name="第2页" type="3008" order="B" >	<video name="#9 第2页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=100::1;channel=hiapk</url></video></city>
+		<city name="第3页" type="3008" order="C" >	<video name="#9 第3页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=200::1;channel=hiapk</url></video></city>
+		<city name="第4页" type="3008" order="D" >	<video name="#9 第4页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=300::1;channel=hiapk</url></video></city>
+		<city name="第5页" type="3008" order="E" >	<video name="#9 第5页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=400::1;channel=hiapk</url></video></city>
+		<city name="第6页" type="3008" order="F" >	<video name="#9 第6页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=500::1;channel=hiapk</url></video></city>
+		<city name="第7页" type="3008" order="G" >	<video name="#9 第7页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=600::1;channel=hiapk</url></video></city>
+		<city name="第8页" type="3008" order="H" >	<video name="#9 第8页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=700::1;channel=hiapk</url></video></city>
+		<city name="第9页" type="3008" order="I" >	<video name="#9 第9页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=800::1;channel=hiapk</url></video></city>
+		<city name="第10页" type="3008" order="J" >	<video name="#9 第10页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=900::1;channel=hiapk</url></video></city>
+		<city name="第11页" type="3008" order="K" >	<video name="#9 第11页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1000::1;channel=hiapk</url></video></city>
+		<city name="第12页" type="3008" order="L" >	<video name="#9 第12页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1100::1;channel=hiapk</url></video></city>
+		<city name="第13页" type="3008" order="M" >	<video name="#9 第13页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1200::1;channel=hiapk</url></video></city>
+		<city name="第14页" type="3008" order="N" >	<video name="#9 第14页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1300::1;channel=hiapk</url></video></city>
+		<city name="第15页" type="3008" order="O" >	<video name="#9 第15页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1400::1;channel=hiapk</url></video></city>
+		<city name="第16页" type="3008" order="P" >	<video name="#9 第16页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1500::1;channel=hiapk</url></video></city>
+		<city name="第17页" type="3008" order="Q" >	<video name="#9 第17页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1600::1;channel=hiapk</url></video></city>
+		<city name="第18页" type="3008" order="R" >	<video name="#9 第18页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1700::1;channel=hiapk</url></video></city>
+		<city name="第19页" type="3008" order="S" >	<video name="#9 第19页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1800::1;channel=hiapk</url></video></city>
+		<city name="第20页" type="3008" order="T" >	<video name="#9 第20页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_comic::1;count=100::1;offset=1900::1;channel=hiapk</url></video></city>
+ </province>
+ 
+ <province name="搞笑图片3" order="C" >
+		<city name="第1页" type="3008" order="A" >	<video name="#9 第1页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=0::1;channel=hiapk</url></video></city>
+		<city name="第2页" type="3008" order="B" >	<video name="#9 第2页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=100::1;channel=hiapk</url></video></city>
+		<city name="第3页" type="3008" order="C" >	<video name="#9 第3页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=200::1;channel=hiapk</url></video></city>
+		<city name="第4页" type="3008" order="D" >	<video name="#9 第4页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=300::1;channel=hiapk</url></video></city>
+		<city name="第5页" type="3008" order="E" >	<video name="#9 第5页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=400::1;channel=hiapk</url></video></city>
+		<city name="第6页" type="3008" order="F" >	<video name="#9 第6页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=500::1;channel=hiapk</url></video></city>
+		<city name="第7页" type="3008" order="G" >	<video name="#9 第7页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=600::1;channel=hiapk</url></video></city>
+		<city name="第8页" type="3008" order="H" >	<video name="#9 第8页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=700::1;channel=hiapk</url></video></city>
+		<city name="第9页" type="3008" order="I" >	<video name="#9 第9页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=8000::1;channel=hiapk</url></video></city>
+		<city name="第10页" type="3008" order="J" >	<video name="#9 第10页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=900::1;channel=hiapk</url></video></city>
+		<city name="第11页" type="3008" order="K" >	<video name="#9 第11页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1000::1;channel=hiapk</url></video></city>
+		<city name="第12页" type="3008" order="L" >	<video name="#9 第12页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1100::1;channel=hiapk</url></video></city>
+		<city name="第13页" type="3008" order="M" >	<video name="#9 第13页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1200::1;channel=hiapk</url></video></city>
+		<city name="第14页" type="3008" order="N" >	<video name="#9 第14页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1300::1;channel=hiapk</url></video></city>
+		<city name="第15页" type="3008" order="O" >	<video name="#9 第15页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1400::1;channel=hiapk</url></video></city>
+		<city name="第16页" type="3008" order="P" >	<video name="#9 第16页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1500::1;channel=hiapk</url></video></city>
+		<city name="第17页" type="3008" order="Q" >	<video name="#9 第17页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1600::1;channel=hiapk</url></video></city>
+		<city name="第18页" type="3008" order="R" >	<video name="#9 第18页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1700::1;channel=hiapk</url></video></city>
+		<city name="第19页" type="3008" order="S" >	<video name="#9 第19页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1800::1;channel=hiapk</url></video></city>
+		<city name="第20页" type="3008" order="T" >	<video name="#9 第20页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_meng::1;count=100::1;offset=1900::1;channel=hiapk</url></video></city>
+ </province>
+  <province name="搞笑图片4" order="D" >
+		<city name="第1页" type="3008" order="A" >	<video name="#9 第1页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=0::1;channel=hiapk</url></video></city>
+		<city name="第2页" type="3008" order="B" >	<video name="#9 第2页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=100::1;channel=hiapk</url></video></city>
+		<city name="第3页" type="3008" order="C" >	<video name="#9 第3页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=200::1;channel=hiapk</url></video></city>
+		<city name="第4页" type="3008" order="D" >	<video name="#9 第4页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=300::1;channel=hiapk</url></video></city>
+		<city name="第5页" type="3008" order="E" >	<video name="#9 第5页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=400::1;channel=hiapk</url></video></city>
+		<city name="第6页" type="3008" order="F" >	<video name="#9 第6页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=500::1;channel=hiapk</url></video></city>
+		<city name="第7页" type="3008" order="G" >	<video name="#9 第7页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=600::1;channel=hiapk</url></video></city>
+		<city name="第8页" type="3008" order="H" >	<video name="#9 第8页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=700::1;channel=hiapk</url></video></city>
+		<city name="第9页" type="3008" order="I" >	<video name="#9 第9页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=8000::1;channel=hiapk</url></video></city>
+		<city name="第10页" type="3008" order="J" >	<video name="#9 第10页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=900::1;channel=hiapk</url></video></city>
+		<city name="第11页" type="3008" order="K" >	<video name="#9 第11页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1000::1;channel=hiapk</url></video></city>
+		<city name="第12页" type="3008" order="L" >	<video name="#9 第12页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1100::1;channel=hiapk</url></video></city>
+		<city name="第13页" type="3008" order="M" >	<video name="#9 第13页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1200::1;channel=hiapk</url></video></city>
+		<city name="第14页" type="3008" order="N" >	<video name="#9 第14页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1300::1;channel=hiapk</url></video></city>
+		<city name="第15页" type="3008" order="O" >	<video name="#9 第15页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1400::1;channel=hiapk</url></video></city>
+		<city name="第16页" type="3008" order="P" >	<video name="#9 第16页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1500::1;channel=hiapk</url></video></city>
+		<city name="第17页" type="3008" order="Q" >	<video name="#9 第17页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1600::1;channel=hiapk</url></video></city>
+		<city name="第18页" type="3008" order="R" >	<video name="#9 第18页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1700::1;channel=hiapk</url></video></city>
+		<city name="第19页" type="3008" order="S" >	<video name="#9 第19页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1800::1;channel=hiapk</url></video></city>
+		<city name="第20页" type="3008" order="T" >	<video name="#9 第20页(单击加载)"><url>http://i.snssdk.com/gallery/1/recent/?tag=funny_gif::1;count=100::1;offset=1900::1;channel=hiapk</url></video></city>
  </province>
 </provinces> 
