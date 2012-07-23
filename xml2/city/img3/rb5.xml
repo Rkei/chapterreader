@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片3" order="CJ" >
+<city name="日本5" type="4888" order="E" >	
+	
+<video name="日本 熊本 Kyoto停车场  ">
+<url>http://cam57365.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 熊本 Kyoto风景  ">
+<url>http://130.54.34.60/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="日本 熊本 Kyoto花店  ">
+<url>http://azumiya.miemasu.net:8741/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 熊本 Kyoto幼儿园  ">
+<url>http://oharano.miemasu.net:60010/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 熊本 Kyoto交通路口  ">
+<url>http://oharano.miemasu.net:60011/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 熊本 Yawata未知   ">
+<url>http://strawhat.axiscam.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 熊本 Kyoto气象监测台   ">
+<url>http://ikuta-sanki.ddo.jp:8080/jpg/image.jpg</url>
+</video>
+
+
+<video name="日本 福岛 Fukushima 海边 ">
+<url>http://dake.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 福岛 Koriyama 小店内 ">
+<url>http://yoursys22.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 福岛 Iwaki 未知 ">
+<url>http://cam53059.miemasu.net:60002/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 福岛 Iwaki 山村美景 ">
+<url>http://minioze.aa0.netvolante.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 福岛 Yamato 路边停车场 ">
+<url>http://wajima001.bf1.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 岐阜 Gifu 路边小摊 ">
+<url>http://tsuchimaya-m.ddo.jp:8002/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岐阜 Kami 海边小岛 ">
+<url>http://imago-cam.town.mikata-kami.lg.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 岐阜 Gifu 荒野小屋 ">
+<url>http://tsuchimaya-m.ddo.jp:8010/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岐阜 Gero 小作坊 ">
+<url>http://syoukei.ipcam.jp:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岐阜 Kami 小球场 ">
+<url>http://yadagawa-cam.town.mikata-kami.lg.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 岐阜 Mizunami 马路边 ">
+<url>http://isk.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岐阜 Gero 海边 ">
+<url>http://tenchikaku.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岐阜 Gifu 鼠笼 ">
+<url>http://219.54.214.55/jpg/image.jpg</url>
+</video>
+
+<video name="日本 群马县 Shima 海边 ">
+<url>http://shaka-penshion.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 群马县 Isesaki 海边 ">
+<url>http://hodaigi.miemasu.net:50000/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 群马县 Isesaki 草地 -普清">
+<url>http://hodaigi.miemasu.net:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 室内">
+<url>http://cyonmage.net/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 大阪 Osaka 运动场">
+<url>http://kandai-koyukai.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 马路">
+<url>http://ksc.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 办公桌前">
+<url>http://219.117.254.33:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 黑潮市场">
+<url>http://kuroshioichiba.miemasu.net:50001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 宾馆内景">
+<url>http://211.11.143.77:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 宾馆服务台">
+<url>http://amuse.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 幼儿游乐园">
+<url>http://kinomi.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 大阪 Takatsuki 室内2">
+<url>http://203.189.38.246/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 大阪 Osaka 窗外">
+<url>http://osaka.ath.cx:8181/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 红色小屋">
+<url>http://hkcenter.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+
+<video name="日本 大阪 Osaka 寺庙（推荐）">
+<url>http://60.33.230.11/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+
+<video name="日本 大阪 Osaka 室内">
+<url>http://saboten.miemasu.net:50000/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 大阪 Osaka 宠物猫">
+<url>http://welsh-corgi.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 大阪 Sakai 山村景色5">
+<url>http://220.97.66.51/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Sakuragawa 废品处理站4">
+<url>http://cam52251.miemasu.net:60001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 农家园林">
+<url>http://mtidc.aa0.netvolante.jp/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="日本 大阪 Osaka 室内球场">
+<url>http://axis-ae9f59.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="日本 大阪 Toyonaka 园林2">
+<url>http://kurogi-ofuji.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 田野">
+<url>http://ishigaki.miemasu.net:50000/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 大棚作物">
+<url>http://seiji-yamamoto.plala.jp:82/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 农田气候监测台">
+<url>http://x211239.ppp.asahi-net.or.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 仓库">
+<url>http://takemoto.miemasu.net:84/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 大阪 Hirakata 私家园林（推荐）">
+<url>http://taiko-en.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 动物园-狗">
+<url>http://211.129.182.125/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 大阪 Osaka 农家门前田地">
+<url>http://tagutec8232.ddo.jp:50000/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 天台小鸟">
+<url>http://animal.miemasu.net:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 幼儿园操场">
+<url>http://takarayouchien.miemasu.net:60001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 挖土机停车场">
+<url>http://yamachu-miki.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 停车场">
+<url>http://60.45.200.119/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 大阪 Osaka 林中小路">
+<url>http://benten.miru.cc/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 牧羊山坡">
+<url>http://ojiro.miemasu.net:50000/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Takatsuki 停车场">
+<url>http://amuse.miemasu.net:50082/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Kishiwada 停车场">
+<url>http://ipc_torigiku01.fip.nk.dococame.com:82/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 未知">
+<url>http://219.117.254.33:82/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Osaka 海边8（推荐）">
+<url>http://mielive09.iobb.net/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 大阪 Suita 高速公路">
+<url>http://camera1.global-ltd.co.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 大阪 Takatsuki 停车场">
+<url>http://amuse.miemasu.net:50081/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Otsuka 发廊">
+<url>http://222.230.183.173:82/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 岛根县 Izumo 高速路口">
+<url>http://shima0004.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Hamamatsu 窗外">
+<url>http://isapa.info:50000/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Fuji 城市景色">
+<url>http://61.117.146.129/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 岛根县 Hamamatsu 室内">
+<url>http://122.249.200.177/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Hamamatsu 园圃">
+<url>http://keidai.miemasu.net:86/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 岛根县 Iwata 海鲜店">
+<url>http://michinoeki-ukiha.miemasu.net:60005/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Otsuka 海边风景">
+<url>http://cam98462.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Numazu 养牛场">
+<url>http://cam6075917.miemasu.net:50002/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Oyama 城市看雪山">
+<url>http://220.216.115.249/jpg/image.jpg</url>
+</video>
+
+<video name="日本 岛根县 Fuji 城市风景（自动旋转镜头）">
+<url>http://61.117.146.5/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 岛根县 Hamamatsu 超市">
+<url>http://219.114.70.205:82/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Numazu 养牛场">
+<url>http://cam6075917.miemasu.net:50005/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Otsuka 海边摄像头">
+<url>http://bell.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Numazu 养牛场3">
+<url>http://cam6075917.miemasu.net:50003/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Numazu 养牛场4">
+<url>http://cam6075917.miemasu.net:50004/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 风景">
+<url>http://cizolw53.corede.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Otsuka 养牛场1">
+<url>http://cam6075917.miemasu.net:50001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 岛根县 Otsuka 海边（不稳定）">
+<url>http://mw-otaru.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 广岛 Hiroshima 超市内 ">
+<url>http://cam114434.miemasu.net:82/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 广岛 Hiroshima 门口 ">
+<url>http://cam5881767.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+
+
+<!--video name="日本 广岛 Hiroshima 高架桥 ">
+<url>http://onomichieki.iobb.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video-->
+
+<video name="日本 广岛 Hiroshima 宾馆窗外 ">
+<url>http://miyajimalivecam.miemasu.net:50003/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 茨城 Yuki码头  ">
+<url>http://61.199.210.229/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="日本 茨城 Kuji天桥   ">
+<url>http://cam4.city.kuji.iwate.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 茨城 Kuji码头2   ">
+<url>http://cam2.city.kuji.iwate.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="日本 茨城 Kuji阳台   ">
+<url>http://cam1.city.kuji.iwate.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="日本 石川 Nanao动物园   ">
+<url>http://cmr2.city.nanao.ishikawa.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="日本 石川 Kanazawa停车场   ">
+<url>http://ciao171069.miemasu.net/mobile/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 石川 Nanao码头2   ">
+<url>http://cmr1.city.nanao.ishikawa.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 石川 Kanazawa停车场2   ">
+<url>http://ciao171069.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 岩手 Hanamaki路边小屋   ">
+<url>http://to-tsu-nasu.ipcam.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 岩手 Morioka未知    ">
+<url>http://jr7mlx.dip.jp:8080/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 岩手 Morioka十字路口    ">
+<url>http://tanko.mydns.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 岩手 Morioka收废站   ">
+<url>http://cam54159.miemasu.net:60002/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 三重县 Nabar小岛   ">
+<url>http://mielive05.iobb.net/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="日本 三重县 Suzuka码头   ">
+<url>http://mielive02.iobb.net/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="日本 三重县 Hazu椰树   ">
+<url>http://shimodaminato.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 三重县 Suzuka游艇码头   ">
+<url>http://ogotoyc.miemasu.net:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+
+<video name="日本 三重县 Matsusaka养牛场   ">
+<url>http://chodaya01.miemasu.net:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 宫城 Sendai马路  ">
+<url>http://cam52819.miemasu.net:60003/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 宫城 Sendai洗衣店  ">
+<url>http://arau-takasago03.miemasu.net:60001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 宫城 Sendai洗衣店2  ">
+<url>http://arau-takasago03.miemasu.net:60002/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 宫城 Sendai卸货区  ">
+<url>http://cam52819.miemasu.net:60002/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 宫崎县 Miyazaki公园  ">
+<url>http://iozoonc1.city.miyazaki.miyazaki.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 冲绳 Shika 实验室">
+<url>http://210.172.93.252/axis-cgi/mjpg/video.cgi?1337321007725</url>
+</video>
+
+<video name="日本 冲绳 Okinawa 海边小屋">
+<url>http://kuroshima.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 冲绳 Shika 办公室">
+<url>http://210.172.93.245/mjpg/video.mjpg</url>
+</video>
+
+
+<video name="日本 冲绳 Naha 交通路口">
+<url>http://simpro.mydns.jp:84/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 冲绳 Okinawa 海边风景">
+<url>http://takemori-inn.mydns.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 冲绳 Okinawa 海边风景">
+<url>http://takemori-inn.mydns.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 冲绳 Shika 海景">
+<url>http://210.142.144.5/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 冲绳 Shika 海景2">
+<url>http://cam6047295.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+
+<video name="日本 黑潮本镇 海边">
+<url>http://honjin1.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 黑潮本镇 Daito 浮标">
+<url>http://60.56.193.47/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="日本 佐贺市 停车场全景">
+<url>http://atsn0001.axiscam.net:81/jpg/quad/image.jpg</url>
+</video>
+<video name="日本 佐贺市 停车场-A">
+<url>http://atsn0001.axiscam.net:81/jpg/1/image.jpg</url>
+</video>
+<video name="日本 佐贺市 停车场-B">
+<url>http://atsn0001.axiscam.net:81/jpg/3/image.jpg</url>
+</video>
+
+<video name="日本 佐贺市 Yobuko 绿林碧海-B">
+<url>http://61.7.96.45/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 佐贺市 花圃">
+<url>http://lebouquet.miemasu.net:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+<video name="日本 佐贺市 花圃">
+<url>http://lebouquet.miemasu.net:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 佐贺市 松树">
+<url>http://tencam.saga-s.co.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 佐贺市 Karatsu 海边观光摄像头">
+<url>http://61.7.34.34/-wvhttp-01-/getoneshot</url>
+</video>
+
+</city>
+</province>
+</provinces>
