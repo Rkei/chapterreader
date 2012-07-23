@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+  <province name="实时图片" order="CH" >
+  	<!--city name="中国香港" type="4888" order="A" >	<video name="# 中国香港(单击加载)"><url>city/img2/xianggang.xml</url></video></city>
+  	<city name="其他" type="4888" order="A" >	<video name="# 中国澳门(单击加载)"><url>city/img2/aomen.xml</url></video></city-->
+		<city name="英国" type="4888" order="A" >	<video name="# 英国(单击加载)"><url>city/img2/yingguoimg.xml</url></video></city>
+    <city name="瑞士" type="4888" order="C" >	<video name="# 瑞士(单击加载)"><url>city/img2/ruishi.xml</url></video></city>
+    <city name="意大利1" type="4888" order="D" >	<video name="# 意大利1(单击加载)"><url>city/img2/yidali1.xml</url></video></city>
+    <city name="意大利2" type="4888" order="D" >	<video name="# 意大利2(单击加载)"><url>city/img2/yidali2.xml</url></video></city>
+    <city name="法国"    type="4888" order="E" >	<video name="# 法国(单击加载)"><url>city/img2/faguo1.xml</url></video></city>
+ </province>
+ <province name="实时图片2" order="CI" >
+ 	  <city name="奥地利"  type="4888" order="F" >	<video name="# 奥地利(单击加载)"><url>city/img2/aodili.xml</url></video></city>
+    <city name="波兰"  type="4888" order="G" >	<video name="# 波兰(单击加载)"><url>city/img2/polan.xml</url></video></city>
+		<!--city name="美国1" type="4888" order="C" >	<video name="# 美国1(单击加载)"><url>city/img2/meiguo1.xml</url></video></city>
+		<city name="美国" type="4888" order="B" >	<video name="# 美国(单击加载)"><url>city/img2/meiguo2.xml</url></video></city-->
+		<city name="俄罗斯" type="4888" order="D" >	<video name="# 俄罗斯(单击加载)"><url>city/img2/russian.xml</url></video></city>
+ </province>
+	
+</provinces> 
