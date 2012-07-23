@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片3" order="CJ" >
+<city name="日本" type="4888" order="A" >	
+	
+<video name="日本 东京 Tokyo 山中寺庙2">
+<url>http://220.221.255.251/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 瀑布">
+<url>http://125.206.50.172:50000/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 海岸">
+<url>http://61.118.212.93/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 海边沙滩">
+<url>http://61.44.104.86/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Setagaya 商业街10">
+<url>http://61.119.240.92/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Setagaya 商业街11">
+<url>http://shio-came.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 小宾馆前台44">
+<url>http://daichi-itabashi.homeip.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 东京 Tokyo 高山远景">
+<url>http://rain-kagoshima.aa0.netvolante.jp:8080/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 商业街4">
+<url>http://shibuya02.ipcam.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 东京 Tokyo 碎石海边96">
+<url>http://61.205.224.211/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="日本 东京 Tokyo 双孔桥">
+<url>http://www.sden.info:65535/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1337481191014</url>
+</video>
+
+<video name="日本 东京 Setagaya 城市风貌9">
+<url>http://210.253.171.15/jpg/image.jpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 神庙">
+<url>http://cam6289850.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 小石桥101">
+<url>http://p8052-ipadfx21hodogaya.kanagawa.ocn.ne.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本东京 Tokyo 瀑布（不稳定）">
+<url>http://221.184.67.34:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 广岛 Hiroshima 潜艇 ">
+<url>http://toyo-kuni.miemasu.net:50000/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+<video name="日本 茨城 Oarai古寺   ">
+<url>http://kanmuri.miemasu.net:60001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Kodaira 海边">
+<url>http://218.225.209.173/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 商业街（旋转摄像头）">
+<url>http://shibuya.ipcam.jp:60001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 东京 Tokyo 商业街2">
+<url>http://c74id1i.corede.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 海边浪涌">
+<url>http://218.47.39.195/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本东京 Tokyo 山涧小溪（有点卡）">
+<url>http://kawauchi.st.wakwak.ne.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 交通路口53">
+<url>http://121.2.68.167:60151/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 江边大桥54">
+<url>http://60.37.111.131/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 公园55">
+<url>http://61.115.116.124/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 窗外广场">
+<url>http://gyozakan-event2.dyndns.info/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 神奈川 Yokosuka二本松办公室 ">
+<url>http://219.117.194.134/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 爱知 日本冈崎精工 办公室">
+<url>http://cam107265.miemasu.net:8001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 爱知 名古屋 风景1">
+<url>http://www.shinmura.jp:8080/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 爱知 常滑市 时装商城">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:83/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 爱知 常滑市 时装商城2">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:84/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 爱知 栄枝市 nagoya 古寺景点">
+<url>http://daijyouji.aa0.netvolante.jp:82/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 爱知 名古屋  江滨美景 ">
+<url>http://ftccam.dyndns.org/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 爱知 名古屋  鸟瞰市区">
+<url>http://nakayamacam.aa0.netvolante.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 神奈川 Hadano商业街">
+<url>http://59.146.77.13/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 神奈川 Yokohama小吃街">
+<url>http://hyobando.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 神奈川 Odawara城市景色">
+<url>http://60.39.234.210/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 千叶 Asahi 海滨鸟瞰">
+<url>http://cam118317.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点-全景">
+<url>http://mjpeg1.tendam.go.jp/jpg/image.jpg</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点1">
+<url>http://mjpeg1.tendam.go.jp/jpg/1/image.jpg</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点2">
+<url>http://mjpeg1.tendam.go.jp/jpg/2/image.jpg</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点3">
+<url>http://mjpeg1.tendam.go.jp/jpg/3/image.jpg</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点4">
+<url>http://mjpeg1.tendam.go.jp/jpg/4/image.jpg</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 市区鸟瞰 ">
+<url>http://220.98.195.44/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 海岸景色 ">
+<url>http://58.92.247.56/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 福冈 Kurume 超市内2 ">
+<url>http://cam114434.miemasu.net:83/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>  
+
+<video name="日本 福冈 Omuta 集会场 ">
+<url>http://petreienfukuoka.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 小河边 ">
+<url>http://realwave.miemasu.net:60001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 福井市 Tsuruga  敦贺港 ">
+<url>http://210.143.245.106/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki江边停风景">
+<url>http://ioctync1.city.miyazaki.miyazaki.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 青森县  办公室内（有美女出没） ">
+<url>http://blackone.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 爱媛 Uwajima 竹岛 ">
+<url>http://webcam06.city.uwajima.ehime.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+<video name="日本 爱媛 Matsuyama  海景 ">
+<url>http://horiemarine.ddo.jp:500/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+<video name="日本 爱媛 Uwajima 海景2 ">
+<url>http://webcam05.city.uwajima.ehime.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 兵库 Itami牛肉店  ">
+<url>http://cam102201.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 崎玉市 Yoshikawa 闹市广场">
+<url>http://123.220.250.252/jpg/image.jpg</url>
+</video>
+<video name="日本 崎玉市 Kawagoe 海滨风景3">
+<url>http://211.129.122.70/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+<video name="日本 崎玉市 Kawagoe 海边景色">
+<url>http://211.129.127.116/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 电线杆57">
+<url>http://hy2-m.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 公交车停车场58">
+<url>http://ja4dmw.bf1.jp/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<!--video name="日本 东京 Tokyo 绿林天桥2">
+<url>http://125.206.50.173:50026/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video-->
+
+<video name="日本 东京 Tokyo 家庭监控-阳台">
+<url>http://219.121.2.160:60001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 交通路口62">
+<url>http://219.160.161.62/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+
+<video name="日本 东京 Tokyo 沿海高速">
+<url>http://61.45.37.85/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 大厦门前路2">
+<url>http://axis-6975b6.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 大厦门前路2">
+<url>http://axis-6975b6.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 海边66">
+<url>http://kohama2009.miemasu.net:50000/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 水稻田">
+<url>http://suke-farm.ddo.jp:10002/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<!--video name="日本 东京 Tokyo 猫窝68">
+<url>http://60.45.63.26:8080/-wvhttp-01-/getoneshot</url>
+</video-->
+
+<video name="日本 东京 Tokyo 草地广场69">
+<url>http://cam.town.ikawa.akita.jp:81/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+
+<video name="日本 东京 Tokyo 金鱼缸71">
+<url>http://hanafubuki.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 东京 Tokyo 神台72">
+<url>http://kisyoujinjya.miemasu.net/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+
+<video name="日本 东京 Tokyo 路边小屋73">
+<url>http://mm.aa7.netvolante.jp:81/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 绿林山景74">
+<url>http://p8056-ipadfx21hodogaya.kanagawa.ocn.ne.jp/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 路边停车场76">
+<url>http://tagutec8232.ddo.jp:50001/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 城市景色77">
+<url>http://121.2.68.167:60160/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="日本 东京 Tokyo 绿林美景78">
+<url>http://124.155.127.253/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 高铁79">
+<url>http://219.160.161.52/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="日本 东京 Tokyo 海岛80">
+<url>http://219.160.161.71/-wvhttp-01-/getoneshot</url>
+</video>
+
+</city>
+</province>
+</provinces>
