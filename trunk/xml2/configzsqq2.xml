@@ -57,7 +57,7 @@
 <para name="youmi" value="245" />
 <para name="baidu" value="90" />
 <para name="nbaidu" value="0" />
-<para name="gbaidu" value="50" />
+<para name="gbaidu" value="0" />
 <para name="freecon" value="5" />
 <para name="freeopen" value="250" />
 <para name="gfreeopen" value="200" />
@@ -68,7 +68,7 @@
 <para name="domoonly" value="8" />
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
 <para name="pkgurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_05/23/com.vdcam.zsqq_230442.apk</para>
-<para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_10/16/com.vdcam.zsqq_160949.apk</para>
+<para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_19/15/com.vdcam.zsqq_155611.apk</para>
 <!--para name="gfanurl" value="http" >http://3g.gfan.com/data/index.php?/detail/index/287237</para-->
 <para name="vinvalid" value="1.0" />
 </configs>
