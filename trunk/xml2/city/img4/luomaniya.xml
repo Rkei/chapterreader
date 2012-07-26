@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片" order="CH" >
+<city name="罗马尼亚" type="4888" order="A" >	
+
+<video name="罗马尼亚 Bucuresti Bucharest 广场石桌-高清">
+<url>http://86.35.24.45:8208/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Buzau Buzau 购物大楼-高清">
+<url>http://86.127.117.153:50000/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Arad Orastie 交通路口-高清">
+<url>http://89.120.220.133/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Dolj Craiova 喷泉广场-高清">
+<url>http://82.77.65.43:8207/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Brasov Brasov 交通路口2">
+<url>http://ru-auto.unitbv.ro/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 大楼风景2-高清">
+<url>http://86.123.165.154/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 公园石门3-高清">
+<url>http://86.35.24.45:8207/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Tulcea Tulcea 市中心广场-高清1080p">
+<url>http://85.204.149.242:81/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 交通路口4-高清">
+<url>http://141.85.0.88:8083/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Arges Mioveni 城市风貌3-高清">
+<url>http://86.122.68.20:5678/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Arad Salonta 城市风貌-高清1080p">
+<url>http://82.77.143.33/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Arges Mioveni 广场2-高清">
+<url>http://86.122.68.20:6789/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Arges Mioveni 游乐园-高清">
+<url>http://86.122.68.20:46537/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Galati Galati 园林-高清1080p">
+<url>http://skela.emvatelecom.ro:1000/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Mures Sovata 公园小湖-高清">
+<url>http://89.36.175.102/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Buzau Buzau 2 林中小路-高清">
+<url>http://86.127.117.116/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Galati Galati 2路边停车场-高清">
+<url>http://skela.emvatelecom.ro:1001/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 游乐场5-高清">
+<url>http://93.113.207.253/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 山顶观光台3-高清">
+<url>http://92.86.1.90/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Brasov Brasov 2 高山风貌-高清">
+<url>http://86.125.80.200/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Buzau Buzau 3 城市风貌4-高清">
+<url>http://86.127.117.29/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Dolj Craiova 城市中心广场2-高清">
+<url>http://82.77.65.43:8208/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 4 高速路口">
+<url>http://195.182.198.2/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 5 购物广场-高清">
+<url>http://89.238.221.138/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 古城风貌6-高清">
+<url>http://86.123.165.155/record/current.jpg</url>
+</video>
+
+
+<video name="罗马尼亚 Iasi Iasi Unirea酒店-高清">
+<url>http://82.208.151.106:8053/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Mehedinti Petrosani 游乐场-高清">
+<url>http://www.orasuluricani.ro:9080/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Bistrita-Nasaud Bistrita 工厂监控摄像头-高清">
+<url>http://85.186.111.19/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 停车场入口7-高清">
+<url>http://141.85.0.88:8082/record/current.jpg</url>
+</video>
+
+
+<video name="罗马尼亚 Bucuresti Bucharest 城市风貌8-高清">
+<url>http://89.120.64.80/record/current.jpg</url>
+</video>
+
+<video name="Targu Jiu Gorj 罗马尼亚 公园草地-高清">
+<url>http://86.127.69.82/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 公路大转盘7-高清">
+<url>http://86.123.230.156/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Ilfov Crevedia 渡轮码头-高清">
+<url>http://89.122.192.137:40000/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Ilfov Crevedia 渡轮码头2-高清">
+<url>http://89.122.192.137:40003/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Timis Timisoara 交通路口2-高清">
+<url>http://89.35.149.78/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Galati Galati 花卉市场3-高清">
+<url>http://floricultura.dyndns.info/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Arges Mioveni 交通路口6-高清">
+<url>http://86.122.68.20:27482/record/current.jpg</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 广场13-高清">
+<url>http://93.113.207.254/record/current.jpg</url>
+</video>
+
+</city>
+</province>
+</provinces>
