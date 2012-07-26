@@ -35,6 +35,7 @@
 <load version="1.2" name="city/world5/rbqt.xml" />
 <load version="1.6" name="city/world3/worldall.xml" />
 <load version="1.2" name="city/dianxin.xml" />
+<load version="1.3" name="city/ouzhou1/qita.xml" />
 
 <!--load version="1.6" name="city/world3/zg1.xml" />
 <load version="1.2" name="city/zj/zj.xml" />
