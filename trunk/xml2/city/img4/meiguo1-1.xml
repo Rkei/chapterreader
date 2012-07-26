@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片2" order="CI" >
+<city name="美国1" type="4888" order="A" >	
+	
+<video name="伊利诺伊 Chicago 芝加哥大学校园1">
+<url>http://buscam.uchicago.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥大学校园2">
+<url>http://c-cam.uchicago.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Aurora 奥罗拉大学-海岸">
+<url>http://lgc.aurora.edu:100/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Chicago 芝加哥电教室">
+<url>http://140.192.244.123/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Chicago 芝加哥大学校园3">
+<url>http://r-cam.uchicago.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥树林与马路5">
+<url>http://webcam.vi.wheeling.il.us/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Schaumburg 绍姆堡私家机场">
+<url>http://lefc-kpwk.dyndns.org:5020/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特实验室室内2">
+<url>http://146.139.72.79/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Chicago 芝加哥大学实验室">
+<url>http://140.192.244.124/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Dekalb 北伊利诺斯大学-室外">
+<url>http://131.156.107.87/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Ingleside 英格尔赛德 飞机仓库">
+<url>http://lefc-kpwk.dyndns.org:5021/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥大学实验室8">
+<url>http://140.192.244.125/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥大学校园-高清">
+<url>http://63.250.253.12/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Downers Grove  大学校园2">
+<url>http://65.113.219.177/jpg/image.jpg</url>
+</video>
+
+
+<video name="伊利诺伊 Northbrook 诺斯布鲁克汽车修理中心">
+<url>http://vhshop.cmauto.com:8001/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="伊利诺伊 Peoria 布拉德利大学校园">
+<url>http://136.176.70.200/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特实验室内">
+<url>http://146.139.72.67/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Macomb 大学校园">
+<url>http://184.171.227.54:84/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="伊利诺伊 Rock Island  奥古斯塔那学院-餐厅">
+<url>http://webcam1.augustana.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Urbana 伊利诺伊大学-实验玉米地">
+<url>http://webcam.gcrl.uiuc.edu/jpg/image.jpg</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特 大学实验室视频监控">
+<url>http://146.139.72.77/jpg/image.jpg</url>
+</video>
+
+
+<video name="内华达州 Las Vegas  美國沙漠研究所">
+<url>http://bcwebcam.dri.edu/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="内华达州 Reno 内华达雪山2">
+<url>http://206.230.61.85:8080/jpg/image.jpg</url>
+</video>
+
+<video name="内华达州 Reno 内华达室外3">
+<url>http://24.180.37.226:8160/jpg/image.jpg</url>
+</video>
+
+<video name="内华达州 Reno 内华达大学校园">
+<url>http://24.180.37.226:8250/jpg/image.jpg</url>
+</video>
+
+<video name="内华达州 Reno 内华达大学校园2">
+<url>http://quadcam.unrfound.unr.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="内华达州 Reno 里诺矿山8">
+<url>http://206.230.61.55/jpg/image.jpg</url>
+</video>
+
+
+<video name="新罕布什尔州  Hanover 达特茅斯学院校园">
+<url>http://wc2.dartmouth.edu/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="新罕布什尔州 Rumney  汉普夏湖泊">
+<url>http://bruhawachet2.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="新泽西州 Riverton  泽西 海边沙滩">
+<url>http://74.94.55.182/jpg/image.jpg</url>
+</video>
+
+<video name="新泽西州 Linden  泽西 教堂内">
+<url>http://cam1.starofdavidmemorial.com/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="新泽西州 Livingston  泽西花园">
+<url>http://presbygardens.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="内布拉斯加州 Lincoln 林肯 lincolnmachine工厂内">
+<url>http://www.lincolnmachine.com:8081/jpg/image.jpg</url>
+</video>
+
+
+<video name="内布拉斯加州 Omaha 奥马哈园林">
+<url>http://147.134.38.233/jpg/image.jpg</url>
+</video>
+
+
+<video name="新墨西哥州 Rio Rancho  墨西哥城马路">
+<url>http://67.42.115.85:1752/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="新墨西哥州 Santa Fe  墨西哥城山林">
+<url>http://67.42.115.85:1751/jpg/image.jpg</url>
+</video>
+
+
+<video name="内布拉斯加州 Lincoln 内布拉斯加大学室内">
+<url>http://ucommcam2.unl.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="内布拉斯加州 Lincoln 内布拉斯加大学校园2">
+<url>http://cit-cam1.unl.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="内华达州 Reno 西内华达社区学院（高清）">
+<url>http://observatory.wnc.edu/oneshotimage.jpg</url>
+</video>
+
+<video name="新泽西州 Blairstown  树林小路（高清）">
+<url>http://198.182.247.196/record/current.jpg?rand=7898483</url>
+</video>
+
+
+<video name="伊利诺伊 Lockport 大学实验室">
+<url>http://aem076.amc.anl.gov/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 Bloomington 印第安纳大学校园">
+<url>http://149.159.112.246/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 West Lafayette  普渡大学-实验室2">
+<url>http://128.210.72.31/jpg/image.jpg</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学校园3">
+<url>http://webcam01.ecn.purdue.edu/jpg/image.jpg</url>
+</video>
+
+<video name="印第安纳州 Bloomington 印第安纳大学校园2">
+<url>http://129.79.44.40/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="印第安纳州 West Lafayette  普渡大学-电教室">
+<url>http://lwsnb158-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  电脑室7">
+<url>http://lwsnb160-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 Evansville 埃文斯维尔教堂">
+<url>http://96.27.252.154/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 West Lafayette  普渡大学-电教室2">
+<url>http://lwsnb131-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-电教室3">
+<url>http://lwsnb146-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-绘画室">
+<url>http://k133-200.mgmt.purdue.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-电教室4">
+<url>http://lwsnb148-cam.cs.purdue.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 Ellettsville 树林与草场">
+<url>http://webcam01pd.frenchlick.com/jpg/image.jpg</url>
+</video>
+
+<video name="印第安纳州 North Manchester  曼彻斯特学院-餐厅">
+<url>http://spartancamiv.manchester.edu/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 Evansville 埃文斯维尔教堂2">
+<url>http://96.27.252.148/jpg/image.jpg</url>
+</video>
+<video name="印第安纳州 Vincennes 温森斯大学-电台直播间">
+<url>http://blazercam.vinu.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="印第安纳州 Huntingburg 游泳池">
+<url>http://splashcam.holidayworld.com/oneshotimage.jpg</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学-实验室11">
+<url>http://bowncamsrv1.ecn.purdue.edu/jpg/image.jpg</url>
+</video>
+
+<video name="肯塔基州 Frankfort 法兰克福 大街">
+<url>http://camera5.buffalotrace.com/jpg/image.jpg</url>
+</video>
+
+
+<video name="肯塔基州 Wilmore 威尔莫尔桥">
+<url>http://173.190.94.9/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="肯塔基州 Frankfort 法兰克福 酒厂作坊">
+<url>http://12.154.97.251/jpg/image.jpg</url>
+</video>
+
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆门口">
+<url>http://webcam9.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆4">
+<url>http://delivery4.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆5">
+<url>http://delivery5.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆6">
+<url>http://delivery6.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆7">
+<url>http://delivery7.corvettemuseum.com/oneshotimage.jpg</url>
+</video>
+
+<video name="艾奥瓦州 Iowa City  艾奥瓦私家机场">
+<url>http://69.66.204.149/jpg/image.jpg</url>
+</video>
+
+
+<video name="艾奥瓦州 Davenport 艾奥瓦海边">
+<url>http://74.84.83.109/jpg/image.jpg</url>
+</video>
+
+
+<video name="艾奥瓦州 Iowa City  爱荷华大学校园">
+<url>http://128.255.26.209/jpg/image.jpg</url>
+</video>
+
+
+<video name="艾奥瓦州 Bettendorf 艾奥瓦 公路">
+<url>http://camera1.bettendorf.org/jpg/image.jpg</url>
+</video>
+
+<video name="艾奥瓦州 Indianola 印第安诺拉 林中动物投食点">
+<url>http://216.203.127.154:8888/jpg/image.jpg</url>
+</video>
+
+
+<video name="堪萨斯州 Wichita 堪萨斯 大学电教室内">
+<url>http://156.26.2.12/jpg/image.jpg</url>
+</video>
+
+<video name="堪萨斯州 Lawrence 堪萨斯 大学运动场">
+<url>http://hoglundcam.kuathletics.com/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="堪萨斯州 Pittsburg 匹兹堡州立大学校园">
+<url>http://collegio-cam.pittstate.edu/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="路易斯安那州 Lafayette 拉斐特餐厅">
+<url>http://webcam.prejeans.com/jpg/image.jpg</url>
+</video>
+
+
+
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片" order="CH" >
+<city name="中国香港" type="4888" order="A" >	
+
+<video name="中国香港.湿地公园"><url>http://www.hko.gov.hk/wxinfo/aws/hko_mica/wlp/latest_WLP.jpg</url></video>
+<!--video name="湿地公园"><url>http://www.hko.gov.hk/wxinfo/aws/hko_mica/wlp/latest_WLP_thumb.jpg</url></video-->
+<video name="中国香港.流浮山"><url>http://www.hko.gov.hk/wxinfo/aws/hko_mica/lfs/latest_LFS.jpg</url></video>
+<video name="中国香港.嘉道理农场-暨植物园(远眺新界西部)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/kfb/latest_KFB.jpg</url></video>
+<video name="中国香港.大埔滘"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/tpk/latest_TPK.jpg</url></video>
+<video name="中国香港.尖沙咀(望向西面)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/hk2/latest_HK2.jpg</url></video>
+<video name="中国香港.尖沙咀(望向东面)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/hko/latest_HKO.jpg</url></video>
+<video name="中国香港.中环(维多利亚港)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/cp1/latest_CP1.jpg</url></video>
+<video name="中国香港.横澜岛(望向西北偏北面)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/wl2/latest_WL2.jpg</url></video>
+<video name="中国香港.横澜岛(望向西面)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/wgl/latest_WGL.jpg</url></video>
+<video name="中国香港.德瑞国际学校"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/gsi/latest_GSI.jpg</url></video>
+<video name="中国香港.长洲东湾"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/cce/latest_CCE.jpg</url></video>
+<video name="中国香港.长洲(望向北面)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/cch/latest_CCH.jpg</url></video>
+<video name="中国香港.坪洲(远眺维多利亚港)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/pe2/latest_PE2.jpg</url></video>
+<video name="中国香港.坪洲(远眺廸士尼乐园)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/dnl/latest_DNL.jpg</url></video>
+<video name="中国香港.沙螺湾"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/slw/latest_SLW.jpg</url></video>
+<video name="中国香港.大榄涌(远眺大屿山北部)"><url>http://gb.weather.gov.hk/wxinfo/aws/hko_mica/tlc/latest_TLC.jpg</url></video>
+<video name="中国香港.大角咀港铁奥运站（30分钟更新一次）"><url>http://www.sina.hk/Video.jpg</url></video>
+<video name="中国香港.滘西洲公众高尔夫球场（10分钟更新一次）"><url>http://www.kscgolf.org.hk/images/640x480.jpg</url></video>
+<video name="中国香港.中环二号及三号码头"><url>http://www.dbay.hk/dblifestyleapp/live/vod3.jpg</url></video>
+<video name="中国香港.愉景湾街市"><url>http://www.dbay.hk/dblifestyleapp/live/vod1.jpg</url></video>
+<video name="中国香港.愉景湾广场 1"><url>http://www.dbay.hk/dblifestyleapp/live/dbbeach1.jpg</url></video>
+<video name="中国香港.愉景湾广场 2"><url>http://www.dbay.hk/dblifestyleapp/live/vod2.jpg</url></video>
+<video name="中国香港.愉景湾沙滩"><url>http://www.dbay.hk/dblifestyleapp/live/dbcsc.jpg</url></video>
+<video name="中国香港.愉景湾高尔夫球会 1"><url>http://www.dbay.hk/dblifestyleapp/live/dbgcl1.jpg</url></video>
+<video name="中国香港.愉景湾高尔夫球会 2"><url>http://www.dbay.hk/dblifestyleapp/live/dbgcl2.jpg</url></video>
+<video name="中国香港.愉景湾游艇会 1"><url>http://www.dbay.hk/dblifestyleapp/live/dbmc1.jpg</url></video>
+<video name="中国香港.愉景湾游艇会 2"><url>http://www.dbay.hk/dblifestyleapp/live/dbmc2.jpg</url></video>
+<video name="中国香港.往机场岛方向 "><url>http://www.np360.com.hk/tower/tower1.jpg</url></video>
+<video name="中国香港.往东涌湾方向"><url>http://www.np360.com.hk/tower/tower2b.jpg</url></video>
+<video name="中国香港.香港科学园(几秒更新一次)"><url>http://www.hokoon.edu.hk/ipcam/ipcam.jpg</url></video>
+<video name="中国香港.黄金海岸酒店"><url>http://www.listlonline.com/custom/cam/static/listl_org_cam1.jpg</url></video>
+<video name="中国香港.黄金海岸 (向龙珠岛方向)"><url>http://www.listlonline.com/custom/cam2/img/listl_org_cam2.jpg</url></video>
+<video name="中国香港.黄金海岸 (向蟠龙半岛)"><url>http://www.listlonline.com/custom/cam3/img/listl_org_cam3.jpg</url></video>
+<video name="中国香港.汉基国际学校"><url>http://viewfromcis.cis.edu.hk/SnapshotJPEG?Resolution=640x480::1;Quality=Precision</url></video>
+
+</city>
+</province>
+</provinces>

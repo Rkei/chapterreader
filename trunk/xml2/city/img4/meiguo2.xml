@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片2" order="CI" >
+<city name="美国" type="4888" order="B" >	
+	
+<video name="乔治亚州Savannah 海边浴场">
+<url>http://173.12.209.42/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Milton 海滨浴场7（自动旋转调焦）-高清">
+<url>http://70.167.229.2/oneshotimage.jpg</url>
+</video>
+
+<video name="佛罗里达州 Saint Petersburg 海边浴场8-高清">
+<url>http://uphambeach.axiscam.net/jpg/image.jpg</url>
+</video>
+	
+<video name="佛罗里达州 Cape Coral 海滨浴场旋转摄像头">
+<url>http://75.151.40.42/jpg/image.jpg</url>
+</video>
+	
+<video name="佛罗里达州 Pensacola 海滨浴场6-高清">
+<url>http://beach.sandestinwebcam.com/jpg/image.jpg</url>
+</video>
+	
+<video name="佛罗里达州 Santa Rosa Beach 海边沙滩6">
+<url>http://mooncreek3.axiscam.net:6009/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Pensacola 海滨浴场2">
+<url>http://eastdestinbeachcam.destinresorts.com/oneshotimage.jpg</url>
+</video>
+	
+<video name="佛罗里达州 Miami 游泳池全景-高清8">
+<url>http://216.199.194.134:82/record/current.jpg?rand=7898483</url>
+</video>
+	
+<video name="佛罗里达州 Niceville 海边沙滩5">
+<url>http://72.215.137.17:8091/jpg/image.jpg</url>
+</video>
+	
+<video name="佛罗里达州 Orlando 海边浴场2">
+<url>http://coralsandsinn.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Miami 迈亚密大学校园">
+<url>http://webcam5.med.miami.edu/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Miami Beach 游泳池2-高清">
+<url>http://mail.bluegreendiamond.net:8084/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="佛罗里达州 Fort Lauderdale 游泳池-高清1080p">
+<url>http://173.12.69.54:81/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="佛罗里达州 Oviedo 游泳池3-高清">
+<url>http://97.79.15.119:49200/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="佛罗里达州 Tampa 海洋公园水底摄像头">
+<url>http://24.227.51.155/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Stanford 斯坦福大学校园2">
+<url>http://palumbicam.stanford.edu/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 西点军校 山中小木屋">
+<url>http://newtree.axiscam.net:8003/jpg/image.jpg</url>
+</video>
+
+<video name="加州 阿拉米达市 海边景色">
+<url>http://axis-9f6578.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="加州 San Luis Obispo加州立理工大学实验室">
+<url>http://hangercam.me.calpoly.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Santa Clara 圣塔克拉拉大学校园">
+<url>http://129.210.52.139/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Stanford 斯坦福大学-建筑工地2">
+<url>http://soeccam.stanford.edu/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Malibu Pepperdine大学学校门口">
+<url>http://137.159.36.77/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="加州 Malibu Pepperdine大学学校园">
+<url>http://webcam1.pepperdine.edu/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="加州 Orange 夏威夷大学喷泉广场">
+<url>http://128.171.86.101/jpg/image.jpg</url>
+</video>
+
+<video name="加州 洛杉矶 洛约拉玛莉曼特大学校园2">
+<url>http://lioncam2.lmu.edu/jpg/image.jpg</url>
+</video>
+
+<video name="加州 尼亚圣芭芭拉大学东门">
+<url>http://eastentrance.tps.ucsb.edu/jpg/image.jpg</url>
+</video>
+
+<video name="加州 尼亚圣芭芭拉大学喷泉">
+<url>http://129.210.84.139/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Stockton 学校湖边">
+<url>http://cos-netcam-1.ci.stockton.ca.us/oneshotimage.jpg</url>
+</video>
+
+<video name="加州  Buena Park Langsdorf 加州富乐敦州立大学校园">
+<url>http://itwebcamcp700.fullerton.edu/jpg/image.jpg</url>
+</video>
+
+<video name="加州 洛杉矶 洛约拉玛莉曼特大学校园">
+<url>http://lioncam1.lmu.edu/jpg/image.jpg</url>
+</video>
+
+<video name="加州 San Marcos 州立大学圣马科斯分校-建筑工地">
+<url>http://pdc-cam.csusm.edu/jpg/image.jpg</url>
+</video>
+
+<video name="乔治亚州Athens 哥伦布州立大学-钟楼">
+<url>http://webcam01.columbusstate.edu/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Tallahassee 佛罗里达州立大学-草坪喷泉">
+<url>http://128.186.64.84/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Miami 迈阿密大学米勒医学院1">
+<url>http://webcam4.med.miami.edu/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Miami 迈阿密大学米勒医学院2">
+<url>http://webcam2.med.miami.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="佛罗里达州 Gainesville 佛罗里达大学4">
+<url>http://kennedy.nerdc.ufl.edu/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Miami 喷泉广场">
+<url>http://74.164.25.34/jpg/image.jpg</url>
+</video>
+
+
+<video name="佛罗里达州 Miami 迈亚密大学校园2">
+<url>http://webcam6.med.miami.edu/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 New Smyrna Beach 海边沙滩2">
+<url>http://24.227.115.174:8000/oneshotimage.jpg</url>
+</video>
+
+
+<video name="佛罗里达州 Fort Myers 佛罗里达湾岸大学-校园">
+<url>http://solarfield.camera.fgcu.edu/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Gainesville 佛罗里达大学-沟通区">
+<url>http://collaborationcommons.hscl.ufl.edu/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Miami 迈阿密大学-校园鸟瞰">
+<url>http://129.171.176.150/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Fort Myers sanibel假日酒店-海边浴场2">
+<url>http://72.236.138.36/jpg/image.jpg</url>
+</video>
+
+<video name="哥伦比亚 开罗美国大学14">
+<url>http://cyclops.american.edu/jpg/image.jpg</url>
+</video>
+
+<video name="哥伦比亚 开罗美国大学-校园">
+<url>http://webcam.american.edu/jpg/image.jpg</url>
+</video>
+
+<video name="康涅狄格州 海边沙滩监控摄像头">
+<url>http://66.212.195.106/jpg/image.jpg</url>
+</video>
+
+<video name="康涅狄格州 康涅狄格大学-校园">
+<url>http://avptcam.uconn.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="康涅狄格州 West Hartford哈特福德大学 MWD实验室">
+<url>http://cam2.mwd.hartford.edu/jpg/image.jpg</url>
+</video>
+
+<video name="West Hartford 康涅狄格州 哈特福德大学校园">
+<url>http://webcam-3a.hartford.edu/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Grand Junction 米沙州立学院-球场5">
+<url>http://webcam2.mesastate.edu/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 米沙州立学院-校园3">
+<url>http://webcam6.mesastate.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="科罗拉多州 Gunnison  科罗拉多西部州立学院 校园">
+<url>http://webcam1.western.edu/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 米沙州立学院校园">
+<url>http://itwebcam.mesastate.edu/jpg/image.jpg</url>
+</video>
+
+<video name="洛杉矶 加州 加州大学洛杉矶分校">
+<url>http://camera1.clicc.ucla.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="夏威夷 Kahuku 蔚蓝海岸">
+<url>http://72.235.113.111/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="夏威夷 Honolulu 海边沙滩11">
+<url>http://66.91.147.106:8010/jpg/image.jpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 楼下游泳池5">
+<url>http://67.53.193.102/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="科罗拉多州 Vail 观光索道">
+<url>http://65.38.144.134/jpg/image.jpg</url>
+</video>
+
+
+
+
+
+
+<video name="佛罗里达州 Marathon 小码头4-高清">
+<url>http://grassykey.viewnetcam.com:1028/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="加州 La Jolla 塔楼-高清1080p">
+<url>http://137.110.165.21/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Palo Alto马路">
+<url>http://fremontca.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Palo Alto卧室梳妆台2">
+<url>http://camera.britta.com:8080/jpg/image.jpg</url>
+</video>
+
+<video name="加州 San Luis Obispo木材商场">
+<url>http://129.65.126.18/jpg/image.jpg</url>
+</video>
+
+<video name="加州 San Francisco海边景色">
+<url>http://173.8.132.58/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="加州 San Luis Obispo实验室机器2">
+<url>http://129.65.126.17/jpg/image.jpg</url>
+</video>
+
+<video name="加州 San Luis Obispo窗外4">
+<url>http://129.65.37.4/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Sunnyvale 实验楼2">
+<url>http://173.164.239.206/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Angwin 小型飞机场">
+<url>http://airportcam.puc.edu/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="加州 Canoga Park 餐厅室内">
+<url>http://store04.viewnetcam.com/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 Fresno 小型飞机场2">
+<url>http://soaravenal2.viewnetcam.com:8090/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="加州 半月沙滩">
+<url>http://samcam.samschowderhouse.com:8333/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 San Diego 大学海洋实验室">
+<url>http://130.191.227.248/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Calabasas 高山远景">
+<url>http://64.160.254.59:3000/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Costa Mesa 小狗游乐园4">
+<url>http://69.224.130.151/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Hanford owens山">
+<url>http://205.157.152.226/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Hanford 城市风貌-高清2">
+<url>http://205.157.152.230/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Hanford 机场3-高清">
+<url>http://205.157.152.238/jpg/image.jpg</url>
+</video>
+
+<video name="加州 Milpitas 窗外3">
+<url>http://axis-9805c1.axiscam.net:8080/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Rosamond 城市鸟瞰">
+<url>http://209.221.217.7/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Citrus Heights马路4">
+<url>http://orovalleycam.axiscam.net:7697/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="加州 Los Gatos 山林宾馆">
+<url>http://71.116.127.18:19328/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="加州 Sacramento 储物间2">
+<url>http://12.185.156.78:8183/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 San Luis Obispo工具房">
+<url>http://129.65.126.19/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Santa Monica 办公室3">
+<url>http://173.196.142.254:172/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+
+<video name="加州 Folsom 大学校园4-高清">
+<url>http://70.88.55.122:10002/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="加州 Folsom 交通路口2">
+<url>http://truckeewebcam.gotdns.com/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 Fremont 工厂内景2">
+<url>http://12.184.110.78:8186/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 Hanford 草地4">
+<url>http://soaravenal.viewnetcam.com:8080/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+
+<video name="洛杉矶 加州 室内金鱼缸6-高清">
+<url>http://74.62.193.106:1111/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="加州 Palo Alto 玻璃工厂仓库内景3">
+<url>http://westernstatesglass.com:8183/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 Rancho Cucamonga 实验室仓库-高清">
+<url>http://trinityshopcam.viewnetcam.com:50101/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 San Diego 教室黑板">
+<url>http://198.129.105.84:8098/oneshotimage.jpg</url>
+</video>
+
+
+<video name="加州 San Francisco 网球场">
+<url>http://seascape.viewnetcam.com/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 San Jose 激光地球仪4">
+<url>http://66.243.43.111/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 San Luis Obispo办公室9">
+<url>http://129.65.126.20/jpg/image.jpg</url>
+</video>
+
+<video name="加州 San Luis Obispo 码头10">
+<url>http://199.36.177.234/oneshotimage.jpg</url>
+</video>
+
+
+
+<video name="加州 Livermore 网球场-高清">
+<url>http://72.18.232.138/oneshotimage.jpg</url>
+</video>
+
+<video name="加州 洛杉矶 家庭室内">
+<url>http://blchburbank1.viewnetcam.com:50000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 洛杉矶 家庭大厅">
+<url>http://blchburbank2.viewnetcam.com:51000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 洛杉矶 猫的乐园9">
+<url>http://blchila3.viewnetcam.com:54000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="加州 Modesto 窗外马路">
+<url>http://japkacam.axiscam.net/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Norwalk 存储室">
+<url>http://store48.viewnetcam.com/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 Oakland 窗外2">
+<url>http://wood1.axiscam.net:8000/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Palo Alto 酒吧内景">
+<url>http://camera.britta.com:8081/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="加州 San Francisco跨海大桥6">
+<url>http://cams.exploratorium.edu:8010/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="加州 Santa Monica 汽车修理店3">
+<url>http://173.196.142.254:171/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 Santa Monica 桌球室4">
+<url>http://waterfrontcafe-eyesitter.viewnetcam.com:50050/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+
+
+<video name="加州 Santa Maria 城市鸟瞰">
+<url>http://mcawebcam.axiscam.net:1500/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Wrightwood 路边旅馆">
+<url>http://71.116.221.146/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="加州 Wofford Heights 石头山路">
+<url>http://bullrun2.viewnetcam.com:60003/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="加州 Sacramento 路边房子">
+<url>http://70.88.55.122:10001/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="加州 Antelope 海边码头">
+<url>http://99.174.159.110/oneshotimage.jpg</url>
+</video>
+
+
+
+
+<video name="加州 La Mesa  停车场">
+<url>http://kevin619.viewnetcam.com:443/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="加州 Stockton 野外停车场2">
+<url>http://nineofharts.axiscam.net/jpg/image.jpg</url>
+</video>
+
+
+<video name="加州 Riverside 松林小屋4">
+<url>http://138.23.53.49/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="科罗拉多州 Englewood 办公室内">
+<url>http://206.69.208.65/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 科罗拉多大学-松林草地">
+<url>http://webcam1.coloradocollege.edu/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Carbondale 林中鸟屋">
+<url>http://216.237.87.171/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州  布莱肯里奇主大街2">
+<url>http://72.165.31.230/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Edwards 山间小村">
+<url>http://204.10.24.26/jpg/image.jpg</url>
+</video>
+
+
+<video name="科罗拉多州 Littleton 教堂">
+<url>http://216.136.6.84/jpg/image.jpg</url>
+</video>
+
+
+<video name="科罗拉多州 Arvada 美国国家公园-史登堡湖">
+<url>http://165.127.23.131/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Aspen 小猫宠物屋">
+<url>http://dogsaspen.dyndns.org:8084/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Denver 国家公园2">
+<url>http://cam.smallin.com/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Florissant 训练场">
+<url>http://72.19.157.114:8080/jpg/image.jpg</url>
+</video>
+
+
+<video name="科罗拉多州 Kiowa 加油站">
+<url>http://74.93.232.138:5631/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Aspen 家庭监控-后花园2">
+<url>http://dogsaspen.dyndns.org:8081/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Basalt 牧场1">
+<url>http://24.9.206.236/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Florissant 窗外松林2-高清">
+<url>http://divide-webcam.viewnetcam.com:120/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+
+<video name="科罗拉多州 Littleton 山林小屋2">
+<url>http://173.8.226.241/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Aspen 门前小狗">
+<url>http://dogsaspen.dyndns.org:8082/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Denver 郊野公园2">
+<url>http://8150.bathgate.org/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="科罗拉多州 Gunnison 乡村马路2-高清">
+<url>http://donitas.viewnetcam.com:5003/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="科罗拉多州 Longmont 乡村马路3">
+<url>http://173.164.52.97:5633/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Boulder 乡村景色3">
+<url>http://204.144.190.169/jpg/image.jpg</url>
+</video>
+
+<video name="科罗拉多州 Ophir 城镇街道">
+<url>http://telluridemountainproperties-east.viewnetcam.com:50000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+
+<video name="科罗拉多州 Ophir 城镇街道2-高清">
+<url>http://telluridemountainproperties-west.viewnetcam.com:50001/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="科罗拉多州 室内花卉4">
+<url>http://skywaycreations.viewnetcam.com:800/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="康涅狄格州 Glastonbury 城镇大街">
+<url>http://24.249.24.110:2001/jpg/image.jpg</url>
+</video>
+
+
+<video name="哥伦比亚  超市监控">
+<url>http://68.239.81.153:1026/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="哥伦比亚 家庭监控-门口2">
+<url>http://raddi.com:81/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+
+<video name="哥伦比亚 存物间10">
+<url>http://webcam.oldetownepetresort.com:9270/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="哥伦比亚 宠物宿舍15">
+<url>http://webcam.oldetownepetresort.com:9223/jpg/image.jpg</url>
+</video>
+
+
+<video name="佛罗里达州 Fort Myers 海边监控">
+<url>http://208.78.132.152/jpg/image.jpg</url>
+</video>
+
+
+<video name="佛罗里达州 Titusville 岛上蒙特瑞酒店-海边沙滩">
+<url>http://65.41.26.8:8000/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Fort Myers 海边木板路">
+<url>http://204.215.38.82/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Hollywood 海边浴场">
+<url>http://63.138.232.19/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Spring Hill 斯坦哈奇河口">
+<url>http://70.155.177.184/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Tampa 会议室2-高清">
+<url>http://131.247.8.66/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Daytona Beach 会所门口">
+<url>http://72.236.125.34:211/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="佛罗里达州 Clearwater lido沙滩">
+<url>http://96.252.133.243/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Niceville 小码头">
+<url>http://98.173.21.132:3001/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="佛罗里达州 Hollywood 酒店外的海边沙滩3">
+<url>http://beachcam.sagamorehotel.com/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Homestead 园林">
+<url>http://allansmiamicam4.axiscam.net:8400/jpg/image.jpg</url>
+</video>
+
+
+<video name="佛罗里达州 Havana 教室-高清">
+<url>http://74.254.111.79/oneshotimage.jpg</url>
+</video>
+
+<video name="佛罗里达州 Lady Lake 乡镇风景">
+<url>http://camera2.thevillages.com/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="佛罗里达州 Santa Rosa Beach 交通路口3">
+<url>http://redbarcam.axiscam.net:6109/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Stuart 自助餐厅-高清">
+<url>http://68.213.208.250:3000/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Tampa 乡村风景-高清">
+<url>http://108.9.80.39/record/current.jpg?rand=7898483</url>
+</video>
+
+
+
+<video name="佛罗里达州 Bonita Springs 广播电台室内">
+<url>http://buffalochips3.viewnetcam.com:60002/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="佛罗里达州 Daytona Beach 理发店2">
+<url>http://72.236.125.34:212/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="佛罗里达州 Daytona Beach 护理大厅3">
+<url>http://72.236.125.34:215/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="佛罗里达州 Daytona Beach 理发店发型沟通区">
+<url>http://72.236.125.34:216/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="佛罗里达州 Fort Lauderdale 地下车库5-高清">
+<url>http://173.12.69.54:83/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="佛罗里达州 Fort Lauderdale 小商店6">
+<url>http://216.199.212.162/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="佛罗里达州 Lady Lake 公园2">
+<url>http://camera1.thevillages.com/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="佛罗里达州 North Port 家庭监控-门口2">
+<url>http://billslawn89d.viewnetcam.com:50000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="佛罗里达州 Odessa 木工作坊">
+<url>http://apollocam.com/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="佛罗里达州 Tallahassee 等候间2">
+<url>http://renegade2.viewnetcam.com:50000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="佛罗里达州 Tampa 数据处理中心机房9-高清">
+<url>http://198.92.142.139/jpg/image.jpg</url>
+</video>
+
+<video name="佛罗里达州 Tampa 报废车处理中心10-高清">
+<url>http://71.180.171.96:1600/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="佛罗里达州 Daytona Beach 理发店3">
+<url>http://72.236.125.34:217/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="佛罗里达州 Fort Lauderdale 地下停车场9-高清1080p">
+<url>http://173.12.69.54:85/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="佛罗里达州 Hollywood 路边监控摄像头">
+<url>http://7-milemarina.com/oneshotimage.jpg</url>
+</video>
+
+<video name="佛罗里达州 Hollywood 加油站5-高清1080p">
+<url>http://70.147.7.171/record/current.jpg?rand=7898483</url>
+</video>
+
+
+
+<video name="佛罗里达州 Tampa 一楼大厅11">
+<url>http://131.247.176.63/oneshotimage.jpg</url>
+</video>
+
+
+<video name="佛罗里达州 Jacksonville 滑板商店2">
+<url>http://74.93.171.150:50001/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="佛罗里达州 Saint Petersburg 小码头5">
+<url>http://24.73.175.142:8081/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="佛罗里达州 Fort Lauderdale 房间内景14-高清1080p">
+<url>http://173.12.69.54:82/record/current.jpg?rand=7898483</url>
+</video>
+
+
+
+<video name="佛罗里达州 Miami 工厂生产线17">
+<url>http://74.238.54.36:8090/jpg/image.jpg</url>
+</video>
+
+
+<video name="夏威夷 Honolulu 海边沙滩">
+<url>http://72.235.82.43/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="夏威夷 Honolulu 室内-门后2">
+<url>http://128.171.104.32/jpg/image.jpg</url>
+</video>
+
+<video name="夏威夷 Kamuela 椰树风景区">
+<url>http://64.75.213.105/jpg/image.jpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 夏威夷大学-机房监控摄像头3">
+<url>http://ancl-webcam2.ancl.hawaii.edu/jpg/image.jpg</url>
+</video>
+
+<video name="夏威夷 Kihei 窗外风景2">
+<url>http://mauicam.dyndns.org:50001/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="夏威夷 Lahaina 椰树海滩">
+<url>http://67.52.81.205/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="夏威夷 Honolulu 游泳池4">
+<url>http://66.91.152.38/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="夏威夷 Kealakekua 椰林海边">
+<url>http://64.75.231.52/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="夏威夷 Lahaina 椰树海滩2-高清">
+<url>http://67.53.48.2/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+<video name="夏威夷 Honolulu 室内6">
+<url>http://67.53.34.94/jpg/image.jpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 楼下停车场7">
+<url>http://mauifrontdoor.viewnetcam.com:85/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="夏威夷 Honolulu 沙滩8">
+<url>http://skywave-lr-rkr.skywavebroadband.net:8888/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="夏威夷 Mililani 小狗乐园">
+<url>http://tails-ahua.viewnetcam.com:5002/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="夏威夷 Mililani 小狗乐园2">
+<url>http://tails-ahua.viewnetcam.com:5010/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="夏威夷 Honolulu 屋顶10-高清">
+<url>http://128.171.116.64/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="夏威夷 Honolulu 办公室12">
+<url>http://ancl-webcam3.ancl.hawaii.edu/jpg/image.jpg</url>
+</video>
+
+
+<video name="夏威夷 Honolulu 宾馆内景22">
+<url>http://mauigarageside.viewnetcam.com:81/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+
+
+<video name="乔治亚州Marietta 教堂内景2">
+<url>http://216.79.143.252/jpg/image.jpg</url>
+</video>
+
+
+
+<video name="乔治亚州Commerce 郊野宾馆">
+<url>http://apeatlantacam.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="乔治亚州Marietta 礼堂3">
+<url>http://216.79.143.250/jpg/image.jpg</url>
+</video>
+
+
+
+
+<video name="乔治亚州Atlanta 楼下停车场-高清">
+<url>http://131.96.76.164/oneshotimage.jpg</url>
+</video>
+
+<video name="乔治亚州Atlanta 室内篮球场2">
+<url>http://70.151.231.166/jpg/image.jpg</url>
+</video>
+
+
+
+
+<video name="乔治亚州Thomasville 汽车修理店3-高清">
+<url>http://72.242.95.170:8884/oneshotimage.jpg</url>
+</video>
+
+<video name="乔治亚州Demorest 茶餐厅-高清">
+<url>http://hofers.dyndns.tv/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+
+</city>
+</province>
+</provinces>
