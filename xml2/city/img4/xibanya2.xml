@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片" order="CH" >
+<city name="西班牙2" type="1" order="D" >	
+
+<video name="西班牙.马德里 马德里山脉14">
+<url>http://80.26.18.150:8001/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.马德里 马德里山脚下的小镇20">
+<url>http://aytotazacorte.dyndns.org:8080/jpg/image.jpg</url>
+</video>
+
+<video name=" Ardoz Madrid Spain 马德里公路">
+<url>http://axis-7857f8.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.马德里 马德里建筑工地27">
+<url>http://88.26.206.145:7779/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.穆尔西亚 马德里联排3">
+<url>http://meteosantomera.axiscam.net:1100/jpg/image.jpg</url>
+</video>
+
+<video name="Islas 西班牙.巴斯克自治区 野外的设备">
+<url>http://webcam.magic.iac.es/jpg/image.jpg</url>
+</video>
+
+<video name="Tolosa 西班牙.巴斯克自治区 托洛萨海滩">
+<url>http://217.126.198.162:8030/jpg/image.jpg</url>
+</video>
+
+<video name="Islas 西班牙.巴斯克自治区 山顶雷达站2">
+<url>http://iris.not.iac.es/jpg/image.jpg</url>
+</video>
+
+<video name="Islas 西班牙.巴斯克自治区 山上的接收站3">
+<url>http://extwebcam2.magic.iac.es/jpg/image.jpg</url>
+</video>
+
+<video name="Nanclares De La Oca 西班牙.巴斯克自治区 海边泳池">
+<url>http://79.148.108.205:8081/jpg/image.jpg</url>
+</video>
+
+<video name="Bilbao 西班牙.巴斯克自治区 海与山">
+<url>http://62.99.77.164/jpg/image.jpg</url>
+</video>
+
+<video name="Islas 西班牙.巴斯克自治区 山顶建筑4">
+<url>http://161.72.22.246/jpg/image.jpg</url>
+</video>
+
+<video name="Fuenterrab��a 西班牙.巴斯克自治区 海边浴场">
+<url>http://abba-londres.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="Basauri 西班牙.巴斯克自治区 小镇三叉路口">
+<url>http://217.127.128.46/jpg/image.jpg</url>
+</video>
+
+<video name="Algorta 西班牙.巴斯克自治区 海边风景2">
+<url>http://80.36.76.101/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="西班牙.马德里 出入口6">
+<url>http://campinggavin.dyndns.org:8000/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.阿拉贡 Barbastro 高山平湖">
+<url>http://94.228.13.44:1025/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 海边游泳场6">
+<url>http://80.37.190.208:1500/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 未知摄像头7">
+<url>http://213.96.29.238:8080/jpg/image.jpg</url>
+</video>
+
+<video name="Arcos De La Frontera 西班牙.安达路西亚 海边游艇码头">
+<url>http://88.2.221.154/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.安达路西亚 Aguadulce 酒店游泳池">
+<url>http://alquitara.ath.cx/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video>
+
+<video name="西班牙.安达路西亚 Sevilla 足球场">
+<url>http://meteosantiponce.dyndns.org:1025/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.安达路西亚 Sevilla 游泳池">
+<url>http://hoteloasismango.dyndns.org:1028/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.安达路西亚 Granada 气象天文台">
+<url>http://150.214.93.54/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.安达路西亚 Granada 天文望远镜">
+<url>http://150.214.93.55/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.安达路西亚 Huelva 未知摄像头">
+<url>http://webcam1.ujaen.es/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 海边游泳场8">
+<url>http://213.96.40.237:8081/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="Pobla De Montorn��s 西班牙.加泰罗尼亚 海边泳池">
+<url>http://212.145.212.209:8092/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="Arenys De Mar 西班牙.加泰罗尼亚 游艇码头2">
+<url>http://webcam.cnelbalis.com/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 山顶摄像头9">
+<url>http://188.119.194.36/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 交通路口11">
+<url>http://eudaldcarrera.dynalias.org:1024/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 乡村风光12">
+<url>http://meteosalvador.dvrdns.org:1025/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="Palma 西班牙.巴利阿里群岛 乡村风光2">
+<url>http://sanpedro.dyndns.biz/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.埃斯特雷马杜拉 Serradilla 酒吧">
+<url>http://217.125.138.27:81/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 城市风景">
+<url>http://gocanaria.ath.cx:8000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 海边小码头8">
+<url>http://dulcinea01.homeunix.org/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Tarragona 未知摄像头">
+<url>http://80.35.1.69:6666/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Tarragona 路边小城堡2">
+<url>http://80.32.56.48:8883/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 窗外城市风景4">
+<url>http://89.29.219.145:1025/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Vic 酒吧（不稳定）">
+<url>http://80.24.18.35:90/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 路边城堡16">
+<url>http://80.39.113.72:8883/jpg/image.jpg</url>
+</video>
+
+<video name="Palma 西班牙.巴利阿里群岛 城市风景3">
+<url>http://meteoibiza.dyndns.biz/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.巴利阿里群岛 Marratxi 游艇（高清）">
+<url>http://217.127.254.155:8088/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.巴利阿里群岛 Palma 海边气象监测站">
+<url>http://87.235.150.79/oneshotimage.jpg</url>
+</video>
+
+<video name="西班牙.马德里 海边泳场3">
+<url>http://webcamubet.dyndns.org:8081/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边游泳场4（高清）">
+<url>http://212.145.204.167:8091/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边泳池停车场（高清）">
+<url>http://alcalatf.dyndns.org:8082/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边游泳场7（高清）">
+<url>http://212.145.204.191:8091/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 Aranjuez 海边风光（高清）">
+<url>http://87.235.206.90:8091/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边风光12（高清）">
+<url>http://liesecam.dyndns.tv:8089/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边风光13（高清）">
+<url>http://212.145.204.225:8091/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边游泳池15（高清）">
+<url>http://212.145.204.101:8091/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边风光17（高清）">
+<url>http://212.145.204.172:8091/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边风光18">
+<url>http://212.170.96.240:8091/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边城市风光19（高清）">
+<url>http://88.26.207.3:2000/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 小广场21">
+<url>http://80.26.69.138:8080/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.马德里 海边浴场22（高清）">
+<url>http://80.38.156.36:1500/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 海边浴场23（高清）">
+<url>http://81.43.101.81:8001/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.马德里 Brunete 城市风光（高清）">
+<url>http://cercemeteo.dyndns.org:1026/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.穆尔西亚 乡村景色">
+<url>http://80.32.194.6:8000/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.穆尔西亚 乡村旅馆2">
+<url>http://monte-mar.com:8000/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.穆尔西亚 Lorca 城镇风光">
+<url>http://80.32.201.15:8001/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Islas 高楼5">
+<url>http://161.72.129.178/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Vitoria 城市风光（高清）">
+<url>http://meteogasteiz.dyndns.org:1025/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Islas 天文台望远镜7">
+<url>http://161.72.20.240/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Islas 路边小山坡8">
+<url>http://161.72.5.27/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Islas 路边海景9">
+<url>http://iris2.not.iac.es/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.阿斯杜里亞 Oviedo 学校实验室7">
+<url>http://156.35.159.142/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.阿拉贡 Zaragoza 办公室2">
+<url>http://80.34.81.8:8000/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.阿斯杜里亞 Oviedo 学校电脑教室">
+<url>http://156.35.159.144/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.加那利群岛 Santa Cruz De Tenerife  美丽的海边风景（高清）">
+<url>http://tpglasgalletas.dyndns.org/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加那利群岛 San Miguel  海边旅馆的游泳池（高清）">
+<url>http://constanzacam.dyndns.org:8080/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加那利群岛 Santa Cruz De Tenerife  海边浴场2（高清）">
+<url>http://csf4utnf.dyndns.org:8080/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加那利群岛 De La Gomera  美丽的海边浴场">
+<url>http://playafanabe.dyndns.org:1225/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加那利群岛 Arona 海边城镇风光">
+<url>http://reinekecam.dyndns.info/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加那利群岛 Granadilla De Abona  度假村风光（高清）">
+<url>http://chayofacam.dyndns.org:8080/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加那利群岛 Icod De Los Vinos  海边沙滩（高清）">
+<url>http://88.26.178.142:4343/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加那利群岛 Icod De Los Vinos  海边浴场2">
+<url>http://88.26.178.142:4344/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加那利群岛 La Laguna  小花坛">
+<url>http://217.127.27.199:9001/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.加那利群岛 Santa Cruz De Tenerife  海边风光3（高清）">
+<url>http://bodegasmonje.dyndns.org:1240/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.加那利群岛 Santa Cruz De Tenerife  葡萄庄园4">
+<url>http://bodegasmonje.dyndns.org:1250/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.莱昂  Castilla y  乡村马路（高清）">
+<url>http://barelcruce.dyndns.org:1025/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.莱昂 Palencia Castilla y  乡村风景">
+<url>http://80.24.205.249:8080/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="西班牙.莱昂 Valladolid Castillay  室内摄像头2">
+<url>http://157.88.202.56/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Sabadell 海边沙滩">
+<url>http://80.32.91.134:8030/jpg/image.jpg</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Manresa 一个鸟窝">
+<url>http://meteollauri.axiscam.net/jpg/image.jpg</url>
+</video>
+
+</city>
+</province>
+</provinces>
