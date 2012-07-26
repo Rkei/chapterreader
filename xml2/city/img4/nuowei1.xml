@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片2" order="CI" >
+<city name="挪威" type="4888" order="B" >	
+
+<video name="挪威.阿克什胡斯郡Skytta 度假村风景">
+<url>http://212.62.245.38:83/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="挪威.阿克什胡斯郡Kolbotn 游艇码头2">
+<url>http://62.101.230.11/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.东阿格德尔 Arendal 小码头">
+<url>http://kirkegaten12.com:3142/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.东阿格德尔 Furvik 游艇码头">
+<url>http://havnegaten15.com:3150/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.布斯克鲁德 Tranby 古楼风貌">
+<url>http://81.167.204.10:1080/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.布斯克鲁德 Drammen 观光索道">
+<url>http://81.167.44.38/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.芬马克郡 海边景色">
+<url>http://hvg.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.芬马克郡 Hammerfest 城市风貌-旋转摄像头">
+<url>http://62.63.51.10/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.芬马克郡 Alta 建设中的机场">
+<url>http://77.222.181.11:8080/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.芬马克郡 Hav?ysund 海边风景2">
+<url>http://honningsvag.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.芬马克郡 Hammerfest 码头风光2">
+<url>http://213.161.172.115/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.芬马克郡 Vads 城市风光2-旋转摄像头">
+<url>http://62.63.28.98/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.芬马克郡 Snefjord 湖光山色">
+<url>http://seiland.viewnetcam.com:50000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="挪威.海德马克 Hamar 郊野风情">
+<url>http://82.147.33.166/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.海德马克 Hamar 山林美景2-高清">
+<url>http://87.248.15.2/record/current.jpg</url>
+</video>
+
+<video name="挪威.海德马克 Hamar 郊野公园3-高清">
+<url>http://82.147.33.164/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="挪威.海德马克 Hamar 观光索道4-高清">
+<url>http://82.147.33.165/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="挪威.霍达兰 Lofthus 小码头2">
+<url>http://84.205.39.225/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.霍达兰 Granvin 海底摄像头">
+<url>http://84.205.34.130/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="挪威.罗斯达尔 Aalesund More og 游艇码头4">
+<url>http://213.184.212.230:44442/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗斯达尔 Aalesund More og 游艇码头5">
+<url>http://213.184.212.230:44441/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗斯达尔 More og 路边小屋">
+<url>http://webcam.idavoll.com/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗斯达尔  More og 屋顶摄像头">
+<url>http://195.204.240.59/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗斯达尔  More og 屋顶摄像头2">
+<url>http://213.161.226.178:1111/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗斯达尔  More og 跨海大桥">
+<url>http://194.248.190.92/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗斯达尔 Kristiansund More og 园林入口">
+<url>http://arnstadongan.viewnetcam.com/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video>
+
+<video name="挪威.罗斯达尔 Stranda More og 乡村小屋">
+<url>http://83.243.150.175/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗斯达尔 Volda More og 摩尔德高等学院2-校外景色">
+<url>http://luvar.himolde.no/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗斯达尔 More og 雪山美景2">
+<url>http://195.204.240.73/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Gravdal 河边风景">
+<url>http://bjarneweb.hopto.org/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Sortland 跨海大桥2">
+<url>http://213.167.121.82/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Mo I Rana  宾馆外停车场">
+<url>http://84.202.156.54:9092/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.诺尔兰郡  乡村马路">
+<url>http://193.201.74.160/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Narvik 山顶摄像头">
+<url>http://webcam01.nordkraft.no/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.诺尔兰郡 码头8">
+<url>http://193.201.74.114/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.诺尔兰郡 沿海公路">
+<url>http://158.39.101.247/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Mo I Rana 江边风景2-高清">
+<url>http://feiselbakken.homeip.net/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Fauske 山林美景（高清）">
+<url>http://77.110.215.173/record/current.jpg</url>
+</video>
+
+<video name="挪威.奥普兰 Dokka 路边小屋2">
+<url>http://77.106.185.133/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥普兰 Jaren 停车场3-高清">
+<url>http://213.167.124.54/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 石头山上的村庄">
+<url>http://skolten.info:2024/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 江边风景2">
+<url>http://skolten.info:8080/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 海边风景（实时图片）">
+<url>http://www.xn--nesnavret-l3a.com:51500/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video>
+
+<video name="挪威.奥斯陆 码头监控摄像头4">
+<url>http://193.213.25.235/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 高速路入口5">
+<url>http://82.147.35.50/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 6 城镇风景">
+<url>http://193.213.21.217:60040/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 路边小乡村">
+<url>http://axis-6ef6b5.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 挪威泰利马科学院-校园">
+<url>http://128.39.156.106/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 马路9">
+<url>http://193.213.21.217:60042/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 草坪10">
+<url>http://kirkerudcam.axiscam.net:500/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 城市风景">
+<url>http://cam.linpro.no/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 网球场13（实时图片）">
+<url>http://193.213.29.67:50000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video>
+
+<video name="挪威.奥斯陆 海边风景2">
+<url>http://193.213.21.217:60041/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.奥斯陆 20 山村草地">
+<url>http://193.213.47.217:85/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.东福尔郡Tomter 游艇码头">
+<url>http://drobak.mine.nu:8000/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.东福尔郡Mysen 家庭监控-门口">
+<url>http://193.213.81.103/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.东福尔郡Mysen 广场2">
+<url>http://193.213.81.103:1080/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰  球场">
+<url>http://www.resahaugen.no:81/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Stavanger 交通监控-转盘">
+<url>http://81.166.38.105/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Haugaland 江边码头">
+<url>http://81.167.212.158/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰  绿林村庄2">
+<url>http://skolten.net:2048/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Stavanger 江边旋转监控摄像头2">
+<url>http://home.holhaug.com:7070/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Haugesund 交通路口">
+<url>http://82.134.72.194/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Haugesund 游艇码头2">
+<url>http://sbf1.axiscam.net:9001/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Holta 江边风景3">
+<url>http://solvag.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Stavanger 海边旋转监控摄像头3">
+<url>http://cam.risavika.no:8080/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Haugesund 乡村公路3">
+<url>http://82.134.72.195/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Haugesund 游艇码头7">
+<url>http://sbf2.axiscam.net:9003/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Haugesund 游艇码头8">
+<url>http://sbf2.axiscam.net:9002/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.罗加兰 Haugesund 大楼广场7">
+<url>http://webcam.fitjar.kommune.no/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="挪威.罗加兰 Skudeneshavn 游艇码头3">
+<url>http://81.167.131.240/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.松恩-菲尤拉讷  山坡宾馆">
+<url>http://kamera.harpefossen.no/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.松恩-菲尤拉讷  停车场4">
+<url>http://85.221.90.13/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.松恩-菲尤拉讷 Sandane  码头远景">
+<url>http://webcam.datainstituttet.no/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.松恩-菲尤拉讷 Laerdal  宾馆停车场">
+<url>http://79.170.84.126/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥 城市风景">
+<url>http://213.239.87.14/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥 观光台2">
+<url>http://213.239.87.87/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Trondheim 交通路口2">
+<url>http://193.213.13.69/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Trondheim  游艇码头9">
+<url>http://hoybakken.dyndns.org:9876/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥 交通路口3">
+<url>http://85.221.85.5:90/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Orkanger 路边工地">
+<url>http://82.194.196.54/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Trondheim 码头10">
+<url>http://lysoysund.viewnetcam.com:60000/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Trondheim 高速公路4">
+<url>http://e6o.dyndns.org/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Trondheim 山脚下的村庄5">
+<url>http://birkelund.viewnetcam.com/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Trondheim 建设中的高楼-高清">
+<url>http://129.241.181.14/oneshotimage.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Trondheim 大铁锤">
+<url>http://129.241.79.240/oneshotimage.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Orkanger 采矿工地2">
+<url>http://82.194.196.75/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Trondheim 直播间10-高清">
+<url>http://webcam1.multinet.no/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.泰勒马克 Gautefall 观光摄像头">
+<url>http://109.109.79.123/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.泰勒马克 Notodden 海边码头">
+<url>http://217.168.94.130/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.泰勒马克 Notodden 河边村庄2">
+<url>http://217.168.94.131/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.泰勒马克 Gautefall 河边景色2">
+<url>http://109.109.79.124/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.特罗姆斯 城市鸟瞰">
+<url>http://195.18.181.53/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="挪威.特罗姆斯 Lakselv 江边监控摄像头">
+<url>http://mehamn.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.特罗姆斯  海边2">
+<url>http://88.84.172.8/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="挪威.特罗姆斯 Inderby 家庭监控-门口">
+<url>http://kortnebb1.axiscam.net:7100/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.特罗姆斯 Sj?vegan 雪山旅馆2">
+<url>http://158.39.49.51/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.特罗姆斯 Troms 大学校园3">
+<url>http://62.63.15.129:2556/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.特罗姆斯  高山平湖4">
+<url>http://advcam.unis.no/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.特罗姆斯 Tennevo 山林美景ll">
+<url>http://spanstind.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.特罗姆斯 牧场">
+<url>http://adventdalencam.unis.no/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.西阿格德尔 Kvinesdal 小广场">
+<url>http://159.171.96.58/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.西阿格德尔 Farsund 海边村庄">
+<url>http://oyna.dyndns.biz/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.西阿格德尔 Birkeland 游艇码头">
+<url>http://fevik.axiscam.net/jpg/image.jpg</url>
+</video>
+
+<video name="挪威.西福尔郡 Larvik 乡村小屋（实时图片）">
+<url>http://gamlec.viewnetcam.com/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video>
+
+<video name="挪威.西福尔郡 田原风景（实时图片）">
+<url>http://hgo.dynalias.com:50001/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video>
+
+</city>
+</province>
+</provinces>
