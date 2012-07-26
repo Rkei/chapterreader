@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
 <province name="实时图片" order="CH" >
-<city name="西班牙" type="4888" order="D" >	
+<city name="西班牙" type="4888" order="A" >	
 
 <video name="西班牙.阿拉贡 Barbastro 高山平湖">
 <url>http://94.228.13.44:1025/record/current.jpg?rand=7898483</url>
