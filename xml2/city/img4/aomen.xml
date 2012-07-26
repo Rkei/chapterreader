@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片" order="CH" >
+<city name="其他" type="4888" order="A" >	
+	
+<video name="中国澳门.水坑尾街与南湾大马路交界"><url>http://www.dsat.gov.mo/cams/cam2/AxisPic-Cam2.jpg</url></video>
+<video name="中国澳门.友谊大桥近北安入口交汇处"><url>http://www.dsat.gov.mo/cams/cam6/AxisPic-Cam6.jpg</url></video>
+<video name="中国澳门.马场北大马路"><url>http://www.dsat.gov.mo/cams/cam10/AxisPic-Cam10.jpg</url></video>
+<video name="中国澳门.外港客运码头A"><url>http://www.dsat.gov.mo/cams/cam7/AxisPic-Cam7.jpg</url></video>
+<video name="中国澳门.外港客运码头B"><url>http://www.dsat.gov.mo/cams/cam8/AxisPic-Cam8.jpg</url></video>
+<video name="中国澳门.提督马路与高士德大马路交界"><url>http://www.dsat.gov.mo/cams/cam29/AxisPic-Cam29.jpg</url></video>
+<video name="中国澳门.美副将大马路与士多鸟拜斯大马路交界"><url>http://www.dsat.gov.mo/cams/cam28/AxisPic-Cam28.jpg</url></video>
+<video name="中国澳门.亚马喇前地"><url>http://www.dsat.gov.mo/cams/cam25/AxisPic-Cam25.jpg?2012798152</url></video>
+<video name="中国澳门.马场北大马路"><url>http://www.dsat.gov.mo/cams/cam10/AxisPic-Cam10.jpg?20127981525</url></video>
+<video name="中国澳门.北安圆形地"><url>http://www.dsat.gov.mo/cams/cam9/AxisPic-Cam9.jpg</url></video>
+<video name="中国澳门.外港客运码头 A"><url>http://www.dsat.gov.mo/cams/cam7/AxisPic-Cam7.jpg</url></video>
+<video name="中国澳门.外港客运码头 B"><url>http://www.dsat.gov.mo/cams/cam8/AxisPic-Cam8.jpg?20127981628</url></video>
+<video name="中国澳门.殷皇子大马路与南湾大马路交界路口"><url>http://www.dsat.gov.mo/cams/cam1/AxisPic-Cam1.jpg</url></video>
+<video name="中国澳门.水坑尾街与南湾大马路交界路口"><url>http://www.dsat.gov.mo/cams/cam2/AxisPic-Cam2.jpg</url></video>
+<video name="中国澳门.友谊大桥近港澳码头出口交匯处"><url>http://www.dsat.gov.mo/cams/cam3/AxisPic-Cam3.jpg</url></video>
+<video name="中国澳门.友谊大桥近北安入口交匯处"><url>http://www.dsat.gov.mo/cams/cam6/AxisPic-Cam6.jpg</url></video>
+
+<video name="日本.富士山.精进湖"><url>http://www.uty.co.jp/live/snap.jpg</url></video>
+<!--video name="乌克兰.城市景象"><url>http://webcam.i2net.cz:8080/mjpg/video.mjpg</url></video-->
+<video name="乌克兰.顿巴斯竞技场"><url>http://shakhtar.com/data/img/webcam/exc001.jpg </url></video>
+<video name="乌克兰.顿巴斯竞技场1"><url>http://shakhtar.com/data/img/webcam/exc003.jpg </url></video>
+<video name="乌克兰.顿巴斯竞技场2"><url>http://shakhtar.com/data/img/webcam/exc004.jpg</url></video>
+<video name="乌克兰.顿巴斯竞技场3"><url>http://shakhtar.com/data/img/webcam/exc047.jpg</url></video>
+<video name="乌克兰.顿巴斯竞技场4"><url>http://shakhtar.com/data/img/webcam/exc048.jpg</url></video>
+<video name="乌克兰.顿巴斯竞技场5"><url>http://shakhtar.com/data/img/webcam/exc049.jpg</url></video>
+<video name="乌克兰.顿巴斯竞技场6"><url>http://shakhtar.com/data/img/webcam/southt5.jpg</url></video>
+<!--video name="美国.拉斯维斯加.米高梅酒店"><url>http://images.earthcam.com/ec_metros/ourcams/mgm.jpg</url></video-->
+<video name="美国.田纳西州.纳什维尔"><url>http://images.earthcam.com/ec_metros/ourcams/opryland.jpg</url></video>
+<video name="美国.密西根胡"><url>http://images.earthcam.com/ec_metros/ourcams/grandhaven.jpg</url></video>
+<video name="美国.纽约.时代广场"><url>http://images.earthcam.com/ec_metros/ourcams/mpstudiosouth.jpg</url></video>
+<video name="美国.纽约.时代广场2"><url>http://63.229.55.11/ec_metros/ourcams/tspanasonic.jpg </url></video>
+<video name="美国.西雅图.太空针高塔"><url>http://images.earthcam.com/ec_metros/ourcams/marqueen.jpg</url></video>
+<video name="法国.巴黎.埃菲尔铁塔"><url>http://images.earthcam.com/ecnetwork/eiffeltower.jpg</url></video>
+<video name="美国.旧金山.金门大桥"><url>http://images.earthcam.com/ec_metros/ourcams/rowingclub.jpg</url></video>
+<video name="美国.迈亚密街景"><url>http://images.earthcam.com/ec_metros/ourcams/newscafe.jpg</url></video>
+<video name="美国.自由女神像"><url>http://images.earthcam.com/ec_metros/ourcams/liberty.jpg</url></video>
+<!--video name="美国.国会大厦（暂停）"><url>http://63.229.55.25/ec_metros/ourcams/washingtondc.jpg</url></video-->
+<!--video name="意大利.西西里岛-埃特纳火山（暂停）"><url>rtsp://streaming.videobank.it/etna</url></video-->
+<video name="美国.世贸中心遗址（不稳定）"><url>http://63.229.55.21/ec_metros/ourcams/millenium.jpg</url></video>
+<!--video name="美国.世贸中心遗址2（不稳定）"><url>http://63.229.55.21/ec_metros/ourcams/millenium2.jpg</url></video-->
+<video name="美国纽约.时代广场（不正常）"><url>http://images.earthcam.com/ecnetwork/fridays.jpg</url></video>
+<video name="中国广州.华润万家溜冰场"><url>http://livevideo.worldicearena.com/axis-cgi/jpg/image.cgi</url></video>
+
+
+</city>
+</province>
+</provinces>
