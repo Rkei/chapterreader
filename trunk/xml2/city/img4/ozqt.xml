@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="实时图片2" order="CI" >
+<city name="欧洲其他" type="4888" order="C" >	
+
+
+<video name="希腊 Attiki Athens 广场（高清）">
+<url>http://84.205.237.90/record/current.jpg</url>
+</video>
+
+<video name="希腊 Attiki Athens 教堂内景2（高清）">
+<url>http://skopel07.static.otenet.gr:8090/record/current.jpg</url>
+</video>
+
+<video name="希腊 Attiki Athens 海边浴场">
+<url>http://zorbas2.dyndns.org:8080/record/current.jpg</url>
+</video>
+
+<video name="希腊 Attiki Athens 海边观光台（高清）">
+<url>http://absolutehtl.dyndns.org:8080/record/current.jpg</url>
+</video>
+
+<video name="希腊 Korinthia Corinth 海边风景（高清）">
+<url>http://kalogria.dyndns.org:8080/record/current.jpg</url>
+</video>
+
+<video name="希腊 Attiki  游艇码头（高清）">
+<url>http://79.129.0.247:8021/record/current.jpg</url>
+</video>
+
+<video name="希腊 Attiki Athens 海边风景3（高清）">
+<url>http://aliaclub.dyndns.org:8001/record/current.jpg</url>
+</video>
+
+<video name="希腊 Attiki Athens 海边风景4（高清）">
+<url>http://skopel07.static.otenet.gr:9000/record/current.jpg</url>
+</video>
+
+<video name="希腊 Korinthia  海边观光摄像头">
+<url>http://62.103.214.128:10000/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Budapest Budapest 超市">
+<url>http://81.183.216.23/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary 城市景色">
+<url>http://cam.oroshaza.hu/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Bekes Gyomaendrod 酒吧">
+<url>http://213.157.112.12:8082/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Bekes 商场大厅">
+<url>http://213.157.98.2/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary 湖边酒店">
+<url>http://193.227.196.100/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Bekes Szarvas 古城堡">
+<url>http://87.101.127.24/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Budapest Budapest 大门口">
+<url>http://195.228.199.139/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Bekes 马路">
+<url>http://mail.bekescsaba.hu:8080/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary 实验室">
+<url>http://cam03.deninet.hu:8080/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Pest 广场">
+<url>http://89.148.93.13/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary 马路5">
+<url>http://91.83.160.123/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Miskolc Miskolc 城堡2">
+<url>http://85.119.14.194/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary 铁索桥">
+<url>http://mail.atikovizig.hu:8080/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Budapest Budapest 大楼广场（高清）">
+<url>http://81.182.242.245:10002/record/current.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary 城市风景3">
+<url>http://82.141.158.60/-wvhttp-01-/getoneshot</url>
+</video>
+
+
+<video name="匈牙利 Hungary Bacs-Kiskun 市中心广场 4">
+<url>http://77.221.39.165/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Budapest Budapest 超市监控摄像头">
+<url>http://81.183.216.23:81/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary 喷泉广场">
+<url>http://91.144.100.1/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary 交通摄像头4">
+<url>http://46.35.192.100:8890/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary Csongrad 室内游泳池">
+<url>http://hivatal.morahalom.hu:5026/jpg/image.jpg</url>
+</video>
+
+<video name="匈牙利 Hungary 城市风貌6">
+<url>http://budapest.dyndns.tv/-wvhttp-01-/getoneshot</url>
+</video>
+
+<video name="匈牙利 Hungary Budapest Budapest 室内摄像头">
+<url>http://81.183.219.237/jpg/image.jpg</url>
+</video>
+
+</city>
+</province>
+</provinces>
