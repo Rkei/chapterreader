@@ -36,7 +36,7 @@
 
 <load version="1.2" name="city/jiangsu/js2.xml" />
 <load version="1.2" name="city/gs/gs.xml" />	
-<!--load version="1.2" name="city/xj/xj.xml" /-->
+<load version="1.2" name="city/xj/xj.xml" />
 <load version="1.3" name="city/gd/gd.xml" />
 <load version="1.3" name="city/hubei/hb.xml" />
 <load version="1.3" name="city/hubei/sc.xml" />
@@ -62,7 +62,7 @@
 <para name="gfreeopen" value="100" />
 <para name="tengxun" value="100" />
 <para name="maxadinter" value="15" />
-<para name="domoonly" value="19" />
+<para name="domoonly" value="20" />
 <para name="pkgversion" value="1.02" />
 <para name="reflashtime" value="24" />
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
