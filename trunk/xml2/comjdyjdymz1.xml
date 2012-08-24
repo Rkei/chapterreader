@@ -8,9 +8,6 @@
 <load version="1.2" name="city/world11/worldall.xml" />
 <load version="1.2" name="city/world12/worldall.xml" />
 <load version="1.2" name="city/concam/worldall.xml" />
-
-
-
 <load version="1.2" name="city/jianada/jianada.xml" />
 <load version="1.2" name="city/meiguo/meiguo.xml" />
 <load version="1.2" name="city/meiguo2/meiguo.xml" />
@@ -29,14 +26,14 @@
 <para name="freeday" value="24" />
 <para name="youmi" value="245" />
 <para name="baidu" value="98" />
-<para name="nbaidu" value="80" />
-<para name="gbaidu" value="80" />
+<para name="nbaidu" value="90" />
+<para name="gbaidu" value="90" />
 <para name="freecon" value="5" />
 <para name="freeopen" value="150" />
 <para name="gfreeopen" value="100" />
 <para name="tengxun" value="100" />
 <para name="maxadinter" value="10" />
-<para name="domoonly" value="23" />
+<para name="domoonly" value="24" />
 <para name="pkgversion" value="1.02" />
 <para name="reflashtime" value="24" />
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
