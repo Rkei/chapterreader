@@ -60,14 +60,15 @@
 <para name="freeopen" value="150" />
 <para name="gfreeopen" value="100" />
 <para name="tengxun" value="100" />
-<para name="maxadinter" value="1000" />
-<para name="domoonly" value="16" />
+<para name="maxadinter" value="5" />
+<para name="domoonly" value="18" />
 <para name="pkgversion" value="1.02" />
 <para name="reflashtime" value="24" />
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
 <para name="pkgurl" value="http" >http://dl1.91rb.com/9d1f92d7546ea1fb3bc8af7690a0b224/android/soft/2012/7/20/b14ea12273d84122bbb9ac6783520346/com.vdcam.jtsst-1.apk</para>
+<para name="myapp1" value="com.ts.xgnyy::夫妻房事101招，成人必备，未成年勿进，每日情趣多一些。::https://jxgshreader.googlecode.com/svn/trunk/apk/fqjq.v1.00.apk::4" />
 <!--para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_05/22/com.vdcam.rtraffic_225702.apk</para-->
 <!--para name="gfanurl" value="http" >http://3g.gfan.com/data/index.php?/detail/index/276520</para-->
-
+<para name="myapp3" value="com.china.ccfcjyx::夫妻性爱宝典，和谐之道，未成年勿进。::https://sleepman.googlecode.com/svn/trunk/data/xabd.apk::4" />
 <para name="vinvalid" value="1.0" />
 </configs>

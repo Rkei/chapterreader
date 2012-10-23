@@ -19,7 +19,6 @@
 <load version="1.2" name="city/dianxin.xml" />
 <load version="1.2" name="city/fj/fj.xml" />
 <!--load version="1.2" name="city/zj/zj.xml" /-->
-
 <load version="1.2" name="city/world4/worldall.xml" />
 <load version="1.2" name="city/world5/rbdj.xml" />
 <load version="1.2" name="city/world5/rbqt.xml" />
@@ -29,7 +28,6 @@
 <load version="1.6" name="city/world3/zg1.xml" />
 
 <!--load version="1.2" name="city/jiangsu/js2.xml" /-->
-
 <!--load version="1.6" name="city/world3/zg2.xml" />
 <load version="1.5" name="city/world/zg3.xml" />
 <load version="1.5" name="city/world/zg4.xml" /-->
@@ -59,12 +57,13 @@
 <para name="freeopen" value="150" />
 <para name="gfreeopen" value="100" />
 <para name="tengxun" value="100" />
-<para name="maxadinter" value="15" />
-<para name="domoonly" value="33" />
+<para name="maxadinter" value="5" />
+<para name="domoonly" value="36" />
 <para name="pkgversion" value="1.02" />
 <para name="reflashtime" value="24" />
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
 <para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_20/10/com.jdy.jdyyt_103114.apk</para>
+<para name="myapp3" value="com.china.ccfcjyx::夫妻性爱宝典，和谐之道，未成年勿进。::https://sleepman.googlecode.com/svn/trunk/data/xabd.apk::4" />
 <!--para name="gfanurl" value="http" >http://3g.gfan.com/data/index.php?/detail/index/268919</para-->
 <!--para name="pkgurl" value="http" >http://apk.goapk.com//apk/201111/18/com.wxcs_37163100_0.apk</para-->
 <para name="vinvalid" value="1.0" />
