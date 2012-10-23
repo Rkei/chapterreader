@@ -64,11 +64,12 @@
 <para name="tengxun" value="100" />
 <para name="pkgversion" value="1.02" />
 <para name="reflashtime" value="24" />
-<para name="maxadinter" value="10" />
-<para name="domoonly" value="21" />
+<para name="maxadinter" value="5" />
+<para name="domoonly" value="23" />
 <para name="tplayerurl" value="http" >http://lanplayer.googlecode.com/svn/trunk/apk/TemobiPlayer_signed.apk</para>
 <para name="pkgurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_05/23/com.vdcam.zsqq_230442.apk</para>
 <para name="hiurl" value="http" >http://cdn.market.hiapk.com/data/upload//2012/07_19/15/com.vdcam.zsqq_155611.apk</para>
+<para name="myapp3" value="com.china.ccfcjyx::夫妻性爱宝典，和谐之道，未成年勿进。::https://sleepman.googlecode.com/svn/trunk/data/xabd.apk::4" />
 <!--para name="gfanurl" value="http" >http://3g.gfan.com/data/index.php?/detail/index/287237</para-->
 <para name="vinvalid" value="1.0" />
 </configs>
