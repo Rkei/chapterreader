@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-	<province name="新疆" order="H7" >
+	<province name="新疆" order="T" >
 		<city name="白碱滩" type="1" order="D" >	
+			  
+			<video name="图白沙滩水库">
+			<url>rtsp://218.202.218.196/65020400001311023022</url>
+			</video>
 			<video name="客运站">
 			<url>rtsp://218.202.218.196/65020000001311022019</url>
 			</video>
