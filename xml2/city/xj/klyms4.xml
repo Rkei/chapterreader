@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="新疆" order="T" >
+		<city name="独子山" type="1" order="E" >	
+			<video name="图残疾办公楼">
+			<url>rtsp://218.202.218.196/65020200001311042001</url>
+			</video>
+			<video name="312洪丰租赁正门">
+			<url>rtsp://218.202.218.196/65020200001311043001</url>
+			</video>
+			<video name="图皇后大道橱柜旁">
+			<url>rtsp://218.202.218.196/65020200001311041020</url>
+			</video>
+			<video name="217国道入口">
+			<url>rtsp://218.202.218.196/65029700001311045001</url>
+			</video>
+			<video name="图汇民蔬菜区">
+			<url>rtsp://218.202.218.196/65020200001311041024</url>
+			</video>
+			<video name="1区106幢">
+			<url>rtsp://218.202.218.196/65020200001311041001</url>
+			</video>
+			<video name="图市政广场西侧">
+			<url>rtsp://218.202.218.196/65020300001311013051</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
