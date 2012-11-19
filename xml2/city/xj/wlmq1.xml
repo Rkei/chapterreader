@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="新疆" order="T" >
+		<city name="乌鲁木齐" type="1" order="A" >	
+			  
+
+
+			<video name="新华路-人民路"><url>rtmp://221.181.15.138/live/livestream0005</url></video>
+			<video name="新华路-西大桥"><url>rtmp://221.181.15.138/live/livestream0001</url></video>
+			<video name="东外环-青年路-环岛外环路"><url>rtmp://221.181.15.138/live/livestream0031</url></video>
+			<video name="友好路-经贸委|友好路"><url>rtmp://221.181.15.138/live/livestream0052</url></video>
+			<video name="红山-友好百盛（红山环岛)"><url>rtmp://221.181.15.138/live/livestream0054</url></video>
+			<video name="扬子江路-长江路|外环路"><url>rtmp://221.181.15.138/live/livestream0063</url></video>
+			<video name="阿勒泰路-阿勒泰路/新医路"><url>rtmp://221.181.15.138/live/livestream0070</url></video>
+			<video name="阿勒泰路-阿勒泰路|哈密路"><url>rtmp://221.181.15.138/live/livestream0077</url></video>
+			<video name="北京路-铁路局"><url>rtmp://221.181.15.138/live/livestream0096</url></video>
+			<video name="西外环|广汇桥面"><url>rtmp://221.181.15.138/live/livestream0162</url></video>
+			<video name="新疆国际会展中心"><url>rtmp://124.117.226.122/live/hzzx</url></video>
+			<video name="国际大巴扎"><url>rtmp://124.117.226.122/live/xwds</url></video>
+			<video name="新疆库尔勒风帆广场"><url>rtmp://124.117.226.122/live/CAP11008901</url></video>
+			<video name="巴州开都河广场"><url>rtmp://124.117.226.122/live/CAP11008801</url></video>
+			<video name="巴州博斯腾广场"><url>rtmp://124.117.226.122/live/CAP11009001</url></video>
+			<video name="新疆库尔勒孔雀河"><url>rtmp://124.117.226.122/live/CAP11008601</url></video>
+			<video name="新疆丝绸之路国际滑雪场"><url>rtmp://124.117.226.122/live/camchina256</url></video>
+			<video name="达坂城风力发电站"><url>rtmp://124.117.226.122/live/flfdz</url></video>
+			<video name="吐鲁番葡萄沟"><url>rtmp://124.117.226.122/live/ptg</url></video>
+			<video name="江布拉克风景区"><url>rtmp://124.117.226.122/live/jblk</url></video>
+			
+			
+		</city>
+	</province>
+</provinces> 
